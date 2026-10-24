@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-10-24T23:01:25+02:00",
- "today": "2026-10-24",
+ "generated_at": "2026-10-25T00:01:42+02:00",
+ "today": "2026-10-25",
  "days": [
-  {
-   "date": "2026-10-17",
-   "screenings": 229,
-   "english": 93,
-   "curated": 28,
-   "film": 2
-  },
   {
    "date": "2026-10-18",
    "screenings": 220,
@@ -461,27 +454,27 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-24T20:53:21+00:00"
+   "run_at": "2026-10-24T21:53:14+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-24T20:55:51+00:00"
+   "run_at": "2026-10-24T21:55:46+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-24T21:00:00+00:00"
+   "run_at": "2026-10-24T21:59:51+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-24T21:00:03+00:00"
+   "run_at": "2026-10-24T21:59:53+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-24T21:00:04+00:00"
+   "run_at": "2026-10-24T21:59:55+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-24T21:01:20+00:00"
+   "run_at": "2026-10-24T22:01:09+00:00"
   }
  },
  "venues": [
@@ -499,7 +492,6 @@
     "infinity-vision"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -528,7 +520,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-17": 55,
     "2026-10-18": 47,
     "2026-10-19": 36,
     "2026-10-20": 36,
@@ -612,7 +603,6 @@
     "onyx"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -627,7 +617,6 @@
     "2026-11-04"
    ],
    "screenings": {
-    "2026-10-17": 66,
     "2026-10-18": 66,
     "2026-10-19": 67,
     "2026-10-20": 67,
@@ -658,7 +647,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -675,7 +663,6 @@
     "2026-10-31"
    ],
    "screenings": {
-    "2026-10-17": 24,
     "2026-10-18": 24,
     "2026-10-19": 24,
     "2026-10-20": 24,
@@ -721,7 +708,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -745,7 +731,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-17": 11,
     "2026-10-18": 11,
     "2026-10-19": 11,
     "2026-10-20": 11,
@@ -829,7 +814,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -851,7 +835,6 @@
     "2026-12-15"
    ],
    "screenings": {
-    "2026-10-17": 26,
     "2026-10-18": 26,
     "2026-10-19": 26,
     "2026-10-20": 26,
@@ -896,7 +879,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -928,7 +910,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-17": 18,
     "2026-10-18": 16,
     "2026-10-19": 10,
     "2026-10-20": 11,
@@ -1013,7 +994,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -1038,7 +1018,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-17": 6,
     "2026-10-18": 6,
     "2026-10-19": 6,
     "2026-10-20": 6,
@@ -1086,7 +1065,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -1127,7 +1105,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-10-17": 20,
     "2026-10-18": 20,
     "2026-10-19": 16,
     "2026-10-20": 16,
@@ -1200,12 +1177,11 @@
    "address": "Kanzleistrasse 52, 8004 Zürich",
    "website": "https://www.xenix.ch",
    "formats": [
-    "35mm",
     "dcp",
-    "digital"
+    "digital",
+    "35mm"
    ],
    "dates": [
-    "2026-10-17",
     "2026-10-18",
     "2026-10-19",
     "2026-10-20",
@@ -1254,7 +1230,6 @@
     "2026-12-02"
    ],
    "screenings": {
-    "2026-10-17": 3,
     "2026-10-18": 4,
     "2026-10-19": 2,
     "2026-10-20": 2,
@@ -1309,18 +1284,6 @@
    "since": 1980,
    "series": [
     {
-     "name": "Premiere",
-     "slug": "premiere-xenix",
-     "first": "2026-10-17",
-     "last": "2026-10-20"
-    },
-    {
-     "name": "Schöner wohnen! – Geschichten der Gentrifizierung",
-     "slug": "schoner-wohnen-geschichten-der-gentrifizierung-xenix",
-     "first": "2026-10-17",
-     "last": "2026-10-28"
-    },
-    {
      "name": "Dokfilm am Sonntag",
      "slug": "dokfilm-am-sonntag-xenix",
      "first": "2026-10-18",
@@ -1331,6 +1294,18 @@
      "slug": "kinderkino-xenix",
      "first": "2026-10-18",
      "last": "2026-12-02"
+    },
+    {
+     "name": "Schöner wohnen! – Geschichten der Gentrifizierung",
+     "slug": "schoner-wohnen-geschichten-der-gentrifizierung-xenix",
+     "first": "2026-10-18",
+     "last": "2026-10-28"
+    },
+    {
+     "name": "Premiere",
+     "slug": "premiere-xenix",
+     "first": "2026-10-20",
+     "last": "2026-10-20"
     },
     {
      "name": "Robert Kramer",
@@ -1456,7 +1431,6 @@
   "films": [
    "111-echoes-from-halifax-2026",
    "418-2026",
-   "8-hours-of-horror-2026",
    "a-nightmare-on-elm-street-1984",
    "aftersun-2022",
    "air-hunger",
@@ -1577,7 +1551,6 @@
    "street-fighter-2026",
    "strike-1925",
    "strm-nordwarts-zur-freiheit",
-   "teenage-sex-and-death-at-camp-miasma-2026",
    "the-descent-2024",
    "the-exorcist-1973",
    "the-history-of-sound-2025",
@@ -1594,7 +1567,6 @@
    "the-lost-daughter-2021",
    "the-nightmare-before-christmas-1993",
    "the-odyssey-2026",
-   "the-people-under-the-stairs-1991",
    "the-rocky-horror-picture-show-1975",
    "the-shining-1980",
    "the-social-reckoning-2026",
@@ -1615,8 +1587,6 @@
    "wrong-husband-2025",
    "you-can-see-everything-2026",
    "yugo-ide-u-ameriku-yugo-goes-to-america-2026",
-   "zurcher-filmpreis-gherking-i-love-you-i-leave-you",
-   "zurcher-filmpreis-memory-of-princess-mumbi",
    "zurcher-filmtalk-zurich-meets-new-york"
   ]
  },

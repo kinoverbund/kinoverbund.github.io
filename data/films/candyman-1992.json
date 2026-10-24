@@ -40,41 +40,6 @@
    "venue": "Xenix",
    "dates": [
     {
-     "date": "2026-10-17",
-     "screenings": [
-      {
-       "id": "xenix:442616",
-       "start": "2026-10-17T21:45+02:00",
-       "time": "21:45",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/442616",
-       "language": {
-        "raw": "E/df",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "35mm",
-        "presentation": [],
-        "assumed": false,
-        "raw": "35 mm, Farbe"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Schöner wohnen! – Geschichten der Gentrifizierung"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-10-28",
      "screenings": [
       {
@@ -139,7 +104,7 @@
    "curated_reasons": [
     "rep"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "candyman-1992",
    "series_slugs": {
     "Halloweek": "halloweek-blue-cinema"
