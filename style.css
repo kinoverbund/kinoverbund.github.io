@@ -602,9 +602,10 @@ button { font: inherit; color: inherit; }
   letter-spacing: var(--track-caps-bold);
 }
 
-.program-films { margin-top: 12px; display: grid; gap: 8px; }
+.program-films { margin-top: 12px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
 .program-film { padding-left: 14px; border-left: 1px solid var(--ink); }
 .program-film-title { font-weight: 700; overflow-wrap: anywhere; }
+.program-film-body { overflow-wrap: anywhere; }
 .program-film .info { margin-top: 1px; }
 /* Start times in their own column, aligned like a timetable. */
 .program-film.has-time { display: grid; grid-template-columns: 3.2em minmax(0, 1fr); column-gap: 10px; align-items: first baseline; }
@@ -883,7 +884,14 @@ button { font: inherit; color: inherit; }
 .venue-row-figure.is-stale .figure-label { color: var(--ink); font-weight: 700; }
 /* The label stays on one line unless a long name needs the room; the name keeps its longest word whole. */
 .venue-row-figure .figure-label { max-width: none; }
-@media (max-width: 899px) { .venue-row { grid-template-columns: minmax(min-content, 1fr) auto; } }
+/* On phones the row wraps (reflow, #110): at doubled text the figure drops below the name
+   instead of widening the page; at normal size it sits right of the name as before. */
+@media (max-width: 899px) {
+  .venue-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; }
+  .venue-list .venue-name { flex: 1 1 0; min-width: min-content; }
+  .venue-row-figure { order: 1; margin-left: auto; }
+  .venue-row-place { order: 2; flex: 1 1 100%; }
+}
 .venue-row-figure .figure-label {
   margin-top: 6px;
   font-size: var(--step--1);
