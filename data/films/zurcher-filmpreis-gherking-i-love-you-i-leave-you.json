@@ -1,0 +1,136 @@
+{
+ "name": "Zürcher Filmpreis: Gherking & I Love You, I Leave You (Zurich Film Award: Gherking & I Love You, I Leave You)",
+ "venues": [
+  {
+   "title": "Zürcher Filmpreis: Gherking & I Love You, I Leave You (Zurich Film Award: Gherking & I Love You, I Leave You)",
+   "venue_title": "Zürcher Filmpreis: Gherking & I Love You, I Leave You",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.xenix.ch/programm/oktober-2026/gastveranstaltungen/zuercher-filmpreis-gherking--i-love-you-i-leave-you",
+   "directors": [],
+   "year": null,
+   "runtime_min": null,
+   "country": null,
+   "program_films": [
+    {
+     "title": "Gherking",
+     "original_title": "Gherking",
+     "directors": [
+      "Claudius Gentinetta"
+     ],
+     "year": 2026,
+     "runtime_min": 7,
+     "country": "CH",
+     "language_raw": "ohne Dialog",
+     "format_raw": "Farbe",
+     "start": null,
+     "notes": [
+      "Followed by a Q&A with director Claudius Gentinetta, composer Rahel Zimmermann, and sound designer Peter Bräker."
+     ],
+     "venue_title": "GHERKING",
+     "english_title": "Gherking",
+     "tmdb_id": 1735093,
+     "tmdb_kind": "movie",
+     "original_language": "xx",
+     "notes_translated": [
+      true
+     ],
+     "language": {
+      "raw": "ohne Dialog",
+      "description": "No dialogue"
+     },
+     "format": null
+    },
+    {
+     "title": "I Love You, I Leave You",
+     "original_title": "I Love You, I Leave You",
+     "directors": [
+      "Moris Freiburghaus"
+     ],
+     "year": 2025,
+     "runtime_min": 94,
+     "country": "CH",
+     "language_raw": "OV/d•e",
+     "format_raw": "Farbe",
+     "start": null,
+     "notes": [
+      "Followed by a Q&A with director Moris Freiburghaus."
+     ],
+     "venue_title": "I LOVE YOU, I LEAVE YOU",
+     "english_title": "I Love You, I Leave You",
+     "tmdb_id": 1544952,
+     "tmdb_kind": "movie",
+     "original_language": "pt",
+     "notes_translated": [
+      true
+     ],
+     "language": {
+      "raw": "OV/d•e",
+      "description": "Original version; subtitles: German, English"
+     },
+     "format": null
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "xenix",
+   "series": [
+    "Gastveranstaltungen"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "one venue",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Gastveranstaltungen": "gastveranstaltungen-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-10-24",
+     "screenings": [
+      {
+       "id": "xenix:234591",
+       "start": "2026-10-24T16:30+02:00",
+       "time": "16:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/234591",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "unknown",
+        "presentation": [],
+        "assumed": false,
+        "raw": null
+       },
+       "note": "With director Claudius Gentinetta, film composer Rahel Zimmermann, sound designer Peter Bräker, and director Moris Freiburghaus · Tickets CHF 5",
+       "note_lang": null,
+       "series": [
+        "Gastveranstaltungen"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

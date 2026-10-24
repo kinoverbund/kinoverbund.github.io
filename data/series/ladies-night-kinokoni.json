@@ -1,0 +1,84 @@
+{
+ "name": "Ladies Night",
+ "venues": [
+  "KINOKONI Zürich"
+ ],
+ "links": {},
+ "about": null,
+ "films": [
+  {
+   "title": "Der perfekte Urlaub (The Perfect Holiday)",
+   "venue_title": "Der perfekte Urlaub",
+   "subtitle": null,
+   "original_title": "Der perfekte Urlaub",
+   "english_title": "The Perfect Holiday",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/ladiesnight-der-perfekte-urlaub",
+   "directors": [
+    "Bora Dağtekin"
+   ],
+   "year": 2026,
+   "runtime_min": 117,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1525072,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "kinokoni",
+   "series": [
+    "Ladies Night"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
+   "series_slugs": {
+    "Ladies Night": "ladies-night-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "screenings": [
+      {
+       "id": "kinokoni:50-8655",
+       "start": "2026-10-21T20:00+02:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8655/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Ladies Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "name": "Die unendliche Geschichte (The NeverEnding Story)",
+ "venues": [
+  {
+   "title": "Die unendliche Geschichte (The NeverEnding Story)",
+   "venue_title": "Die unendliche Geschichte",
+   "subtitle": null,
+   "original_title": "Die unendliche Geschichte",
+   "english_title": "The NeverEnding Story",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html",
+   "directors": [
+    "Wolfgang Petersen"
+   ],
+   "year": 1984,
+   "runtime_min": 102,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 34584,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "die-unendliche-geschichte-the-neverending-story-1984",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-10-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2276938",
+       "start": "2026-10-24T13:40+02:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html?city=zurich&show=2276938#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2276943",
+       "start": "2026-10-25T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html?city=zurich&show=2276943#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2276944",
+       "start": "2026-10-28T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html?city=zurich&show=2276944#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

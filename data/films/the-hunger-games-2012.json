@@ -1,0 +1,79 @@
+{
+ "name": "The Hunger Games",
+ "venues": [
+  {
+   "title": "The Hunger Games",
+   "venue_title": "The Hunger Games",
+   "subtitle": null,
+   "original_title": "The Hunger Games",
+   "english_title": "The Hunger Games",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-hunger-games",
+   "directors": [
+    "Gary Ross"
+   ],
+   "year": 2012,
+   "runtime_min": 142,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 70160,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "Hunger Games"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Hunger Games": "hunger-games-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "kinokoni:50-8920",
+       "start": "2026-11-21T12:30+01:00",
+       "time": "12:30",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8920/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Hunger Games"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,428 @@
+{
+ "date": "2026-11-08",
+ "venues": [
+  {
+   "name": "Corso",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes & Amir (Agnes & Amir)",
+     "venue_title": "Lieblingsmenschen",
+     "subtitle": null,
+     "original_title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes & Amir",
+     "english_title": "Agnes & Amir",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3286548?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
+     "directors": [
+      "Helena Hufnagel"
+     ],
+     "year": 2026,
+     "runtime_min": 108,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1185542,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [
+      "Preview"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3330053",
+       "start": "2026-11-08T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3330053/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Orwell: 2+2=5",
+     "venue_title": "Orwell: 2+2=5",
+     "subtitle": null,
+     "original_title": "Orwell: 2+2=5",
+     "english_title": "Orwell: 2+2=5",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html",
+     "directors": [
+      "Raoul Peck"
+     ],
+     "year": 2025,
+     "runtime_min": 119,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1098534,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [
+      "Sneaky Sunday"
+     ],
+     "labels": [
+      "Sneaky Sunday"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2291809",
+       "start": "2026-11-08T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2291809#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "orwell-2-2-5-2025",
+     "series_slugs": {
+      "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "Barbara Forever",
+     "venue_title": "Barbara Forever",
+     "subtitle": null,
+     "original_title": "Barbara Forever",
+     "english_title": "Barbara Forever",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/dokfilm-am-sonntag/barbara-forever",
+     "directors": [
+      "Brydie O’Connor"
+     ],
+     "year": 2026,
+     "runtime_min": 102,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1596326,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "xenix",
+     "series": [
+      "Dokfilm am Sonntag"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:867630",
+       "start": "2026-11-08T12:00+01:00",
+       "time": "12:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/867630",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, sw und Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Dokfilm am Sonntag"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "barbara-forever-2026",
+     "series_slugs": {
+      "Dokfilm am Sonntag": "dokfilm-am-sonntag-xenix"
+     }
+    },
+    {
+     "title": "Momo alla conquista del tempo (Momo)",
+     "venue_title": "Momo",
+     "subtitle": null,
+     "original_title": "Momo alla conquista del tempo",
+     "english_title": "Momo",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/kinderkino/momo",
+     "directors": [
+      "Enzo D’Alò"
+     ],
+     "year": 2001,
+     "runtime_min": 77,
+     "country": "I/D",
+     "program_films": [],
+     "tmdb_id": 24179,
+     "tmdb_kind": "movie",
+     "original_language": "it",
+     "source": "xenix",
+     "series": [
+      "Kinderkino"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:357913",
+       "start": "2026-11-08T14:15+01:00",
+       "time": "14:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/357913",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kinderkino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "momo-alla-conquista-del-tempo-momo-2001",
+     "series_slugs": {
+      "Kinderkino": "kinderkino-xenix"
+     }
+    },
+    {
+     "title": "ᐅᐃᒃᓴᕆᙱᑕᕋ (Wrong Husband)",
+     "venue_title": "Wrong Husband",
+     "subtitle": "Uiksaringitara",
+     "original_title": "ᐅᐃᒃᓴᕆᙱᑕᕋ",
+     "english_title": "Wrong Husband",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/wrong-husband",
+     "directors": [
+      "Zacharias Kunuk"
+     ],
+     "year": 2025,
+     "runtime_min": 100,
+     "country": "CDN",
+     "program_films": [],
+     "tmdb_id": 1267844,
+     "tmdb_kind": "movie",
+     "original_language": "iu",
+     "source": "xenix",
+     "series": [
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:836767",
+       "start": "2026-11-08T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/836767",
+       "language": {
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "wrong-husband-2025",
+     "series_slugs": {
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+     }
+    },
+    {
+     "title": "Wildhood",
+     "venue_title": "Wildhood",
+     "subtitle": null,
+     "original_title": "Wildhood",
+     "english_title": "Wildhood",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/wildhood",
+     "directors": [
+      "Bretten Hannam"
+     ],
+     "year": 2021,
+     "runtime_min": 107,
+     "country": "DCN",
+     "program_films": [],
+     "tmdb_id": 856496,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:205070",
+       "start": "2026-11-08T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/205070",
+       "language": {
+        "raw": "E•OV/e",
+        "description": "English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "wildhood-2021",
+     "series_slugs": {
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "date": "2026-12-03",
+ "venues": [
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "You Can See Everything",
+     "venue_title": "You Can See Everything",
+     "subtitle": null,
+     "original_title": "You Can See Everything",
+     "english_title": "You Can See Everything",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html",
+     "directors": [
+      "Nathan Fielder",
+      "Lance Oppenheim"
+     ],
+     "year": 2026,
+     "runtime_min": 174,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1765072,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306250",
+       "start": "2026-12-03T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2306250#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "you-can-see-everything-2026",
+     "series_slugs": {}
+    }
+   ]
+  }
+ ]
+}

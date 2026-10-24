@@ -1,0 +1,81 @@
+{
+ "name": "The Lighthouse",
+ "venues": [
+  {
+   "title": "The Lighthouse",
+   "venue_title": "The Lighthouse",
+   "subtitle": null,
+   "original_title": "The Lighthouse",
+   "english_title": "The Lighthouse",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lighthouse.html",
+   "directors": [
+    "Robert Eggers"
+   ],
+   "year": 2019,
+   "runtime_min": 109,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 503919,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2299061",
+       "start": "2026-10-31T23:10+01:00",
+       "time": "23:10",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lighthouse.html?city=zurich&show=2299061#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

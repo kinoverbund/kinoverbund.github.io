@@ -1,0 +1,75 @@
+{
+ "name": "Être paysan·ne",
+ "venues": [
+  {
+   "title": "Être paysan·ne",
+   "venue_title": "Buure",
+   "subtitle": null,
+   "original_title": "Être paysan·ne",
+   "english_title": "Être paysan·ne",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/buure.html",
+   "directors": [
+    "Frédéric Gonseth",
+    "Catherine Azad"
+   ],
+   "year": 2026,
+   "runtime_min": 90,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1678130,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [
+    "Preview"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {},
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2276981",
+       "start": "2026-11-24T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/buure.html?city=zurich&show=2276981#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

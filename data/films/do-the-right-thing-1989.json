@@ -1,0 +1,114 @@
+{
+ "name": "Do the Right Thing",
+ "venues": [
+  {
+   "title": "Do the Right Thing",
+   "venue_title": "Do the Right Thing",
+   "subtitle": null,
+   "original_title": "Do the Right Thing",
+   "english_title": "Do the Right Thing",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/oktober-2026/schoener-wohnen--geschichten-der-gentrifizierung/do-the-right-thing",
+   "directors": [
+    "Spike Lee"
+   ],
+   "year": 1989,
+   "runtime_min": 120,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 925,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Schöner wohnen! – Geschichten der Gentrifizierung"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Schöner wohnen! – Geschichten der Gentrifizierung": "schoner-wohnen-geschichten-der-gentrifizierung-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "screenings": [
+      {
+       "id": "xenix:905612",
+       "start": "2026-10-18T20:00+02:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/905612",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Schöner wohnen! – Geschichten der Gentrifizierung"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "screenings": [
+      {
+       "id": "xenix:497396",
+       "start": "2026-10-27T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/497396",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Schöner wohnen! – Geschichten der Gentrifizierung"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

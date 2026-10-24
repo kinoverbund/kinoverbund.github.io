@@ -1,0 +1,297 @@
+{
+ "date": "2026-11-03",
+ "venues": [
+  {
+   "name": "Filmstelle",
+   "operator": "Filmstelle",
+   "address": "StuZ, ETH CAB, Universitätstrasse 6, 8006 Zürich",
+   "listings": [
+    {
+     "title": "Стачка (Strike)",
+     "venue_title": "Strike",
+     "subtitle": null,
+     "original_title": "Стачка",
+     "english_title": "Strike",
+     "kind": "film",
+     "film_url": "https://filmstelle.ch/strike/",
+     "directors": [
+      "Sergei Eisenstein"
+     ],
+     "year": 1925,
+     "runtime_min": 82,
+     "country": "USSR",
+     "program_films": [],
+     "tmdb_id": 44967,
+     "tmdb_kind": "movie",
+     "original_language": "ru",
+     "source": "filmstelle",
+     "series": [
+      "Work, work, work"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "filmstelle:strike",
+       "start": "2026-11-03T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "-/en",
+        "description": "Silent; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "bluray",
+        "presentation": [],
+        "assumed": false,
+        "raw": "Bluray"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Work, work, work"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Work, work, work": "work-work-work-filmstelle"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Metropol",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Se7en",
+     "venue_title": "Se7en",
+     "subtitle": null,
+     "original_title": "Se7en",
+     "english_title": "Se7en",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3332321?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "David Fincher"
+     ],
+     "year": 1995,
+     "runtime_min": 127,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 807,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [
+      "Iconic Night"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3332327",
+       "start": "2026-11-03T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332327/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Iconic Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Iconic Night": "iconic-night-blue-cinema"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "The Lost Daughter",
+     "venue_title": "The Lost Daughter",
+     "subtitle": null,
+     "original_title": "The Lost Daughter",
+     "english_title": "The Lost Daughter",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/the-lost-daughter",
+     "directors": [
+      "Maggie Gyllenhaal"
+     ],
+     "year": 2021,
+     "runtime_min": 122,
+     "country": "GK/GB/USA",
+     "program_films": [],
+     "tmdb_id": 554230,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:297382",
+       "start": "2026-11-03T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/297382",
+       "language": {
+        "raw": "E•I•OV/d",
+        "description": "English, Italian, Original version; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-lost-daughter-2021",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    },
+    {
+     "title": "Beans",
+     "venue_title": "Beans",
+     "subtitle": null,
+     "original_title": "Beans",
+     "english_title": "Beans",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/beans",
+     "directors": [
+      "Tracey Deer"
+     ],
+     "year": 2020,
+     "runtime_min": 92,
+     "country": "CDN",
+     "program_films": [],
+     "tmdb_id": 726220,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:900126",
+       "start": "2026-11-03T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/900126",
+       "language": {
+        "raw": "F•E•OV/e",
+        "description": "French, English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "beans-2020",
+     "series_slugs": {
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

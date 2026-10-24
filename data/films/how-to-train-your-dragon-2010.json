@@ -1,0 +1,157 @@
+{
+ "name": "How to Train Your Dragon",
+ "venues": [
+  {
+   "title": "How to Train Your Dragon",
+   "venue_title": "Drachenzähmen leicht gemacht",
+   "subtitle": null,
+   "original_title": "How to Train Your Dragon",
+   "english_title": "How to Train Your Dragon",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html",
+   "directors": [
+    "Dean DeBlois",
+    "Chris Sanders"
+   ],
+   "year": 2010,
+   "runtime_min": 97,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 10191,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "how-to-train-your-dragon-2010",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295992",
+       "start": "2026-11-28T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html?city=zurich&show=2295992#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295998",
+       "start": "2026-11-29T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html?city=zurich&show=2295998#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295999",
+       "start": "2026-12-02T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html?city=zurich&show=2295999#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

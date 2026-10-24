@@ -1,0 +1,326 @@
+{
+ "date": "2026-11-11",
+ "venues": [
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Spaceballs",
+     "venue_title": "Spaceballs",
+     "subtitle": null,
+     "original_title": "Spaceballs",
+     "english_title": "Spaceballs",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html",
+     "directors": [
+      "Mel Brooks"
+     ],
+     "year": 1987,
+     "runtime_min": 96,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 957,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [
+      "The Ones We Love"
+     ],
+     "labels": [
+      "The Ones We Love"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2284744",
+       "start": "2026-11-11T18:50+01:00",
+       "time": "18:50",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html?city=zurich&show=2284744#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2284742",
+       "start": "2026-11-11T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html?city=zurich&show=2284742#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "spaceballs-1987",
+     "series_slugs": {
+      "The Ones We Love": "the-ones-we-love-neugass-kino"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "Momo alla conquista del tempo (Momo)",
+     "venue_title": "Momo",
+     "subtitle": null,
+     "original_title": "Momo alla conquista del tempo",
+     "english_title": "Momo",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/kinderkino/momo",
+     "directors": [
+      "Enzo D’Alò"
+     ],
+     "year": 2001,
+     "runtime_min": 77,
+     "country": "I/D",
+     "program_films": [],
+     "tmdb_id": 24179,
+     "tmdb_kind": "movie",
+     "original_language": "it",
+     "source": "xenix",
+     "series": [
+      "Kinderkino"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:938597",
+       "start": "2026-11-11T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/938597",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kinderkino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "momo-alla-conquista-del-tempo-momo-2001",
+     "series_slugs": {
+      "Kinderkino": "kinderkino-xenix"
+     }
+    },
+    {
+     "title": "Indian Horse",
+     "venue_title": "Indian Horse",
+     "subtitle": null,
+     "original_title": "Indian Horse",
+     "english_title": "Indian Horse",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/indian-horse",
+     "directors": [
+      "Stephen S. Campanelli"
+     ],
+     "year": 2017,
+     "runtime_min": 96,
+     "country": "CDN",
+     "program_films": [],
+     "tmdb_id": 471616,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:452011",
+       "start": "2026-11-11T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/452011",
+       "language": {
+        "raw": "E•OV/e",
+        "description": "English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "indian-horse-2017",
+     "series_slugs": {
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+     }
+    },
+    {
+     "title": "God's Creatures",
+     "venue_title": "God’s Creatures",
+     "subtitle": null,
+     "original_title": "God's Creatures",
+     "english_title": "God's Creatures",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/gods-creatures",
+     "directors": [
+      "Anna Rose Holmer",
+      "Saela Davis"
+     ],
+     "year": 2022,
+     "runtime_min": 101,
+     "country": "IE/GB/USA",
+     "program_films": [],
+     "tmdb_id": 828558,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:403196",
+       "start": "2026-11-11T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/403196",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "god-s-creatures-2022",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

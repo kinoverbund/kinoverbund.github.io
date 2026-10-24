@@ -1,0 +1,78 @@
+{
+ "name": "世界 (The World)",
+ "venues": [
+  {
+   "title": "世界 (The World)",
+   "venue_title": "The World",
+   "subtitle": null,
+   "original_title": "世界",
+   "english_title": "The World",
+   "kind": "film",
+   "film_url": "https://filmstelle.ch/the-world/",
+   "directors": [
+    "Jia Zhangke"
+   ],
+   "year": 2004,
+   "runtime_min": 140,
+   "country": "CN",
+   "program_films": [],
+   "tmdb_id": 41292,
+   "tmdb_kind": "movie",
+   "original_language": "zh",
+   "source": "filmstelle",
+   "series": [
+    "Work, work, work"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Work, work, work": "work-work-work-filmstelle"
+   },
+   "venue": "Filmstelle",
+   "dates": [
+    {
+     "date": "2026-12-08",
+     "screenings": [
+      {
+       "id": "filmstelle:the-world",
+       "start": "2026-12-08T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "CN/en",
+        "description": "Chinese; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "bluray",
+        "presentation": [],
+        "assumed": false,
+        "raw": "Bluray"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Work, work, work"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

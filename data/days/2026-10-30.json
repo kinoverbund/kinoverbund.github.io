@@ -1,0 +1,535 @@
+{
+ "date": "2026-10-30",
+ "venues": [
+  {
+   "name": "Abaton",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "The Shining",
+     "venue_title": "The Shining",
+     "subtitle": null,
+     "original_title": "The Shining",
+     "english_title": "The Shining",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3332341?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Stanley Kubrick"
+     ],
+     "year": 1980,
+     "runtime_min": 119,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 694,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [
+      "Halloweek"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3332369",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332369/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332378",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332378/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-shining-1980",
+     "series_slugs": {
+      "Halloweek": "halloweek-blue-cinema"
+     }
+    },
+    {
+     "title": "Resident Evil",
+     "venue_title": "Resident Evil",
+     "subtitle": null,
+     "original_title": "Resident Evil",
+     "english_title": "Resident Evil",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3150526?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Zack Cregger"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1423191,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [
+      "Halloweek"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3332532",
+       "start": "2026-10-30T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332532/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "resident-evil-2026",
+     "series_slugs": {
+      "Halloweek": "halloweek-blue-cinema"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Capitol",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Barbarian",
+     "venue_title": "Barbarian",
+     "subtitle": null,
+     "original_title": "Barbarian",
+     "english_title": "Barbarian",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3334776?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+     "directors": [
+      "Zach Cregger"
+     ],
+     "year": 2022,
+     "runtime_min": 103,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 913290,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [
+      "Halloweek"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "bluecinema:3334783",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334783/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "barbarian-2022",
+     "series_slugs": {
+      "Halloweek": "halloweek-blue-cinema"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Orwell: 2+2=5",
+     "venue_title": "Orwell: 2+2=5",
+     "subtitle": null,
+     "original_title": "Orwell: 2+2=5",
+     "english_title": "Orwell: 2+2=5",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html",
+     "directors": [
+      "Raoul Peck"
+     ],
+     "year": 2025,
+     "runtime_min": 119,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1098534,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Preview"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2287916",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2287916#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "orwell-2-2-5-2025",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "Bootlegger",
+     "venue_title": "Bootlegger",
+     "subtitle": null,
+     "original_title": "Bootlegger",
+     "english_title": "Bootlegger",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/bootlegger",
+     "directors": [
+      "Caroline Monnet"
+     ],
+     "year": 2021,
+     "runtime_min": 81,
+     "country": "CDN",
+     "program_films": [],
+     "tmdb_id": 820715,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "xenix",
+     "series": [
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:387431",
+       "start": "2026-10-30T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/387431",
+       "language": {
+        "raw": "F•E•OV/e",
+        "description": "French, English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "bootlegger-2021",
+     "series_slugs": {
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+     }
+    },
+    {
+     "title": "Aftersun",
+     "venue_title": "Aftersun",
+     "subtitle": null,
+     "original_title": "Aftersun",
+     "english_title": "Aftersun",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/aftersun",
+     "directors": [
+      "Charlotte Wells"
+     ],
+     "year": 2022,
+     "runtime_min": 101,
+     "country": "GB/USA",
+     "program_films": [],
+     "tmdb_id": 965150,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:302109",
+       "start": "2026-10-30T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/302109",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "aftersun-2022",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    },
+    {
+     "title": "All of Us Strangers",
+     "venue_title": "All of Us Strangers",
+     "subtitle": null,
+     "original_title": "All of Us Strangers",
+     "english_title": "All of Us Strangers",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/all-of-us-strangers",
+     "directors": [
+      "Andrew Haigh"
+     ],
+     "year": 2023,
+     "runtime_min": 105,
+     "country": "GB/USA",
+     "program_films": [],
+     "tmdb_id": 994108,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:777144",
+       "start": "2026-10-30T22:00+01:00",
+       "time": "22:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/777144",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "all-of-us-strangers-2023",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

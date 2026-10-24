@@ -1,0 +1,184 @@
+{
+ "name": "Bootlegger",
+ "venues": [
+  {
+   "title": "Bootlegger",
+   "venue_title": "Bootlegger",
+   "subtitle": null,
+   "original_title": "Bootlegger",
+   "english_title": "Bootlegger",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/bootlegger",
+   "directors": [
+    "Caroline Monnet"
+   ],
+   "year": 2021,
+   "runtime_min": 81,
+   "country": "CDN",
+   "program_films": [],
+   "tmdb_id": 820715,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "xenix",
+   "series": [
+    "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "bootlegger-2021",
+   "series_slugs": {
+    "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "xenix:389809",
+       "start": "2026-10-29T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/389809",
+       "language": {
+        "raw": "F•E•OV/e",
+        "description": "French, English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "Program introduced by curator Silvia Posavec",
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "xenix:387431",
+       "start": "2026-10-30T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/387431",
+       "language": {
+        "raw": "F•E•OV/e",
+        "description": "French, English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "xenix:860577",
+       "start": "2026-11-28T19:15+01:00",
+       "time": "19:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/860577",
+       "language": {
+        "raw": "F•E•OV/e",
+        "description": "French, English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "xenix:760215",
+       "start": "2026-11-30T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/760215",
+       "language": {
+        "raw": "F•E•OV/e",
+        "description": "French, English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

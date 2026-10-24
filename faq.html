@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FAQ · ZKV</title>
+  <meta name="description" content="How the Zürich film listings work: what Curated and English-speaking mean, how languages are shown, and what New, Last screening and Guest mark.">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="canonical" href="https://kinoverbund.github.io/faq.html">
+  <meta property="og:url" content="https://kinoverbund.github.io/faq.html">
+  <meta property="og:title" content="FAQ · ZKV">
+  <meta property="og:description" content="How the Zürich film listings work: what Curated and English-speaking mean, how languages are shown, and what New, Last screening and Guest mark.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://kinoverbund.github.io/share.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="ZKV, Zürcher Kinoverbund">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preload" href="fonts/texgyreheros-regular-core.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/texgyreheros-bold-core.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="modulepreload" href="lib.js">
+  <!-- A saved Light/Dark choice, applied before the page draws (no flash). -->
+  <script>try{var t=localStorage.getItem("zkv-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="faq.js"></script>
+</head>
+<body>
+  <a class="skip" href="#listing">Skip to the questions</a>
+
+  <header class="masthead">
+    <div class="grid">
+      <div class="topbar">
+        <p class="site-name"><a href="./"><img class="site-mark" src="favicon.svg" alt="" width="40" height="40"><span class="site-words"><span class="site-abbr">ZKV</span><span class="site-full">Zürcher Kinoverbund</span></span></a></p>
+        <nav class="site-nav" aria-label="Site"><a href="venues.html">Venues</a><a href="faq.html" aria-current="page">FAQ</a></nav>
+      </div>
+      <p class="site-tagline">Rep. Prints. One-offs. Daily.</p>
+      <h1 class="page-title">FAQ</h1>
+      <!-- The questions at a glance, one per line in their own words (layout pass, 2026-10-19). -->
+      <nav class="faq-index" aria-label="Questions">
+        <ul>
+          <li><a href="#what">What is this?</a></li>
+          <li><a href="#curated">What does “Curated” mean?</a></li>
+          <li><a href="#english">What does “English-speaking” mean?</a></li>
+          <li><a href="#codes">How are languages shown?</a></li>
+          <li><a href="#entry">What’s in each listing?</a></li>
+          <li><a href="#flags">What do “New”, “Last screening” and “Guest” mean?</a></li>
+          <li><a href="#cinemas">Which cinemas are included?</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="listing" class="listing listing--faq" tabindex="-1">
+    <section class="venue" id="what" aria-labelledby="what-h">
+      <div class="venue-inner">
+        <div class="venue-head"><div><h2 class="venue-name" id="what-h">What is this?</h2></div></div>
+        <div class="faq-answer prose">
+          <p>A daily calendar of Zürich’s cinemas, in the manner of New York’s <a href="https://www.screenslate.com/listings">Screen Slate</a>: each day, cinema by cinema, every film with its screenings.</p>
+          <p>ZKV, the Zürcher Kinoverbund, is independent: it isn’t run by or affiliated with the cinemas, or with the ZVV.</p>
+          <p>Software collects the listings from the cinemas’ own websites every morning, so mistakes can slip through. Each title links to the film’s page at the cinema: buy tickets there, and treat that page as the final word. We don’t sell tickets or know whether a screening is sold out.</p>
+        </div>
+      </div>
+    </section>
+    <section class="venue" id="curated" aria-labelledby="curated-h">
+      <div class="venue-inner">
+        <div class="venue-head"><div><h2 class="venue-name" id="curated-h">What does “Curated” mean?</h2></div></div>
+        <div class="faq-answer prose">
+          <p>Curated is a selection in the spirit of Screen Slate: repertory, film prints, special and one-off screenings, and independent films that play at only one cinema here. It is on when you arrive; switch it off to see the full calendar, blockbusters included.</p>
+          <p>A screening is curated when <strong>any</strong> of these is true:</p>
+          <ul class="faq-list">
+            <li><strong>On film:</strong> projected from a 35mm, 16mm or 70mm print.</li>
+            <li><strong>Only at one cinema:</strong> no other cinema on this site is screening the film. Multiplexes don’t qualify, and the rule only looks at days every cinema has already published, so a film announced early doesn’t look exclusive by accident.</li>
+            <li><strong>Repertory:</strong> the film first came out at least two years before the screening.</li>
+            <li><strong>Special screening:</strong> part of a series, a premiere or preview, marked “Special” by the cinema, accompanied by a Q&amp;A or an introduction, or a program of several films. Routine and commercial labels don’t count.</li>
+          </ul>
+          <p>The rules are applied the same way to every screening, every day.</p>
+          <p>Prints are marked with a film-strip symbol after the format.</p>
+        </div>
+      </div>
+    </section>
+    <section class="venue" id="english" aria-labelledby="english-h">
+      <div class="venue-inner">
+        <div class="venue-head"><div><h2 class="venue-name" id="english-h">What does “English-speaking” mean?</h2></div></div>
+        <div class="faq-answer prose">
+          <p>A screening counts as English-speaking when an English speaker can follow it:</p>
+          <ul class="faq-list">
+            <li>the film is in English (wholly or partly), or</li>
+            <li>it has English subtitles, or</li>
+            <li>it is a silent film with English intertitles, or</li>
+            <li>it has no dialogue and nothing to read.</li>
+          </ul>
+          <p>A program of several films counts when every film in it does.</p>
+          <p>A film in German with only German and French subtitles doesn’t count. The filter goes by what each cinema publishes for each screening, so the same film can be English-speaking at one time and not at another.</p>
+        </div>
+      </div>
+    </section>
+    <section class="venue" id="codes" aria-labelledby="codes-h">
+      <div class="venue-inner">
+        <div class="venue-head"><div><h2 class="venue-name" id="codes-h">How are languages shown?</h2></div></div>
+        <div class="faq-answer prose">
+          <p>Each film says what you hear and which subtitles there are, in plain English: “English audio, German &amp; French subtitles”, or just “German audio” when there are none.</p>
+          <p>When every screening of a film is in the same version, the version appears once, in the line under the title. When versions differ, as often at the big cinemas, the screenings are grouped under each version.</p>
+          <p>Where a cinema writes only “OV” (original version), we name the language the film was made in, as listed on <a href="https://www.themoviedb.org/">TMDB</a>. When that isn’t known, or doesn’t fit what the cinema says, it reads “Original audio”.</p>
+          <p>The cinemas’ own websites use codes for this: the audio first, in capitals, then the subtitles after the slash. <strong>EN/de,fr</strong> is English with German and French subtitles, <strong>OV/en</strong> the original language with English subtitles, and <strong>DE</strong> German without subtitles.</p>
+        </div>
+      </div>
+    </section>
+    <section class="venue" id="entry" aria-labelledby="entry-h">
+      <div class="venue-inner">
+        <div class="venue-head"><div><h2 class="venue-name" id="entry-h">What’s in each listing?</h2></div></div>
+        <div class="faq-answer prose">
+          <p>Above the title: the series in red, and any label the cinema gives, such as PREVIEW. Under it: the director, the year, the running time in minutes (“102M”), the format and the language (see above). <strong>DCP</strong> is standard digital projection; <strong>35MM</strong>, <strong>16MM</strong> and <strong>70MM</strong> are film prints; <strong>Digital HD</strong> and <strong>Blu-ray</strong> are video files shown in place of a DCP; IMAX, 4DX and 3D are as the cinema lists them.</p>
+          <p>Titles show the original title with the English one in brackets, from <a href="https://www.themoviedb.org/">TMDB</a>; the year is the one the cinema gives. A film that turns 25, 50, 75 or 100 in the year it’s shown says so: “1976 (50 years ago)”.</p>
+          <p>Notes (a Q&amp;A, a guest), labels, subtitle lines and series descriptions are the cinemas’ own words. They write them in German, so an automatic translation puts them into English and a second automatic check reads it; where a translation doesn’t pass, the German stays. Text translated this way is marked <strong>TRANSLATED</strong> after it (series descriptions say “translated from German”); English the cinema wrote, or that we wrote for its standard phrases, carries no mark. Series and program names show the English one first, with the cinema’s own name in smaller gray type beneath (a series’ name on its own page; above an entry, only the English). Names of people and films stay as the cinema wrote them.</p>
+          <p>A film shown more than once has an “All dates” link to its own page: every screening of it, at every cinema, and nothing else.</p>
+          <p>On a computer, the ← and → keys change the day. Printing a day, or a cinema’s page, gives a plain timetable on paper.</p>
+        </div>
+      </div>
+    </section>
+    <section class="venue" id="flags" aria-labelledby="flags-h">
+      <div class="venue-inner">
+        <div class="venue-head"><div><h2 class="venue-name" id="flags-h">What do “New”, “Last screening” and “Guest” mean?</h2></div></div>
+        <div class="faq-answer prose">
+          <p><strong>NEW</strong>, above a title, means the film appeared in that cinema’s program in the last three days. We check every cinema once a day and note when each film first shows up there. A film that moves to a second cinema is new there too. The mark is about the cinema’s program, not the film’s release: a 1970s classic can be new at Xenix.</p>
+          <p><strong>LAST SCREENING</strong>, next to a time, means this is the last chance to see the film in Zürich: no cinema we check lists a later screening. It is marked only when:</p>
+          <ul class="faq-list">
+            <li>the film has more than one screening, since a one-off is the only chance, not the last;</li>
+            <li>every cinema has published its program beyond that day. The big cinemas publish about a week ahead, so screenings further out are never marked: a later one may still be announced.</li>
+          </ul>
+          <p>Some cinemas, like Xenix, mark a film’s last screening themselves. We show their mark as they give it, even if the film plays on somewhere else.</p>
+          <p>On today’s page, a time starting within the next 45 minutes says so in red: <strong>IN 12 MIN</strong>. It counts down while the page is open, and times that have started are struck through.</p>
+          <p><strong>GUEST</strong>, at the start of a note, means someone joins the screening: a Q&amp;A, a talk, an introduction, or the director or cast in person. The note says who it is, as the cinema wrote it.</p>
+        </div>
+      </div>
+    </section>
+    <section class="venue" id="cinemas" aria-labelledby="cinemas-h">
+      <div class="venue-inner">
+        <div class="venue-head"><div><h2 class="venue-name" id="cinemas-h">Which cinemas are included?</h2></div></div>
+        <div class="faq-answer prose">
+          <p>Abaton, Arena Sihlcity, Capitol, Corso, Filmstelle (ETH), Houdini, KINOKONI Zürich, Metropol, Riffraff and Xenix. More may be added; see <a href="venues.html">Venues</a> for addresses and links. Opera and ballet broadcasts, live sport and other live viewings are left out.</p>
+          <p>A film the site cannot identify yet is listed only after it has been checked, so a cinema’s own program can show a screening that is not here yet.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="colophon">
+    <div class="grid">
+      <p class="updated" id="updated"></p>
+      <p class="stale" id="stale" hidden></p>
+      <p class="about">Screenings come from the cinemas’ own websites, collected once a day. Titles link to each film’s page at the cinema, where tickets are sold. Always check with the cinema before you go.</p>
+      <div class="tmdb">
+        <a href="https://www.themoviedb.org/" class="tmdb-logo"><img src="tmdb-logo.svg" alt="The Movie Database (TMDB)" width="120" height="16"></a>
+        <p>This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

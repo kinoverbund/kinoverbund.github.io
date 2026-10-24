@@ -1,0 +1,214 @@
+{
+ "name": "Festive Fun with Peppa",
+ "venues": [
+  {
+   "title": "Festive Fun with Peppa",
+   "venue_title": "Festtagsspass mit Peppa",
+   "subtitle": null,
+   "original_title": "Festive Fun with Peppa",
+   "english_title": "Festive Fun with Peppa",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html",
+   "directors": [
+    "Neville Astley",
+    "Mark Baker"
+   ],
+   "year": 2026,
+   "runtime_min": 60,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1778515,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "festive-fun-with-peppa-2026",
+   "series_slugs": {},
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295777",
+       "start": "2026-11-14T14:10+01:00",
+       "time": "14:10",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2295777#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295778",
+       "start": "2026-11-15T14:10+01:00",
+       "time": "14:10",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2295778#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Festive Fun with Peppa",
+   "venue_title": "Festtagsspass mit Peppa – Das Kinoerlebnis",
+   "subtitle": null,
+   "original_title": "Festive Fun with Peppa",
+   "english_title": "Festive Fun with Peppa",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/festtagsspass-mit-peppa-das-kinoerlebnis",
+   "directors": [],
+   "year": 2026,
+   "runtime_min": 60,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1778515,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "KiddoKino"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "festive-fun-with-peppa-2026",
+   "series_slugs": {
+    "KiddoKino": "kiddokino-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9614",
+       "start": "2026-11-14T14:20+01:00",
+       "time": "14:20",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9614/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9615",
+       "start": "2026-11-15T14:40+01:00",
+       "time": "14:40",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9615/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

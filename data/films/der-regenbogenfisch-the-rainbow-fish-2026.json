@@ -1,0 +1,222 @@
+{
+ "name": "Der Regenbogenfisch (The Rainbow Fish)",
+ "venues": [
+  {
+   "title": "Der Regenbogenfisch (The Rainbow Fish)",
+   "venue_title": "De Rägebogefisch",
+   "subtitle": null,
+   "original_title": "Der Regenbogenfisch",
+   "english_title": "The Rainbow Fish",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/de-raegebogefisch.html",
+   "directors": [
+    "Florian Moch"
+   ],
+   "year": 2026,
+   "runtime_min": 69,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1625344,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [
+    "Preview"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "der-regenbogenfisch-the-rainbow-fish-2026",
+   "series_slugs": {},
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2273124",
+       "start": "2026-11-14T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/de-raegebogefisch.html?city=zurich&show=2273124#tickets",
+       "language": {
+        "raw": "ch",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2273133",
+       "start": "2026-11-15T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/de-raegebogefisch.html?city=zurich&show=2273133#tickets",
+       "language": {
+        "raw": "ch",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Der Regenbogenfisch (The Rainbow Fish)",
+   "venue_title": "De Rägenbogefisch",
+   "subtitle": null,
+   "original_title": "Der Regenbogenfisch",
+   "english_title": "The Rainbow Fish",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/de-raegenbogefisch-hello-family-und-buchsignatur",
+   "directors": [
+    "Florian Moch"
+   ],
+   "year": 2026,
+   "runtime_min": 70,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1625344,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "kinokoni",
+   "series": [
+    "Coop Hello Family"
+   ],
+   "labels": [
+    "Special Event"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "der-regenbogenfisch-the-rainbow-fish-2026",
+   "series_slugs": {
+    "Coop Hello Family": "coop-hello-family-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "kinokoni:50-8658",
+       "start": "2026-11-14T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8658/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": "Hello Family and Book Signing",
+       "note_lang": null,
+       "series": [],
+       "label": "Special Event",
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "kinokoni:50-8925",
+       "start": "2026-11-15T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8925/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Coop Hello Family"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

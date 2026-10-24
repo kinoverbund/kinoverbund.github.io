@@ -1,0 +1,598 @@
+{
+ "name": "Was haben wir gelacht",
+ "venues": [
+  {
+   "title": "Was haben wir gelacht",
+   "venue_title": "Was haben wir gelacht",
+   "subtitle": null,
+   "original_title": "Was haben wir gelacht",
+   "english_title": "Was haben wir gelacht",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html",
+   "directors": [
+    "Eva Müller",
+    "Isabel Schneider"
+   ],
+   "year": 2026,
+   "runtime_min": 98,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1698323,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [
+    "Queer Things"
+   ],
+   "labels": [
+    "Queer Things"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "was-haben-wir-gelacht-2026",
+   "series_slugs": {
+    "Queer Things": "queer-things-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-21",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2291858",
+       "start": "2026-10-21T20:00+02:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2291858#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Queer Things"
+       ],
+       "label": "Queer Things",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2302102",
+       "start": "2026-10-22T13:40+02:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2302102#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2302103",
+       "start": "2026-10-22T18:30+02:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2302103#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2303433",
+       "start": "2026-10-22T21:00+02:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2303433#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2301707",
+       "start": "2026-10-23T13:40+02:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301707#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2301704",
+       "start": "2026-10-23T18:30+02:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301704#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2303429",
+       "start": "2026-10-23T21:00+02:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2303429#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2302143",
+       "start": "2026-10-24T13:40+02:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2302143#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2302144",
+       "start": "2026-10-24T18:30+02:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2302144#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2302065",
+       "start": "2026-10-25T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2302065#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2302066",
+       "start": "2026-10-25T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2302066#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2301738",
+       "start": "2026-10-26T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301738#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2301484",
+       "start": "2026-10-26T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301484#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2301780",
+       "start": "2026-10-27T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301780#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2301779",
+       "start": "2026-10-27T18:50+01:00",
+       "time": "18:50",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301779#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2301875",
+       "start": "2026-10-28T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301875#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2301874",
+       "start": "2026-10-28T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2301874#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,417 @@
+{
+ "date": "2026-12-15",
+ "venues": [
+  {
+   "name": "Abaton",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Dune: Part Three",
+     "venue_title": "Dune: Part Three",
+     "subtitle": null,
+     "original_title": "Dune: Part Three",
+     "english_title": "Dune: Part Three",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3149931?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Denis Villeneuve"
+     ],
+     "year": 2026,
+     "runtime_min": 150,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1170608,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [
+      "Preview"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3335175",
+       "start": "2026-12-15T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3335175/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3320578",
+       "start": "2026-12-15T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3320578/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3335226",
+       "start": "2026-12-15T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Abaton B"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3335226/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "dune-part-three-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Corso",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Dune: Part Three",
+     "venue_title": "Dune: Part Three",
+     "subtitle": null,
+     "original_title": "Dune: Part Three",
+     "english_title": "Dune: Part Three",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3149931?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
+     "directors": [
+      "Denis Villeneuve"
+     ],
+     "year": 2026,
+     "runtime_min": 150,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1170608,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "bluecinema:3335241",
+       "start": "2026-12-15T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3335241/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "dune-part-three-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Filmstelle",
+   "operator": "Filmstelle",
+   "address": "StuZ, ETH CAB, Universitätstrasse 6, 8006 Zürich",
+   "listings": [
+    {
+     "title": "Encounters at the End of the World",
+     "venue_title": "Encounters at the End of the World",
+     "subtitle": null,
+     "original_title": "Encounters at the End of the World",
+     "english_title": "Encounters at the End of the World",
+     "kind": "film",
+     "film_url": "https://filmstelle.ch/encounters-at-the-end-of-the-world-2/",
+     "directors": [
+      "Werner Herzog"
+     ],
+     "year": 2004,
+     "runtime_min": 99,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 12172,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "filmstelle",
+     "series": [
+      "Work, work, work"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "filmstelle:encounters",
+       "start": "2026-12-15T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "EN/en",
+        "description": "English; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Work, work, work"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Work, work, work": "work-work-work-filmstelle"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Houdini",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Dune: Part Three",
+     "venue_title": "Dune: Part Three",
+     "subtitle": null,
+     "original_title": "Dune: Part Three",
+     "english_title": "Dune: Part Three",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/dune-part-three.html",
+     "directors": [
+      "Denis Villeneuve"
+     ],
+     "year": 2026,
+     "runtime_min": 140,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1170608,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Preview"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2279839",
+       "start": "2026-12-15T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dune-part-three.html?city=zurich&show=2279839#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "dune-part-three-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "Dune: Part Three",
+     "venue_title": "Dune: Part Three",
+     "subtitle": null,
+     "original_title": "Dune: Part Three",
+     "english_title": "Dune: Part Three",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/dune-part-three",
+     "directors": [
+      "Denis Villeneuve"
+     ],
+     "year": 2026,
+     "runtime_min": 140,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1170608,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9739",
+       "start": "2026-12-15T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9739/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "dune-part-three-2026",
+     "series_slugs": {}
+    }
+   ]
+  }
+ ]
+}

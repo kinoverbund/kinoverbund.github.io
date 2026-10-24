@@ -1,0 +1,104 @@
+{
+ "name": "Zürcher Filmtalk: Zurich Meets New York (Zurich Film Talk: Zurich Meets New York)",
+ "venues": [
+  {
+   "title": "Zürcher Filmtalk: Zurich Meets New York (Zurich Film Talk: Zurich Meets New York)",
+   "venue_title": "Zürcher Filmtalk: Zurich Meets New York",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.xenix.ch/programm/november-2026/gastveranstaltung/zuercher-filmtalk-zurich-meets-new-york",
+   "directors": [],
+   "year": null,
+   "runtime_min": null,
+   "country": null,
+   "program_films": [
+    {
+     "title": "Johnny Suede",
+     "original_title": "Johnny Suede",
+     "directors": [
+      "Tom DiCillo"
+     ],
+     "year": 1992,
+     "runtime_min": 95,
+     "country": "USA/F/CH",
+     "language_raw": "E/df",
+     "format_raw": "DCP, Farbe",
+     "start": null,
+     "notes": [],
+     "venue_title": "JOHNNY SUEDE",
+     "english_title": "Johnny Suede",
+     "tmdb_id": 45145,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": {
+      "raw": "E/df",
+      "description": "English; subtitles: German, French"
+     },
+     "format": {
+      "format": "dcp",
+      "presentation": []
+     }
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "xenix",
+   "series": [
+    "Gastveranstaltung"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Gastveranstaltung": "gastveranstaltung-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-12",
+     "screenings": [
+      {
+       "id": "xenix:219154",
+       "start": "2026-11-12T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/219154",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "unknown",
+        "presentation": [],
+        "assumed": false,
+        "raw": null
+       },
+       "note": "With Ruth Waldburger; Barbara B. Peter",
+       "note_lang": null,
+       "series": [
+        "Gastveranstaltung"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

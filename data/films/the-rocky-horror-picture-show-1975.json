@@ -1,0 +1,114 @@
+{
+ "name": "The Rocky Horror Picture Show",
+ "venues": [
+  {
+   "title": "The Rocky Horror Picture Show",
+   "venue_title": "The Rocky Horror Picture Show",
+   "subtitle": null,
+   "original_title": "The Rocky Horror Picture Show",
+   "english_title": "The Rocky Horror Picture Show",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-rocky-horror-picture-show.html",
+   "directors": [
+    "Jim Sharman"
+   ],
+   "year": 1975,
+   "runtime_min": 100,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 36685,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "the-rocky-horror-picture-show-1975",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-09",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2301555",
+       "start": "2026-12-09T18:40+01:00",
+       "time": "18:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-rocky-horror-picture-show.html?city=zurich&show=2301555#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2301551",
+       "start": "2026-12-09T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-rocky-horror-picture-show.html?city=zurich&show=2301551#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

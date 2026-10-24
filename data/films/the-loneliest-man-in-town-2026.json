@@ -1,0 +1,81 @@
+{
+ "name": "The Loneliest Man in Town",
+ "venues": [
+  {
+   "title": "The Loneliest Man in Town",
+   "venue_title": "The Loneliest Man in Town",
+   "subtitle": null,
+   "original_title": "The Loneliest Man in Town",
+   "english_title": "The Loneliest Man in Town",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-loneliest-man-in-town.html",
+   "directors": [
+    "Tizza Covi",
+    "Rainer Frimmel"
+   ],
+   "year": 2026,
+   "runtime_min": 86,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1426957,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2296264",
+       "start": "2026-11-15T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-loneliest-man-in-town.html?city=zurich&show=2296264#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

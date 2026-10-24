@@ -1,0 +1,82 @@
+{
+ "name": "Little Bird",
+ "venues": [
+  {
+   "title": "Little Bird",
+   "venue_title": "Little Bird",
+   "subtitle": "Episode 1: Love Is All Around",
+   "original_title": "Little Bird",
+   "english_title": "Little Bird",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/little-bird",
+   "directors": [
+    "Hannah Moscovitch",
+    "Jennifer Podemski",
+    "Catherine Bainbridge",
+    "Ernest Webb"
+   ],
+   "year": 2023,
+   "runtime_min": 45,
+   "country": "CDN",
+   "program_films": [],
+   "tmdb_id": 220594,
+   "tmdb_kind": "tv",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "xenix:463653",
+       "start": "2026-11-26T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/463653",
+       "language": {
+        "raw": "E/e",
+        "description": "English; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "digital",
+        "presentation": [],
+        "assumed": false,
+        "raw": "Digital HD, Farbe"
+       },
+       "note": "With co-producer Ernest Webb and Silvia Posavec",
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

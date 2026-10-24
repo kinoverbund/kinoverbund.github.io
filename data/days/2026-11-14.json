@@ -1,0 +1,616 @@
+{
+ "date": "2026-11-14",
+ "venues": [
+  {
+   "name": "Houdini",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Der Regenbogenfisch (The Rainbow Fish)",
+     "venue_title": "De Rägebogefisch",
+     "subtitle": null,
+     "original_title": "Der Regenbogenfisch",
+     "english_title": "The Rainbow Fish",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/de-raegebogefisch.html",
+     "directors": [
+      "Florian Moch"
+     ],
+     "year": 2026,
+     "runtime_min": 69,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1625344,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Preview"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2273124",
+       "start": "2026-11-14T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/de-raegebogefisch.html?city=zurich&show=2273124#tickets",
+       "language": {
+        "raw": "ch",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "der-regenbogenfisch-the-rainbow-fish-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Festive Fun with Peppa",
+     "venue_title": "Festtagsspass mit Peppa",
+     "subtitle": null,
+     "original_title": "Festive Fun with Peppa",
+     "english_title": "Festive Fun with Peppa",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html",
+     "directors": [
+      "Neville Astley",
+      "Mark Baker"
+     ],
+     "year": 2026,
+     "runtime_min": 60,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1778515,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295777",
+       "start": "2026-11-14T14:10+01:00",
+       "time": "14:10",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2295777#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "festive-fun-with-peppa-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "George Michael: The Faith Tour",
+     "venue_title": "George Michael: The Faith Tour",
+     "subtitle": null,
+     "original_title": "George Michael: The Faith Tour",
+     "english_title": "George Michael: The Faith Tour",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/george-michael-the-faith-tour.html",
+     "directors": [
+      "David Austin",
+      "Andrew Morahan"
+     ],
+     "year": 2026,
+     "runtime_min": 114,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1649403,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Special"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295985",
+       "start": "2026-11-14T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/george-michael-the-faith-tour.html?city=zurich&show=2295985#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "george-michael-the-faith-tour-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "Der Regenbogenfisch (The Rainbow Fish)",
+     "venue_title": "De Rägenbogefisch",
+     "subtitle": null,
+     "original_title": "Der Regenbogenfisch",
+     "english_title": "The Rainbow Fish",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/de-raegenbogefisch-hello-family-und-buchsignatur",
+     "directors": [
+      "Florian Moch"
+     ],
+     "year": 2026,
+     "runtime_min": 70,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1625344,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [
+      "Special Event"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-8658",
+       "start": "2026-11-14T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8658/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": "Hello Family and Book Signing",
+       "note_lang": null,
+       "series": [],
+       "label": "Special Event",
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true,
+       "note_translated": true
+      }
+     ],
+     "film_slug": "der-regenbogenfisch-the-rainbow-fish-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Festive Fun with Peppa",
+     "venue_title": "Festtagsspass mit Peppa – Das Kinoerlebnis",
+     "subtitle": null,
+     "original_title": "Festive Fun with Peppa",
+     "english_title": "Festive Fun with Peppa",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/festtagsspass-mit-peppa-das-kinoerlebnis",
+     "directors": [],
+     "year": 2026,
+     "runtime_min": 60,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1778515,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "KiddoKino"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9614",
+       "start": "2026-11-14T14:20+01:00",
+       "time": "14:20",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9614/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "festive-fun-with-peppa-2026",
+     "series_slugs": {
+      "KiddoKino": "kiddokino-kinokoni"
+     }
+    },
+    {
+     "title": "Saturday Night Fever",
+     "venue_title": "Saturday Night Fever",
+     "subtitle": null,
+     "original_title": "Saturday Night Fever",
+     "english_title": "Saturday Night Fever",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/after-credits-saturday-night-fever",
+     "directors": [
+      "John Badham"
+     ],
+     "year": 1977,
+     "runtime_min": 122,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 11009,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "After Credits"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9512",
+       "start": "2026-11-14T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9512/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "After Credits"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "After Credits": "after-credits-kinokoni"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "All of Us Strangers",
+     "venue_title": "All of Us Strangers",
+     "subtitle": null,
+     "original_title": "All of Us Strangers",
+     "english_title": "All of Us Strangers",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/all-of-us-strangers",
+     "directors": [
+      "Andrew Haigh"
+     ],
+     "year": 2023,
+     "runtime_min": 105,
+     "country": "GB/USA",
+     "program_films": [],
+     "tmdb_id": 994108,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:258293",
+       "start": "2026-11-14T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/258293",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "all-of-us-strangers-2023",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    },
+    {
+     "title": "The History of Sound",
+     "venue_title": "The History of Sound",
+     "subtitle": null,
+     "original_title": "The History of Sound",
+     "english_title": "The History of Sound",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/the-history-of-sound",
+     "directors": [
+      "Oliver Hermanus"
+     ],
+     "year": 2025,
+     "runtime_min": 128,
+     "country": "GB/USA/SE",
+     "program_films": [],
+     "tmdb_id": 891584,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:237453",
+       "start": "2026-11-14T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/237453",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-history-of-sound-2025",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    },
+    {
+     "title": "Seeds",
+     "venue_title": "Seeds",
+     "subtitle": null,
+     "original_title": "Seeds",
+     "english_title": "Seeds",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/seeds",
+     "directors": [
+      "Kaniehtiio Horn"
+     ],
+     "year": 2024,
+     "runtime_min": 82,
+     "country": "CDN",
+     "program_films": [],
+     "tmdb_id": 1005860,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:951566",
+       "start": "2026-11-14T22:30+01:00",
+       "time": "22:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/951566",
+       "language": {
+        "raw": "E•OV/e",
+        "description": "English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "seeds-2024",
+     "series_slugs": {
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

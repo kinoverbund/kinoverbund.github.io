@@ -1,0 +1,1165 @@
+{
+ "name": "The Ones We Love",
+ "venues": [
+  "Houdini",
+  "Riffraff"
+ ],
+ "links": {
+  "Houdini": "https://www.theoneswelove.ch/cinemas/houdini-zuerich",
+  "Riffraff": "https://www.theoneswelove.ch/cinemas/riffraff-zuerich"
+ },
+ "about": {
+  "text": "Have you always wanted to see your favorite movie on the big screen? Did you miss the official theatrical release of “Fight Club” because you were still in diapers? Or do you simply want to see classic films and audience favorites in the theater instead of at home on your laptop screen? With The Ones We Love, that’s now possible! Vote for the movie you’d like to see in the theater or suggest movies yourself—we regularly screen the movies with the most votes! You can find more info and the current poll on The Ones We Love.",
+  "lang": "en",
+  "venue": "Riffraff & Houdini",
+  "url": "https://www.riffraff-houdini.ch/de-ch/special/the-ones-we-love.html",
+  "translated": true
+ },
+ "films": [
+  {
+   "title": "Die unendliche Geschichte (The NeverEnding Story)",
+   "venue_title": "Die unendliche Geschichte",
+   "subtitle": null,
+   "original_title": "Die unendliche Geschichte",
+   "english_title": "The NeverEnding Story",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html",
+   "directors": [
+    "Wolfgang Petersen"
+   ],
+   "year": 1984,
+   "runtime_min": 102,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 34584,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "die-unendliche-geschichte-the-neverending-story-1984",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-10-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2276938",
+       "start": "2026-10-24T13:40+02:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html?city=zurich&show=2276938#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2276943",
+       "start": "2026-10-25T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html?city=zurich&show=2276943#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2276944",
+       "start": "2026-10-28T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-unendliche-geschichte.html?city=zurich&show=2276944#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Blade Runner",
+   "venue_title": "Blade Runner",
+   "subtitle": null,
+   "original_title": "Blade Runner",
+   "english_title": "Blade Runner",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/blade-runner.html",
+   "directors": [
+    "Ridley Scott"
+   ],
+   "year": 1982,
+   "runtime_min": 117,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 78,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "blade-runner-1982",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2279941",
+       "start": "2026-10-28T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/blade-runner.html?city=zurich&show=2279941#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2279939",
+       "start": "2026-10-28T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/blade-runner.html?city=zurich&show=2279939#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Lighthouse",
+   "venue_title": "The Lighthouse",
+   "subtitle": null,
+   "original_title": "The Lighthouse",
+   "english_title": "The Lighthouse",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lighthouse.html",
+   "directors": [
+    "Robert Eggers"
+   ],
+   "year": 2019,
+   "runtime_min": 109,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 503919,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2299061",
+       "start": "2026-10-31T23:10+01:00",
+       "time": "23:10",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lighthouse.html?city=zurich&show=2299061#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Spaceballs",
+   "venue_title": "Spaceballs",
+   "subtitle": null,
+   "original_title": "Spaceballs",
+   "english_title": "Spaceballs",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html",
+   "directors": [
+    "Mel Brooks"
+   ],
+   "year": 1987,
+   "runtime_min": 96,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 957,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "spaceballs-1987",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2284744",
+       "start": "2026-11-11T18:50+01:00",
+       "time": "18:50",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html?city=zurich&show=2284744#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2284742",
+       "start": "2026-11-11T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html?city=zurich&show=2284742#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "天使のたまご (Angel's Egg)",
+   "venue_title": "Angel's Egg",
+   "subtitle": null,
+   "original_title": "天使のたまご",
+   "english_title": "Angel's Egg",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/angels-egg.html",
+   "directors": [
+    "Mamoru Oshii"
+   ],
+   "year": 1985,
+   "runtime_min": 71,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 15916,
+   "tmdb_kind": "movie",
+   "original_language": "ja",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-17",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2296019",
+       "start": "2026-11-17T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/angels-egg.html?city=zurich&show=2296019#tickets",
+       "language": {
+        "raw": "ja/de",
+        "description": "Japanese; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Alien",
+   "venue_title": "Alien",
+   "subtitle": null,
+   "original_title": "Alien",
+   "english_title": "Alien",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/alien.html",
+   "directors": [
+    "Ridley Scott"
+   ],
+   "year": 1979,
+   "runtime_min": 117,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 348,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "alien-1979",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2296252",
+       "start": "2026-11-25T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/alien.html?city=zurich&show=2296252#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2296250",
+       "start": "2026-11-25T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/alien.html?city=zurich&show=2296250#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "부산행 (Train to Busan)",
+   "venue_title": "Train to Busan",
+   "subtitle": null,
+   "original_title": "부산행",
+   "english_title": "Train to Busan",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/train-to-busan.html",
+   "directors": [
+    "Sang-ho Yeon"
+   ],
+   "year": 2016,
+   "runtime_min": 118,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 396535,
+   "tmdb_kind": "movie",
+   "original_language": "ko",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "train-to-busan-2016",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2279952",
+       "start": "2026-11-27T23:00+01:00",
+       "time": "23:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/train-to-busan.html?city=zurich&show=2279952#tickets",
+       "language": {
+        "raw": "ko/de",
+        "description": "Korean; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2279959",
+       "start": "2026-11-28T23:00+01:00",
+       "time": "23:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/train-to-busan.html?city=zurich&show=2279959#tickets",
+       "language": {
+        "raw": "ko/de",
+        "description": "Korean; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "How to Train Your Dragon",
+   "venue_title": "Drachenzähmen leicht gemacht",
+   "subtitle": null,
+   "original_title": "How to Train Your Dragon",
+   "english_title": "How to Train Your Dragon",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html",
+   "directors": [
+    "Dean DeBlois",
+    "Chris Sanders"
+   ],
+   "year": 2010,
+   "runtime_min": 97,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 10191,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "how-to-train-your-dragon-2010",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295992",
+       "start": "2026-11-28T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html?city=zurich&show=2295992#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295998",
+       "start": "2026-11-29T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html?city=zurich&show=2295998#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295999",
+       "start": "2026-12-02T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html?city=zurich&show=2295999#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Rocky Horror Picture Show",
+   "venue_title": "The Rocky Horror Picture Show",
+   "subtitle": null,
+   "original_title": "The Rocky Horror Picture Show",
+   "english_title": "The Rocky Horror Picture Show",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-rocky-horror-picture-show.html",
+   "directors": [
+    "Jim Sharman"
+   ],
+   "year": 1975,
+   "runtime_min": 100,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 36685,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "the-rocky-horror-picture-show-1975",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-09",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2301555",
+       "start": "2026-12-09T18:40+01:00",
+       "time": "18:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-rocky-horror-picture-show.html?city=zurich&show=2301555#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2301551",
+       "start": "2026-12-09T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-rocky-horror-picture-show.html?city=zurich&show=2301551#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Lord of the Rings Trilogy (Extended)",
+   "venue_title": "The Lord of the Rings Trilogy (Extended)",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lord-of-the-rings-trilogy-extended.html",
+   "directors": [],
+   "year": 2001,
+   "runtime_min": 723,
+   "country": null,
+   "program_films": [
+    {
+     "title": "The Fellowship of the Ring",
+     "original_title": "The Fellowship of the Ring",
+     "directors": [
+      "Peter Jackson"
+     ],
+     "year": 2001,
+     "runtime_min": null,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "10:30",
+     "notes": [],
+     "venue_title": "The Fellowship of the Ring",
+     "english_title": "The Fellowship of the Ring",
+     "tmdb_id": 120,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    },
+    {
+     "title": "The Two Towers",
+     "original_title": "The Two Towers",
+     "directors": [
+      "Peter Jackson"
+     ],
+     "year": 2002,
+     "runtime_min": null,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "14:40",
+     "notes": [],
+     "venue_title": "The Two Towers",
+     "english_title": "The Two Towers",
+     "tmdb_id": 121,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    },
+    {
+     "title": "The Return of the King",
+     "original_title": "The Return of the King",
+     "directors": [
+      "Peter Jackson"
+     ],
+     "year": 2003,
+     "runtime_min": null,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "19:00",
+     "notes": [],
+     "venue_title": "The Return of the King",
+     "english_title": "The Return of the King",
+     "tmdb_id": 122,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2027-03-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2296296",
+       "start": "2027-03-28T10:30+02:00",
+       "time": "10:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lord-of-the-rings-trilogy-extended.html?city=zurich&show=2296296#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

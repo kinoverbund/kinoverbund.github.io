@@ -1,0 +1,84 @@
+{
+ "name": "After Credits",
+ "venues": [
+  "KINOKONI Zürich"
+ ],
+ "links": {},
+ "about": null,
+ "films": [
+  {
+   "title": "Saturday Night Fever",
+   "venue_title": "Saturday Night Fever",
+   "subtitle": null,
+   "original_title": "Saturday Night Fever",
+   "english_title": "Saturday Night Fever",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/after-credits-saturday-night-fever",
+   "directors": [
+    "John Badham"
+   ],
+   "year": 1977,
+   "runtime_min": 122,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 11009,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "After Credits"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "After Credits": "after-credits-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9512",
+       "start": "2026-11-14T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9512/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "After Credits"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

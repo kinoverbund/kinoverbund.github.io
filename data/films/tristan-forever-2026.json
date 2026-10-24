@@ -1,0 +1,608 @@
+{
+ "name": "Tristan Forever",
+ "venues": [
+  {
+   "title": "Tristan Forever",
+   "venue_title": "Tristan Forever",
+   "subtitle": null,
+   "original_title": "Tristan Forever",
+   "english_title": "Tristan Forever",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html",
+   "directors": [
+    "Tobias Nölle"
+   ],
+   "year": 2026,
+   "runtime_min": 90,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1616138,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue"
+   ],
+   "new": false,
+   "film_slug": "tristan-forever-2026",
+   "series_slugs": {},
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-10-17",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2299949",
+       "start": "2026-10-17T11:30+02:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2299949#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2299950",
+       "start": "2026-10-17T18:20+02:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2299950#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2300000",
+       "start": "2026-10-18T11:30+02:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300000#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2300001",
+       "start": "2026-10-18T18:20+02:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300001#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2300051",
+       "start": "2026-10-19T11:30+02:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300051#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2300052",
+       "start": "2026-10-19T18:20+02:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300052#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2300102",
+       "start": "2026-10-20T11:30+02:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300102#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2300103",
+       "start": "2026-10-20T18:20+02:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300103#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2300153",
+       "start": "2026-10-21T11:30+02:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300153#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2300154",
+       "start": "2026-10-21T18:20+02:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2300154#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2303134",
+       "start": "2026-10-22T16:20+02:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2303134#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2303181",
+       "start": "2026-10-23T16:20+02:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2303181#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2303229",
+       "start": "2026-10-24T16:20+02:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2303229#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2303277",
+       "start": "2026-10-25T16:20+01:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2303277#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2302362",
+       "start": "2026-10-26T16:20+01:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2302362#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2303326",
+       "start": "2026-10-27T16:20+01:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2303326#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2303373",
+       "start": "2026-10-28T16:20+01:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2303373#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

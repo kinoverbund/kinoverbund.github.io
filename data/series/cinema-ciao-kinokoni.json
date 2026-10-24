@@ -1,0 +1,84 @@
+{
+ "name": "Cinema Ciao",
+ "venues": [
+  "KINOKONI Zürich"
+ ],
+ "links": {},
+ "about": null,
+ "films": [
+  {
+   "title": "Sense and Sensibility",
+   "venue_title": "Sense & Sensibility",
+   "subtitle": null,
+   "original_title": "Sense and Sensibility",
+   "english_title": "Sense and Sensibility",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/cinema-ciao-sense-sensibility",
+   "directors": [
+    "Georgia Oakley"
+   ],
+   "year": 2026,
+   "runtime_min": 132,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1503762,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "Cinema Ciao"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "sense-and-sensibility-2026",
+   "series_slugs": {
+    "Cinema Ciao": "cinema-ciao-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9752",
+       "start": "2026-11-10T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9752/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinema Ciao"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

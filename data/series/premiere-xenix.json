@@ -1,0 +1,129 @@
+{
+ "name": "Premiere",
+ "venues": [
+  "Xenix"
+ ],
+ "links": {
+  "Xenix": "https://www.xenix.ch/programm/oktober-2026/premiere"
+ },
+ "about": {
+  "text": "We’re celebrating the premiere of the Swiss film FIRST DAYS by Kim Allamand and Michael Karrer three times over—and each time in a different way: with a double feature at a special price, a live musical accompaniment, and a Q&A with the directors. FIRST DAYS had its world premiere this year at the renowned Rotterdam Film Festival. For the premiere at the Xenix, we’ve teamed up with directors Kim Allamand and Michael Karrer, the production company Sabotage Kollektiv, and the distributor Sister Distribution.",
+  "lang": "en",
+  "venue": "Xenix",
+  "url": "https://www.xenix.ch/programm/oktober-2026/premiere",
+  "translated": true
+ },
+ "films": [
+  {
+   "title": "First Days",
+   "venue_title": "First Days",
+   "subtitle": null,
+   "original_title": "First Days",
+   "english_title": "First Days",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/oktober-2026/premiere/first-days",
+   "directors": [
+    "Kim Allamand",
+    "Michael Karrer"
+   ],
+   "year": 2026,
+   "runtime_min": 70,
+   "country": "CH/F",
+   "program_films": [],
+   "tmdb_id": 1600181,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "xenix",
+   "series": [
+    "Premiere"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "one venue",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Premiere": "premiere-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-10-17",
+     "screenings": [
+      {
+       "id": "xenix:941187",
+       "start": "2026-10-17T20:00+02:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/941187",
+       "language": {
+        "raw": "ohne Dialog",
+        "description": "No dialogue",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "Cinéconcert with Alys AM",
+       "note_lang": null,
+       "series": [
+        "Premiere"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "screenings": [
+      {
+       "id": "xenix:392373",
+       "start": "2026-10-20T20:00+02:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/392373",
+       "language": {
+        "raw": "ohne Dialog",
+        "description": "No dialogue",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "Director's Talk with Kim Allamand and Michael Karrer",
+       "note_lang": null,
+       "series": [
+        "Premiere"
+       ],
+       "label": null,
+       "last": true,
+       "guest": true,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "name": "Rêya Penaber (The Path of the Refugee)",
+ "venues": [
+  {
+   "title": "Rêya Penaber (The Path of the Refugee)",
+   "venue_title": "Rêya Penaber",
+   "subtitle": null,
+   "original_title": "Rêya Penaber",
+   "english_title": "The Path of the Refugee",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/rya-penaber",
+   "directors": [
+    "Rosida Koyuncu"
+   ],
+   "year": 2026,
+   "runtime_min": 74,
+   "country": "CH",
+   "program_films": [],
+   "tmdb_id": 1728607,
+   "tmdb_kind": "movie",
+   "original_language": "ku",
+   "source": "xenix",
+   "series": [
+    "Kurdisches Filmfestival Zürich"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "xenix:960161",
+       "start": "2026-11-21T22:30+01:00",
+       "time": "22:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/960161",
+       "language": {
+        "raw": "E•OV•F•D/d",
+        "description": "English, Original version, French, German; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "With Reya Morgado and possibly Rosida Koyuncu",
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

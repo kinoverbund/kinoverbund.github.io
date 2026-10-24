@@ -1,0 +1,200 @@
+{
+ "name": "Kurzfilmprogramm «Wo wir herkommen» (Short film program “Where We Come From”)",
+ "venues": [
+  {
+   "title": "Kurzfilmprogramm «Wo wir herkommen» (Short film program “Where We Come From”)",
+   "venue_title": "Kurzfilmprogramm «Wo wir herkommen»",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/kurzfilmprogramm-wo-wir-herkommen",
+   "directors": [],
+   "year": null,
+   "runtime_min": null,
+   "country": null,
+   "program_films": [
+    {
+     "title": "Rouge Jaune Vert",
+     "original_title": null,
+     "directors": [
+      "Selin Dettwiler"
+     ],
+     "year": 2021,
+     "runtime_min": 7,
+     "country": "CH",
+     "language_raw": "CH-D/f",
+     "format_raw": null,
+     "start": null,
+     "notes": [],
+     "language": {
+      "raw": "CH-D/f",
+      "description": "Swiss German; subtitles: French"
+     },
+     "format": null
+    },
+    {
+     "title": "Rengê Kevir (Color of the Stone)",
+     "original_title": "Rengê Kevir",
+     "directors": [
+      "Tuğba Yaşar"
+     ],
+     "year": 2025,
+     "runtime_min": 8,
+     "country": "Bakur/TR",
+     "language_raw": "OV/e",
+     "format_raw": null,
+     "start": null,
+     "notes": [],
+     "venue_title": "RENGÊ KEVIR (COLOR OF STONE)",
+     "english_title": "Color of the Stone",
+     "tmdb_id": 1504524,
+     "tmdb_kind": "movie",
+     "original_language": "ku",
+     "language": {
+      "raw": "OV/e",
+      "description": "Original version; subtitles: English"
+     },
+     "format": null
+    },
+    {
+     "title": "Dancing Amid Fire, Sising Above Ruins",
+     "original_title": null,
+     "directors": [
+      "Essmat Sophie"
+     ],
+     "year": 2023,
+     "runtime_min": 6,
+     "country": "NO",
+     "language_raw": "OV•E/e",
+     "format_raw": null,
+     "start": null,
+     "notes": [],
+     "language": {
+      "raw": "OV•E/e",
+      "description": "Original version, English; subtitles: English"
+     },
+     "format": null
+    },
+    {
+     "title": "Uncle Ali and I",
+     "original_title": null,
+     "directors": [
+      "Shahab Mehrabi"
+     ],
+     "year": 2026,
+     "runtime_min": 14,
+     "country": "SE/IR",
+     "language_raw": "OV/e",
+     "format_raw": null,
+     "start": null,
+     "notes": [],
+     "language": {
+      "raw": "OV/e",
+      "description": "Original version; subtitles: English"
+     },
+     "format": null
+    },
+    {
+     "title": "Unser Name ist Ausländer (Our Name is Foreigner)",
+     "original_title": "Unser Name ist Ausländer",
+     "directors": [
+      "Selin Besili"
+     ],
+     "year": 2024,
+     "runtime_min": 21,
+     "country": "CH",
+     "language_raw": "CH-D•OV/de",
+     "format_raw": null,
+     "start": null,
+     "notes": [],
+     "venue_title": "UNSER NAME IST AUSLÄNDER",
+     "english_title": "Our Name is Foreigner",
+     "tmdb_id": 1444281,
+     "tmdb_kind": "movie",
+     "original_language": "ku",
+     "language": {
+      "raw": "CH-D•OV/de",
+      "description": "Swiss German, Original version; subtitles: German, English"
+     },
+     "format": null
+    },
+    {
+     "title": "Les Mots qui Restent",
+     "original_title": null,
+     "directors": [
+      "Jowan Rousseau"
+     ],
+     "year": 2025,
+     "runtime_min": 3,
+     "country": "F",
+     "language_raw": "F/e",
+     "format_raw": null,
+     "start": null,
+     "notes": [],
+     "language": {
+      "raw": "F/e",
+      "description": "French; subtitles: English"
+     },
+     "format": null
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "xenix",
+   "series": [
+    "Kurdisches Filmfestival Zürich"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "xenix:577791",
+       "start": "2026-11-21T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/577791",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "unknown",
+        "presentation": [],
+        "assumed": false,
+        "raw": null
+       },
+       "note": "With the directors",
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

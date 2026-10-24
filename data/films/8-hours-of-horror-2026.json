@@ -1,0 +1,152 @@
+{
+ "name": "8 Hours of Horror",
+ "venues": [
+  {
+   "title": "8 Hours of Horror",
+   "venue_title": "8 Hours of Horror",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/8-hours-of-horror.html",
+   "directors": [],
+   "year": 2026,
+   "runtime_min": 515,
+   "country": null,
+   "program_films": [
+    {
+     "title": "?",
+     "original_title": null,
+     "directors": [
+      "?"
+     ],
+     "year": null,
+     "runtime_min": 120,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "2026-10-24T23:15+02:00",
+     "notes": [],
+     "language": null,
+     "format": {
+      "format": "dcp",
+      "presentation": []
+     }
+    },
+    {
+     "title": "?",
+     "original_title": null,
+     "directors": [
+      "?"
+     ],
+     "year": null,
+     "runtime_min": 115,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "2026-10-25T01:30+02:00",
+     "notes": [],
+     "language": null,
+     "format": {
+      "format": "dcp",
+      "presentation": []
+     }
+    },
+    {
+     "title": "?",
+     "original_title": null,
+     "directors": [
+      "?"
+     ],
+     "year": null,
+     "runtime_min": 110,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "2026-10-25T02:50+01:00",
+     "notes": [],
+     "language": null,
+     "format": {
+      "format": "dcp",
+      "presentation": []
+     }
+    },
+    {
+     "title": "?",
+     "original_title": null,
+     "directors": [
+      "?"
+     ],
+     "year": null,
+     "runtime_min": 90,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "2026-10-25T05:05+01:00",
+     "notes": [],
+     "language": null,
+     "format": {
+      "format": "dcp",
+      "presentation": []
+     }
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [
+    "Special"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "special"
+   ],
+   "new": false,
+   "mystery": true,
+   "series_slugs": {},
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2283434",
+       "start": "2026-10-24T23:00+02:00",
+       "time": "23:00",
+       "auditoriums": [
+        "Riffraff 1",
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/8-hours-of-horror.html?city=zurich&show=2283434#tickets",
+       "language": {
+        "raw": "dive",
+        "description": "Various languages",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special",
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

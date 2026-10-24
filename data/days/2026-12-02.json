@@ -1,0 +1,293 @@
+{
+ "date": "2026-12-02",
+ "venues": [
+  {
+   "name": "Houdini",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "How to Train Your Dragon",
+     "venue_title": "Drachenzähmen leicht gemacht",
+     "subtitle": null,
+     "original_title": "How to Train Your Dragon",
+     "english_title": "How to Train Your Dragon",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html",
+     "directors": [
+      "Dean DeBlois",
+      "Chris Sanders"
+     ],
+     "year": 2010,
+     "runtime_min": 97,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 10191,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [
+      "The Ones We Love"
+     ],
+     "labels": [
+      "The Ones We Love"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295999",
+       "start": "2026-12-02T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/drachenzaehmen-leicht-gemacht.html?city=zurich&show=2295999#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "how-to-train-your-dragon-2010",
+     "series_slugs": {
+      "The Ones We Love": "the-ones-we-love-neugass-kino"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "Momo alla conquista del tempo (Momo)",
+     "venue_title": "Momo",
+     "subtitle": null,
+     "original_title": "Momo alla conquista del tempo",
+     "english_title": "Momo",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/kinderkino/momo",
+     "directors": [
+      "Enzo D’Alò"
+     ],
+     "year": 2001,
+     "runtime_min": 77,
+     "country": "I/D",
+     "program_films": [],
+     "tmdb_id": 24179,
+     "tmdb_kind": "movie",
+     "original_language": "it",
+     "source": "xenix",
+     "series": [
+      "Kinderkino"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:959262",
+       "start": "2026-12-02T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/959262",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kinderkino"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "momo-alla-conquista-del-tempo-momo-2001",
+     "series_slugs": {
+      "Kinderkino": "kinderkino-xenix"
+     }
+    },
+    {
+     "title": "The Lost Daughter",
+     "venue_title": "The Lost Daughter",
+     "subtitle": null,
+     "original_title": "The Lost Daughter",
+     "english_title": "The Lost Daughter",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/the-lost-daughter",
+     "directors": [
+      "Maggie Gyllenhaal"
+     ],
+     "year": 2021,
+     "runtime_min": 122,
+     "country": "GK/GB/USA",
+     "program_films": [],
+     "tmdb_id": 554230,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:777813",
+       "start": "2026-12-02T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/777813",
+       "language": {
+        "raw": "E•I•OV/d",
+        "description": "English, Italian, Original version; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-lost-daughter-2021",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    },
+    {
+     "title": "Hamnet",
+     "venue_title": "Hamnet",
+     "subtitle": null,
+     "original_title": "Hamnet",
+     "english_title": "Hamnet",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/hamnet",
+     "directors": [
+      "Chloé Zhao"
+     ],
+     "year": 2025,
+     "runtime_min": 125,
+     "country": "GB/USA",
+     "program_films": [],
+     "tmdb_id": 858024,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:928358",
+       "start": "2026-12-02T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/928358",
+       "language": {
+        "raw": "E/df",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "hamnet-2025",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

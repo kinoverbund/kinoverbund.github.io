@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Venue · ZKV</title>
+  <meta name="description" content="A Zürich cinema’s screenings, day by day: films, directors, formats, languages and times, with the address and links.">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="canonical" href="https://kinoverbund.github.io/venue.html">
+  <meta property="og:url" content="https://kinoverbund.github.io/venue.html">
+  <meta property="og:title" content="Venue · ZKV">
+  <meta property="og:description" content="A Zürich cinema’s screenings, day by day: films, directors, formats, languages and times, with the address and links.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://kinoverbund.github.io/share.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="ZKV, Zürcher Kinoverbund">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preload" href="fonts/texgyreheros-regular-core.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/texgyreheros-bold-core.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="data/index.json" as="fetch" crossorigin>
+  <link rel="modulepreload" href="lib.js">
+  <!-- A saved Light/Dark choice, applied before the page draws (no flash). -->
+  <script>try{var t=localStorage.getItem("zkv-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="venue.js"></script>
+</head>
+<body>
+  <a class="skip" href="#listing">Skip to listings</a>
+
+  <header class="masthead">
+    <div class="grid">
+      <div class="topbar">
+        <p class="site-name"><a href="./"><img class="site-mark" src="favicon.svg" alt="" width="40" height="40"><span class="site-words"><span class="site-abbr">ZKV</span><span class="site-full">Zürcher Kinoverbund</span></span></a></p>
+        <nav class="site-nav" aria-label="Site"><a href="venues.html">Venues</a><a href="faq.html">FAQ</a></nav>
+      </div>
+      <p class="site-tagline">Rep. Prints. One-offs. Daily.</p>
+
+      <h1 class="page-title" id="page-title">&nbsp;</h1>
+      <div class="page-facts" id="page-facts"></div>
+
+      <div class="day-head day-head--sub" id="day-head">
+        <h2 class="date date--sub" id="screenings-h">
+          <span class="date-weekday" id="date-weekday">&nbsp;</span>
+          <span class="date-day" id="date-day">&nbsp;</span>
+        </h2>
+        <nav class="day-step" aria-label="Change day">
+          <a class="today-link is-here" id="today-link">Today</a>
+          <a class="step" id="prev-day" rel="prev" aria-label="Previous day" title="Previous day (←)" aria-keyshortcuts="ArrowLeft" aria-disabled="true">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5 8 12l7 7"/></svg>
+          </a>
+          <a class="step" id="next-day" rel="next" aria-label="Next day" title="Next day (→)" aria-keyshortcuts="ArrowRight" aria-disabled="true">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 7 7-7 7"/></svg>
+          </a>
+        </nav>
+      </div>
+
+      <nav class="strip" aria-label="Days at this venue">
+        <ol class="strip-list" id="strip"></ol>
+      </nav>
+    </div>
+  </header>
+
+  <noscript><p class="status grid">The listings need JavaScript to show. Each cinema’s own website has its program.</p></noscript>
+  <main id="listing" class="listing" tabindex="-1" aria-busy="true">
+    <p class="status grid">Loading…</p>
+  </main>
+
+  <footer class="colophon">
+    <div class="grid">
+      <p class="updated" id="updated"></p>
+      <p class="stale" id="stale" hidden></p>
+      <p class="about">Screenings come from the cinemas’ own websites, collected once a day. Titles link to each film’s page at the cinema, where tickets are sold. Always check with the cinema before you go. How the listings work is explained in the <a href="faq.html">FAQ</a>.</p>
+      <div class="tmdb">
+        <a href="https://www.themoviedb.org/" class="tmdb-logo"><img src="tmdb-logo.svg" alt="The Movie Database (TMDB)" width="120" height="16"></a>
+        <p>This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

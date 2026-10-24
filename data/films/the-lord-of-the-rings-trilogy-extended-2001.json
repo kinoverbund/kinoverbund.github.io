@@ -1,0 +1,143 @@
+{
+ "name": "The Lord of the Rings Trilogy (Extended)",
+ "venues": [
+  {
+   "title": "The Lord of the Rings Trilogy (Extended)",
+   "venue_title": "The Lord of the Rings Trilogy (Extended)",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lord-of-the-rings-trilogy-extended.html",
+   "directors": [],
+   "year": 2001,
+   "runtime_min": 723,
+   "country": null,
+   "program_films": [
+    {
+     "title": "The Fellowship of the Ring",
+     "original_title": "The Fellowship of the Ring",
+     "directors": [
+      "Peter Jackson"
+     ],
+     "year": 2001,
+     "runtime_min": null,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "10:30",
+     "notes": [],
+     "venue_title": "The Fellowship of the Ring",
+     "english_title": "The Fellowship of the Ring",
+     "tmdb_id": 120,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    },
+    {
+     "title": "The Two Towers",
+     "original_title": "The Two Towers",
+     "directors": [
+      "Peter Jackson"
+     ],
+     "year": 2002,
+     "runtime_min": null,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "14:40",
+     "notes": [],
+     "venue_title": "The Two Towers",
+     "english_title": "The Two Towers",
+     "tmdb_id": 121,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    },
+    {
+     "title": "The Return of the King",
+     "original_title": "The Return of the King",
+     "directors": [
+      "Peter Jackson"
+     ],
+     "year": 2003,
+     "runtime_min": null,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "19:00",
+     "notes": [],
+     "venue_title": "The Return of the King",
+     "english_title": "The Return of the King",
+     "tmdb_id": 122,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2027-03-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2296296",
+       "start": "2027-03-28T10:30+02:00",
+       "time": "10:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lord-of-the-rings-trilogy-extended.html?city=zurich&show=2296296#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

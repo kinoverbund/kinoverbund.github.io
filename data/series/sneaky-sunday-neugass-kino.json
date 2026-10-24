@@ -1,0 +1,584 @@
+{
+ "name": "Sneaky Sunday",
+ "venues": [
+  "Riffraff"
+ ],
+ "links": {
+  "Riffraff": "https://www.riffraff-houdini.ch/de-ch/special/sneaky-sunday.html"
+ },
+ "about": {
+  "text": "Under the “Sneaky Sunday” banner, the Riffraff presents an exclusive Preview every Sunday evening, including a drink—with a movie ticket for just 10 CHF. Presented by “Ron Orp”",
+  "lang": "en",
+  "venue": "Riffraff",
+  "url": "https://www.riffraff-houdini.ch/de-ch/special/sneaky-sunday.html",
+  "translated": true
+ },
+ "films": [
+  {
+   "title": "Frank & Louis",
+   "venue_title": "Frank & Louis",
+   "subtitle": null,
+   "original_title": "Frank & Louis",
+   "english_title": "Frank & Louis",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html",
+   "directors": [
+    "Petra Volpe"
+   ],
+   "year": 2026,
+   "runtime_min": 96,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1596287,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "frank-louis-2026",
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295924",
+       "start": "2026-10-18T21:00+02:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2295924#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Die Zukunft ist Vergangenheit",
+   "venue_title": "Die Zukunft ist Vergangenheit",
+   "subtitle": null,
+   "original_title": "Die Zukunft ist Vergangenheit",
+   "english_title": "Die Zukunft ist Vergangenheit",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html",
+   "directors": [
+    "Stephan Schulz",
+    "Julian Kirchner"
+   ],
+   "year": 2026,
+   "runtime_min": 99,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1767401,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "die-zukunft-ist-vergangenheit-2026",
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2287628",
+       "start": "2026-10-25T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2287628#tickets",
+       "language": {
+        "raw": "ch",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Wild Horse Nine",
+   "venue_title": "Wild Horse Nine",
+   "subtitle": null,
+   "original_title": "Wild Horse Nine",
+   "english_title": "Wild Horse Nine",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/wild-horse-nine.html",
+   "directors": [
+    "Martin McDonagh"
+   ],
+   "year": 2026,
+   "runtime_min": 117,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 891621,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "wild-horse-nine-2026",
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2291646",
+       "start": "2026-11-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wild-horse-nine.html?city=zurich&show=2291646#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Orwell: 2+2=5",
+   "venue_title": "Orwell: 2+2=5",
+   "subtitle": null,
+   "original_title": "Orwell: 2+2=5",
+   "english_title": "Orwell: 2+2=5",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html",
+   "directors": [
+    "Raoul Peck"
+   ],
+   "year": 2025,
+   "runtime_min": 119,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1098534,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "orwell-2-2-5-2025",
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2291809",
+       "start": "2026-11-08T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2291809#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Loneliest Man in Town",
+   "venue_title": "The Loneliest Man in Town",
+   "subtitle": null,
+   "original_title": "The Loneliest Man in Town",
+   "english_title": "The Loneliest Man in Town",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-loneliest-man-in-town.html",
+   "directors": [
+    "Tizza Covi",
+    "Rainer Frimmel"
+   ],
+   "year": 2026,
+   "runtime_min": 86,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1426957,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2296264",
+       "start": "2026-11-15T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-loneliest-man-in-town.html?city=zurich&show=2296264#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Enjoy Your Stay",
+   "venue_title": "Enjoy Your Stay",
+   "subtitle": null,
+   "original_title": "Enjoy Your Stay",
+   "english_title": "Enjoy Your Stay",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/enjoy-your-stay.html",
+   "directors": [
+    "Dominik Locher"
+   ],
+   "year": 2026,
+   "runtime_min": 100,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1616187,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2295964",
+       "start": "2026-11-22T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/enjoy-your-stay.html?city=zurich&show=2295964#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "You Can See Everything",
+   "venue_title": "You Can See Everything",
+   "subtitle": null,
+   "original_title": "You Can See Everything",
+   "english_title": "You Can See Everything",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html",
+   "directors": [
+    "Nathan Fielder",
+    "Lance Oppenheim"
+   ],
+   "year": 2026,
+   "runtime_min": 174,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1765072,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "you-can-see-everything-2026",
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306113",
+       "start": "2026-11-29T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2306113#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2306336",
+       "start": "2026-11-29T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2306336#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "name": "La Haine",
+ "venues": [
+  {
+   "title": "La Haine",
+   "venue_title": "La Haine",
+   "subtitle": null,
+   "original_title": "La Haine",
+   "english_title": "La Haine",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/oktober-2026/schoener-wohnen--geschichten-der-gentrifizierung/la-haine",
+   "directors": [
+    "Mathieu Kassovitz"
+   ],
+   "year": 1995,
+   "runtime_min": 98,
+   "country": "F",
+   "program_films": [],
+   "tmdb_id": 406,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "xenix",
+   "series": [
+    "Schöner wohnen! – Geschichten der Gentrifizierung"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Schöner wohnen! – Geschichten der Gentrifizierung": "schoner-wohnen-geschichten-der-gentrifizierung-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "screenings": [
+      {
+       "id": "xenix:953182",
+       "start": "2026-10-26T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/953182",
+       "language": {
+        "raw": "F/d",
+        "description": "French; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, s/w"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Schöner wohnen! – Geschichten der Gentrifizierung"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

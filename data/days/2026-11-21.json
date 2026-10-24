@@ -1,0 +1,680 @@
+{
+ "date": "2026-11-21",
+ "venues": [
+  {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "The Hunger Games",
+     "venue_title": "The Hunger Games",
+     "subtitle": null,
+     "original_title": "The Hunger Games",
+     "english_title": "The Hunger Games",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-hunger-games",
+     "directors": [
+      "Gary Ross"
+     ],
+     "year": 2012,
+     "runtime_min": 142,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 70160,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "Hunger Games"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-8920",
+       "start": "2026-11-21T12:30+01:00",
+       "time": "12:30",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8920/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Hunger Games"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Hunger Games": "hunger-games-kinokoni"
+     }
+    },
+    {
+     "title": "The Hunger Games: Catching Fire",
+     "venue_title": "The Hunger Games - Catching Fire",
+     "subtitle": null,
+     "original_title": "The Hunger Games: Catching Fire",
+     "english_title": "The Hunger Games: Catching Fire",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-hunger-games-catching-fire",
+     "directors": [
+      "Francis Lawrence"
+     ],
+     "year": 2013,
+     "runtime_min": 146,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 101299,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "Hunger Games"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-8921",
+       "start": "2026-11-21T15:10+01:00",
+       "time": "15:10",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8921/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Hunger Games"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Hunger Games": "hunger-games-kinokoni"
+     }
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 1",
+     "venue_title": "The Hunger Games - Mockingjay Part 1",
+     "subtitle": null,
+     "original_title": "The Hunger Games: Mockingjay - Part 1",
+     "english_title": "The Hunger Games: Mockingjay - Part 1",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-hunger-games-mockingjay-part-1",
+     "directors": [
+      "Francis Lawrence"
+     ],
+     "year": 2014,
+     "runtime_min": 123,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 131631,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "Hunger Games"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-8923",
+       "start": "2026-11-21T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8923/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Hunger Games"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Hunger Games": "hunger-games-kinokoni"
+     }
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "venue_title": "The Hunger Games - Mockingjay Part 2",
+     "subtitle": null,
+     "original_title": "The Hunger Games: Mockingjay - Part 2",
+     "english_title": "The Hunger Games: Mockingjay - Part 2",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-hunger-games-mockingjay-part-2",
+     "directors": [
+      "Francis Lawrence"
+     ],
+     "year": 2015,
+     "runtime_min": 137,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 131634,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "Hunger Games"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-8922",
+       "start": "2026-11-21T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8922/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Hunger Games"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Hunger Games": "hunger-games-kinokoni"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "Kurzfilmprogramm «Wo wir herkommen» (Short film program “Where We Come From”)",
+     "venue_title": "Kurzfilmprogramm «Wo wir herkommen»",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "program",
+     "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/kurzfilmprogramm-wo-wir-herkommen",
+     "directors": [],
+     "year": null,
+     "runtime_min": null,
+     "country": null,
+     "program_films": [
+      {
+       "title": "Rouge Jaune Vert",
+       "original_title": null,
+       "directors": [
+        "Selin Dettwiler"
+       ],
+       "year": 2021,
+       "runtime_min": 7,
+       "country": "CH",
+       "language_raw": "CH-D/f",
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": {
+        "raw": "CH-D/f",
+        "description": "Swiss German; subtitles: French"
+       },
+       "format": null
+      },
+      {
+       "title": "Rengê Kevir (Color of the Stone)",
+       "original_title": "Rengê Kevir",
+       "directors": [
+        "Tuğba Yaşar"
+       ],
+       "year": 2025,
+       "runtime_min": 8,
+       "country": "Bakur/TR",
+       "language_raw": "OV/e",
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "venue_title": "RENGÊ KEVIR (COLOR OF STONE)",
+       "english_title": "Color of the Stone",
+       "tmdb_id": 1504524,
+       "tmdb_kind": "movie",
+       "original_language": "ku",
+       "language": {
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English"
+       },
+       "format": null
+      },
+      {
+       "title": "Dancing Amid Fire, Sising Above Ruins",
+       "original_title": null,
+       "directors": [
+        "Essmat Sophie"
+       ],
+       "year": 2023,
+       "runtime_min": 6,
+       "country": "NO",
+       "language_raw": "OV•E/e",
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": {
+        "raw": "OV•E/e",
+        "description": "Original version, English; subtitles: English"
+       },
+       "format": null
+      },
+      {
+       "title": "Uncle Ali and I",
+       "original_title": null,
+       "directors": [
+        "Shahab Mehrabi"
+       ],
+       "year": 2026,
+       "runtime_min": 14,
+       "country": "SE/IR",
+       "language_raw": "OV/e",
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": {
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English"
+       },
+       "format": null
+      },
+      {
+       "title": "Unser Name ist Ausländer (Our Name is Foreigner)",
+       "original_title": "Unser Name ist Ausländer",
+       "directors": [
+        "Selin Besili"
+       ],
+       "year": 2024,
+       "runtime_min": 21,
+       "country": "CH",
+       "language_raw": "CH-D•OV/de",
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "venue_title": "UNSER NAME IST AUSLÄNDER",
+       "english_title": "Our Name is Foreigner",
+       "tmdb_id": 1444281,
+       "tmdb_kind": "movie",
+       "original_language": "ku",
+       "language": {
+        "raw": "CH-D•OV/de",
+        "description": "Swiss German, Original version; subtitles: German, English"
+       },
+       "format": null
+      },
+      {
+       "title": "Les Mots qui Restent",
+       "original_title": null,
+       "directors": [
+        "Jowan Rousseau"
+       ],
+       "year": 2025,
+       "runtime_min": 3,
+       "country": "F",
+       "language_raw": "F/e",
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": {
+        "raw": "F/e",
+        "description": "French; subtitles: English"
+       },
+       "format": null
+      }
+     ],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "xenix",
+     "series": [
+      "Kurdisches Filmfestival Zürich"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:577791",
+       "start": "2026-11-21T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/577791",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "unknown",
+        "presentation": [],
+        "assumed": false,
+        "raw": null
+       },
+       "note": "With the directors",
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+     }
+    },
+    {
+     "title": "Arzela From Amed",
+     "venue_title": "Arzela from Amed",
+     "subtitle": null,
+     "original_title": "Arzela From Amed",
+     "english_title": "Arzela From Amed",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/arzela-from-amed",
+     "directors": [
+      "Elif Yiğit",
+      "Johannes Paech"
+     ],
+     "year": 2025,
+     "runtime_min": 65,
+     "country": "Nordkurdistan (Bakûr)/Türkei",
+     "program_films": [],
+     "tmdb_id": 1692562,
+     "tmdb_kind": "movie",
+     "original_language": "ku",
+     "source": "xenix",
+     "series": [
+      "Kurdisches Filmfestival Zürich"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:813071",
+       "start": "2026-11-21T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/813071",
+       "language": {
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+     }
+    },
+    {
+     "title": "همه کوه ها می دهند (All the Mountains Give)",
+     "venue_title": "All the Mountains Give",
+     "subtitle": null,
+     "original_title": "همه کوه ها می دهند",
+     "english_title": "All the Mountains Give",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/all-the-mountains-give",
+     "directors": [
+      "Arash Rakhsha"
+     ],
+     "year": 2024,
+     "runtime_min": 90,
+     "country": "Ostkurdistan (Rojhelat)/Iran/USA",
+     "program_films": [],
+     "tmdb_id": 1330464,
+     "tmdb_kind": "movie",
+     "original_language": "ku",
+     "source": "xenix",
+     "series": [
+      "Kurdisches Filmfestival Zürich"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:292276",
+       "start": "2026-11-21T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/292276",
+       "language": {
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "With director Arash Rakhsha",
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+     }
+    },
+    {
+     "title": "Rêya Penaber (The Path of the Refugee)",
+     "venue_title": "Rêya Penaber",
+     "subtitle": null,
+     "original_title": "Rêya Penaber",
+     "english_title": "The Path of the Refugee",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/rya-penaber",
+     "directors": [
+      "Rosida Koyuncu"
+     ],
+     "year": 2026,
+     "runtime_min": 74,
+     "country": "CH",
+     "program_films": [],
+     "tmdb_id": 1728607,
+     "tmdb_kind": "movie",
+     "original_language": "ku",
+     "source": "xenix",
+     "series": [
+      "Kurdisches Filmfestival Zürich"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:960161",
+       "start": "2026-11-21T22:30+01:00",
+       "time": "22:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/960161",
+       "language": {
+        "raw": "E•OV•F•D/d",
+        "description": "English, Original version, French, German; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "With Reya Morgado and possibly Rosida Koyuncu",
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ],
+     "series_slugs": {
+      "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

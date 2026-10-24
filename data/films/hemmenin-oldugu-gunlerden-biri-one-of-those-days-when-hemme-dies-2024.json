@@ -1,0 +1,78 @@
+{
+ "name": "Hemme’nin Öldüğü Günlerden Biri (One of Those Days When Hemme Dies)",
+ "venues": [
+  {
+   "title": "Hemme’nin Öldüğü Günlerden Biri (One of Those Days When Hemme Dies)",
+   "venue_title": "One of Those Days When Hemme Dies",
+   "subtitle": null,
+   "original_title": "Hemme’nin Öldüğü Günlerden Biri",
+   "english_title": "One of Those Days When Hemme Dies",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/one-of-those-days-when-hemme-dies",
+   "directors": [
+    "Murat Fıratoğlu"
+   ],
+   "year": 2024,
+   "runtime_min": 82,
+   "country": "Nordkurdistan (Bakûr)/Türkei",
+   "program_films": [],
+   "tmdb_id": 1320279,
+   "tmdb_kind": "movie",
+   "original_language": "tr",
+   "source": "xenix",
+   "series": [
+    "Kurdisches Filmfestival Zürich"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-20",
+     "screenings": [
+      {
+       "id": "xenix:897660",
+       "start": "2026-11-20T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/897660",
+       "language": {
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "With director and lead actor Murat Fıratoğlu",
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

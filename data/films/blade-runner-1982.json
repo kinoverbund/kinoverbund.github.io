@@ -1,0 +1,115 @@
+{
+ "name": "Blade Runner",
+ "venues": [
+  {
+   "title": "Blade Runner",
+   "venue_title": "Blade Runner",
+   "subtitle": null,
+   "original_title": "Blade Runner",
+   "english_title": "Blade Runner",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/blade-runner.html",
+   "directors": [
+    "Ridley Scott"
+   ],
+   "year": 1982,
+   "runtime_min": 117,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 78,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "blade-runner-1982",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2279941",
+       "start": "2026-10-28T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/blade-runner.html?city=zurich&show=2279941#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2279939",
+       "start": "2026-10-28T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/blade-runner.html?city=zurich&show=2279939#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

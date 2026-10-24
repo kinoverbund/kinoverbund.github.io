@@ -1,0 +1,119 @@
+{
+ "name": "부산행 (Train to Busan)",
+ "venues": [
+  {
+   "title": "부산행 (Train to Busan)",
+   "venue_title": "Train to Busan",
+   "subtitle": null,
+   "original_title": "부산행",
+   "english_title": "Train to Busan",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/train-to-busan.html",
+   "directors": [
+    "Sang-ho Yeon"
+   ],
+   "year": 2016,
+   "runtime_min": 118,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 396535,
+   "tmdb_kind": "movie",
+   "original_language": "ko",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "train-to-busan-2016",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2279952",
+       "start": "2026-11-27T23:00+01:00",
+       "time": "23:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/train-to-busan.html?city=zurich&show=2279952#tickets",
+       "language": {
+        "raw": "ko/de",
+        "description": "Korean; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2279959",
+       "start": "2026-11-28T23:00+01:00",
+       "time": "23:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/train-to-busan.html?city=zurich&show=2279959#tickets",
+       "language": {
+        "raw": "ko/de",
+        "description": "Korean; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

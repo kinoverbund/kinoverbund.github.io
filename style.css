@@ -1,0 +1,1013 @@
+/* TeX Gyre Heros (GUST Font License, see fonts/GUST-FONT-LICENSE.txt) */
+/* TeX Gyre Heros in two parts per weight (scripts/subset-fonts.sh): the core,
+   preloaded by every page, and everything else the font has (more Latin, Greek,
+   Vietnamese, symbols), fetched only when a page uses one of its characters.
+   Other scripts (Japanese, Cyrillic …) were never in the font: system fonts. */
+@font-face {
+  font-family: "Heros";
+  src: url("fonts/texgyreheros-regular-core.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2212;
+}
+@font-face {
+  font-family: "Heros";
+  src: url("fonts/texgyreheros-regular-ext.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-0130, U+0132-0151, U+0154-02C5, U+02C7-02D9, U+02DB, U+02DD-1FFF, U+2070-20AB, U+20AD-2121, U+2123-2211, U+2213-DFFF;
+}
+@font-face {
+  font-family: "Heros";
+  src: url("fonts/texgyreheros-bold-core.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2212;
+}
+@font-face {
+  font-family: "Heros";
+  src: url("fonts/texgyreheros-bold-ext.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-0130, U+0132-0151, U+0154-02C5, U+02C7-02D9, U+02DB, U+02DD-1FFF, U+2070-20AB, U+20AD-2121, U+2123-2211, U+2213-DFFF;
+}
+
+:root {
+  --ground: #ffffff;
+  --ink: #111111;
+  --ink-2: #4d4d4d;     /* info lines, secondary text: 8.5:1 on white */
+  --ink-3: #6e6e6e;     /* past and unavailable: 5.1:1 on white */
+  --rule: #111111;
+  --hair: #d9d9d9;
+  --wash: #f2f2f2;      /* hover fill on outlined controls */
+  --red: #d6000f;       /* series, active filter, today: 5.5:1 on white */
+  --red-fill: #d6000f;  /* red as a surface (Today, pressed filter, selection) */
+  --red-ink: #ffffff;   /* text on --red-fill: 5.4:1 */
+  color-scheme: light dark;
+
+  --font: "Heros", "Helvetica Neue", Helvetica, Arial, "Apple SD Gothic Neo", "Noto Sans", "Noto Sans Arabic", sans-serif;
+
+  --gutter: 16px;
+  --max: 1200px;
+  --unit: 4px;
+
+  --step--1: 0.8125rem;  /* 13px info line */
+  --step-0: 1rem;        /* 16px body, times */
+  --step-1: 1.125rem;    /* 18px titles */
+  --step-2: 1.625rem;    /* 26px venue */
+  --step-4: clamp(2.75rem, 1.6rem + 5.6vw, 5.5rem); /* the date */
+  /* Roles named as in DESIGN.md's type ramp. */
+  --size-small: 0.875rem;      /* 14px footer, sources */
+  --size-body-sm: 0.9375rem;   /* 15px notes, venue jump list */
+  --size-title-lg: 1.25rem;    /* 20px film titles from 900px */
+  --size-numeral: 1.375rem;    /* 22px strip day numbers */
+  --size-headline-lg: 2rem;    /* 32px venue name, venue-page date from 900px */
+  --size-headline-xl: 2.375rem; /* 38px the same from 1200px */
+  --size-page-title: clamp(2.5rem, 1.5rem + 4.8vw, 4rem); /* venue names */
+  --size-series-title: clamp(2.25rem, 0.6rem + 6.4vw, 5.5rem); /* series names: the date's scale, smaller on phones */
+  /* Uppercase labels: one tracking per weight. */
+  --track-caps: 0.04em;
+  --track-caps-bold: 0.05em;
+
+  color-scheme: light;
+}
+
+/* Dark theme (colorize 2026-10-19). Composed, not inverted: near-black ground, off-white
+   ink, the same roles and the one red. Red text is lifted to read on black; red surfaces
+   keep the deeper red so white on them holds. It follows the system setting unless the
+   visitor picks Light or Dark in the footer (data-theme on <html>, set before paint). */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #111111;
+    --ink: #ececec;       /* 15:1 on the ground */
+    --ink-2: #a6a6a6;     /* 7.7:1 */
+    --ink-3: #828282;     /* past and unavailable: 4.9:1 */
+    --rule: #ececec;
+    --hair: #333333;
+    --wash: #222222;
+    --red: #ff4f4a;       /* 5.9:1 on the ground */
+    --red-fill: #d6000f;
+    --red-ink: #ffffff;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --ground: #111111;
+  --ink: #ececec;       /* 15:1 on the ground */
+  --ink-2: #a6a6a6;     /* 7.7:1 */
+  --ink-3: #828282;     /* past and unavailable: 4.9:1 */
+  --rule: #ececec;
+  --hair: #333333;
+  --wash: #222222;
+  --red: #ff4f4a;       /* 5.9:1 on the ground */
+  --red-fill: #d6000f;
+  --red-ink: #ffffff;
+}
+:root[data-theme="light"] { color-scheme: light; }
+
+@media (min-width: 900px) {
+  :root { --gutter: 32px; }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: 64px;
+}
+/* The FAQ pins only each answer's own question, so a jump lands flush at the top
+   instead of keeping the previous question's pinned heading above it. */
+html:has(.listing--faq) { scroll-padding-top: 0; }
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: var(--step-0);
+  line-height: 1.35;
+  font-variant-numeric: tabular-nums;
+  font-kerning: normal;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection { background: var(--red-fill); color: var(--red-ink); }
+
+a { color: inherit; text-decoration: none; }
+a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.18em; text-decoration-color: var(--red); }
+
+:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 2px;
+}
+
+h1, h2, h3, p, ol, ul { margin: 0; }
+ol, ul { list-style: none; padding: 0; }
+button { font: inherit; color: inherit; }
+[hidden] { display: none !important; }
+
+.visually-hidden {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}
+
+.skip {
+  position: absolute; left: var(--gutter); top: -100px;
+  background: var(--ink); color: var(--ground); padding: 8px 12px; z-index: 10;
+}
+.skip:focus { top: 8px; }
+
+/* ---------- Grid ---------- */
+
+.grid {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead { padding-top: 20px; padding-bottom: 20px; }
+
+.site-name { line-height: 1; }
+/* The logo: the red symbol keeps its light colors in both themes; only the words follow the ink. */
+.site-name a { display: inline-flex; align-items: center; gap: 10px; color: var(--ink); }
+.site-name a:hover { text-decoration: none; }
+.site-name a:hover .site-abbr { color: var(--red); }
+.site-mark { display: block; width: 40px; height: 40px; flex: none; }
+.site-words { display: block; }
+.site-abbr { display: block; font-weight: 700; font-size: 1.5rem; letter-spacing: -0.035em; line-height: 1; }
+.site-tagline { font-size: var(--step--1); color: var(--ink-2); margin-top: 6px; }
+.site-full { display: block; font-size: var(--step--1); color: var(--ink-2); margin-top: 3px; white-space: nowrap; }
+
+/* 404: the one line and the way back; the link is underlined in red like answer links. */
+.not-found { margin-top: 16px; font-size: var(--step-1); font-weight: 700; }
+.not-found a { display: inline-block; padding: 12px 0; text-decoration: underline; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
+
+.day-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 40px;
+}
+
+.date {
+  font-weight: 700;
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+  font-variant-numeric: lining-nums proportional-nums;
+}
+.date-weekday {
+  display: block;
+  font-size: var(--step-2);
+  letter-spacing: -0.015em;
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+.date-weekday .today { color: var(--red); }
+.date-day {
+  display: block;
+  font-size: var(--step-4);
+  text-wrap: balance; /* one line normally; two, evenly, when text is enlarged */
+}
+
+.day-step { display: flex; gap: 4px; flex: none; margin-left: auto; padding-bottom: 6px; }
+.step {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border: 1.5px solid var(--ink);
+  color: var(--ink);
+}
+.step svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: square; }
+.today-link {
+  display: inline-flex;
+  align-items: center;
+  height: 44px;
+  padding: 0 14px;
+  margin-right: 4px;
+  background: var(--red-fill);
+  color: var(--red-ink);
+  font-weight: 700;
+}
+.today-link:hover { background: var(--ink); color: var(--ground); text-decoration: none; }
+.today-link.is-here { visibility: hidden; } /* keeps its space; hidden from focus and screen readers too */
+.step { transition: background-color 120ms ease-out, color 120ms ease-out; }
+/* Short landscape viewports (a phone turned sideways): the poster date would fill the
+   whole height, so it steps down and the listing shows on the first screen (adapt,
+   2026-10-19). */
+@media (orientation: landscape) and (max-height: 500px) {
+  .day-head:not(.day-head--sub) { margin-top: 20px; }
+  .day-head:not(.day-head--sub) .date-weekday { font-size: var(--step-1); }
+  .day-head:not(.day-head--sub) .date-day { font-size: var(--size-headline-xl); }
+  .page-title { margin-top: 20px; font-size: var(--size-headline-xl); }
+}
+
+/* Phones (critique 2026-10-19: the arrows took a row of their own, pushing the first
+   film off the first screen). The weekday line carries Today on its right, the date
+   line the arrows; both sit at fixed places, so nothing moves when Today appears. The
+   date scales down just enough that "30 September" and the arrows share a line.
+   Below 360px, or when enlarged text doesn't fit (app.js sets .is-stacked), the arrows
+   keep their own row. */
+@media (min-width: 360px) and (max-width: 599px) {
+  .day-head:not(.day-head--sub):not(.is-stacked) { position: relative; display: block; }
+  /* Each line keeps clear only what sits beside it: Today, or the two arrows. */
+  /* Room for Today in rem: it grows with enlarged text (Android text scaling). */
+  .day-head:not(.day-head--sub):not(.is-stacked) .date-weekday { padding-right: calc(4.75rem + 10px); }
+  .day-head:not(.day-head--sub):not(.is-stacked) .date-day { padding-right: 104px; }
+  .day-head:not(.day-head--sub):not(.is-stacked) .date-day { font-size: min(var(--step-4), calc((100vw - 140px) / 6.6)); }
+  .day-head:not(.day-head--sub):not(.is-stacked) .day-step { display: block; padding: 0; }
+  .day-head:not(.day-head--sub):not(.is-stacked) .date-weekday { margin-bottom: 10px; }
+  /* Slimmer here so it clears the arrows below; the tap area stays 44px. */
+  .day-head:not(.day-head--sub):not(.is-stacked) .today-link { position: absolute; top: -2px; right: 0; margin: 0; height: 2rem; padding: 0 0.875rem; }
+  .day-head:not(.day-head--sub):not(.is-stacked) .today-link::after { content: ""; position: absolute; inset: -6px 0; }
+  .day-head:not(.day-head--sub):not(.is-stacked) .step { position: absolute; bottom: -4px; }
+  .day-head:not(.day-head--sub):not(.is-stacked) #prev-day { right: 48px; }
+  .day-head:not(.day-head--sub):not(.is-stacked) #next-day { right: 0; }
+}
+.step:hover { background: var(--ink); color: var(--ground); text-decoration: none; }
+.step[aria-disabled="true"] { border-color: var(--hair); color: var(--hair); pointer-events: none; }
+
+/* Date strip */
+
+.strip {
+  margin-top: 24px;
+  border-top: 2px solid var(--rule);
+  margin-inline: calc(var(--gutter) * -1);
+}
+
+/* Whole days at the left edge: swiping and centring snap a day flush to it. The right edge
+   cuts a day on purpose, the cue that the strip swipes. No fades (user, 2026-10-17). */
+.strip-list {
+  --day: 52px;
+  position: relative; /* offsetLeft of a day is measured from the list */
+  display: flex;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+  scroll-snap-type: x mandatory;
+  padding-inline: var(--gutter);
+  scroll-padding-left: var(--gutter);
+}
+/* A minimum, not a fixed width: with enlarged text a day grows instead of running into
+   the next (harden 2026-10-19); at normal sizes every day is exactly --day wide. */
+.strip-list .strip-day { width: auto; min-width: var(--day); }
+.strip-list .strip-day.month-start { width: auto; min-width: var(--day); }
+/* "TODAY" is the widest label: without its right padding it fits a standard day (so
+   the strip keeps its whole-day widths); on the narrowest phones its day grows
+   instead of running into the next one. */
+.strip-list .strip-day.is-today { width: auto; min-width: var(--day); padding-right: 0; }
+.strip-list::-webkit-scrollbar { display: none; }
+.strip-list li { flex: none; scroll-snap-align: start; }
+.strip-list li.is-cut { visibility: hidden; }
+@media (max-width: 899px) {
+  /* The strip runs to the right screen edge; sized so that edge always cuts through a day's
+     text, whatever the phone's width, which shows the strip swipes. */
+  .strip-list { --day: min(60px, calc((100vw - var(--gutter)) / 6.4 - 2px)); } /* tablets: capped, so more days show */
+}
+@media (min-width: 900px) {
+  .strip-list { padding-inline: 0; scroll-padding-left: 0; }
+}
+.strip-list li + li { margin-left: 2px; }
+
+.strip-day {
+  display: grid;
+  justify-items: start;
+  width: 52px;
+  padding: 8px 6px 10px;
+  border-top: 4px solid transparent;
+  margin-top: -2px;
+  line-height: 1.1;
+}
+.strip-day .wd { font-size: var(--step--1); text-transform: uppercase; letter-spacing: var(--track-caps); }
+.strip-day .dn { font-size: var(--size-numeral); font-weight: 700; letter-spacing: -0.02em; }
+.strip-day:hover { text-decoration: none; border-top-color: var(--ink); }
+.strip-day.is-today .wd { color: var(--red); font-weight: 700; }
+.strip-day.is-empty, .strip-day.is-empty .wd { color: var(--ink-3); }
+.strip-day.is-empty .dn { font-weight: 400; }
+.strip-day[aria-current="date"] { border-top-color: var(--ink); color: var(--ink); }
+/* With script, one bar marks the day and slides between days (placeMarker in lib.js);
+   the day's own top border is then left to hover. */
+.strip-marker {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 4px;
+  margin-top: -2px;
+  background: var(--ink);
+  transform-origin: left center;
+  pointer-events: none;
+}
+.strip-list li.strip-marker { scroll-snap-align: none; margin-left: 0; }
+.strip-list.has-marker .strip-day[aria-current="date"] { border-top-color: transparent; }
+.strip-day.month-start { margin-left: 14px; width: auto; min-width: 52px; }
+.strip-day .mo { font-size: var(--step--1); font-weight: 700; text-transform: uppercase; letter-spacing: var(--track-caps); margin-left: 3px; }
+
+/* Filters */
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 24px;
+  margin-top: 20px;
+}
+.filters { display: flex; gap: 8px; flex-wrap: wrap; }
+
+.filter {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 0 16px 0 12px;
+  background: var(--ground);
+  border: 1.5px solid var(--ink);
+  border-radius: 0;
+  font-weight: 700;
+  cursor: pointer;
+}
+.filter::before {
+  content: "";
+  width: 14px;
+  height: 14px;
+  border: 1.5px solid var(--ink);
+  flex: none;
+}
+.filter { transition: background-color 120ms ease-out, border-color 120ms ease-out, color 120ms ease-out; }
+.filter:hover { background: var(--wash); }
+.filter[aria-pressed="true"] { background: var(--red-fill); border-color: var(--red-fill); color: var(--red-ink); }
+.filter[aria-pressed="true"]::before {
+  border-color: var(--red-ink);
+  background:
+    linear-gradient(var(--red-ink), var(--red-ink)) center / 6px 6px no-repeat;
+}
+.filter:focus-visible { outline-color: var(--ink); }
+
+.count { color: var(--ink-2); }
+.count strong { color: var(--ink); font-weight: 700; }
+.count a { text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
+
+/* Venue jump list */
+
+.jump {
+  margin-top: 20px;
+  margin-bottom: -20px; /* the masthead's bottom space already follows it */
+  padding: 10px 0 12px;
+  border-top: 1px solid var(--hair);
+}
+.jump-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 20px;
+  font-size: var(--size-body-sm);
+}
+/* 44px tall to tap, rows a little closer than the targets (they don't overlap). */
+.jump-list a { font-weight: 700; display: inline-block; padding: 12px 0; margin: -4px 0; }
+.jump-list .n { font-weight: 400; color: var(--ink-2); margin-left: 4px; }
+/* Phones: one swipeable row, cut at the right edge like the date strip, instead of
+   wrapping to three rows (critique 2026-10-19). */
+@media (max-width: 899px) {
+  .jump-list {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    margin-inline: calc(var(--gutter) * -1);
+    padding-inline: var(--gutter);
+    white-space: nowrap;
+  }
+  .jump-list::-webkit-scrollbar { display: none; }
+  .jump-list li { flex: none; }
+}
+
+/* ---------- Listing ---------- */
+
+.listing { padding-bottom: 80px; }
+.listing:focus { outline: none; }
+.listing.is-swapping { opacity: 0.35; }
+/* The dimmed listing comes back through arrive() in lib.js, from the side the new
+   day lies on. */
+.listing.is-swapping { transition: opacity 120ms ease-out; }
+
+.status { padding-top: 32px; padding-bottom: 32px; font-size: var(--step-1); }
+.status a { text-decoration: underline; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
+.status button {
+  margin-top: 16px; min-height: 44px; padding: 0 16px;
+  background: var(--ink); color: var(--ground); border: 0; font-weight: 700; cursor: pointer;
+}
+
+.venue {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+.venue-inner { border-top: 2px solid var(--rule); }
+
+.venue-head {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--ground);
+  padding: 12px 0 10px;
+  margin: 0 calc(var(--gutter) * -1);
+  padding-inline: var(--gutter);
+  border-bottom: 1px solid var(--hair);
+}
+.venue-name {
+  font-size: var(--step-2);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+}
+/* A stale source, said where its times are read. */
+.venue-stale { margin-top: 6px; font-size: var(--size-small); color: var(--ink); font-weight: 700; }
+.venue-meta {
+  display: block;
+  margin-top: 2px;
+  font-size: var(--step--1);
+  color: var(--ink-2);
+}
+
+.entries { padding: 4px 0 28px; }
+
+.entry { padding: 18px 0 0; }
+.entry + .entry { border-top: 1px solid var(--hair); margin-top: 18px; }
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 14px;
+  margin-bottom: 4px;
+  font-size: var(--step--1);
+  font-weight: 700;
+  line-height: 1.25;
+}
+.tag-series { color: var(--red); }
+.tag-series a:hover { text-decoration-color: var(--red); }
+/* 24px tall to tap at least (WCAG 2.5.8), without moving the line. */
+.tag-series a { display: inline-block; padding-block: 4px; margin-block: -4px; }
+.tag-label { text-transform: uppercase; letter-spacing: var(--track-caps-bold); }
+
+.title {
+  font-size: var(--step-1);
+  font-weight: 700;
+  line-height: 1.22;
+  letter-spacing: -0.01em;
+  text-wrap: pretty;
+  overflow-wrap: anywhere;
+}
+.title a:hover { text-decoration-thickness: 2px; }
+/* Joined scripts (Arabic, Persian, Hebrew) must not be tracked: letter-spacing
+   breaks the joins in browsers that don't skip it themselves. Titles, tags and
+   notes isolate their own direction (bdi, dir=auto), so this catches them all. */
+:is(bdi, [dir="auto"]):dir(rtl) { letter-spacing: 0; }
+.subtitle { font-weight: 400; }
+/* The venue's German program title under the English headline (user, 2026-10-24). */
+.title-de { margin-top: 2px; font-size: var(--step--1); line-height: 1.3; color: var(--ink-2); overflow-wrap: anywhere; }
+
+.info {
+  margin-top: 3px;
+  font-size: var(--step--1);
+  text-transform: uppercase;
+  letter-spacing: var(--track-caps);
+  color: var(--ink-2);
+  line-height: 1.35;
+}
+.info abbr { text-decoration: none; text-transform: none; }
+
+.times {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 22px;
+  margin-top: 8px;
+}
+.time { white-space: nowrap; }
+/* A film's screenings grouped by version, each under its language (sentence case). */
+.version + .version { margin-top: 6px; }
+.version-label {
+  margin-top: 8px;
+  font-size: var(--step--1);
+  color: var(--ink-2);
+}
+/* The language under the info line: same size and color, sentence case. */
+.lang { margin-top: 1px; font-size: var(--step--1); color: var(--ink-2); line-height: 1.35; }
+.version .times { margin-top: 2px; }
+.time > span:first-child { font-weight: 700; }
+.time .t-extra {
+  margin-left: 6px;
+  font-size: var(--step--1);
+  letter-spacing: var(--track-caps);
+  color: var(--ink-2);
+}
+.time .t-extra abbr { text-decoration: none; }
+.time .t-last {
+  margin-left: 6px;
+  font-size: var(--step--1);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: var(--track-caps-bold);
+}
+/* "IN 12 MIN": a screening about to start, in red, which means now. */
+.time .t-soon {
+  margin-left: 6px;
+  font-size: var(--step--1);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: var(--track-caps-bold);
+  color: var(--red);
+}
+.time.is-gone, .time.is-gone .t-extra { color: var(--ink-3); }
+.time.is-gone > span:first-child { font-weight: 400; text-decoration: line-through; text-decoration-color: var(--ink-3); text-decoration-thickness: 1px; }
+
+.notes { margin-top: 8px; font-size: var(--size-body-sm); color: var(--ink); }
+.notes li + li { margin-top: 2px; }
+.notes .at { font-weight: 700; margin-right: 8px; }
+/* Today, a film whose times have all gone is gray throughout, red tags too: red means
+   now, and nothing about it is (critique 2026-10-19). */
+.entry.is-done, .entry.is-done .title, .entry.is-done .tag-series, .entry.is-done .info,
+.entry.is-done .lang, .entry.is-done .title-de, .entry.is-done .notes, .entry.is-done .program-film, .entry.is-done .program-film .title { color: var(--ink-3); }
+/* "That's all for today. Tomorrow from 11:30.": at the venue name's size, above what played. */
+.day-done { padding: 28px 0 8px; font-size: var(--step-2); font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; }
+.day-done a { color: var(--red); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.14em; }
+.anniv { text-transform: none; letter-spacing: normal; }
+/* A short note on venue and film pages, in the facts' gray. */
+.page-facts .fact-note { font-size: var(--size-small); }
+/* "All dates" ends the info line: the film's page, as quiet as the facts beside it,
+   with a hairline so it still reads as a link. Taller to tap than the line it sits in. */
+.info-more a { display: inline-block; padding-block: 13px; margin-block: -13px; text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--ink-3); text-underline-offset: 0.18em; }
+.info-more a:hover { color: var(--ink); text-decoration-color: var(--red); }
+/* "Translated" after machine-translated text: Label style in Graphite, regular
+   weight, so it reads as a footnote to the line, not as a tag (agent, pending user review). */
+.machine {
+  margin-left: 6px;
+  font-size: var(--step--1);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: var(--track-caps);
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+/* GUEST at the head of its note, set like the labels beside a time. */
+.note-label {
+  font-size: var(--step--1);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: var(--track-caps-bold);
+}
+
+.program-films { margin-top: 12px; display: grid; gap: 8px; }
+.program-film { padding-left: 14px; border-left: 1px solid var(--ink); }
+.program-film-title { font-weight: 700; overflow-wrap: anywhere; }
+.program-film .info { margin-top: 1px; }
+/* Start times in their own column, aligned like a timetable. */
+.program-film.has-time { display: grid; grid-template-columns: 3.2em minmax(0, 1fr); column-gap: 10px; align-items: first baseline; }
+.program-film-start { font-variant-numeric: tabular-nums; color: var(--ink-2); }
+.program-film-mystery { color: var(--ink-2); font-weight: 400; }
+
+/* ---------- Wide: the timetable grid ---------- */
+
+@media (min-width: 900px) {
+  .masthead { padding-top: 28px; }
+  .strip { margin-inline: 0; }
+  .day-head { margin-top: 56px; }
+  .jump { margin-top: 24px; }
+
+  .venue-inner {
+    display: grid;
+    grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
+    column-gap: 32px;
+  }
+  .venue-head {
+    position: relative;
+    margin: 0;
+    padding: 18px 0 32px;
+    border-bottom: 0;
+    background: none;
+  }
+  .venue-head > div { position: sticky; top: 18px; }
+  .venue-name { font-size: var(--size-headline-lg); letter-spacing: -0.025em; }
+  .entries { padding: 0 0 36px; }
+  .entry { padding-top: 22px; }
+  .entry + .entry { margin-top: 22px; }
+  .title { font-size: var(--size-title-lg); }
+}
+
+@media (min-width: 1200px) {
+  .venue-inner { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); }
+  .venue-name { font-size: var(--size-headline-xl); }
+}
+
+/* ---------- Venue, series and venues pages ---------- */
+
+.topbar {
+  display: flex;
+  flex-wrap: wrap; /* the links drop below the name when text is enlarged */
+  justify-content: space-between;
+  align-items: center;
+  gap: 4px 16px;
+}
+.site-nav { display: flex; gap: 20px; }
+/* 44px tall to tap; the negative margin keeps the line where it was. */
+.site-nav a { font-weight: 700; display: inline-block; padding: 12px 0; margin: -12px 0; }
+.site-nav a[aria-current="page"] { text-decoration: underline; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
+
+.venue-name a { display: inline-block; padding-block: 10px; margin-block: -10px; }
+.venue-name a:hover { text-decoration-thickness: 2px; }
+
+/* The venue or series name: the page's one display moment, like the date on the day page. */
+.page-title {
+  margin-top: 40px;
+  font-size: var(--size-page-title); /* capped so long names (KINOKONI Zürich) stay in proportion */
+  font-weight: 700;
+  line-height: 0.95;
+  letter-spacing: -0.035em;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+.page-facts { margin-top: 12px; display: grid; gap: 2px; color: var(--ink-2); }
+.listing--series, .listing--venues { margin-top: 32px; }
+.page-facts a { color: var(--ink); text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
+.page-facts .fact-address a { font-weight: 700; }
+.fact-links { display: flex; align-items: center; gap: 14px; }
+.page-facts .icon-link { display: inline-grid; place-items: center; width: 44px; height: 44px; margin: -12px -13px; color: var(--ink); text-decoration: none; }
+.page-facts .icon-link:hover { color: var(--red); }
+.icon { width: 18px; height: 18px; fill: currentColor; }
+.on-film { white-space: nowrap; }
+/* The cap height of Heros (0.72em), its bottom on the baseline in every browser:
+   an inline-block box aligns its bottom edge there, an inline SVG may not (Safari). */
+.icon--film { display: inline-block; width: 0.72em; height: 0.72em; vertical-align: -0.02em; }
+/* Series page: the venue's description of the series. */
+.series-about { margin-top: 18px; max-width: 65ch; }
+/* On wide viewports the facts take the left column and the description the right, on
+   the same lines as the film rows below (layout pass, 2026-10-19). */
+@media (min-width: 900px) {
+  .page-facts.has-about {
+    grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
+    column-gap: 32px;
+    align-content: start;
+  }
+  .page-facts.has-about > p { grid-column: 1; }
+  .page-facts.has-about > .series-about { grid-column: 2; grid-row: 1 / span 6; margin-top: 0; }
+}
+@media (min-width: 1200px) {
+  .page-facts.has-about { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); }
+}
+.series-about p { color: var(--ink); hyphens: auto; }
+.series-about .source { margin-top: 6px; font-size: var(--size-small); color: var(--ink-2); }
+.series-about .source .icon--arrow, .icon--inline { width: 0.7em; height: 0.7em; margin-left: 3px; vertical-align: -0.02em; }
+
+/* Venue page: the series running or coming up there. */
+.fact-series { margin-top: 10px; }
+.fact-series ul { display: flex; flex-wrap: wrap; gap: 8px 18px; max-width: 72rem; }
+/* Taller tap areas without moving the text: vertical padding on inline links grows the
+   target, not the line (critique 2026-10-19: series names were 23px). */
+.page-facts .fact-series-name, .page-facts .fact-links a:not(.icon-link) { padding-block: 5px; }
+.fact-series li { color: var(--ink-2); }
+/* Ink with the red underline, the site's link style (quieter, 2026-10-19): four bold red
+   names in a row read as a block of color; red stays for today, tags and filters. */
+.page-facts .fact-series-name { color: var(--ink); font-weight: 700; text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
+.page-facts a.fact-series-name:hover { text-decoration-thickness: 2px; }
+.fact-series-when { white-space: nowrap; }
+/* "and 9 coming up": opens in place; the opened list runs on the same rhythm. */
+.fact-series-more summary {
+  position: relative;
+  display: inline-block;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--red);
+  text-underline-offset: 0.18em;
+}
+.fact-series-more summary::-webkit-details-marker { display: none; }
+/* 44px to tap without moving the line: the extra area is an invisible layer, so the
+   focus ring still hugs the words. */
+.fact-series-more summary::after { content: ""; position: absolute; inset: -12px 0; }
+.fact-series-more details[open] summary { color: var(--ink-2); text-decoration: none; }
+.fact-series-more:has(details[open]) { flex-basis: 100%; }
+.fact-series-more details > ul { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 8px; }
+.page-facts .fact-formats { font-size: var(--step--1); text-transform: uppercase; letter-spacing: var(--track-caps); }
+
+/* The venue page's day, in the left column of its listing (a sticky bar on phones). */
+.day-head--sub { margin-top: 0; align-items: center; flex-wrap: nowrap; gap: 12px; }
+.date--sub { min-width: 0; }
+.date--sub .date-weekday { font-size: var(--step--1); font-weight: 700; letter-spacing: 0; margin-bottom: 2px; }
+.date--sub .date-day { font-size: var(--step-1); letter-spacing: -0.015em; line-height: 1.1; }
+.day-head--sub .day-step { padding-bottom: 0; }
+
+@media (min-width: 900px) {
+  .day-head--sub { display: block; }
+  .date--sub .date-weekday { font-size: var(--step-0); margin-bottom: 4px; }
+  .date--sub .date-day { font-size: var(--size-headline-lg); letter-spacing: -0.025em; }
+  .day-head--sub .day-step { margin: 16px 0 0; }
+  /* In the left column the arrows lead, flush with the date; Today follows, so its
+     reserved space trails instead of indenting the arrows. */
+  .day-head--sub .today-link { order: 3; margin: 0 0 0 4px; }
+}
+@media (min-width: 1200px) {
+  .date--sub .date-day { font-size: var(--size-headline-xl); }
+}
+
+/* A series film's dates: a timetable of date and times. */
+.dates { margin-top: 8px; }
+.date-row {
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr);
+  column-gap: 16px;
+  align-items: center;
+  padding: 3px 0;
+}
+.date-row + .date-row { border-top: 1px solid var(--hair); }
+.date-row .times { margin-top: 0; }
+.date-label { font-size: var(--step--1); text-transform: uppercase; letter-spacing: var(--track-caps); color: var(--ink-2); white-space: nowrap; }
+.date-label.is-today { color: var(--red); font-weight: 700; }
+.date-label a { display: inline-block; padding-block: 12px; margin-block: -12px; }
+/* Series page (bolder, 2026-10-19): the name at the date's poster scale, so a series
+   opens with the authority of a day; smaller on phones so long German words stay whole. */
+.page-title--series { font-size: var(--size-series-title); hyphens: manual; }
+.page-title--series + .page-facts, .page-german + .page-facts { margin-top: 20px; }
+/* The venue's own German name under a translated series name: Label size, Graphite, its own case. */
+.page-german { margin-top: 8px; font-size: var(--step--1); color: var(--ink-2); overflow-wrap: anywhere; }
+}
+.page-title .title-link:hover { text-decoration-thickness: 3px; text-underline-offset: 0.12em; }
+/* Half the title's size, its top at the cap height. */
+.icon--arrow { width: 0.5em; height: 0.5em; margin-left: 0.1em; vertical-align: 0.22em; }
+
+/* Series page: a film per row, the film in the left column, its dates on the right. */
+.film-row .venue-head { position: static; margin: 0; padding: 18px 0 0; border-bottom: 0; background: none; }
+/* Films are separated like films on the day page: a hairline, with the 2px rule only
+   above the first. */
+.film-row + .film-row .venue-inner { border-top: 1px solid var(--hair); }
+.film-row .title { font-size: var(--step-1); }
+.film-dates { padding: 10px 0 24px; }
+.film-dates .dates { margin-top: 0; }
+@media (min-width: 900px) {
+  .film-row .venue-head { padding-bottom: 24px; }
+  .film-row .title { font-size: var(--size-title-lg); }
+  .film-dates { padding-top: 21px; }
+}
+/* Film page (bolder, 2026-10-19): each venue at the day page's headline size, its name
+   the link out to the film's page there, so it reads as a link at rest. */
+.listing--film .venue-name a { text-decoration: underline; text-decoration-thickness: 2px; text-decoration-color: var(--red); text-underline-offset: 0.14em; }
+.listing--film .venue-name a:hover { text-decoration-thickness: 3px; }
+.listing--film .film-row .venue-head { padding-top: 22px; }
+.listing--film .venue-meta { margin-top: 6px; }
+.listing--film .venue-name + .tags, .listing--film .tags + .venue-name { margin-top: 6px; }
+@media (min-width: 900px) {
+  .listing--film .film-dates { padding-top: 32px; }
+}
+/* Links inside the info line share one quiet treatment: a hairline, red on hover. */
+.info .info-place { display: inline-block; padding-block: 13px; margin-block: -13px; color: var(--ink); text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--ink-3); text-underline-offset: 0.18em; }
+.info .info-place:hover { text-decoration-color: var(--red); }
+
+.prose { padding-top: 18px; }
+.prose p { max-width: 65ch; }
+/* Running prose (FAQ answers, series descriptions) gets reading leading; listings keep
+   the denser 1.35 of the timetable (typeset pass, 2026-10-19). */
+.prose p, .prose li, .series-about p { line-height: 1.5; }
+/* A question breaks into even lines, never leaving "mean?" alone. */
+.listing--faq .venue-name { text-wrap: balance; }
+.prose p + p { margin-top: 0.75em; }
+.prose .source { margin-top: 14px; font-size: var(--size-small); color: var(--ink-2); }
+.prose .source a { text-decoration: underline; text-decoration-color: var(--red); text-underline-offset: 0.18em; overflow-wrap: anywhere; }
+
+.prices {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  max-width: 40rem;
+  margin: 0;
+}
+.prices dt, .prices dd { margin: 0; padding: 6px 0; border-top: 1px solid var(--hair); }
+.prices dt:first-of-type, .prices dd:first-of-type { border-top: 0; }
+.prices dd { font-weight: 700; text-align: right; padding-left: 16px; white-space: nowrap; }
+
+.listing--faq { margin-top: 32px; }
+.faq-answer { padding: 18px 0 36px; }
+.faq-answer a { text-decoration: underline; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
+/* FAQ: the questions listed under the title, one per line. */
+.faq-index { margin-top: 20px; padding-top: 6px; border-top: 1px solid var(--hair); }
+.faq-index a {
+  display: inline-block;
+  padding: 12px 0; /* 44px to tap */
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--red);
+  text-underline-offset: 0.18em;
+}
+.faq-index a:hover { text-decoration-thickness: 2px; }
+.faq-list { margin: 10px 0; padding-left: 1.1em; list-style: square; max-width: 65ch; }
+.faq-list li + li { margin-top: 6px; }
+.faq-list ::marker { color: var(--ink); }
+
+.venue-list { padding-top: 8px; padding-bottom: 80px; }
+/* A station board (bolder, 2026-10-19): names at the venue page's title size, today's
+   count as a figure at the same scale, the address quiet between them. */
+.venue-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 16px;
+  align-items: first baseline;
+  padding: 18px 0 20px;
+  border-top: 1px solid var(--hair);
+}
+.venue-row:first-child { border-top: 2px solid var(--rule); }
+.venue-list .venue-name {
+  grid-column: 1;
+  font-size: var(--size-page-title);
+  letter-spacing: -0.035em;
+  line-height: 0.95;
+}
+.venue-row-place { grid-column: 1 / -1; margin-top: 8px; color: var(--ink-2); overflow-wrap: anywhere; }
+.venue-row-operator { display: block; }
+.venue-row-figure { grid-column: 2; grid-row: 1; display: grid; justify-items: end; text-align: right; }
+.venue-row-figure .figure {
+  font-size: var(--size-page-title);
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  line-height: 0.95;
+  font-variant-numeric: tabular-nums;
+}
+/* A later day is set in regular weight, not gray: gray at this size read as disabled
+   (critique 2026-10-19). Gray is kept for data that may be out of date. */
+.venue-row-figure:not(.is-today) .figure { font-weight: 400; }
+.venue-row-figure.is-stale .figure { color: var(--ink-3); }
+.venue-row-figure.is-stale .figure-label { color: var(--ink); font-weight: 700; }
+/* The label stays on one line unless a long name needs the room; the name keeps its longest word whole. */
+.venue-row-figure .figure-label { max-width: none; }
+@media (max-width: 899px) { .venue-row { grid-template-columns: minmax(min-content, 1fr) auto; } }
+.venue-row-figure .figure-label {
+  margin-top: 6px;
+  font-size: var(--step--1);
+  text-transform: uppercase;
+  letter-spacing: var(--track-caps);
+  color: var(--ink-2);
+}
+
+@media (min-width: 900px) {
+  .page-title { margin-top: 56px; }
+  .venue-row {
+    grid-template-columns: minmax(0, 5fr) minmax(0, 4fr) minmax(0, 3fr);
+    column-gap: 32px;
+  }
+  .venue-row-place { grid-column: 2; margin-top: 0; }
+  .venue-row-figure { grid-column: 3; grid-row: 1; }
+}
+
+/* End-of-listing day navigation. */
+.day-foot {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding-top: 20px;
+  padding-bottom: 0; /* the listing's own bottom space follows */
+}
+.day-foot a { display: grid; gap: 2px; min-height: 44px; font-weight: 700; }
+.day-foot-next { text-align: right; }
+.day-foot-label { font-size: var(--step--1); font-weight: 400; color: var(--ink-2); text-transform: uppercase; letter-spacing: var(--track-caps); }
+
+.stale-notice { margin-top: 16px; padding: 10px 0; border-top: 2px solid var(--rule); border-bottom: 1px solid var(--hair); }
+
+/* ---------- Footer ---------- */
+
+.colophon {
+  padding: 0 0 48px;
+  font-size: var(--size-small);
+  color: var(--ink-2);
+}
+.colophon .grid { display: grid; gap: 12px; }
+.colophon .grid::before { content: ""; grid-column: 1 / -1; border-top: 2px solid var(--rule); margin-bottom: 12px; }
+.colophon p { max-width: 68ch; }
+.updated { color: var(--ink); font-weight: 700; }
+/* Theme: Auto · Light · Dark. The choice in bold ink; the others are actions. */
+.theme-choice button {
+  display: inline-block;
+  padding: 12.5px 1px; /* 44px to tap */
+  margin: -12.5px 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: var(--ink);
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--red);
+  text-underline-offset: 0.18em;
+}
+.theme-choice button[aria-pressed="true"] { font-weight: 700; text-decoration: none; cursor: default; }
+.stale { color: var(--ink); }
+.tmdb { display: grid; gap: 8px; margin-top: 12px; }
+.tmdb-logo img { display: block; width: 120px; height: auto; }
+.tmdb-logo { display: inline-block; padding-block: 4px; margin-block: -4px; }
+
+@media (min-width: 900px) {
+  .colophon .grid {
+    grid-template-columns: minmax(0, 4fr) minmax(0, 8fr);
+    column-gap: 32px;
+    align-items: start;
+  }
+  .colophon .grid > * { grid-column: 2; }
+  .colophon .grid::before { grid-row: 1; }
+  .colophon .updated { grid-column: 1; grid-row: 2; }
+  .colophon .theme-choice { grid-column: 1; grid-row: 3 / span 3; }
+}
+@media (min-width: 1200px) {
+  .colophon .grid { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* No sliding (arrive() and the strip marker check this too); fades stay, gentler. */
+  .filter, .step, .listing.is-swapping { transition-duration: 60ms; }
+  html { scroll-behavior: auto; }
+}
+
+/* ---------- Print ----------
+   A printed day is the timetable on paper (user, 2026-10-19), and it is what the Print
+   Rule describes: black and one red on white. The date, the count and every venue with
+   its films and times; the screen's controls and anything tied to the moment (the
+   countdown) are left out. Always the light theme, whatever the screen uses. */
+@media print {
+  :root, :root:not([data-theme="light"]), :root[data-theme="dark"] {
+    --ground: #ffffff;
+    --ink: #111111;
+    --ink-2: #4d4d4d;
+    --ink-3: #6e6e6e;
+    --rule: #111111;
+    --hair: #d9d9d9;
+    --wash: #f2f2f2;
+    --red: #d6000f;
+    --red-fill: #d6000f;
+    color-scheme: light;
+  }
+  @page { margin: 14mm 14mm 16mm; }
+  body { font-size: 10pt; }
+  .skip, .site-nav, .site-tagline, .strip, .filters, .jump, .day-step, .today-link,
+  .day-foot, .theme-choice, .t-soon, .tmdb-logo, .info-more, .fact-series-more, .icon-link,
+  #day-head .day-step { display: none !important; }
+  .topbar { padding-top: 0; }
+  .site-mark { width: 10mm; height: 10mm; }
+  .day-head { margin-top: 6mm; }
+  .date-weekday { font-size: 14pt; }
+  .date-day, .day-head:not(.day-head--sub):not(.is-stacked) .date-day { font-size: 30pt; padding-right: 0; }
+  .date-weekday { padding-right: 0; }
+  .page-title { margin-top: 6mm; font-size: 28pt; }
+  .controls { margin-top: 3mm; }
+  .count { font-size: 9pt; }
+  .count a, a { text-decoration: none !important; color: inherit; }
+  /* Paper does not scroll: nothing sticks, and a film never splits across pages. */
+  .venue-head, .venue-head > div { position: static !important; }
+  .venue-head { break-after: avoid; }
+  .entry, .program-film, .version { break-inside: avoid; }
+  .venue { break-inside: auto; }
+  .listing { padding-bottom: 0; }
+  .colophon { padding-bottom: 0; font-size: 8pt; }
+  .listing.is-swapping { opacity: 1; }
+}

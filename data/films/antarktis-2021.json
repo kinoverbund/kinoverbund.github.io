@@ -1,0 +1,72 @@
+{
+ "name": "Antarktis",
+ "venues": [
+  {
+   "title": "Antarktis",
+   "venue_title": "Antarktis",
+   "subtitle": null,
+   "original_title": "Antarktis",
+   "english_title": "Antarktis",
+   "kind": "film",
+   "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=9990181",
+   "directors": [
+    "Javier Arcaro"
+   ],
+   "year": 2021,
+   "runtime_min": 90,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 862014,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arena",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "series_slugs": {},
+   "venue": "Arena Sihlcity",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "arena:22206",
+       "start": "2026-11-04T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22206&fid=9990181",
+       "language": {
+        "raw": "UK/en",
+        "description": "Ukrainian; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

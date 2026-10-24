@@ -1,0 +1,114 @@
+{
+ "name": "LA BOLA NEGRA",
+ "venues": [
+  {
+   "title": "LA BOLA NEGRA",
+   "venue_title": "La bola negra",
+   "subtitle": null,
+   "original_title": "La bola negra",
+   "english_title": "LA BOLA NEGRA",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/la-bola-negra.html",
+   "directors": [
+    "Javier Ambrossi",
+    "Javier Calvo"
+   ],
+   "year": 2026,
+   "runtime_min": 160,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1422041,
+   "tmdb_kind": "movie",
+   "original_language": "es",
+   "source": "riffraff_houdini",
+   "series": [
+    "Queer Things"
+   ],
+   "labels": [
+    "Queer Things"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "la-bola-negra-2026",
+   "series_slugs": {
+    "Queer Things": "queer-things-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-18",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2305479",
+       "start": "2026-11-18T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/la-bola-negra.html?city=zurich&show=2305479#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Queer Things"
+       ],
+       "label": "Queer Things",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2295973",
+       "start": "2026-11-18T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/la-bola-negra.html?city=zurich&show=2295973#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Queer Things"
+       ],
+       "label": "Queer Things",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

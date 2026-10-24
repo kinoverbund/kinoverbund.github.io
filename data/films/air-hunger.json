@@ -1,0 +1,70 @@
+{
+ "name": "AIR HUNGER",
+ "venues": [
+  {
+   "title": "AIR HUNGER",
+   "venue_title": "AIR HUNGER",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/air-hunger-mit-qa",
+   "directors": [],
+   "year": null,
+   "runtime_min": 87,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9102",
+       "start": "2026-11-27T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9102/seats",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": "With Q&A",
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

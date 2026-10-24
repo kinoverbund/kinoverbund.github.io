@@ -1,0 +1,79 @@
+{
+ "name": "Se7en",
+ "venues": [
+  {
+   "title": "Se7en",
+   "venue_title": "Se7en",
+   "subtitle": null,
+   "original_title": "Se7en",
+   "english_title": "Se7en",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332321?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+   "directors": [
+    "David Fincher"
+   ],
+   "year": 1995,
+   "runtime_min": 127,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 807,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Iconic Night"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Iconic Night": "iconic-night-blue-cinema"
+   },
+   "venue": "Metropol",
+   "dates": [
+    {
+     "date": "2026-11-03",
+     "screenings": [
+      {
+       "id": "bluecinema:3332327",
+       "start": "2026-11-03T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332327/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Iconic Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

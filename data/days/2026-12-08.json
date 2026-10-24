@@ -1,0 +1,229 @@
+{
+ "date": "2026-12-08",
+ "venues": [
+  {
+   "name": "Filmstelle",
+   "operator": "Filmstelle",
+   "address": "StuZ, ETH CAB, Universitätstrasse 6, 8006 Zürich",
+   "listings": [
+    {
+     "title": "世界 (The World)",
+     "venue_title": "The World",
+     "subtitle": null,
+     "original_title": "世界",
+     "english_title": "The World",
+     "kind": "film",
+     "film_url": "https://filmstelle.ch/the-world/",
+     "directors": [
+      "Jia Zhangke"
+     ],
+     "year": 2004,
+     "runtime_min": 140,
+     "country": "CN",
+     "program_films": [],
+     "tmdb_id": 41292,
+     "tmdb_kind": "movie",
+     "original_language": "zh",
+     "source": "filmstelle",
+     "series": [
+      "Work, work, work"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "filmstelle:the-world",
+       "start": "2026-12-08T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "CN/en",
+        "description": "Chinese; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "bluray",
+        "presentation": [],
+        "assumed": false,
+        "raw": "Bluray"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Work, work, work"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Work, work, work": "work-work-work-filmstelle"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "You Can See Everything",
+     "venue_title": "You Can See Everything",
+     "subtitle": null,
+     "original_title": "You Can See Everything",
+     "english_title": "You Can See Everything",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html",
+     "directors": [
+      "Nathan Fielder",
+      "Lance Oppenheim"
+     ],
+     "year": 2026,
+     "runtime_min": 174,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1765072,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306258",
+       "start": "2026-12-08T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2306258#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "you-can-see-everything-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Riffraff Roulette",
+     "venue_title": "Riffraff Roulette",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "program",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/riffraff-roulette.html",
+     "directors": [],
+     "year": null,
+     "runtime_min": 100,
+     "country": null,
+     "program_films": [
+      {
+       "title": "?",
+       "original_title": null,
+       "directors": [
+        "?"
+       ],
+       "year": null,
+       "runtime_min": null,
+       "country": null,
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": null,
+       "format": {
+        "format": "dcp",
+        "presentation": []
+       }
+      }
+     ],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Special"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2283624",
+       "start": "2026-12-08T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/riffraff-roulette.html?city=zurich&show=2283624#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "mystery": true,
+     "series_slugs": {}
+    }
+   ]
+  }
+ ]
+}

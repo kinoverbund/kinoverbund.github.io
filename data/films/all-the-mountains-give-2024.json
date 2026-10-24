@@ -1,0 +1,77 @@
+{
+ "name": "همه کوه ها می دهند (All the Mountains Give)",
+ "venues": [
+  {
+   "title": "همه کوه ها می دهند (All the Mountains Give)",
+   "venue_title": "All the Mountains Give",
+   "subtitle": null,
+   "original_title": "همه کوه ها می دهند",
+   "english_title": "All the Mountains Give",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/november-2026/kurdisches-filmfestival-zuerich/all-the-mountains-give",
+   "directors": [
+    "Arash Rakhsha"
+   ],
+   "year": 2024,
+   "runtime_min": 90,
+   "country": "Ostkurdistan (Rojhelat)/Iran/USA",
+   "program_films": [],
+   "tmdb_id": 1330464,
+   "tmdb_kind": "movie",
+   "original_language": "ku",
+   "source": "xenix",
+   "series": [
+    "Kurdisches Filmfestival Zürich"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "xenix:292276",
+       "start": "2026-11-21T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/292276",
+       "language": {
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "With director Arash Rakhsha",
+       "note_lang": null,
+       "series": [
+        "Kurdisches Filmfestival Zürich"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

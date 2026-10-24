@@ -1,0 +1,76 @@
+{
+ "date": "2027-01-24",
+ "venues": [
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Das Erbe der Bergler (Alpine Saga)",
+     "venue_title": "Das Erbe der Bergler (Restaurierte Fassung)",
+     "subtitle": null,
+     "original_title": "Das Erbe der Bergler",
+     "english_title": "Alpine Saga",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/das-erbe-der-bergler-restaurierte-fassung.html",
+     "directors": [
+      "Erich Langjahr"
+     ],
+     "year": 2006,
+     "runtime_min": 97,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 19876,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Preview"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306329",
+       "start": "2027-01-24T11:00+01:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/das-erbe-der-bergler-restaurierte-fassung.html?city=zurich&show=2306329#tickets",
+       "language": {
+        "raw": "['ch', 'de']",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "name": "Kurzfilmprogramm «Stadtbild(er) und Sichtbarkeit» (Short film program “Cityscapes and Visibility”)",
+ "venues": [
+  {
+   "title": "Kurzfilmprogramm «Stadtbild(er) und Sichtbarkeit» (Short film program “Cityscapes and Visibility”)",
+   "venue_title": "Kurzfilmprogramm «Stadtbild(er) und Sichtbarkeit»",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.xenix.ch/programm/oktober-2026/schoener-wohnen--geschichten-der-gentrifizierung/kurzfilmprogramm-stadtbilder-und-sichtbarkeit",
+   "directors": [],
+   "year": null,
+   "runtime_min": null,
+   "country": "CH",
+   "program_films": [
+    {
+     "title": "Solidarität",
+     "original_title": null,
+     "directors": [
+      "Robert Risler"
+     ],
+     "year": 1934,
+     "runtime_min": 7,
+     "country": null,
+     "language_raw": "ohne Dialog mit deutschen Zwischentiteln",
+     "format_raw": "s/w",
+     "start": null,
+     "notes": [],
+     "language": {
+      "raw": "ohne Dialog mit deutschen Zwischentiteln",
+      "description": "No dialogue; intertitles: German"
+     },
+     "format": null
+    },
+    {
+     "title": "Arbeiterehe",
+     "original_title": "Arbeiterehe",
+     "directors": [
+      "Robert Boner"
+     ],
+     "year": 1973,
+     "runtime_min": 28,
+     "country": null,
+     "language_raw": "I/d",
+     "format_raw": "s/w",
+     "start": null,
+     "notes": [],
+     "venue_title": "ARBEITEREHE",
+     "english_title": "Arbeiterehe",
+     "tmdb_id": 1462812,
+     "tmdb_kind": "movie",
+     "original_language": "it",
+     "language": {
+      "raw": "I/d",
+      "description": "Italian; subtitles: German"
+     },
+     "format": null
+    },
+    {
+     "title": "Fluchtkanal",
+     "original_title": null,
+     "directors": [
+      "Paolo Poloni"
+     ],
+     "year": 1988,
+     "runtime_min": 12,
+     "country": null,
+     "language_raw": "D•OV",
+     "format_raw": "Farbe",
+     "start": null,
+     "notes": [],
+     "language": {
+      "raw": "D•OV",
+      "description": "German, Original version"
+     },
+     "format": null
+    },
+    {
+     "title": "Der Kunde ist König",
+     "original_title": null,
+     "directors": [
+      "Josy Meier"
+     ],
+     "year": 1991,
+     "runtime_min": 55,
+     "country": null,
+     "language_raw": "OV/d",
+     "format_raw": "Farbe",
+     "start": null,
+     "notes": [],
+     "language": {
+      "raw": "OV/d",
+      "description": "Original version; subtitles: German"
+     },
+     "format": null
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "xenix",
+   "series": [
+    "Schöner wohnen! – Geschichten der Gentrifizierung"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "one venue",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Schöner wohnen! – Geschichten der Gentrifizierung": "schoner-wohnen-geschichten-der-gentrifizierung-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "xenix:265611",
+       "start": "2026-10-28T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/265611",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP"
+       },
+       "note": "With an introduction by Seraina Winzeler, and in the presence of director Josy Meier",
+       "note_lang": null,
+       "series": [
+        "Schöner wohnen! – Geschichten der Gentrifizierung"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

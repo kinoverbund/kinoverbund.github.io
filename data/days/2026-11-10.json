@@ -1,0 +1,340 @@
+{
+ "date": "2026-11-10",
+ "venues": [
+  {
+   "name": "Filmstelle",
+   "operator": "Filmstelle",
+   "address": "StuZ, ETH CAB, Universitätstrasse 6, 8006 Zürich",
+   "listings": [
+    {
+     "title": "La classe operaia va in paradiso (The Working Class Goes to Heaven) & short: Staplerfahrer Klaus - Der erste Arbeitstag (Forklift Driver Klaus: The First Day on the Job)",
+     "venue_title": "La classe operaia va in paradiso",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "program",
+     "film_url": "https://filmstelle.ch/la-classe-operaia-va-in-paradiso/",
+     "directors": [],
+     "year": null,
+     "runtime_min": 126,
+     "country": null,
+     "program_films": [
+      {
+       "title": "Staplerfahrer Klaus - Der erste Arbeitstag (Forklift Driver Klaus: The First Day on the Job)",
+       "original_title": "Staplerfahrer Klaus - Der erste Arbeitstag",
+       "directors": [
+        "Stefan Prehn",
+        "Jörg Wagner"
+       ],
+       "year": 2001,
+       "runtime_min": 10,
+       "country": null,
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "venue_title": "Staplerfahrer Klaus - Der erste Arbeitstag",
+       "english_title": "Forklift Driver Klaus: The First Day on the Job",
+       "tmdb_id": 9677,
+       "tmdb_kind": "movie",
+       "original_language": "de",
+       "language": null,
+       "format": null
+      },
+      {
+       "title": "La classe operaia va in paradiso (The Working Class Goes to Heaven)",
+       "venue_title": "La classe operaia va in paradiso",
+       "original_title": "La classe operaia va in paradiso",
+       "english_title": "The Working Class Goes to Heaven",
+       "directors": [
+        "Elio Petri"
+       ],
+       "year": 1971,
+       "runtime_min": 116,
+       "country": "IT",
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "tmdb_id": 56231,
+       "tmdb_kind": "movie",
+       "original_language": "it",
+       "notes": [],
+       "language": null,
+       "format": null
+      }
+     ],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "filmstelle",
+     "series": [
+      "Work, work, work"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "filmstelle:la-classe-operaia",
+       "start": "2026-11-10T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "IT/en",
+        "description": "Italian; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Work, work, work"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Work, work, work": "work-work-work-filmstelle"
+     }
+    }
+   ]
+  },
+  {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense & Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/cinema-ciao-sense-sensibility",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "Cinema Ciao"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9752",
+       "start": "2026-11-10T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9752/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinema Ciao"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {
+      "Cinema Ciao": "cinema-ciao-kinokoni"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "God's Creatures",
+     "venue_title": "God’s Creatures",
+     "subtitle": null,
+     "original_title": "God's Creatures",
+     "english_title": "God's Creatures",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/gods-creatures",
+     "directors": [
+      "Anna Rose Holmer",
+      "Saela Davis"
+     ],
+     "year": 2022,
+     "runtime_min": 101,
+     "country": "IE/GB/USA",
+     "program_films": [],
+     "tmdb_id": 828558,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Paul Mescal"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:189720",
+       "start": "2026-11-10T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/189720",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "god-s-creatures-2022",
+     "series_slugs": {
+      "Paul Mescal": "paul-mescal-xenix"
+     }
+    },
+    {
+     "title": "Indian Horse",
+     "venue_title": "Indian Horse",
+     "subtitle": null,
+     "original_title": "Indian Horse",
+     "english_title": "Indian Horse",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/november-2026/reclaiming-youth--junge-indigene-stimmen-aus-kanada/indian-horse",
+     "directors": [
+      "Stephen S. Campanelli"
+     ],
+     "year": 2017,
+     "runtime_min": 96,
+     "country": "CDN",
+     "program_films": [],
+     "tmdb_id": 471616,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "xenix:969915",
+       "start": "2026-11-10T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/969915",
+       "language": {
+        "raw": "E•OV/e",
+        "description": "English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "indian-horse-2017",
+     "series_slugs": {
+      "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
+     }
+    }
+   ]
+  }
+ ]
+}

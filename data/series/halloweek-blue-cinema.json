@@ -1,0 +1,1570 @@
+{
+ "name": "Halloweek",
+ "venues": [
+  "Abaton",
+  "Capitol"
+ ],
+ "links": {
+  "Abaton": "https://www.bluecinema.ch/de/events/horrorwoche",
+  "Capitol": "https://www.bluecinema.ch/de/events/horrorwoche"
+ },
+ "about": {
+  "text": "Horror Week at blue Cinema brings the best Halloween movies to the big screen. Experience horror classics, the latest thrillers, and unforgettable movie nights full of suspense, goosebumps, and thrills.",
+  "lang": "en",
+  "venue": "blue Cinema",
+  "url": "https://www.bluecinema.ch/de/events/horrorwoche",
+  "translated": true
+ },
+ "films": [
+  {
+   "title": "Scream",
+   "venue_title": "Scream",
+   "subtitle": null,
+   "original_title": "Scream",
+   "english_title": "Scream",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332336?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Wes Craven"
+   ],
+   "year": 1996,
+   "runtime_min": 118,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 4232,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "scream-1996",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3332415",
+       "start": "2026-10-26T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332415/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332423",
+       "start": "2026-10-26T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332423/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Descent",
+   "venue_title": "The Descent",
+   "subtitle": null,
+   "original_title": "The Descent",
+   "english_title": "The Descent",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3334778?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Matt Green"
+   ],
+   "year": 2024,
+   "runtime_min": 99,
+   "country": "Großbritannien",
+   "program_films": [],
+   "tmdb_id": 1440016,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Capitol",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3334782",
+       "start": "2026-10-26T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334782/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ghostbusters",
+   "venue_title": "Ghostbusters",
+   "subtitle": null,
+   "original_title": "Ghostbusters",
+   "english_title": "Ghostbusters",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332337?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Ivan Reitman"
+   ],
+   "year": 1984,
+   "runtime_min": 105,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 620,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "ghostbusters-1984",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "screenings": [
+      {
+       "id": "bluecinema:3332392",
+       "start": "2026-10-27T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332392/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332401",
+       "start": "2026-10-27T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332401/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Bride of Chucky",
+   "venue_title": "Bride of Chucky",
+   "subtitle": null,
+   "original_title": "Bride of Chucky",
+   "english_title": "Bride of Chucky",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3334779?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Ronny Yu"
+   ],
+   "year": 1998,
+   "runtime_min": 89,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 11932,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Capitol",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "screenings": [
+      {
+       "id": "bluecinema:3334780",
+       "start": "2026-10-27T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334780/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Exorcist",
+   "venue_title": "The Exorcist",
+   "subtitle": null,
+   "original_title": "The Exorcist",
+   "english_title": "The Exorcist",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332338?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "William Friedkin"
+   ],
+   "year": 1973,
+   "runtime_min": 132,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 9552,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "the-exorcist-1973",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3332404",
+       "start": "2026-10-28T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332404/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332402",
+       "start": "2026-10-28T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332402/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Candyman",
+   "venue_title": "Candyman",
+   "subtitle": null,
+   "original_title": "Candyman",
+   "english_title": "Candyman",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3334775?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Bernard Rose"
+   ],
+   "year": 1992,
+   "runtime_min": 109,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 9529,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": true,
+   "film_slug": "candyman-1992",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Capitol",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3334784",
+       "start": "2026-10-28T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334784/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Clayface",
+   "venue_title": "Clayface",
+   "subtitle": null,
+   "original_title": "Clayface",
+   "english_title": "Clayface",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "James Watkins"
+   ],
+   "year": 2026,
+   "runtime_min": 109,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1400940,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "clayface-2026",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3332527",
+       "start": "2026-10-28T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332527/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3332526",
+       "start": "2026-10-31T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332526/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Other Mommy",
+   "venue_title": "Other Mommy",
+   "subtitle": null,
+   "original_title": "Other Mommy",
+   "english_title": "Other Mommy",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3297948?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Rob Savage"
+   ],
+   "year": 2026,
+   "runtime_min": 93,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1400837,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek",
+    "Horror Night"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "other-mommy-2026",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema",
+    "Horror Night": "horror-night-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3332309",
+       "start": "2026-10-29T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332309/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek",
+        "Horror Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Other Mommy",
+   "venue_title": "Other Mommy",
+   "subtitle": null,
+   "original_title": "Other Mommy",
+   "english_title": "Other Mommy",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3297948?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Rob Savage"
+   ],
+   "year": 2026,
+   "runtime_min": 93,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1400837,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Horror Night",
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "other-mommy-2026",
+   "series_slugs": {
+    "Horror Night": "horror-night-blue-cinema",
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Capitol",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3332310",
+       "start": "2026-10-29T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Capitol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332310/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Horror Night",
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Poltergeist",
+   "venue_title": "Poltergeist",
+   "subtitle": null,
+   "original_title": "Poltergeist",
+   "english_title": "Poltergeist",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332340?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Tobe Hooper"
+   ],
+   "year": 1982,
+   "runtime_min": 114,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 609,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "poltergeist-1982",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3332465",
+       "start": "2026-10-29T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332465/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332467",
+       "start": "2026-10-29T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332467/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Shining",
+   "venue_title": "The Shining",
+   "subtitle": null,
+   "original_title": "The Shining",
+   "english_title": "The Shining",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332341?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Stanley Kubrick"
+   ],
+   "year": 1980,
+   "runtime_min": 119,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 694,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "the-shining-1980",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3332369",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332369/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332378",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332378/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Barbarian",
+   "venue_title": "Barbarian",
+   "subtitle": null,
+   "original_title": "Barbarian",
+   "english_title": "Barbarian",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3334776?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Zach Cregger"
+   ],
+   "year": 2022,
+   "runtime_min": 103,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 913290,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": true,
+   "film_slug": "barbarian-2022",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Capitol",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3334783",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334783/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Resident Evil",
+   "venue_title": "Resident Evil",
+   "subtitle": null,
+   "original_title": "Resident Evil",
+   "english_title": "Resident Evil",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3150526?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Zack Cregger"
+   ],
+   "year": 2026,
+   "runtime_min": 90,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1423191,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "resident-evil-2026",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3332532",
+       "start": "2026-10-30T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332532/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Nightmare Before Christmas",
+   "venue_title": "The Nightmare Before Christmas",
+   "subtitle": null,
+   "original_title": "The Nightmare Before Christmas",
+   "english_title": "The Nightmare Before Christmas",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332342?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Henry Selick"
+   ],
+   "year": 1993,
+   "runtime_min": 76,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 9479,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "the-nightmare-before-christmas-1993",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3332446",
+       "start": "2026-10-31T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332446/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332448",
+       "start": "2026-10-31T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332448/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "A Nightmare on Elm Street",
+   "venue_title": "A Nightmare on Elm Street",
+   "subtitle": null,
+   "original_title": "A Nightmare on Elm Street",
+   "english_title": "A Nightmare on Elm Street",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332343?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Wes Craven"
+   ],
+   "year": 1984,
+   "runtime_min": 91,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 377,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "a-nightmare-on-elm-street-1984",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3332380",
+       "start": "2026-10-31T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332380/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332389",
+       "start": "2026-10-31T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332389/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Trick 'r Treat",
+   "venue_title": "Trick'r Treat",
+   "subtitle": null,
+   "original_title": "Trick 'r Treat",
+   "english_title": "Trick 'r Treat",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3334777?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Michael Dougherty"
+   ],
+   "year": 2007,
+   "runtime_min": 82,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 23202,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Capitol",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3334781",
+       "start": "2026-10-31T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334781/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Halloween",
+   "venue_title": "Halloween",
+   "subtitle": null,
+   "original_title": "Halloween",
+   "english_title": "Halloween",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3332344?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "John Carpenter"
+   ],
+   "year": 1978,
+   "runtime_min": 91,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 948,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep"
+   ],
+   "new": false,
+   "film_slug": "halloween-1978",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3332424",
+       "start": "2026-10-31T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332424/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      },
+      {
+       "id": "bluecinema:3332428",
+       "start": "2026-10-31T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332428/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

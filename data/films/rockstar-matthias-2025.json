@@ -1,0 +1,107 @@
+{
+ "name": "Rockstar Matthias",
+ "venues": [
+  {
+   "title": "Rockstar Matthias",
+   "venue_title": "Rockstar Matthias",
+   "subtitle": null,
+   "original_title": "Rockstar Matthias",
+   "english_title": "Rockstar Matthias",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/rockstar-matthias.html",
+   "directors": [
+    "Christoph Rahm"
+   ],
+   "year": 2025,
+   "runtime_min": 97,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1788437,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "one venue"
+   ],
+   "new": false,
+   "series_slugs": {},
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-10-18",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2297340",
+       "start": "2026-10-18T11:00+02:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/rockstar-matthias.html?city=zurich&show=2297340#tickets",
+       "language": {
+        "raw": "ch/en",
+        "description": "Swiss German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2302047",
+       "start": "2026-10-25T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/rockstar-matthias.html?city=zurich&show=2302047#tickets",
+       "language": {
+        "raw": "ch/en",
+        "description": "Swiss German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
