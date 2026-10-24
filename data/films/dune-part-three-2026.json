@@ -61,11 +61,11 @@
        "note": null,
        "note_lang": null,
        "series": [],
-       "label": null,
+       "label": "Preview",
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3320578",
@@ -123,11 +123,11 @@
        "note": null,
        "note_lang": null,
        "series": [],
-       "label": null,
+       "label": "Preview",
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ]
     },
@@ -1959,10 +1959,14 @@
    "original_language": "en",
    "source": "bluecinema",
    "series": [],
-   "labels": [],
+   "labels": [
+    "Preview"
+   ],
    "english": true,
-   "curated": false,
-   "curated_reasons": [],
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
    "new": true,
    "film_slug": "dune-part-three-2026",
    "series_slugs": {},
@@ -1995,11 +1999,11 @@
        "note": null,
        "note_lang": null,
        "series": [],
-       "label": null,
+       "label": "Preview",
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ]
     },
