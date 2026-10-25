@@ -45,41 +45,6 @@
    "venue": "Xenix",
    "dates": [
     {
-     "date": "2026-10-18",
-     "screenings": [
-      {
-       "id": "xenix:239756",
-       "start": "2026-10-18T12:00+02:00",
-       "time": "12:00",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/239756",
-       "language": {
-        "raw": "F•OV/df",
-        "description": "French, Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "DCP, Farbe"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Dokfilm am Sonntag"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-10-25",
      "screenings": [
       {
@@ -133,7 +98,7 @@
    "program_films": [],
    "tmdb_id": 1596326,
    "tmdb_kind": "movie",
-   "original_language": "de",
+   "original_language": "en",
    "source": "xenix",
    "series": [
     "Dokfilm am Sonntag"
