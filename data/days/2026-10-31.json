@@ -666,7 +666,7 @@
       "Matthew Walker"
      ],
      "year": 2026,
-     "runtime_min": 80,
+     "runtime_min": 81,
      "country": null,
      "program_films": [],
      "tmdb_id": 1477104,
@@ -1921,6 +1921,97 @@
      "series_slugs": {}
     },
     {
+     "title": "The Super Mario Galaxy Movie",
+     "venue_title": "The Super Mario Galaxy Movie",
+     "subtitle": null,
+     "original_title": "The Super Mario Galaxy Movie",
+     "english_title": "The Super Mario Galaxy Movie",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020422",
+     "directors": [
+      "Aaron Horvath",
+      "Michael Jelenic"
+     ],
+     "year": 2026,
+     "runtime_min": 98,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1226863,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23479",
+       "start": "2026-10-31T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Saal 19"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23479&fid=1020422",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23645",
+       "start": "2026-10-31T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 19"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23645&fid=1020422",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-super-mario-galaxy-movie-2026",
+     "series_slugs": {}
+    },
+    {
      "title": "The Odyssey",
      "venue_title": "The Odyssey",
      "subtitle": null,
@@ -2348,67 +2439,6 @@
       }
      ],
      "film_slug": "111-echoes-from-halifax-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "The Super Mario Galaxy Movie",
-     "venue_title": "The Super Mario Galaxy Movie",
-     "subtitle": null,
-     "original_title": "The Super Mario Galaxy Movie",
-     "english_title": "The Super Mario Galaxy Movie",
-     "kind": "film",
-     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020422",
-     "directors": [
-      "Aaron Horvath",
-      "Michael Jelenic"
-     ],
-     "year": 2026,
-     "runtime_min": 98,
-     "country": null,
-     "program_films": [],
-     "tmdb_id": 1226863,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arena",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "arena:23645",
-       "start": "2026-10-31T16:00+01:00",
-       "time": "16:00",
-       "auditoriums": [
-        "Saal 19"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23645&fid=1020422",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "the-super-mario-galaxy-movie-2026",
      "series_slugs": {}
     },
     {
