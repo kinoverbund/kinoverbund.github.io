@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T15:02:43+01:00",
+ "generated_at": "2026-10-26T16:04:37+01:00",
  "today": "2026-10-26",
  "days": [
   {
@@ -74,51 +74,51 @@
   },
   {
    "date": "2026-10-29",
-   "screenings": 92,
-   "english": 42,
-   "curated": 11,
+   "screenings": 104,
+   "english": 51,
+   "curated": 30,
    "film": 0
   },
   {
    "date": "2026-10-30",
-   "screenings": 98,
-   "english": 48,
-   "curated": 10,
+   "screenings": 109,
+   "english": 56,
+   "curated": 35,
    "film": 0
   },
   {
    "date": "2026-10-31",
-   "screenings": 132,
-   "english": 50,
-   "curated": 14,
+   "screenings": 150,
+   "english": 61,
+   "curated": 40,
    "film": 0
   },
   {
    "date": "2026-11-01",
-   "screenings": 123,
-   "english": 45,
-   "curated": 7,
+   "screenings": 147,
+   "english": 59,
+   "curated": 34,
    "film": 0
   },
   {
    "date": "2026-11-02",
-   "screenings": 89,
-   "english": 41,
-   "curated": 5,
+   "screenings": 101,
+   "english": 50,
+   "curated": 27,
    "film": 0
   },
   {
    "date": "2026-11-03",
-   "screenings": 91,
-   "english": 43,
-   "curated": 7,
+   "screenings": 103,
+   "english": 52,
+   "curated": 29,
    "film": 0
   },
   {
    "date": "2026-11-04",
-   "screenings": 107,
-   "english": 37,
-   "curated": 8,
+   "screenings": 119,
+   "english": 44,
+   "curated": 28,
    "film": 0
   },
   {
@@ -447,27 +447,27 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-26T13:53:19+00:00"
+   "run_at": "2026-10-26T14:53:31+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-26T13:56:13+00:00"
+   "run_at": "2026-10-26T14:56:47+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-26T14:01:10+00:00"
+   "run_at": "2026-10-26T15:02:47+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-26T14:01:12+00:00"
+   "run_at": "2026-10-26T15:02:50+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-26T14:01:14+00:00"
+   "run_at": "2026-10-26T15:02:53+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-26T14:02:36+00:00"
+   "run_at": "2026-10-26T15:04:26+00:00"
   }
  },
  "venues": [
@@ -898,6 +898,12 @@
     "2026-10-26",
     "2026-10-27",
     "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
     "2026-11-04",
     "2026-11-07",
     "2026-11-10",
@@ -928,7 +934,13 @@
     "2026-10-26": 12,
     "2026-10-27": 11,
     "2026-10-28": 16,
-    "2026-11-04": 1,
+    "2026-10-29": 12,
+    "2026-10-30": 11,
+    "2026-10-31": 18,
+    "2026-11-01": 24,
+    "2026-11-02": 12,
+    "2026-11-03": 12,
+    "2026-11-04": 13,
     "2026-11-07": 1,
     "2026-11-10": 1,
     "2026-11-14": 3,
@@ -1587,6 +1599,7 @@
    "train-to-busan-2016",
    "trick-r-treat-2007",
    "tristan-forever-2026",
+   "veins-2021",
    "verity-2026",
    "was-haben-wir-gelacht-2026",
    "whalefall-2026",

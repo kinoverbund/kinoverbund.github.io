@@ -63,7 +63,7 @@
         "Halloweek"
        ],
        "label": null,
-       "last": false,
+       "last": true,
        "guest": false,
        "english": true,
        "curated": true
@@ -95,7 +95,7 @@
         "Halloweek"
        ],
        "label": null,
-       "last": false,
+       "last": true,
        "guest": false,
        "english": false,
        "curated": true
@@ -2178,7 +2178,7 @@
         "Halloweek"
        ],
        "label": null,
-       "last": false,
+       "last": true,
        "guest": false,
        "english": true,
        "curated": true
@@ -2283,6 +2283,7 @@
      "english": false,
      "curated": true,
      "curated_reasons": [
+      "one venue",
       "rep",
       "special"
      ],
@@ -2649,6 +2650,7 @@
      "english": false,
      "curated": true,
      "curated_reasons": [
+      "one venue",
       "rep"
      ],
      "new": false,
@@ -2709,8 +2711,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -2741,7 +2745,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "tristan-forever-2026",
@@ -2769,8 +2773,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -2801,7 +2807,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "alte-liebe-love-after-all-2026",
@@ -2912,6 +2918,7 @@
      "english": false,
      "curated": true,
      "curated_reasons": [
+      "one venue",
       "rep",
       "special"
      ],
@@ -3064,8 +3071,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -3096,7 +3105,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2301423",
@@ -3126,7 +3135,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "das-getraumte-abenteuer-the-dreamed-adventure-2026",
@@ -3154,8 +3163,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -3186,7 +3197,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2301452",
@@ -3216,7 +3227,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2301425",
@@ -3246,7 +3257,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "queen-at-sea-2026",
@@ -3465,6 +3476,583 @@
    ]
   },
   {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense and Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/sense-and-sensibility",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9853",
+       "start": "2026-10-30T17:20+01:00",
+       "time": "17:20",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9853/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-9847",
+       "start": "2026-10-30T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9847/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Verity",
+     "venue_title": "Verity - Dunkle Geheimnisse",
+     "subtitle": null,
+     "original_title": "Verity",
+     "english_title": "Verity",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/verity-dunkle-geheimnisse",
+     "directors": [
+      "Michael Showalter"
+     ],
+     "year": 2026,
+     "runtime_min": 117,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1283515,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9855",
+       "start": "2026-10-30T17:20+01:00",
+       "time": "17:20",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9855/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-9846",
+       "start": "2026-10-30T19:50+01:00",
+       "time": "19:50",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9846/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "verity-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Der perfekte Urlaub (The Perfect Holiday)",
+     "venue_title": "Der perfekte Urlaub",
+     "subtitle": null,
+     "original_title": "Der perfekte Urlaub",
+     "english_title": "The Perfect Holiday",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/der-perfekte-urlaub",
+     "directors": [
+      "Bora Dağtekin"
+     ],
+     "year": 2026,
+     "runtime_min": 117,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1525072,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9854",
+       "start": "2026-10-30T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9854/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-9849",
+       "start": "2026-10-30T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9849/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Ojczyzna (Fatherland)",
+     "venue_title": "Vaterland",
+     "subtitle": null,
+     "original_title": "Ojczyzna",
+     "english_title": "Fatherland",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/vaterland",
+     "directors": [
+      "Paweł Pawlikowski"
+     ],
+     "year": 2026,
+     "runtime_min": 82,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1437696,
+     "tmdb_kind": "movie",
+     "original_language": "pl",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9852",
+       "start": "2026-10-30T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9852/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "ojczyzna-fatherland-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Frank & Louis",
+     "venue_title": "Frank & Louis",
+     "subtitle": null,
+     "original_title": "Frank & Louis",
+     "english_title": "Frank & Louis",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/frank-louis",
+     "directors": [
+      "Petra Biondina Volpe"
+     ],
+     "year": 2026,
+     "runtime_min": 96,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1596287,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9856",
+       "start": "2026-10-30T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9856/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "frank-louis-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "The Invite",
+     "venue_title": "The Invite",
+     "subtitle": null,
+     "original_title": "The Invite",
+     "english_title": "The Invite",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-invite",
+     "directors": [
+      "Olivia Wilde"
+     ],
+     "year": 2026,
+     "runtime_min": 107,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 950028,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9857",
+       "start": "2026-10-30T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9857/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-invite-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Digger",
+     "venue_title": "Digger",
+     "subtitle": null,
+     "original_title": "Digger",
+     "english_title": "Digger",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/digger",
+     "directors": [
+      "Alejandro G. Iñárritu"
+     ],
+     "year": 2026,
+     "runtime_min": 129,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1248832,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9848",
+       "start": "2026-10-30T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9848/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "digger-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "The Social Reckoning",
+     "venue_title": "The Social Reckoning",
+     "subtitle": null,
+     "original_title": "The Social Reckoning",
+     "english_title": "The Social Reckoning",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-social-reckoning",
+     "directors": [
+      "Aaron Sorkin"
+     ],
+     "year": 2026,
+     "runtime_min": 112,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1281331,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9850",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9850/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-social-reckoning-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,
@@ -3492,8 +4080,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -3524,7 +4114,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2307298",
@@ -3554,7 +4144,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2307297",
@@ -3584,7 +4174,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2307295",
@@ -3614,7 +4204,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2307296",
@@ -3644,7 +4234,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "naza-2026",
@@ -3672,8 +4262,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -3704,7 +4296,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2307291",
@@ -3734,7 +4326,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "dua-2026",
@@ -3763,8 +4355,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -3795,7 +4389,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2307286",
@@ -3825,7 +4419,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "was-haben-wir-gelacht-2026",
@@ -3853,8 +4447,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -3885,7 +4481,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "das-unendliche-jetzt-2026",
@@ -4004,8 +4600,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -4036,7 +4634,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2308807",
@@ -4066,7 +4664,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2308806",
@@ -4096,7 +4694,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2308844",
@@ -4126,7 +4724,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "die-zukunft-ist-vergangenheit-2026",
@@ -4154,8 +4752,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -4186,7 +4786,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "moscas-flies-2026",
@@ -4218,6 +4818,7 @@
      "english": true,
      "curated": true,
      "curated_reasons": [
+      "one venue",
       "special"
      ],
      "new": false,
@@ -4278,8 +4879,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -4310,7 +4913,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "sie-glauben-an-engel-herr-drowak-you-believe-in-angels-mr-drowak-2025",
@@ -4339,8 +4942,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -4371,7 +4976,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "jim-queen-jim-queen-and-the-quest-for-chloroqueer-2026",
@@ -4399,8 +5004,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -4428,10 +5035,10 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": false,
+       "last": true,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "series_slugs": {}
@@ -4470,6 +5077,7 @@
      "curated": true,
      "curated_reasons": [
       "venue",
+      "one venue",
       "rep",
       "special"
      ],
@@ -4538,6 +5146,7 @@
      "curated": true,
      "curated_reasons": [
       "venue",
+      "one venue",
       "rep",
       "special"
      ],
@@ -4606,6 +5215,7 @@
      "curated": true,
      "curated_reasons": [
       "venue",
+      "one venue",
       "rep",
       "special"
      ],

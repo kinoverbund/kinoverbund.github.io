@@ -1,0 +1,73 @@
+{
+ "name": "Veins",
+ "venues": [
+  {
+   "title": "Veins",
+   "venue_title": "Veins",
+   "subtitle": null,
+   "original_title": "Veins",
+   "english_title": "Veins",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/",
+   "directors": [
+    "Alexandria"
+   ],
+   "year": 2021,
+   "runtime_min": 47,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 828648,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep"
+   ],
+   "new": true,
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9761",
+       "start": "2026-11-04T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9761/seats",
+       "language": {
+        "raw": "Deutsch; Englisch Untertitel",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
