@@ -2,10 +2,4127 @@
  "date": "2026-11-01",
  "venues": [
   {
+   "name": "Arena Sihlcity",
+   "operator": "Arena Cinemas",
+   "address": null,
+   "listings": [
+    {
+     "title": "Minions & Monsters",
+     "venue_title": "Minions & Monsters",
+     "subtitle": null,
+     "original_title": "Minions & Monsters",
+     "english_title": "Minions & Monsters",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020940",
+     "directors": [
+      "Pierre Coffin"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1315772,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23608",
+       "start": "2026-11-01T10:45+01:00",
+       "time": "10:45",
+       "auditoriums": [
+        "Saal 2"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23608&fid=1020940",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23546",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 2"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23546&fid=1020940",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23571",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 9 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23571&fid=1020940",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23572",
+       "start": "2026-11-01T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Saal 9 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23572&fid=1020940",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23547",
+       "start": "2026-11-01T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Saal 2"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23547&fid=1020940",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "minions-monsters-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "PAW Patrol: The Dino Movie",
+     "venue_title": "Paw Patrol: The Dino Movie",
+     "subtitle": null,
+     "original_title": "PAW Patrol: The Dino Movie",
+     "english_title": "PAW Patrol: The Dino Movie",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020245",
+     "directors": [
+      "Callan Brunker"
+     ],
+     "year": 2026,
+     "runtime_min": 89,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1185806,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23612",
+       "start": "2026-11-01T10:45+01:00",
+       "time": "10:45",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23612&fid=1020245",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23613",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23613&fid=1020245",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "paw-patrol-the-dino-movie-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "venue_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "subtitle": null,
+     "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "english_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023520",
+     "directors": [
+      "Steve Cox",
+      "Matthew Walker"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1477104,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23635",
+       "start": "2026-11-01T10:45+01:00",
+       "time": "10:45",
+       "auditoriums": [
+        "Saal 17"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23635&fid=1023520",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23649",
+       "start": "2026-11-01T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23649&fid=1023520",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23554",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 4"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23554&fid=1023520",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "Mega"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23636",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 17"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23636&fid=1023520",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23555",
+       "start": "2026-11-01T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Saal 4"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23555&fid=1023520",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "Mega"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23579",
+       "start": "2026-11-01T16:10+01:00",
+       "time": "16:10",
+       "auditoriums": [
+        "Saal 11"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23579&fid=1023520",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23580",
+       "start": "2026-11-01T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Saal 11"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23580&fid=1023520",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "subtitle": null,
+     "original_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "english_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022702",
+     "directors": [
+      "Gregor Schnitzler"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1492574,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23640",
+       "start": "2026-11-01T10:45+01:00",
+       "time": "10:45",
+       "auditoriums": [
+        "Saal 18"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23640&fid=1022702",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23641",
+       "start": "2026-11-01T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Saal 18"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23641&fid=1022702",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23642",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 18"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23642&fid=1022702",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Emil und die Detektive (Emil and the Detectives)",
+     "venue_title": "Emil und die Detektive",
+     "subtitle": null,
+     "original_title": "Emil und die Detektive",
+     "english_title": "Emil and the Detectives",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023868",
+     "directors": [
+      "David Dietl"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1426805,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23620",
+       "start": "2026-11-01T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23620&fid=1023868",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23561",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 6"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23561&fid=1023868",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23562",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 6"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23562&fid=1023868",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Da Mumbo Jumbo blev kæmpestor (Mumbo Jumbo)",
+     "venue_title": "Mumbo Jumbo",
+     "subtitle": null,
+     "original_title": "Da Mumbo Jumbo blev kæmpestor",
+     "english_title": "Mumbo Jumbo",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1024779",
+     "directors": [
+      "Karsten Killerich"
+     ],
+     "year": 2026,
+     "runtime_min": 83,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1218067,
+     "tmdb_kind": "movie",
+     "original_language": "da",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arena:23627",
+       "start": "2026-11-01T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 15"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23627&fid=1024779",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23550",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23550&fid=1024779",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23551",
+       "start": "2026-11-01T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23551&fid=1024779",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "da-mumbo-jumbo-blev-kmpestor-mumbo-jumbo-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Der perfekte Urlaub (The Perfect Holiday)",
+     "venue_title": "Der perfekte Urlaub",
+     "subtitle": null,
+     "original_title": "Der perfekte Urlaub",
+     "english_title": "The Perfect Holiday",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022061",
+     "directors": [
+      "Bora Dagtekin"
+     ],
+     "year": 2026,
+     "runtime_min": 126,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1525072,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23629",
+       "start": "2026-11-01T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 16"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23629&fid=1022061",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23565",
+       "start": "2026-11-01T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 7"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23565&fid=1022061",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23556",
+       "start": "2026-11-01T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal 4"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23556&fid=1022061",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "Mega"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23557",
+       "start": "2026-11-01T20:35+01:00",
+       "time": "20:35",
+       "auditoriums": [
+        "Saal 4"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23557&fid=1022061",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "Mega"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Forgotten Island",
+     "venue_title": "Forgotten Island",
+     "subtitle": null,
+     "original_title": "Forgotten Island",
+     "english_title": "Forgotten Island",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1017755",
+     "directors": [
+      "Joel Crawford",
+      "Januel Mercado"
+     ],
+     "year": 2026,
+     "runtime_min": 109,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1465063,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23578",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 11"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23578&fid=1017755",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23614",
+       "start": "2026-11-01T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23614&fid=1017755",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "forgotten-island-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Heart of the Beast",
+     "venue_title": "Heart of the Beast",
+     "subtitle": null,
+     "original_title": "Heart of the Beast",
+     "english_title": "Heart of the Beast",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022012",
+     "directors": [
+      "David Ayer"
+     ],
+     "year": 2026,
+     "runtime_min": 101,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1263337,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23582",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23582&fid=1022012",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23622",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23622&fid=1022012",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23548",
+       "start": "2026-11-01T18:10+01:00",
+       "time": "18:10",
+       "auditoriums": [
+        "Saal 2"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23548&fid=1022012",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23586",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23586&fid=1022012",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23549",
+       "start": "2026-11-01T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Saal 2"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23549&fid=1022012",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "heart-of-the-beast-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Marsupilami",
+     "venue_title": "Marsupilami",
+     "subtitle": null,
+     "original_title": "Marsupilami",
+     "english_title": "Marsupilami",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020395",
+     "directors": [
+      "Philippe Lacheau"
+     ],
+     "year": 2026,
+     "runtime_min": 99,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1145899,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23585",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23585&fid=1020395",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23624",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23624&fid=1020395",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "marsupilami-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Toy Story 5",
+     "venue_title": "Toy Story 5",
+     "subtitle": null,
+     "original_title": "Toy Story 5",
+     "english_title": "Toy Story 5",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020427",
+     "directors": [
+      "Andrew Stanton",
+      "McKenna Harris"
+     ],
+     "year": 2026,
+     "runtime_min": 102,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1084244,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23588",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 15"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23588&fid=1020427",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23589",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 15"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23589&fid=1020427",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "toy-story-5-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Woodwalkers 2",
+     "venue_title": "Woodwalkers 2",
+     "subtitle": null,
+     "original_title": "Woodwalkers 2",
+     "english_title": "Woodwalkers 2",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022149",
+     "directors": [
+      "Sven Unterwaldt"
+     ],
+     "year": 2026,
+     "runtime_min": 103,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1278853,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23605",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23605&fid=1022149",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23558",
+       "start": "2026-11-01T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23558&fid=1022149",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "woodwalkers-2-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "The Super Mario Galaxy Movie",
+     "venue_title": "The Super Mario Galaxy Movie",
+     "subtitle": null,
+     "original_title": "The Super Mario Galaxy Movie",
+     "english_title": "The Super Mario Galaxy Movie",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020422",
+     "directors": [
+      "Aaron Horvath",
+      "Michael Jelenic"
+     ],
+     "year": 2026,
+     "runtime_min": 98,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1226863,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23601",
+       "start": "2026-11-01T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Saal 19"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23601&fid=1020422",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23646",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 19"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23646&fid=1020422",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-super-mario-galaxy-movie-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "The Odyssey",
+     "venue_title": "The Odyssey",
+     "subtitle": null,
+     "original_title": "The Odyssey",
+     "english_title": "The Odyssey",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1021658",
+     "directors": [
+      "Christopher Nolan"
+     ],
+     "year": 2026,
+     "runtime_min": 172,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1368337,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23592",
+       "start": "2026-11-01T14:10+01:00",
+       "time": "14:10",
+       "auditoriums": [
+        "Saal 16"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23592&fid=1021658",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23566",
+       "start": "2026-11-01T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 7"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23566&fid=1021658",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23560",
+       "start": "2026-11-01T20:10+01:00",
+       "time": "20:10",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23560&fid=1021658",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-odyssey-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Spider-Man: Brand New Day",
+     "venue_title": "Spider-Man: Brand New Day",
+     "subtitle": null,
+     "original_title": "Spider-Man: Brand New Day",
+     "english_title": "Spider-Man: Brand New Day",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1021551",
+     "directors": [
+      "Destin Daniel Cretton"
+     ],
+     "year": 2026,
+     "runtime_min": 144,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 969681,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23577",
+       "start": "2026-11-01T14:45+01:00",
+       "time": "14:45",
+       "auditoriums": [
+        "Saal 10 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23577&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23559",
+       "start": "2026-11-01T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23559&fid=1021551",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23573",
+       "start": "2026-11-01T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal 9 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23573&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23576",
+       "start": "2026-11-01T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal 10 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23576&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "spider-man-brand-new-day-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Moana",
+     "venue_title": "Vaiana (Live Action)",
+     "subtitle": null,
+     "original_title": "Moana",
+     "english_title": "Moana",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1019507",
+     "directors": [
+      "Thomas Kail"
+     ],
+     "year": 2026,
+     "runtime_min": 115,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1108427,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23631",
+       "start": "2026-11-01T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Saal 17"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23631&fid=1019507",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "moana-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "111 Echoes from Halifax",
+     "venue_title": "111 - Echoes from Halifax",
+     "subtitle": null,
+     "original_title": "111 Echoes from Halifax",
+     "english_title": "111 Echoes from Halifax",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020401",
+     "directors": [
+      "Mauro Mueller"
+     ],
+     "year": 2026,
+     "runtime_min": 97,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1360609,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23543",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23543&fid=1020401",
+       "language": {
+        "raw": "CH-D/de,fr,en",
+        "description": "Swiss German; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23544",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23544&fid=1020401",
+       "language": {
+        "raw": "CH-D/de,fr,en",
+        "description": "Swiss German; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "111-echoes-from-halifax-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Verity",
+     "venue_title": "Verity",
+     "subtitle": null,
+     "original_title": "Verity",
+     "english_title": "Verity",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023783",
+     "directors": [
+      "Michael Showalter"
+     ],
+     "year": 2026,
+     "runtime_min": 114,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1283515,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23593",
+       "start": "2026-11-01T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal 16"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23593&fid=1023783",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23552",
+       "start": "2026-11-01T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23552&fid=1023783",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23581",
+       "start": "2026-11-01T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Saal 11"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23581&fid=1023783",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23553",
+       "start": "2026-11-01T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23553&fid=1023783",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "verity-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Other Mommy",
+     "venue_title": "Other Mommy",
+     "subtitle": null,
+     "original_title": "Other Mommy",
+     "english_title": "Other Mommy",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022692",
+     "directors": [
+      "Rob Savage"
+     ],
+     "year": 2026,
+     "runtime_min": 93,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1400837,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arena:23575",
+       "start": "2026-11-01T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Saal 10"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23575&fid=1022692",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23599",
+       "start": "2026-11-01T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Saal 18"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23599&fid=1022692",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23569",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23569&fid=1022692",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23570",
+       "start": "2026-11-01T20:55+01:00",
+       "time": "20:55",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23570&fid=1022692",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23574",
+       "start": "2026-11-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 9"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23574&fid=1022692",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23567",
+       "start": "2026-11-01T21:10+01:00",
+       "time": "21:10",
+       "auditoriums": [
+        "Saal 7"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23567&fid=1022692",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "other-mommy-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Das gewisse Etwas",
+     "venue_title": "Das gewisse Etwas",
+     "subtitle": null,
+     "original_title": "Das gewisse Etwas",
+     "english_title": "Das gewisse Etwas",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023551",
+     "directors": [
+      "Marc Rothemund"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1553672,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23596",
+       "start": "2026-11-01T18:25+01:00",
+       "time": "18:25",
+       "auditoriums": [
+        "Saal 17"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23596&fid=1023551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "das-gewisse-etwas-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Clayface",
+     "venue_title": "Clayface",
+     "subtitle": null,
+     "original_title": "Clayface",
+     "english_title": "Clayface",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020820",
+     "directors": [
+      "James Watkins"
+     ],
+     "year": 2026,
+     "runtime_min": 109,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1400940,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23563",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 6"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23563&fid=1020820",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23584",
+       "start": "2026-11-01T20:50+01:00",
+       "time": "20:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23584&fid=1020820",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23564",
+       "start": "2026-11-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 6"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23564&fid=1020820",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "clayface-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Spa Weekend",
+     "venue_title": "Spa Weekend",
+     "subtitle": null,
+     "original_title": "Spa Weekend",
+     "english_title": "Spa Weekend",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023896",
+     "directors": [
+      "Jon Lucas",
+      "Scott Moore"
+     ],
+     "year": 2026,
+     "runtime_min": 97,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1341138,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23583",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23583&fid=1023896",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "spa-weekend-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Resident Evil",
+     "venue_title": "Resident Evil",
+     "subtitle": null,
+     "original_title": "Resident Evil",
+     "english_title": "Resident Evil",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023554",
+     "directors": [
+      "Zack Cregger"
+     ],
+     "year": 2026,
+     "runtime_min": 93,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1423191,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23590",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 15"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23590&fid=1023554",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23591",
+       "start": "2026-11-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 15"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23591&fid=1023554",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:23600",
+       "start": "2026-11-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 18"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23600&fid=1023554",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "resident-evil-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Cocorico 2",
+     "venue_title": "Cocorico 2",
+     "subtitle": null,
+     "original_title": "Cocorico 2",
+     "english_title": "Cocorico 2",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023816",
+     "directors": [
+      "Julien Hervé"
+     ],
+     "year": 2026,
+     "runtime_min": 104,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1437939,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23602",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 19"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23602&fid=1023816",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "cocorico-2-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Кузьма: Страшно веселий (Kuzma: Extremely Happy)",
+     "venue_title": "Kuzma",
+     "subtitle": null,
+     "original_title": "Кузьма: Страшно веселий",
+     "english_title": "Kuzma: Extremely Happy",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025315",
+     "directors": [
+      "Artem Grigoryan"
+     ],
+     "year": 2026,
+     "runtime_min": 131,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1686683,
+     "tmdb_kind": "movie",
+     "original_language": "uk",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23603",
+       "start": "2026-11-01T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Saal 19"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23603&fid=1025315",
+       "language": {
+        "raw": "UK/en",
+        "description": "Ukrainian; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "kuzma-extremely-happy-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Street Fighter",
+     "venue_title": "Street Fighter",
+     "subtitle": null,
+     "original_title": "Street Fighter",
+     "english_title": "Street Fighter",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020817",
+     "directors": [
+      "Kitao Sakurai"
+     ],
+     "year": 2026,
+     "runtime_min": 120,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1153576,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23597",
+       "start": "2026-11-01T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Saal 17"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23597&fid=1020817",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "street-fighter-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Obsession",
+     "venue_title": "Obsession",
+     "subtitle": null,
+     "original_title": "Obsession",
+     "english_title": "Obsession",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023942",
+     "directors": [
+      "Curry Barker"
+     ],
+     "year": 2025,
+     "runtime_min": 109,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1339713,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23587",
+       "start": "2026-11-01T20:50+01:00",
+       "time": "20:50",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23587&fid=1023942",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "obsession-2025",
+     "series_slugs": {}
+    },
+    {
+     "title": "Whalefall",
+     "venue_title": "Whalefall",
+     "subtitle": null,
+     "original_title": "Whalefall",
+     "english_title": "Whalefall",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023826",
+     "directors": [
+      "Brian Duffield"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1255833,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23594",
+       "start": "2026-11-01T20:50+01:00",
+       "time": "20:50",
+       "auditoriums": [
+        "Saal 16"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23594&fid=1023826",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "whalefall-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Insidious: Out of the Further",
+     "venue_title": "Insidious: Out of the Further",
+     "subtitle": null,
+     "original_title": "Insidious: Out of the Further",
+     "english_title": "Insidious: Out of the Further",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1021210",
+     "directors": [
+      "Jacob Chase"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1291595,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23545",
+       "start": "2026-11-01T20:55+01:00",
+       "time": "20:55",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23545&fid=1021210",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "insidious-out-of-the-further-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,
    "listings": [
+    {
+     "title": "急に具合が悪くなる (All of a Sudden)",
+     "venue_title": "Soudain",
+     "subtitle": null,
+     "original_title": "急に具合が悪くなる",
+     "english_title": "All of a Sudden",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/soudain.html",
+     "directors": [
+      "Ryûsuke Hamaguchi"
+     ],
+     "year": 2026,
+     "runtime_min": 195,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1476614,
+     "tmdb_kind": "movie",
+     "original_language": "ja",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307335",
+       "start": "2026-11-01T10:40+01:00",
+       "time": "10:40",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/soudain.html?city=zurich&show=2307335#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "series_slugs": {}
+    },
+    {
+     "title": "Sie glauben an Engel, Herr Drowak? (You Believe in Angels, Mr. Drowak?)",
+     "venue_title": "Sie glauben an Engel, Herr Drowak?",
+     "subtitle": null,
+     "original_title": "Sie glauben an Engel, Herr Drowak?",
+     "english_title": "You Believe in Angels, Mr. Drowak?",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/sie-glauben-an-engel-herr-drowak.html",
+     "directors": [
+      "Nicolas Steiner"
+     ],
+     "year": 2025,
+     "runtime_min": 127,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1497823,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307968",
+       "start": "2026-11-01T11:00+01:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/sie-glauben-an-engel-herr-drowak.html?city=zurich&show=2307968#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "sie-glauben-an-engel-herr-drowak-you-believe-in-angels-mr-drowak-2025",
+     "series_slugs": {}
+    },
+    {
+     "title": "Yugo ide u Ameriku (Yugo Goes to America)",
+     "venue_title": "Yugo Goes to America",
+     "subtitle": null,
+     "original_title": "Yugo ide u Ameriku",
+     "english_title": "Yugo Goes to America",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/yugo-goes-to-america.html",
+     "directors": [
+      "Filip Grujic",
+      "Aleksa Borkovic"
+     ],
+     "year": 2026,
+     "runtime_min": 87,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1637716,
+     "tmdb_kind": "movie",
+     "original_language": "sr",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307332",
+       "start": "2026-11-01T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/yugo-goes-to-america.html?city=zurich&show=2307332#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "yugo-ide-u-ameriku-yugo-goes-to-america-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Imagine Peace",
+     "venue_title": "Imagine Peace",
+     "subtitle": null,
+     "original_title": "Imagine Peace",
+     "english_title": "Imagine Peace",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/imagine-peace.html",
+     "directors": [
+      "Fabian Chiquet"
+     ],
+     "year": 2025,
+     "runtime_min": 95,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1604464,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307331",
+       "start": "2026-11-01T11:50+01:00",
+       "time": "11:50",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/imagine-peace.html?city=zurich&show=2307331#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "imagine-peace-2025",
+     "series_slugs": {}
+    },
+    {
+     "title": "NAZA",
+     "venue_title": "NAZA",
+     "subtitle": null,
+     "original_title": "NAZA",
+     "english_title": "NAZA",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html",
+     "directors": [
+      "Yuval Abraham",
+      "Rachel Szor"
+     ],
+     "year": 2026,
+     "runtime_min": 78,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1755291,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307325",
+       "start": "2026-11-01T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2307325#tickets",
+       "language": {
+        "raw": "ov/de,en",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307324",
+       "start": "2026-11-01T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2307324#tickets",
+       "language": {
+        "raw": "ov/de,en",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307323",
+       "start": "2026-11-01T17:20+01:00",
+       "time": "17:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2307323#tickets",
+       "language": {
+        "raw": "ov/de,en",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307321",
+       "start": "2026-11-01T19:10+01:00",
+       "time": "19:10",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2307321#tickets",
+       "language": {
+        "raw": "ov/de,en",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2308834",
+       "start": "2026-11-01T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2308834#tickets",
+       "language": {
+        "raw": "ov/de,en",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "naza-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Dua",
+     "venue_title": "Dua",
+     "subtitle": null,
+     "original_title": "Dua",
+     "english_title": "Dua",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html",
+     "directors": [
+      "Blerta Basholli"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1472825,
+     "tmdb_kind": "movie",
+     "original_language": "sq",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307330",
+       "start": "2026-11-01T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2307330#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307317",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2307317#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "dua-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Was haben wir gelacht",
+     "venue_title": "Was haben wir gelacht",
+     "subtitle": null,
+     "original_title": "Was haben wir gelacht",
+     "english_title": "Was haben wir gelacht",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html",
+     "directors": [
+      "Eva Müller",
+      "Isabel Schneider"
+     ],
+     "year": 2026,
+     "runtime_min": 98,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1698323,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307334",
+       "start": "2026-11-01T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2307334#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307312",
+       "start": "2026-11-01T18:50+01:00",
+       "time": "18:50",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/was-haben-wir-gelacht.html?city=zurich&show=2307312#tickets",
+       "language": {
+        "raw": "de/en",
+        "description": "German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "was-haben-wir-gelacht-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Das unendliche Jetzt",
+     "venue_title": "Das unendliche Jetzt",
+     "subtitle": null,
+     "original_title": "Das unendliche Jetzt",
+     "english_title": "Das unendliche Jetzt",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/das-unendliche-jetzt.html",
+     "directors": [
+      "Kaspar Kasics"
+     ],
+     "year": 2026,
+     "runtime_min": 98,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1770967,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307333",
+       "start": "2026-11-01T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/das-unendliche-jetzt.html?city=zurich&show=2307333#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "das-unendliche-jetzt-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Digger",
+     "venue_title": "Digger",
+     "subtitle": null,
+     "original_title": "Digger",
+     "english_title": "Digger",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html",
+     "directors": [
+      "Alejandro G. Iñárritu"
+     ],
+     "year": 2026,
+     "runtime_min": 129,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1248832,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307328",
+       "start": "2026-11-01T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2307328#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307320",
+       "start": "2026-11-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2307320#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "digger-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Die Zukunft ist Vergangenheit",
+     "venue_title": "Die Zukunft ist Vergangenheit",
+     "subtitle": null,
+     "original_title": "Die Zukunft ist Vergangenheit",
+     "english_title": "Die Zukunft ist Vergangenheit",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html",
+     "directors": [
+      "Stephan Schulz",
+      "Julian Kirchner"
+     ],
+     "year": 2026,
+     "runtime_min": 99,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1767401,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2308814",
+       "start": "2026-11-01T16:20+01:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2308814#tickets",
+       "language": {
+        "raw": "ch/en",
+        "description": "Swiss German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2308813",
+       "start": "2026-11-01T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2308813#tickets",
+       "language": {
+        "raw": "ch/en",
+        "description": "Swiss German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2308812",
+       "start": "2026-11-01T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2308812#tickets",
+       "language": {
+        "raw": "ch/en",
+        "description": "Swiss German; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "die-zukunft-ist-vergangenheit-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Moscas (Flies)",
+     "venue_title": "Moscas",
+     "subtitle": null,
+     "original_title": "Moscas",
+     "english_title": "Flies",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/moscas.html",
+     "directors": [
+      "Fernando Eimbcke"
+     ],
+     "year": 2026,
+     "runtime_min": 99,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1437703,
+     "tmdb_kind": "movie",
+     "original_language": "es",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307310",
+       "start": "2026-11-01T16:40+01:00",
+       "time": "16:40",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/moscas.html?city=zurich&show=2307310#tickets",
+       "language": {
+        "raw": "es/de,fr",
+        "description": "Spanish; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "moscas-flies-2026",
+     "series_slugs": {}
+    },
     {
      "title": "Wild Horse Nine",
      "venue_title": "Wild Horse Nine",

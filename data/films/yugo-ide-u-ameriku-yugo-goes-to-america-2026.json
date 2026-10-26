@@ -31,6 +31,7 @@
     "special"
    ],
    "new": false,
+   "film_slug": "yugo-ide-u-ameriku-yugo-goes-to-america-2026",
    "series_slugs": {},
    "venue": "Riffraff",
    "dates": [
@@ -66,6 +67,41 @@
        "guest": false,
        "english": false,
        "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307332",
+       "start": "2026-11-01T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/yugo-goes-to-america.html?city=zurich&show=2307332#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
       }
      ]
     }
