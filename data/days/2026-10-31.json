@@ -3603,6 +3603,1280 @@
    ]
   },
   {
+   "name": "Houdini",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Die Schnecke und der Buckelwal (Kurzfilme) (The Snail and the Humpback Whale (short films))",
+     "venue_title": "Die Schnecke und der Buckelwal (Kurzfilme)",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "program",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/die-schnecke-und-der-buckelwal-kurzfilme.html",
+     "directors": [],
+     "year": 2019,
+     "runtime_min": 42,
+     "country": null,
+     "program_films": [
+      {
+       "title": "Rita und das Krokodil: Im Zoo",
+       "original_title": null,
+       "directors": [
+        "Siri Melchior"
+       ],
+       "year": null,
+       "runtime_min": 5,
+       "country": "DNK",
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": null,
+       "format": null
+      },
+      {
+       "title": "Rita und das Krokodil: Schwimmbad",
+       "original_title": null,
+       "directors": [
+        "Siri Melchior"
+       ],
+       "year": null,
+       "runtime_min": 5,
+       "country": "DNK",
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": null,
+       "format": null
+      },
+      {
+       "title": "Blatt",
+       "original_title": null,
+       "directors": [
+        "Alliona Baranova"
+       ],
+       "year": null,
+       "runtime_min": 6,
+       "country": "RT",
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": null,
+       "format": null
+      },
+      {
+       "title": "Die Schnecke und der Buckelwal",
+       "original_title": null,
+       "directors": [
+        "Max Lang",
+        "Daniel Snaddon"
+       ],
+       "year": null,
+       "runtime_min": 30,
+       "country": "UK",
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "language": null,
+       "format": null
+      }
+     ],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306976",
+       "start": "2026-10-31T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-schnecke-und-der-buckelwal-kurzfilme.html?city=zurich&show=2306976#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "die-schnecke-und-der-buckelwal-kurzfilme-2019",
+     "series_slugs": {}
+    },
+    {
+     "title": "Ojczyzna (Fatherland)",
+     "venue_title": "Vaterland",
+     "subtitle": null,
+     "original_title": "Ojczyzna",
+     "english_title": "Fatherland",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
+     "directors": [
+      "Pawel Pawlikowski"
+     ],
+     "year": 2026,
+     "runtime_min": 82,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1437696,
+     "tmdb_kind": "movie",
+     "original_language": "pl",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306977",
+       "start": "2026-10-31T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306977#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306970",
+       "start": "2026-10-31T17:10+01:00",
+       "time": "17:10",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306970#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306971",
+       "start": "2026-10-31T19:10+01:00",
+       "time": "19:10",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306971#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306972",
+       "start": "2026-10-31T21:10+01:00",
+       "time": "21:10",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306972#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "ojczyzna-fatherland-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Frank & Louis",
+     "venue_title": "Frank & Louis",
+     "subtitle": null,
+     "original_title": "Frank & Louis",
+     "english_title": "Frank & Louis",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html",
+     "directors": [
+      "Petra Volpe"
+     ],
+     "year": 2026,
+     "runtime_min": 96,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1596287,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306978",
+       "start": "2026-10-31T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2306978#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306981",
+       "start": "2026-10-31T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2306981#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306961",
+       "start": "2026-10-31T18:40+01:00",
+       "time": "18:40",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2306961#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306962",
+       "start": "2026-10-31T21:10+01:00",
+       "time": "21:10",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2306962#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "frank-louis-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "لا أرض أخرى (No Other Land)",
+     "venue_title": "No Other Land",
+     "subtitle": null,
+     "original_title": "لا أرض أخرى",
+     "english_title": "No Other Land",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/no-other-land.html",
+     "directors": [
+      "Yuval Abraham",
+      "Basel Adra",
+      "Hamdan Ballal",
+      "Rachel Szor"
+     ],
+     "year": 2024,
+     "runtime_min": 96,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1232493,
+     "tmdb_kind": "movie",
+     "original_language": "ar",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306980",
+       "start": "2026-10-31T11:40+01:00",
+       "time": "11:40",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/no-other-land.html?city=zurich&show=2306980#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "no-other-land-2024",
+     "series_slugs": {}
+    },
+    {
+     "title": "Tristan Forever",
+     "venue_title": "Tristan Forever",
+     "subtitle": null,
+     "original_title": "Tristan Forever",
+     "english_title": "Tristan Forever",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html",
+     "directors": [
+      "Tobias Nölle"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1616138,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306979",
+       "start": "2026-10-31T11:50+01:00",
+       "time": "11:50",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/tristan-forever.html?city=zurich&show=2306979#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "tristan-forever-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Alte Liebe (Love, After All)",
+     "venue_title": "Alte Liebe",
+     "subtitle": null,
+     "original_title": "Alte Liebe",
+     "english_title": "Love, After All",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/alte-liebe.html",
+     "directors": [
+      "Andreas Dresen"
+     ],
+     "year": 2026,
+     "runtime_min": 112,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1477576,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306975",
+       "start": "2026-10-31T12:50+01:00",
+       "time": "12:50",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/alte-liebe.html?city=zurich&show=2306975#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "alte-liebe-love-after-all-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Emil und die Detektive (Emil and the Detectives)",
+     "venue_title": "Emil und die Detektive",
+     "subtitle": null,
+     "original_title": "Emil und die Detektive",
+     "english_title": "Emil and the Detectives",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html",
+     "directors": [
+      "David Dietl"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1426805,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306969",
+       "start": "2026-10-31T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2306969#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Tiddler",
+     "venue_title": "Flunkerfisch (Kurzfilme)",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "program",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/flunkerfisch-kurzfilme.html",
+     "directors": [],
+     "year": 2024,
+     "runtime_min": 41,
+     "country": null,
+     "program_films": [
+      {
+       "title": "Tiddler",
+       "original_title": "Tiddler",
+       "directors": [
+        "Alex Bain",
+        "Andy Martin"
+       ],
+       "year": 2024,
+       "runtime_min": null,
+       "country": null,
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "venue_title": "Flunkerfisch",
+       "english_title": "Tiddler",
+       "tmdb_id": 1324019,
+       "tmdb_kind": "movie",
+       "original_language": "en",
+       "language": null,
+       "format": null
+      }
+     ],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306959",
+       "start": "2026-10-31T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/flunkerfisch-kurzfilme.html?city=zurich&show=2306959#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "tiddler-2024",
+     "series_slugs": {}
+    },
+    {
+     "title": "Das geträumte Abenteuer (The Dreamed Adventure)",
+     "venue_title": "Das geträumte Abenteuer",
+     "subtitle": null,
+     "original_title": "Das geträumte Abenteuer",
+     "english_title": "The Dreamed Adventure",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/das-getraeumte-abenteuer.html",
+     "directors": [
+      "Valeska Grisebach"
+     ],
+     "year": 2026,
+     "runtime_min": 167,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1013822,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306966",
+       "start": "2026-10-31T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/das-getraeumte-abenteuer.html?city=zurich&show=2306966#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306967",
+       "start": "2026-10-31T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/das-getraeumte-abenteuer.html?city=zurich&show=2306967#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "das-getraumte-abenteuer-the-dreamed-adventure-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "venue_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "subtitle": null,
+     "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "english_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/shaun-the-sheep-the-beast-of-mossy-bottom.html",
+     "directors": [
+      "Steve Cox",
+      "Matthew Walker"
+     ],
+     "year": 2026,
+     "runtime_min": 81,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1477104,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306974",
+       "start": "2026-10-31T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/shaun-the-sheep-the-beast-of-mossy-bottom.html?city=zurich&show=2306974#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306973",
+       "start": "2026-10-31T16:20+01:00",
+       "time": "16:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/shaun-the-sheep-the-beast-of-mossy-bottom.html?city=zurich&show=2306973#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Queen at Sea",
+     "venue_title": "Queen at Sea",
+     "subtitle": null,
+     "original_title": "Queen at Sea",
+     "english_title": "Queen at Sea",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html",
+     "directors": [
+      "Lance Hammer"
+     ],
+     "year": 2026,
+     "runtime_min": 121,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1021848,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306963",
+       "start": "2026-10-31T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306963#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306964",
+       "start": "2026-10-31T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306964#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306965",
+       "start": "2026-10-31T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306965#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "queen-at-sea-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Pressure",
+     "venue_title": "Pressure",
+     "subtitle": null,
+     "original_title": "Pressure",
+     "english_title": "Pressure",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/pressure.html",
+     "directors": [
+      "Anthony Maras"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1318413,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306968",
+       "start": "2026-10-31T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/pressure.html?city=zurich&show=2306968#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "pressure-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "The Invite",
+     "venue_title": "The Invite",
+     "subtitle": null,
+     "original_title": "The Invite",
+     "english_title": "The Invite",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html",
+     "directors": [
+      "Olivia Wilde"
+     ],
+     "year": 2026,
+     "runtime_min": 107,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 950028,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306957",
+       "start": "2026-10-31T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Houdini 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2306957#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306958",
+       "start": "2026-10-31T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2306958#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-invite-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "호프 (Hope)",
+     "venue_title": "Hope",
+     "subtitle": null,
+     "original_title": "호프",
+     "english_title": "Hope",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/hope.html",
+     "directors": [
+      "Na Hong-jin"
+     ],
+     "year": 2026,
+     "runtime_min": 157,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1058424,
+     "tmdb_kind": "movie",
+     "original_language": "ko",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306960",
+       "start": "2026-10-31T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/hope.html?city=zurich&show=2306960#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "hope-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,

@@ -1,0 +1,701 @@
+{
+ "name": "Queen at Sea",
+ "venues": [
+  {
+   "title": "Queen at Sea",
+   "venue_title": "Queen at Sea",
+   "subtitle": null,
+   "original_title": "Queen at Sea",
+   "english_title": "Queen at Sea",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html",
+   "directors": [
+    "Lance Hammer"
+   ],
+   "year": 2026,
+   "runtime_min": 121,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1021848,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "queen-at-sea-2026",
+   "series_slugs": {},
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306913",
+       "start": "2026-10-29T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306913#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306914",
+       "start": "2026-10-29T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306914#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306915",
+       "start": "2026-10-29T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306915#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2301464",
+       "start": "2026-10-30T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2301464#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2301452",
+       "start": "2026-10-30T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2301452#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2301425",
+       "start": "2026-10-30T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2301425#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2306963",
+       "start": "2026-10-31T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306963#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306964",
+       "start": "2026-10-31T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306964#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2306965",
+       "start": "2026-10-31T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2306965#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307013",
+       "start": "2026-11-01T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307013#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307014",
+       "start": "2026-11-01T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307014#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307015",
+       "start": "2026-11-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307015#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307063",
+       "start": "2026-11-02T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307063#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307064",
+       "start": "2026-11-02T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307064#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307065",
+       "start": "2026-11-02T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307065#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307113",
+       "start": "2026-11-03T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307113#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307114",
+       "start": "2026-11-03T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307114#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307115",
+       "start": "2026-11-03T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307115#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2307163",
+       "start": "2026-11-04T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307163#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307164",
+       "start": "2026-11-04T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307164#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2307165",
+       "start": "2026-11-04T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/queen-at-sea.html?city=zurich&show=2307165#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

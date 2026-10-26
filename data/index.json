@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:01:15+01:00",
+ "generated_at": "2026-10-26T15:02:43+01:00",
  "today": "2026-10-26",
  "days": [
   {
@@ -74,51 +74,51 @@
   },
   {
    "date": "2026-10-29",
-   "screenings": 67,
-   "english": 32,
-   "curated": 8,
-   "film": 0
-  },
-  {
-   "date": "2026-10-30",
-   "screenings": 73,
-   "english": 38,
-   "curated": 7,
-   "film": 0
-  },
-  {
-   "date": "2026-10-31",
-   "screenings": 107,
-   "english": 40,
+   "screenings": 92,
+   "english": 42,
    "curated": 11,
    "film": 0
   },
   {
+   "date": "2026-10-30",
+   "screenings": 98,
+   "english": 48,
+   "curated": 10,
+   "film": 0
+  },
+  {
+   "date": "2026-10-31",
+   "screenings": 132,
+   "english": 50,
+   "curated": 14,
+   "film": 0
+  },
+  {
    "date": "2026-11-01",
-   "screenings": 100,
-   "english": 35,
-   "curated": 4,
+   "screenings": 123,
+   "english": 45,
+   "curated": 7,
    "film": 0
   },
   {
    "date": "2026-11-02",
-   "screenings": 64,
-   "english": 31,
-   "curated": 2,
+   "screenings": 89,
+   "english": 41,
+   "curated": 5,
    "film": 0
   },
   {
    "date": "2026-11-03",
-   "screenings": 66,
-   "english": 33,
-   "curated": 4,
+   "screenings": 91,
+   "english": 43,
+   "curated": 7,
    "film": 0
   },
   {
    "date": "2026-11-04",
-   "screenings": 83,
-   "english": 27,
-   "curated": 5,
+   "screenings": 107,
+   "english": 37,
+   "curated": 8,
    "film": 0
   },
   {
@@ -447,27 +447,27 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-26T12:53:19+00:00"
+   "run_at": "2026-10-26T13:53:19+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-26T12:55:52+00:00"
+   "run_at": "2026-10-26T13:56:13+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-26T12:59:56+00:00"
+   "run_at": "2026-10-26T14:01:10+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-26T12:59:58+00:00"
+   "run_at": "2026-10-26T14:01:12+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-26T13:00:00+00:00"
+   "run_at": "2026-10-26T14:01:14+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-26T13:01:11+00:00"
+   "run_at": "2026-10-26T14:02:36+00:00"
   }
  },
  "venues": [
@@ -821,6 +821,13 @@
     "2026-10-26",
     "2026-10-27",
     "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
     "2026-11-12",
     "2026-11-13",
     "2026-11-14",
@@ -841,6 +848,13 @@
     "2026-10-26": 25,
     "2026-10-27": 25,
     "2026-10-28": 24,
+    "2026-10-29": 25,
+    "2026-10-30": 25,
+    "2026-10-31": 25,
+    "2026-11-01": 23,
+    "2026-11-02": 25,
+    "2026-11-03": 25,
+    "2026-11-04": 24,
     "2026-11-12": 1,
     "2026-11-13": 1,
     "2026-11-14": 3,
@@ -1458,6 +1472,7 @@
    "corpus-delicti-2026",
    "da-mumbo-jumbo-blev-kmpestor-mumbo-jumbo-2026",
    "das-erbe-der-bergler-alpine-saga-2006",
+   "das-getraumte-abenteuer-the-dreamed-adventure-2026",
    "das-gewisse-etwas-2026",
    "das-unendliche-jetzt-2026",
    "der-perfekte-urlaub-the-perfect-holiday-2026",
@@ -1523,6 +1538,7 @@
    "paw-patrol-the-dino-movie-2026",
    "poltergeist-1982",
    "pressure-2026",
+   "queen-at-sea-2026",
    "ramayana-rise-of-a-legend-2026",
    "rammstein-live-in-mexico-city-2026",
    "rascal-does-not-dream-of-a-dear-friend-2026",
