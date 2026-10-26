@@ -6598,6 +6598,283 @@
    ]
   },
   {
+   "name": "Metropol",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Clayface",
+     "venue_title": "Clayface",
+     "subtitle": null,
+     "original_title": "Clayface",
+     "english_title": "Clayface",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "James Watkins"
+     ],
+     "year": 2026,
+     "runtime_min": 109,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1400940,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3337119",
+       "start": "2026-10-29T14:45+01:00",
+       "time": "14:45",
+       "auditoriums": [
+        "Metropol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337119/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337115",
+       "start": "2026-10-29T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337115/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337114",
+       "start": "2026-10-29T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337114/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "clayface-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Street Fighter",
+     "venue_title": "Street Fighter",
+     "subtitle": null,
+     "original_title": "Street Fighter",
+     "english_title": "Street Fighter",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3162577?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "Kitao Sakurai"
+     ],
+     "year": 2026,
+     "runtime_min": 120,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1153576,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3337334",
+       "start": "2026-10-29T14:45+01:00",
+       "time": "14:45",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337334/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337290",
+       "start": "2026-10-29T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Metropol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337290/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "street-fighter-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Other Mommy",
+     "venue_title": "Other Mommy",
+     "subtitle": null,
+     "original_title": "Other Mommy",
+     "english_title": "Other Mommy",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3297948?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "Rob Savage"
+     ],
+     "year": 2026,
+     "runtime_min": 93,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1400837,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "bluecinema:3337240",
+       "start": "2026-10-29T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Metropol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337240/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "other-mommy-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,
