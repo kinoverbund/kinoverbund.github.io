@@ -31,41 +31,6 @@
    "venue": "Abaton",
    "dates": [
     {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "bluecinema:3331854",
-       "start": "2026-10-19T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3331854/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-20",
      "screenings": [
       {
@@ -131,41 +96,6 @@
    "series_slugs": {},
    "venue": "Capitol",
    "dates": [
-    {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "bluecinema:3331853",
-       "start": "2026-10-19T17:30+02:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Capitol 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3331853/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-20",
      "screenings": [
@@ -337,41 +267,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "arena:22610",
-       "start": "2026-10-19T18:10+02:00",
-       "time": "18:10",
-       "auditoriums": [
-        "Saal 14"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22610&fid=1021883",
-       "language": {
-        "raw": "EN/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-20",
      "screenings": [
@@ -718,71 +613,6 @@
    "series_slugs": {},
    "venue": "Riffraff",
    "dates": [
-    {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2297388",
-       "start": "2026-10-19T18:15+02:00",
-       "time": "18:15",
-       "auditoriums": [
-        "Riffraff 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2297388#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2297387",
-       "start": "2026-10-19T20:40+02:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2297387#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-20",
      "screenings": [
@@ -1794,41 +1624,6 @@
    "series_slugs": {},
    "venue": "Corso",
    "dates": [
-    {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "bluecinema:3331824",
-       "start": "2026-10-19T20:10+02:00",
-       "time": "20:10",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3331824/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-20",
      "screenings": [

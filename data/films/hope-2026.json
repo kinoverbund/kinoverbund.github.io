@@ -31,41 +31,6 @@
    "venue": "Metropol",
    "dates": [
     {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "bluecinema:3331129",
-       "start": "2026-10-19T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Metropol 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3331129/seating",
-       "language": {
-        "raw": "MIS/DE/FR",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-20",
      "screenings": [
       {
@@ -144,6 +109,74 @@
    "original_title": "호프",
    "english_title": "Hope",
    "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3286817?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Hong-Jin Na"
+   ],
+   "year": 2026,
+   "runtime_min": 158,
+   "country": "Korea, Republic of",
+   "program_films": [],
+   "tmdb_id": 1058424,
+   "tmdb_kind": "movie",
+   "original_language": "ko",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "hope-2026",
+   "series_slugs": {},
+   "venue": "Abaton",
+   "dates": [
+    {
+     "date": "2026-10-20",
+     "screenings": [
+      {
+       "id": "bluecinema:3331048",
+       "start": "2026-10-20T17:00+02:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3331048/seating",
+       "language": {
+        "raw": "MIS/DE/FR",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "호프 (Hope)",
+   "venue_title": "Hope",
+   "subtitle": null,
+   "original_title": "호프",
+   "english_title": "Hope",
+   "kind": "film",
    "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/hope",
    "directors": [
     "Na Hong-jin"
@@ -158,7 +191,7 @@
    "source": "kinokoni",
    "series": [],
    "labels": [],
-   "english": true,
+   "english": false,
    "curated": false,
    "curated_reasons": [],
    "new": false,
@@ -166,41 +199,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9558",
-       "start": "2026-10-19T17:20+02:00",
-       "time": "17:20",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9558/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-20",
      "screenings": [
@@ -477,41 +475,6 @@
    "series_slugs": {},
    "venue": "Houdini",
    "dates": [
-    {
-     "date": "2026-10-19",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2300054",
-       "start": "2026-10-19T20:30+02:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Houdini 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/hope.html?city=zurich&show=2300054#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-20",
      "screenings": [
@@ -1031,74 +994,6 @@
        "series": [],
        "label": null,
        "last": true,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "호프 (Hope)",
-   "venue_title": "Hope",
-   "subtitle": null,
-   "original_title": "호프",
-   "english_title": "Hope",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3286817?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-   "directors": [
-    "Hong-Jin Na"
-   ],
-   "year": 2026,
-   "runtime_min": 158,
-   "country": "Korea, Republic of",
-   "program_films": [],
-   "tmdb_id": 1058424,
-   "tmdb_kind": "movie",
-   "original_language": "ko",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "hope-2026",
-   "series_slugs": {},
-   "venue": "Abaton",
-   "dates": [
-    {
-     "date": "2026-10-20",
-     "screenings": [
-      {
-       "id": "bluecinema:3331048",
-       "start": "2026-10-20T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3331048/seating",
-       "language": {
-        "raw": "MIS/DE/FR",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
        "guest": false,
        "english": false,
        "curated": false
