@@ -1,0 +1,74 @@
+{
+ "name": "Stardust: A Story of Love and Architecture",
+ "venues": [
+  {
+   "title": "Stardust: A Story of Love and Architecture",
+   "venue_title": "Stardust – A Story of Love and Architecture",
+   "subtitle": null,
+   "original_title": "Stardust: A Story of Love and Architecture",
+   "english_title": "Stardust: A Story of Love and Architecture",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/stardust-a-story-of-love-and-architecture",
+   "directors": [
+    "Jim Venturi"
+   ],
+   "year": 2025,
+   "runtime_min": 85,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1362199,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [
+    "Special Event"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-05",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9901",
+       "start": "2026-11-05T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9901/seats",
+       "language": {
+        "raw": "English/Englisch; Englisch Untertitel",
+        "description": "English; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special Event",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

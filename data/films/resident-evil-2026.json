@@ -2633,8 +2633,107 @@
      ]
     },
     {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3336038",
+       "start": "2026-10-29T18:40+01:00",
+       "time": "18:40",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336038/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
      "date": "2026-10-30",
      "screenings": [
+      {
+       "id": "bluecinema:3336079",
+       "start": "2026-10-30T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336079/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336221",
+       "start": "2026-10-30T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336221/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
       {
        "id": "bluecinema:3332532",
        "start": "2026-10-30T20:45+01:00",
@@ -2661,6 +2760,685 @@
        "series": [
         "Halloweek"
        ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336198",
+       "start": "2026-10-30T23:15+01:00",
+       "time": "23:15",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336198/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336025",
+       "start": "2026-10-30T23:30+01:00",
+       "time": "23:30",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336025/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336122",
+       "start": "2026-10-30T23:30+01:00",
+       "time": "23:30",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336122/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3336119",
+       "start": "2026-10-31T11:15+01:00",
+       "time": "11:15",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336119/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336072",
+       "start": "2026-10-31T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336072/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336193",
+       "start": "2026-10-31T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Abaton 8"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336193/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336024",
+       "start": "2026-10-31T20:50+01:00",
+       "time": "20:50",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336024/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336138",
+       "start": "2026-10-31T22:45+01:00",
+       "time": "22:45",
+       "auditoriums": [
+        "Abaton B"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336138/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336131",
+       "start": "2026-10-31T23:30+01:00",
+       "time": "23:30",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336131/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3336084",
+       "start": "2026-11-01T18:10+01:00",
+       "time": "18:10",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336084/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336218",
+       "start": "2026-11-01T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336218/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "screenings": [
+      {
+       "id": "bluecinema:3336128",
+       "start": "2026-11-02T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336128/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336213",
+       "start": "2026-11-02T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336213/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336210",
+       "start": "2026-11-02T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336210/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336051",
+       "start": "2026-11-02T20:55+01:00",
+       "time": "20:55",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336051/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "screenings": [
+      {
+       "id": "bluecinema:3336050",
+       "start": "2026-11-03T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336050/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336207",
+       "start": "2026-11-03T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336207/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336205",
+       "start": "2026-11-03T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336205/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "bluecinema:3336126",
+       "start": "2026-11-04T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336126/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336202",
+       "start": "2026-11-04T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336202/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3336048",
+       "start": "2026-11-04T20:55+01:00",
+       "time": "20:55",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336048/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
        "label": null,
        "last": false,
        "guest": false,
@@ -2816,6 +3594,251 @@
         "Capitol 4"
        ],
        "ticket_url": "https://www.bluecinema.ch/de/screening/3333356/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3336095",
+       "start": "2026-10-29T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336095/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3336091",
+       "start": "2026-10-30T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336091/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3336086",
+       "start": "2026-10-31T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336086/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3336082",
+       "start": "2026-11-01T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336082/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "screenings": [
+      {
+       "id": "bluecinema:3336077",
+       "start": "2026-11-02T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336077/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "screenings": [
+      {
+       "id": "bluecinema:3336074",
+       "start": "2026-11-03T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336074/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "bluecinema:3336066",
+       "start": "2026-11-04T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3336066/seating",
        "language": {
         "raw": "EN/DE",
         "description": "English; subtitles: German",

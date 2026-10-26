@@ -72,6 +72,141 @@
    ]
   },
   {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "Veřejně prospěšné práce (Urban Disobedience Toolkit)",
+     "venue_title": "Urban Disobedience Toolkit",
+     "subtitle": null,
+     "original_title": "Veřejně prospěšné práce",
+     "english_title": "Urban Disobedience Toolkit",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/urban-disobedience-toolkit",
+     "directors": [
+      "Vladimír Turner"
+     ],
+     "year": 2025,
+     "runtime_min": 81,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1452153,
+     "tmdb_kind": "movie",
+     "original_language": "cs",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [
+      "Special Event"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9768",
+       "start": "2026-11-08T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9768/seats",
+       "language": {
+        "raw": "Englisch Untertitel",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special Event",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    },
+    {
+     "title": "La Haine",
+     "venue_title": "La Haine",
+     "subtitle": null,
+     "original_title": "La Haine",
+     "english_title": "La Haine",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/la-haine",
+     "directors": [
+      "Mathieu Kassovitz"
+     ],
+     "year": 1995,
+     "runtime_min": 108,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 406,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [
+      "Special Event"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9763",
+       "start": "2026-11-08T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9763/seats",
+       "language": {
+        "raw": "Englisch Untertitel; Français/Französisch",
+        "description": "French; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special Event",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "la-haine-1995",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:04:37+01:00",
+ "generated_at": "2026-10-26T17:01:45+01:00",
  "today": "2026-10-26",
  "days": [
   {
@@ -74,79 +74,79 @@
   },
   {
    "date": "2026-10-29",
-   "screenings": 104,
-   "english": 51,
+   "screenings": 154,
+   "english": 67,
    "curated": 30,
    "film": 0
   },
   {
    "date": "2026-10-30",
-   "screenings": 109,
-   "english": 56,
+   "screenings": 174,
+   "english": 76,
    "curated": 35,
    "film": 0
   },
   {
    "date": "2026-10-31",
-   "screenings": 150,
-   "english": 61,
+   "screenings": 226,
+   "english": 82,
    "curated": 40,
    "film": 0
   },
   {
    "date": "2026-11-01",
-   "screenings": 147,
-   "english": 59,
+   "screenings": 216,
+   "english": 80,
    "curated": 34,
    "film": 0
   },
   {
    "date": "2026-11-02",
-   "screenings": 101,
-   "english": 50,
+   "screenings": 161,
+   "english": 71,
    "curated": 27,
    "film": 0
   },
   {
    "date": "2026-11-03",
-   "screenings": 103,
-   "english": 52,
+   "screenings": 149,
+   "english": 71,
    "curated": 29,
    "film": 0
   },
   {
    "date": "2026-11-04",
-   "screenings": 119,
-   "english": 44,
-   "curated": 28,
+   "screenings": 176,
+   "english": 64,
+   "curated": 27,
    "film": 0
   },
   {
    "date": "2026-11-05",
-   "screenings": 2,
-   "english": 2,
-   "curated": 2,
+   "screenings": 4,
+   "english": 4,
+   "curated": 4,
    "film": 0
   },
   {
    "date": "2026-11-06",
-   "screenings": 4,
+   "screenings": 6,
+   "english": 5,
+   "curated": 5,
+   "film": 0
+  },
+  {
+   "date": "2026-11-07",
+   "screenings": 5,
    "english": 3,
    "curated": 3,
    "film": 0
   },
   {
-   "date": "2026-11-07",
-   "screenings": 4,
-   "english": 2,
-   "curated": 2,
-   "film": 0
-  },
-  {
    "date": "2026-11-08",
-   "screenings": 6,
-   "english": 4,
-   "curated": 6,
+   "screenings": 8,
+   "english": 6,
+   "curated": 8,
    "film": 0
   },
   {
@@ -447,27 +447,27 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-26T14:53:31+00:00"
+   "run_at": "2026-10-26T15:53:16+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-26T14:56:47+00:00"
+   "run_at": "2026-10-26T15:56:02+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-26T15:02:47+00:00"
+   "run_at": "2026-10-26T16:00:10+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-26T15:02:50+00:00"
+   "run_at": "2026-10-26T16:00:13+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-26T15:02:53+00:00"
+   "run_at": "2026-10-26T16:00:15+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-26T15:04:26+00:00"
+   "run_at": "2026-10-26T16:01:29+00:00"
   }
  },
  "venues": [
@@ -498,6 +498,9 @@
     "2026-10-29",
     "2026-10-30",
     "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
     "2026-11-04",
     "2026-11-07",
     "2026-11-17",
@@ -522,10 +525,13 @@
     "2026-10-26": 33,
     "2026-10-27": 35,
     "2026-10-28": 33,
-    "2026-10-29": 3,
-    "2026-10-30": 3,
-    "2026-10-31": 7,
-    "2026-11-04": 1,
+    "2026-10-29": 30,
+    "2026-10-30": 45,
+    "2026-10-31": 60,
+    "2026-11-01": 45,
+    "2026-11-02": 36,
+    "2026-11-03": 22,
+    "2026-11-04": 35,
     "2026-11-07": 1,
     "2026-11-17": 2,
     "2026-12-15": 3,
@@ -660,7 +666,11 @@
     "2026-10-28",
     "2026-10-29",
     "2026-10-30",
-    "2026-10-31"
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04"
    ],
    "screenings": {
     "2026-10-19": 24,
@@ -673,9 +683,13 @@
     "2026-10-26": 23,
     "2026-10-27": 23,
     "2026-10-28": 23,
-    "2026-10-29": 1,
-    "2026-10-30": 1,
-    "2026-10-31": 1
+    "2026-10-29": 24,
+    "2026-10-30": 24,
+    "2026-10-31": 24,
+    "2026-11-01": 24,
+    "2026-11-02": 24,
+    "2026-11-03": 24,
+    "2026-11-04": 24
    },
    "sources": [
     "bluecinema"
@@ -905,7 +919,10 @@
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
+    "2026-11-05",
+    "2026-11-06",
     "2026-11-07",
+    "2026-11-08",
     "2026-11-10",
     "2026-11-14",
     "2026-11-15",
@@ -940,8 +957,11 @@
     "2026-11-01": 24,
     "2026-11-02": 12,
     "2026-11-03": 12,
-    "2026-11-04": 13,
-    "2026-11-07": 1,
+    "2026-11-04": 12,
+    "2026-11-05": 2,
+    "2026-11-06": 2,
+    "2026-11-07": 2,
+    "2026-11-08": 2,
     "2026-11-10": 1,
     "2026-11-14": 3,
     "2026-11-15": 2,
@@ -1535,20 +1555,24 @@
    "moana-2026",
    "momo-alla-conquista-del-tempo-momo-2001",
    "moscas-flies-2026",
+   "mutiny-2026",
    "nachbarn-neighbours-2021",
    "nattvardsgasterna-winter-light-1963",
    "naza-2026",
    "no-other-land-2024",
    "normal-people-2020",
    "notting-hill-1999",
+   "o-primeiro-siza-the-first-siza-2025",
    "obsession-2025",
    "ojczyzna-fatherland-2026",
    "orwell-2-2-5-2025",
    "other-mommy-2026",
+   "out-of-the-picture-2025",
    "palliativstation-palliative-care-unit-2025",
    "paradies-paradies-paradise-paradise-2016",
    "paw-patrol-the-dino-movie-2026",
    "poltergeist-1982",
+   "practical-magic-2-2026",
    "pressure-2026",
    "queen-at-sea-2026",
    "ramayana-rise-of-a-legend-2026",
@@ -1558,6 +1582,7 @@
    "reya-penaber-the-path-of-the-refugee-2026",
    "riffraff-roulette",
    "sacrifice-2025",
+   "sanatorium-2025",
    "saturday-night-fever-1977",
    "scream-1996",
    "se7en-1995",
@@ -1568,12 +1593,14 @@
    "spa-weekend-2026",
    "spaceballs-1987",
    "spider-man-brand-new-day-2026",
+   "stardust-a-story-of-love-and-architecture-2025",
    "street-fighter-2026",
    "strike-1925",
    "strm-nordwarts-zur-freiheit",
    "teenage-sex-and-death-at-camp-miasma-2026",
    "the-descent-2024",
    "the-exorcist-1973",
+   "the-history-of-concrete-2026",
    "the-history-of-sound-2025",
    "the-hunger-games-2012",
    "the-hunger-games-catching-fire-2013",
@@ -1599,7 +1626,7 @@
    "train-to-busan-2016",
    "trick-r-treat-2007",
    "tristan-forever-2026",
-   "veins-2021",
+   "verejne-prospesne-prace-urban-disobedience-toolkit-2025",
    "verity-2026",
    "was-haben-wir-gelacht-2026",
    "whalefall-2026",
