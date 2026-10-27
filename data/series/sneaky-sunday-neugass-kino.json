@@ -505,6 +505,81 @@
      ]
     }
    ]
+  },
+  {
+   "title": "The Debut",
+   "venue_title": "The Debut",
+   "subtitle": null,
+   "original_title": "The Debut",
+   "english_title": "The Debut",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-debut.html",
+   "directors": [
+    "Jesse Eisenberg"
+   ],
+   "year": 2026,
+   "runtime_min": 105,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1391239,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2027-01-17",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2309818",
+       "start": "2027-01-17T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-debut.html?city=zurich&show=2309818#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
   }
  ]
 }
