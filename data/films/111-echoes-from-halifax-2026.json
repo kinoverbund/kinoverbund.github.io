@@ -31,41 +31,6 @@
    "venue": "Arthouse Piccadilly",
    "dates": [
     {
-     "date": "2026-10-20",
-     "screenings": [
-      {
-       "id": "arthouse:2296784",
-       "start": "2026-10-20T16:00+02:00",
-       "time": "16:00",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2296784",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-21",
      "screenings": [
       {
@@ -481,41 +446,6 @@
    "series_slugs": {},
    "venue": "blue Capitol",
    "dates": [
-    {
-     "date": "2026-10-20",
-     "screenings": [
-      {
-       "id": "bluecinema:3332033",
-       "start": "2026-10-20T18:25+02:00",
-       "time": "18:25",
-       "auditoriums": [
-        "Capitol 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332033/seating",
-       "language": {
-        "raw": "MIS/DE/FR",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-21",
      "screenings": [
@@ -1072,71 +1002,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-10-20",
-     "screenings": [
-      {
-       "id": "arena:22433",
-       "start": "2026-10-20T18:30+02:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Saal 1"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22433&fid=1020401",
-       "language": {
-        "raw": "CH-D/de,fr,en",
-        "description": "Swiss German; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arena:22434",
-       "start": "2026-10-20T20:45+02:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Saal 1"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22434&fid=1020401",
-       "language": {
-        "raw": "CH-D/de,fr,en",
-        "description": "Swiss German; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-21",
      "screenings": [
