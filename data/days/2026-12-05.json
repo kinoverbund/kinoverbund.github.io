@@ -2,6 +2,146 @@
  "date": "2026-12-05",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "You Can See Everything",
+     "venue_title": "You Can See Everything",
+     "subtitle": null,
+     "original_title": "You Can See Everything",
+     "english_title": "You Can See Everything",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/you-can-see-everything",
+     "directors": [
+      "Nathan Fielder, Lance Oppenheim"
+     ],
+     "year": 2026,
+     "runtime_min": 170,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1765072,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2306183",
+       "start": "2026-12-05T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2306183",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "you-can-see-everything-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Lola rennt (Run Lola Run)",
+     "venue_title": "Lola rennt",
+     "subtitle": null,
+     "original_title": "Lola rennt",
+     "english_title": "Run Lola Run",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/lola-rennt",
+     "directors": [
+      "Tom Tykwer"
+     ],
+     "year": 1998,
+     "runtime_min": 83,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 104,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [
+      "Cinépassion"
+     ],
+     "labels": [
+      "Cinépassion"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2240876",
+       "start": "2026-12-05T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2240876",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinépassion"
+       ],
+       "label": "Cinépassion",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Cinépassion": "cinepassion-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,

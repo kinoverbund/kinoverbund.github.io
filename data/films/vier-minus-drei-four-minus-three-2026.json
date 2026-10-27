@@ -1,0 +1,79 @@
+{
+ "name": "Vier minus drei (Four Minus Three)",
+ "venues": [
+  {
+   "title": "Vier minus drei (Four Minus Three)",
+   "venue_title": "Vier minus drei",
+   "subtitle": null,
+   "original_title": "Vier minus drei",
+   "english_title": "Four Minus Three",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/vier-minus-drei",
+   "directors": [
+    "Adrian Goiginger"
+   ],
+   "year": 2026,
+   "runtime_min": 120,
+   "country": "Österreich",
+   "program_films": [],
+   "tmdb_id": 1249152,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "LunchKino"
+   ],
+   "labels": [
+    "LunchKino"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "LunchKino": "lunchkino-arthouse"
+   },
+   "venue": "Arthouse Le Paris",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "arthouse:2283786",
+       "start": "2026-10-28T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2283786",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

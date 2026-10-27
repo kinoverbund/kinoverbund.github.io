@@ -2,6 +2,150 @@
  "date": "2026-11-20",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Enjoy Your Stay",
+     "venue_title": "Enjoy Your Stay",
+     "subtitle": null,
+     "original_title": "Enjoy Your Stay",
+     "english_title": "Enjoy Your Stay",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/enjoy-your-stay",
+     "directors": [
+      "Dominik Locher"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1616187,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2305506",
+       "start": "2026-11-20T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2305506",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "enjoy-your-stay-2026",
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "War Photographer",
+     "venue_title": "War Photographer",
+     "subtitle": null,
+     "original_title": "War Photographer",
+     "english_title": "War Photographer",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/war-photographer-mit-qa-tribute-sessions",
+     "directors": [
+      "Christian Frei"
+     ],
+     "year": 2001,
+     "runtime_min": 96,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 12722,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9754",
+       "start": "2026-11-20T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9754/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": "With Q&A",
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Xenix",
    "operator": "Xenix",
    "address": null,

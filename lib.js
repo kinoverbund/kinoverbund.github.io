@@ -303,7 +303,8 @@ function infoLine(parts) {
 // ---------- Listings ----------
 
 // "DOUBLE FEATURE" next to the series "Double Feature «Halloween»" says the same thing twice.
-const inSeries = (e, label) => e.series.some((s) => s.toLowerCase().includes(label.toLowerCase()));
+// Both the venue's name and the English one are compared (a translated label slipped through, 2026-10-27).
+const inSeries = (e, label) => e.series.some((s) => [s, seriesName(s)].some((n) => n.toLowerCase().includes(label.toLowerCase())));
 
 /**
  * One film (or program) with its screenings.
@@ -414,7 +415,7 @@ export function renderListing(e, { now = null, dates = null, onSeries = null, pl
       el("span", {}, el("time", { datetime: t.start }, t.time),
         gone ? el("span", { class: "visually-hidden" }, ", already started") : null),
       // The film's last screening here, set like a venue label next to its time.
-      t.last ? el("span", { class: "t-last" }, "Last screening") : null,
+      t.last && !onFilm ? el("span", { class: "t-last" }, "Last screening") : null,
       extra.length ? el("span", { class: "t-extra" }, extra.flatMap((x, j) => (j ? [" ", x] : [x]))) : null);
   };
   const timeList = (list) => el("ul", { class: "times", "aria-label": "Screenings" }, list.map(timeItem));

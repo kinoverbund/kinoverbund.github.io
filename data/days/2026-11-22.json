@@ -2,6 +2,146 @@
  "date": "2026-11-22",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Enjoy Your Stay",
+     "venue_title": "Enjoy Your Stay",
+     "subtitle": null,
+     "original_title": "Enjoy Your Stay",
+     "english_title": "Enjoy Your Stay",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/enjoy-your-stay",
+     "directors": [
+      "Dominik Locher"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1616187,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2295833",
+       "start": "2026-11-22T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2295833",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "enjoy-your-stay-2026",
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Meeting the Buddha",
+     "venue_title": "Meeting the Buddha",
+     "subtitle": null,
+     "original_title": "Meeting the Buddha",
+     "english_title": "Meeting the Buddha",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/meeting-the-buddha",
+     "directors": [
+      "Marta György-Kessler"
+     ],
+     "year": 2026,
+     "runtime_min": 144,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1611111,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2283826",
+       "start": "2026-11-22T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2283826",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "meeting-the-buddha-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "KINOKONI Zürich",
    "operator": "KINOKONI",
    "address": null,
@@ -75,6 +215,126 @@
      }
     },
     {
+     "title": "Blame",
+     "venue_title": "Blame",
+     "subtitle": null,
+     "original_title": "Blame",
+     "english_title": "Blame",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/blame-tribute-sessions",
+     "directors": [
+      "Christian Frei"
+     ],
+     "year": 2026,
+     "runtime_min": 125,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1413708,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9757",
+       "start": "2026-11-22T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9757/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "series_slugs": {}
+    },
+    {
+     "title": "Sleepless in New York",
+     "venue_title": "Sleepless in new york",
+     "subtitle": null,
+     "original_title": "Sleepless in New York",
+     "english_title": "Sleepless in New York",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/sleepless-in-new-york-tribute-sessions",
+     "directors": [
+      "Christian Frei"
+     ],
+     "year": 2014,
+     "runtime_min": 92,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 268099,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9758",
+       "start": "2026-11-22T16:30+01:00",
+       "time": "16:30",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9758/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    },
+    {
      "title": "The Hunger Games: Sunrise on the Reaping",
      "venue_title": "Die Tribute von Panem: Sunrise on the Reaping",
      "subtitle": null,
@@ -141,6 +401,67 @@
      "series_slugs": {
       "Hunger Games": "hunger-games-kinokoni"
      }
+    },
+    {
+     "title": "Space Tourists",
+     "venue_title": "Space Tourists",
+     "subtitle": null,
+     "original_title": "Space Tourists",
+     "english_title": "Space Tourists",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/space-tourists-tribute-sessions",
+     "directors": [
+      "Christian Frei"
+     ],
+     "year": 2009,
+     "runtime_min": 98,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 67852,
+     "tmdb_kind": "movie",
+     "original_language": "ru",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-9759",
+       "start": "2026-11-22T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9759/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
     }
    ]
   },
@@ -214,6 +535,7 @@
        "curated": true
       }
      ],
+     "film_slug": "enjoy-your-stay-2026",
      "series_slugs": {
       "Sneaky Sunday": "sneaky-sunday-neugass-kino"
      }

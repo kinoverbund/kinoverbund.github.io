@@ -5158,6 +5158,860 @@
    ]
   },
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Ojczyzna (Fatherland)",
+     "venue_title": "Vaterland",
+     "subtitle": null,
+     "original_title": "Ojczyzna",
+     "english_title": "Fatherland",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/vaterland",
+     "directors": [
+      "Pawel Pawlikowski"
+     ],
+     "year": 2026,
+     "runtime_min": 82,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1437696,
+     "tmdb_kind": "movie",
+     "original_language": "pl",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302771",
+       "start": "2026-10-25T14:45+01:00",
+       "time": "14:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2302771",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2302772",
+       "start": "2026-10-25T16:45+01:00",
+       "time": "16:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2302772",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2302773",
+       "start": "2026-10-25T18:45+01:00",
+       "time": "18:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2302773",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "ojczyzna-fatherland-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense and Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302774",
+       "start": "2026-10-25T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2302774",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Movie",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "NAZA",
+     "venue_title": "NAZA",
+     "subtitle": null,
+     "original_title": "NAZA",
+     "english_title": "NAZA",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/naza",
+     "directors": [
+      "Rachel Szor, Yuval Abraham"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1755291,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2303751",
+       "start": "2026-10-25T14:50+01:00",
+       "time": "14:50",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2303751",
+       "language": {
+        "raw": "Ov/d/e",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "naza-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense and Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302830",
+       "start": "2026-10-25T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302830",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Cinque secondi (Five Seconds)",
+     "venue_title": "Cinque secondi",
+     "subtitle": null,
+     "original_title": "Cinque secondi",
+     "english_title": "Five Seconds",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/cinque-secondi",
+     "directors": [
+      "Paolo Virzi"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "Italien",
+     "program_films": [],
+     "tmdb_id": 1368519,
+     "tmdb_kind": "movie",
+     "original_language": "it",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302831",
+       "start": "2026-10-25T16:40+01:00",
+       "time": "16:40",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302831",
+       "language": {
+        "raw": "I/d,f",
+        "description": "Italian; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "cinque-secondi-five-seconds-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Wenn die Erinnerung verblasst",
+     "venue_title": "Wenn die Erinnerung verblasst",
+     "subtitle": null,
+     "original_title": "Wenn die Erinnerung verblasst",
+     "english_title": "Wenn die Erinnerung verblasst",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
+     "directors": [
+      "Marianne Pletscher, Martina Rieder"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1796579,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302834",
+       "start": "2026-10-25T18:40+01:00",
+       "time": "18:40",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302834",
+       "language": {
+        "raw": "Ov/d",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "wenn-die-erinnerung-verblasst-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "The Invite",
+     "venue_title": "The Invite",
+     "subtitle": null,
+     "original_title": "The Invite",
+     "english_title": "The Invite",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/the-invite",
+     "directors": [
+      "Olivia Wilde"
+     ],
+     "year": 2026,
+     "runtime_min": 107,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 950028,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302828",
+       "start": "2026-10-25T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302828",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-invite-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Der perfekte Urlaub (The Perfect Holiday)",
+     "venue_title": "Der perfekte Urlaub",
+     "subtitle": null,
+     "original_title": "Der perfekte Urlaub",
+     "english_title": "The Perfect Holiday",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/der-perfekte-urlaub",
+     "directors": [
+      "Bora Dagtekin"
+     ],
+     "year": 2026,
+     "runtime_min": 117,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1525072,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302824",
+       "start": "2026-10-25T20:50+01:00",
+       "time": "20:50",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302824",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "The Odyssey",
+     "venue_title": "The Odyssey",
+     "subtitle": null,
+     "original_title": "The Odyssey",
+     "english_title": "The Odyssey",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/the-odyssey",
+     "directors": [
+      "Christopher Nolan"
+     ],
+     "year": 2026,
+     "runtime_min": 173,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1368337,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302923",
+       "start": "2026-10-25T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302923",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-odyssey-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Frank & Louis",
+     "venue_title": "Frank & Louis",
+     "subtitle": null,
+     "original_title": "Frank & Louis",
+     "english_title": "Frank & Louis",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/frank-louis",
+     "directors": [
+      "Petra Volpe"
+     ],
+     "year": 2026,
+     "runtime_min": 96,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1596287,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302922",
+       "start": "2026-10-25T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302922",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "frank-louis-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "111 Echoes from Halifax",
+     "venue_title": "111 Echoes from Halifax",
+     "subtitle": null,
+     "original_title": "111 Echoes from Halifax",
+     "english_title": "111 Echoes from Halifax",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/111-echoes-from-halifax",
+     "directors": [
+      "Mauro Mueller"
+     ],
+     "year": 2026,
+     "runtime_min": 97,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1360609,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302919",
+       "start": "2026-10-25T14:50+01:00",
+       "time": "14:50",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302919",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "111-echoes-from-halifax-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Alte Liebe (Love, After All)",
+     "venue_title": "Alte Liebe",
+     "subtitle": null,
+     "original_title": "Alte Liebe",
+     "english_title": "Love, After All",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/alte-liebe",
+     "directors": [
+      "Andreas Dresen"
+     ],
+     "year": 2026,
+     "runtime_min": 112,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1477576,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302915",
+       "start": "2026-10-25T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302915",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "alte-liebe-love-after-all-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Lügen über meine Mutter",
+     "venue_title": "Lügen über meine Mutter",
+     "subtitle": null,
+     "original_title": "Lügen über meine Mutter",
+     "english_title": "Lügen über meine Mutter",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/lugen-uber-meine-mutter",
+     "directors": [
+      "Aron Lehmann"
+     ],
+     "year": 2026,
+     "runtime_min": 102,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1452237,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302918",
+       "start": "2026-10-25T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302918",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Capitol",
    "operator": "blue Cinema",
    "address": null,
@@ -7590,10 +8444,8 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
+     "curated": false,
+     "curated_reasons": [],
      "new": false,
      "screenings": [
       {
@@ -7624,7 +8476,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       },
       {
        "id": "riffraff_houdini:2303292",
@@ -7654,7 +8506,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       }
      ],
      "film_slug": "alte-liebe-love-after-all-2026",
@@ -9673,10 +10525,8 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
+     "curated": false,
+     "curated_reasons": [],
      "new": false,
      "screenings": [
       {
@@ -9707,7 +10557,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": true
+       "curated": false
       },
       {
        "id": "riffraff_houdini:2302051",
@@ -9737,7 +10587,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": true
+       "curated": false
       },
       {
        "id": "riffraff_houdini:2302050",
@@ -9767,7 +10617,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": true
+       "curated": false
       },
       {
        "id": "riffraff_houdini:2302048",
@@ -9797,7 +10647,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": true
+       "curated": false
       },
       {
        "id": "riffraff_houdini:2302049",
@@ -9827,7 +10677,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": true
+       "curated": false
       }
      ],
      "film_slug": "naza-2026",
@@ -10070,10 +10920,8 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
+     "curated": false,
+     "curated_reasons": [],
      "new": false,
      "screenings": [
       {
@@ -10104,7 +10952,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       }
      ],
      "film_slug": "das-unendliche-jetzt-2026",

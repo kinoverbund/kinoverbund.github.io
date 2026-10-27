@@ -2,6 +2,81 @@
  "date": "2026-11-23",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Enjoy Your Stay",
+     "venue_title": "Enjoy Your Stay",
+     "subtitle": null,
+     "original_title": "Enjoy Your Stay",
+     "english_title": "Enjoy Your Stay",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/enjoy-your-stay",
+     "directors": [
+      "Dominik Locher"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1616187,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2305509",
+       "start": "2026-11-23T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2305509",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "enjoy-your-stay-2026",
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "Xenix",
    "operator": "Xenix",
    "address": null,

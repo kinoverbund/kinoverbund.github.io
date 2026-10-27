@@ -30,9 +30,7 @@
    "series": [
     "Richtig lang"
    ],
-   "labels": [
-    "REALLY LONG"
-   ],
+   "labels": [],
    "english": false,
    "curated": true,
    "curated_reasons": [
@@ -41,9 +39,6 @@
     "special"
    ],
    "new": false,
-   "labels_translated": [
-    "REALLY LONG"
-   ],
    "series_slugs": {
     "Richtig lang": "richtig-lang-xenix"
    },
@@ -76,13 +71,12 @@
        "series": [
         "Richtig lang"
        ],
-       "label": "REALLY LONG",
+       "label": null,
        "last": false,
        "guest": true,
        "english": false,
        "curated": true,
-       "note_translated": true,
-       "label_translated": true
+       "note_translated": true
       }
      ]
     }

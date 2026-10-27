@@ -1,0 +1,79 @@
+{
+ "name": "Funny Games",
+ "venues": [
+  {
+   "title": "Funny Games",
+   "venue_title": "Funny Games",
+   "subtitle": null,
+   "original_title": "Funny Games",
+   "english_title": "Funny Games",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/funny-games",
+   "directors": [
+    "Michael Haneke"
+   ],
+   "year": 1997,
+   "runtime_min": 109,
+   "country": "Österreich",
+   "program_films": [],
+   "tmdb_id": 10234,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "Cinépassion"
+   ],
+   "labels": [
+    "Cinépassion"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Cinépassion": "cinepassion-arthouse"
+   },
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2027-04-10",
+     "screenings": [
+      {
+       "id": "arthouse:2240895",
+       "start": "2027-04-10T10:30+02:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2240895",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinépassion"
+       ],
+       "label": "Cinépassion",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

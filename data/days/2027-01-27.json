@@ -1,0 +1,79 @@
+{
+ "date": "2027-01-27",
+ "venues": [
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Mit einem Tiger schlafen (Sleeping with a Tiger)",
+     "venue_title": "Mit einem Tiger schlafen",
+     "subtitle": null,
+     "original_title": "Mit einem Tiger schlafen",
+     "english_title": "Sleeping with a Tiger",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/mit-einem-tiger-schlafen",
+     "directors": [
+      "Anja Salomonowitz"
+     ],
+     "year": 2026,
+     "runtime_min": 107,
+     "country": "Österreich",
+     "program_films": [],
+     "tmdb_id": 990169,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [
+      "Kunsthaus: Maria Lassnig & Edvard Munch"
+     ],
+     "labels": [
+      "Kunsthaus: Maria Lassnig & Edvard Munch"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2287577",
+       "start": "2027-01-27T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2287577",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kunsthaus: Maria Lassnig & Edvard Munch"
+       ],
+       "label": "Kunsthaus: Maria Lassnig & Edvard Munch",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Kunsthaus: Maria Lassnig & Edvard Munch": "kunsthaus-maria-lassnig-edvard-munch-arthouse"
+     }
+    }
+   ]
+  }
+ ]
+}

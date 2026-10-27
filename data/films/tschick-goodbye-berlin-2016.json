@@ -1,0 +1,79 @@
+{
+ "name": "Tschick (Goodbye Berlin)",
+ "venues": [
+  {
+   "title": "Tschick (Goodbye Berlin)",
+   "venue_title": "Tschick",
+   "subtitle": null,
+   "original_title": "Tschick",
+   "english_title": "Goodbye Berlin",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/tschick",
+   "directors": [
+    "Fatih Akin"
+   ],
+   "year": 2016,
+   "runtime_min": 93,
+   "country": "Deutschland",
+   "program_films": [],
+   "tmdb_id": 384664,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "StricKino"
+   ],
+   "labels": [
+    "StricKino"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "StricKino": "strickino-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-12-08",
+     "screenings": [
+      {
+       "id": "arthouse:2243593",
+       "start": "2026-12-08T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2243593",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "StricKino"
+       ],
+       "label": "StricKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

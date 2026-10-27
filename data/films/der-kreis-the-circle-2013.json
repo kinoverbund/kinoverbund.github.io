@@ -1,0 +1,82 @@
+{
+ "name": "Der Kreis (The Circle)",
+ "venues": [
+  {
+   "title": "Der Kreis (The Circle)",
+   "venue_title": "Der Kreis",
+   "subtitle": null,
+   "original_title": "Der Kreis",
+   "english_title": "The Circle",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/der-kreis",
+   "directors": [
+    "Stefan Haupt"
+   ],
+   "year": 2013,
+   "runtime_min": 102,
+   "country": "Schweiz",
+   "program_films": [],
+   "tmdb_id": 255890,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "StricKino"
+   ],
+   "labels": [
+    "StricKino"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "StricKino": "strickino-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-11-02",
+     "screenings": [
+      {
+       "id": "arthouse:2243588",
+       "start": "2026-11-02T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2243588",
+       "language": {
+        "raw": "Dial.",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "StricKino"
+       ],
+       "label": "StricKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

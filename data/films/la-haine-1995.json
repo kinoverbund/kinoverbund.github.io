@@ -32,6 +32,7 @@
     "special"
    ],
    "new": false,
+   "film_slug": "la-haine-1995",
    "series_slugs": {
     "Schöner wohnen! – Geschichten der Gentrifizierung": "schoner-wohnen-geschichten-der-gentrifizierung-xenix"
    },
@@ -81,6 +82,83 @@
    "original_title": "La Haine",
    "english_title": "La Haine",
    "kind": "film",
+   "film_url": "https://arthouse.ch/movies/la-haine",
+   "directors": [
+    "Matthieu Kassovitz"
+   ],
+   "year": 1995,
+   "runtime_min": 99,
+   "country": "Frankreich",
+   "program_films": [],
+   "tmdb_id": 406,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "arthouse",
+   "series": [
+    "Arthouse Kult"
+   ],
+   "labels": [
+    "Arthouse Kult"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "film_slug": "la-haine-1995",
+   "series_slugs": {
+    "Arthouse Kult": "arthouse-kult-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "arthouse:2156210",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2156210",
+       "language": {
+        "raw": "F/d",
+        "description": "French; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Arthouse Kult"
+       ],
+       "label": "Arthouse Kult",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "La Haine",
+   "venue_title": "La Haine",
+   "subtitle": null,
+   "original_title": "La Haine",
+   "english_title": "La Haine",
+   "kind": "film",
    "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/la-haine",
    "directors": [
     "Mathieu Kassovitz"
@@ -104,6 +182,7 @@
     "special"
    ],
    "new": true,
+   "film_slug": "la-haine-1995",
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [

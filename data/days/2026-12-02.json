@@ -2,6 +2,146 @@
  "date": "2026-12-02",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "You Can See Everything",
+     "venue_title": "You Can See Everything",
+     "subtitle": null,
+     "original_title": "You Can See Everything",
+     "english_title": "You Can See Everything",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/you-can-see-everything",
+     "directors": [
+      "Nathan Fielder, Lance Oppenheim"
+     ],
+     "year": 2026,
+     "runtime_min": 170,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1765072,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2306171",
+       "start": "2026-12-02T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2306171",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "you-can-see-everything-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Movie",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Akira",
+     "venue_title": "AKIRA",
+     "subtitle": null,
+     "original_title": "AKIRA",
+     "english_title": "Akira",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/akira",
+     "directors": [
+      "Katsuhiro Ôtomo"
+     ],
+     "year": 1988,
+     "runtime_min": 124,
+     "country": "Japan",
+     "program_films": [],
+     "tmdb_id": 149,
+     "tmdb_kind": "movie",
+     "original_language": "ja",
+     "source": "arthouse",
+     "series": [
+      "Animittwoch"
+     ],
+     "labels": [
+      "Animittwoch"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2098671",
+       "start": "2026-12-02T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2098671",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Animittwoch"
+       ],
+       "label": "Animittwoch",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Animittwoch": "animittwoch-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "Houdini",
    "operator": "Neugass Kino",
    "address": null,

@@ -2,6 +2,80 @@
  "date": "2026-11-09",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Heimsuchung - Eine Jahrhundertgeschichte (Visitation)",
+     "venue_title": "Heimsuchung - Eine Jahrhundertgeschichte",
+     "subtitle": null,
+     "original_title": "Heimsuchung - Eine Jahrhundertgeschichte",
+     "english_title": "Visitation",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/heimsuchung-eine-jahrhundertgeschichte",
+     "directors": [
+      "Volker Schlöndorff"
+     ],
+     "year": 2026,
+     "runtime_min": 122,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1477572,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2305406",
+       "start": "2026-11-09T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2305406",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "Xenix",
    "operator": "Xenix",
    "address": null,

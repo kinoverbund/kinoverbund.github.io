@@ -421,6 +421,11 @@ button { font: inherit; color: inherit; }
     scrollbar-width: none;
     margin-inline: calc(var(--gutter) * -1);
     padding-inline: var(--gutter);
+    /* The links' -4px margins put their 44px targets 4px past the row at both ends;
+       overflow-x makes overflow-y scroll, so that spill scrolled the bar vertically.
+       Padding holds the spill inside the box; the margin gives the space back. */
+    padding-block: 4px;
+    margin-block: -4px;
     white-space: nowrap;
   }
   .jump-list::-webkit-scrollbar { display: none; }

@@ -8,6 +8,83 @@
    "original_title": "The Rocky Horror Picture Show",
    "english_title": "The Rocky Horror Picture Show",
    "kind": "film",
+   "film_url": "https://arthouse.ch/movies/the-rocky-horror-picture-show",
+   "directors": [
+    "Jim Sharman"
+   ],
+   "year": 1975,
+   "runtime_min": 100,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 36685,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [
+    "HALLOWEEN im Arthouse Movie"
+   ],
+   "labels": [
+    "HALLOWEEN im Arthouse Movie"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "film_slug": "the-rocky-horror-picture-show-1975",
+   "series_slugs": {
+    "HALLOWEEN im Arthouse Movie": "halloween-im-arthouse-movie-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "arthouse:2295721",
+       "start": "2026-10-31T22:00+01:00",
+       "time": "22:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2295721",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "HALLOWEEN im Arthouse Movie"
+       ],
+       "label": "HALLOWEEN im Arthouse Movie",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Rocky Horror Picture Show",
+   "venue_title": "The Rocky Horror Picture Show",
+   "subtitle": null,
+   "original_title": "The Rocky Horror Picture Show",
+   "english_title": "The Rocky Horror Picture Show",
+   "kind": "film",
    "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-rocky-horror-picture-show.html",
    "directors": [
     "Jim Sharman"

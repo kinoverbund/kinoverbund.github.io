@@ -1,0 +1,79 @@
+{
+ "name": "Only Lovers Left Alive",
+ "venues": [
+  {
+   "title": "Only Lovers Left Alive",
+   "venue_title": "Only Lovers Left Alive",
+   "subtitle": null,
+   "original_title": "Only Lovers Left Alive",
+   "english_title": "Only Lovers Left Alive",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/only-lovers-left-alive",
+   "directors": [
+    "Jim Jarmusch"
+   ],
+   "year": 2013,
+   "runtime_min": 123,
+   "country": "Grossbritannien",
+   "program_films": [],
+   "tmdb_id": 152603,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [
+    "Cinépassion"
+   ],
+   "labels": [
+    "Cinépassion"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Cinépassion": "cinepassion-arthouse"
+   },
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2027-03-06",
+     "screenings": [
+      {
+       "id": "arthouse:2240890",
+       "start": "2027-03-06T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2240890",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinépassion"
+       ],
+       "label": "Cinépassion",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

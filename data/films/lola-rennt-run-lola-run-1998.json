@@ -1,0 +1,79 @@
+{
+ "name": "Lola rennt (Run Lola Run)",
+ "venues": [
+  {
+   "title": "Lola rennt (Run Lola Run)",
+   "venue_title": "Lola rennt",
+   "subtitle": null,
+   "original_title": "Lola rennt",
+   "english_title": "Run Lola Run",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/lola-rennt",
+   "directors": [
+    "Tom Tykwer"
+   ],
+   "year": 1998,
+   "runtime_min": 83,
+   "country": "Deutschland",
+   "program_films": [],
+   "tmdb_id": 104,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "Cinépassion"
+   ],
+   "labels": [
+    "Cinépassion"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Cinépassion": "cinepassion-arthouse"
+   },
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2026-12-05",
+     "screenings": [
+      {
+       "id": "arthouse:2240876",
+       "start": "2026-12-05T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2240876",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinépassion"
+       ],
+       "label": "Cinépassion",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

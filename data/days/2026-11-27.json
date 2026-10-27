@@ -2,6 +2,82 @@
  "date": "2026-11-27",
  "venues": [
   {
+   "name": "Arthouse Movie",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Blade Runner",
+     "venue_title": "Blade Runner (Final Cut)",
+     "subtitle": null,
+     "original_title": "Blade Runner",
+     "english_title": "Blade Runner",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/blade-runner-final-cut",
+     "directors": [
+      "Ridley Scott"
+     ],
+     "year": 1982,
+     "runtime_min": 117,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 78,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [
+      "Arthouse Kult"
+     ],
+     "labels": [
+      "Arthouse Kult"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2156214",
+       "start": "2026-11-27T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2156214",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Arthouse Kult"
+       ],
+       "label": "Arthouse Kult",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "blade-runner-1982",
+     "series_slugs": {
+      "Arthouse Kult": "arthouse-kult-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "KINOKONI Zürich",
    "operator": "KINOKONI",
    "address": null,

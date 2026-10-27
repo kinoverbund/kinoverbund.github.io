@@ -2,6 +2,156 @@
  "date": "2026-11-25",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Enjoy Your Stay",
+     "venue_title": "Enjoy Your Stay",
+     "subtitle": null,
+     "original_title": "Enjoy Your Stay",
+     "english_title": "Enjoy Your Stay",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/enjoy-your-stay",
+     "directors": [
+      "Dominik Locher"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1616187,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2305511",
+       "start": "2026-11-25T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2305511",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "enjoy-your-stay-2026",
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Mr. Nobody mod Putin (Mr. Nobody Against Putin)",
+     "venue_title": "Mr. Nobody Against Putin",
+     "subtitle": null,
+     "original_title": "Mr. Nobody mod Putin",
+     "english_title": "Mr. Nobody Against Putin",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/mr-nobody-against-putin",
+     "directors": [
+      "David Borenstein, Pavel Talankin"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": "Dänemark",
+     "program_films": [],
+     "tmdb_id": 1393151,
+     "tmdb_kind": "movie",
+     "original_language": "da",
+     "source": "arthouse",
+     "series": [
+      "Special Screening mit Cast & Crew"
+     ],
+     "labels": [
+      "Special Screening mit Cast & Crew"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2291051",
+       "start": "2026-11-25T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2291051",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Special Screening mit Cast & Crew"
+       ],
+       "label": "Special Screening mit Cast & Crew",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "mr-nobody-mod-putin-mr-nobody-against-putin-2026",
+     "series_slugs": {
+      "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,

@@ -1,0 +1,79 @@
+{
+ "name": "Munch",
+ "venues": [
+  {
+   "title": "Munch",
+   "venue_title": "Munch",
+   "subtitle": null,
+   "original_title": "Munch",
+   "english_title": "Munch",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/munch",
+   "directors": [
+    "Hanrik Martin Dahlsbakken"
+   ],
+   "year": 2023,
+   "runtime_min": 105,
+   "country": "Norwegen",
+   "program_films": [],
+   "tmdb_id": 998845,
+   "tmdb_kind": "movie",
+   "original_language": "no",
+   "source": "arthouse",
+   "series": [
+    "Kunsthaus: Maria Lassnig & Edvard Munch"
+   ],
+   "labels": [
+    "Kunsthaus: Maria Lassnig & Edvard Munch"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Kunsthaus: Maria Lassnig & Edvard Munch": "kunsthaus-maria-lassnig-edvard-munch-arthouse"
+   },
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2027-01-13",
+     "screenings": [
+      {
+       "id": "arthouse:2287572",
+       "start": "2027-01-13T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2287572",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kunsthaus: Maria Lassnig & Edvard Munch"
+       ],
+       "label": "Kunsthaus: Maria Lassnig & Edvard Munch",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

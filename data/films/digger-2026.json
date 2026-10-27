@@ -8,6 +8,142 @@
    "original_title": "Digger",
    "english_title": "Digger",
    "kind": "film",
+   "film_url": "https://arthouse.ch/movies/digger",
+   "directors": [
+    "Alejandro Gonzáles Inarritu"
+   ],
+   "year": 2026,
+   "runtime_min": 129,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 1248832,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "digger-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2026-10-20",
+     "screenings": [
+      {
+       "id": "arthouse:2296786",
+       "start": "2026-10-20T13:20+02:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2296786",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "screenings": [
+      {
+       "id": "arthouse:2296797",
+       "start": "2026-10-21T13:20+02:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2296797",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "arthouse:2307865",
+       "start": "2026-11-01T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2307865",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digger",
+   "venue_title": "Digger",
+   "subtitle": null,
+   "original_title": "Digger",
+   "english_title": "Digger",
+   "kind": "film",
    "film_url": "https://www.bluecinema.ch/de/movies/3142307?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
    "directors": [
     "Alejandro González Iñárritu"
@@ -2753,6 +2889,107 @@
         "presentation": [],
         "assumed": true,
         "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digger",
+   "venue_title": "Digger",
+   "subtitle": null,
+   "original_title": "Digger",
+   "english_title": "Digger",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/digger",
+   "directors": [
+    "Alejandro Gonzáles Inarritu"
+   ],
+   "year": 2026,
+   "runtime_min": 129,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 1248832,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "digger-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-10-23",
+     "screenings": [
+      {
+       "id": "arthouse:2302805",
+       "start": "2026-10-23T13:10+02:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302805",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "screenings": [
+      {
+       "id": "arthouse:2302853",
+       "start": "2026-10-27T13:10+01:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302853",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
        },
        "note": null,
        "note_lang": null,

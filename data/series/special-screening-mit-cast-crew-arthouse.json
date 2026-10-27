@@ -1,0 +1,160 @@
+{
+ "name": "Special Screening mit Cast & Crew",
+ "venues": [
+  "Arthouse Piccadilly"
+ ],
+ "links": {},
+ "about": null,
+ "films": [
+  {
+   "title": "Das unendliche Jetzt",
+   "venue_title": "Das unendliche Jetzt",
+   "subtitle": null,
+   "original_title": "Das unendliche Jetzt",
+   "english_title": "Das unendliche Jetzt",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/das-unendliche-jetzt",
+   "directors": [
+    "Kaspar Kasics"
+   ],
+   "year": 2026,
+   "runtime_min": 98,
+   "country": "Schweiz",
+   "program_films": [],
+   "tmdb_id": 1770967,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "Special Screening mit Cast & Crew"
+   ],
+   "labels": [
+    "Special Screening mit Cast & Crew"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "das-unendliche-jetzt-2026",
+   "series_slugs": {
+    "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
+   },
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "arthouse:2306007",
+       "start": "2026-11-01T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2306007",
+       "language": {
+        "raw": "Dial.",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Special Screening mit Cast & Crew"
+       ],
+       "label": "Special Screening mit Cast & Crew",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Mr. Nobody mod Putin (Mr. Nobody Against Putin)",
+   "venue_title": "Mr. Nobody Against Putin",
+   "subtitle": null,
+   "original_title": "Mr. Nobody mod Putin",
+   "english_title": "Mr. Nobody Against Putin",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/mr-nobody-against-putin",
+   "directors": [
+    "David Borenstein, Pavel Talankin"
+   ],
+   "year": 2026,
+   "runtime_min": 90,
+   "country": "Dänemark",
+   "program_films": [],
+   "tmdb_id": 1393151,
+   "tmdb_kind": "movie",
+   "original_language": "da",
+   "source": "arthouse",
+   "series": [
+    "Special Screening mit Cast & Crew"
+   ],
+   "labels": [
+    "Special Screening mit Cast & Crew"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "mr-nobody-mod-putin-mr-nobody-against-putin-2026",
+   "series_slugs": {
+    "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
+   },
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "arthouse:2291051",
+       "start": "2026-11-25T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2291051",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Special Screening mit Cast & Crew"
+       ],
+       "label": "Special Screening mit Cast & Crew",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

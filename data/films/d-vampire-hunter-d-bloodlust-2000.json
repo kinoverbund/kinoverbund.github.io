@@ -1,0 +1,82 @@
+{
+ "name": "バンパイアハンターD (Vampire Hunter D: Bloodlust)",
+ "venues": [
+  {
+   "title": "バンパイアハンターD (Vampire Hunter D: Bloodlust)",
+   "venue_title": "Vampire Hunter D: Bloodlust",
+   "subtitle": null,
+   "original_title": "バンパイアハンターD",
+   "english_title": "Vampire Hunter D: Bloodlust",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/vampire-hunter-d-bloodlust",
+   "directors": [
+    "Yoshiaki Kawajiri"
+   ],
+   "year": 2000,
+   "runtime_min": 103,
+   "country": "Japan",
+   "program_films": [],
+   "tmdb_id": 15999,
+   "tmdb_kind": "movie",
+   "original_language": "ja",
+   "source": "arthouse",
+   "series": [
+    "Animittwoch"
+   ],
+   "labels": [
+    "Animittwoch"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Animittwoch": "animittwoch-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "arthouse:2098667",
+       "start": "2026-11-04T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2098667",
+       "language": {
+        "raw": "Jap/d",
+        "description": "Japanese; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Animittwoch"
+       ],
+       "label": "Animittwoch",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

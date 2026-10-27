@@ -1,0 +1,102 @@
+{
+ "name": "Meeting the Buddha",
+ "venues": [
+  {
+   "title": "Meeting the Buddha",
+   "venue_title": "Meeting the Buddha",
+   "subtitle": null,
+   "original_title": "Meeting the Buddha",
+   "english_title": "Meeting the Buddha",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/meeting-the-buddha",
+   "directors": [
+    "Marta György-Kessler"
+   ],
+   "year": 2026,
+   "runtime_min": 144,
+   "country": "Grossbritannien",
+   "program_films": [],
+   "tmdb_id": 1611111,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "meeting-the-buddha-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Piccadilly",
+   "dates": [
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "arthouse:2277099",
+       "start": "2026-11-15T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2277099",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "arthouse:2283826",
+       "start": "2026-11-22T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2283826",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

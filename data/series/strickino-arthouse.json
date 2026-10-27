@@ -1,0 +1,235 @@
+{
+ "name": "StricKino",
+ "venues": [
+  "Arthouse Movie"
+ ],
+ "links": {},
+ "about": null,
+ "films": [
+  {
+   "title": "Der Kreis (The Circle)",
+   "venue_title": "Der Kreis",
+   "subtitle": null,
+   "original_title": "Der Kreis",
+   "english_title": "The Circle",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/der-kreis",
+   "directors": [
+    "Stefan Haupt"
+   ],
+   "year": 2013,
+   "runtime_min": 102,
+   "country": "Schweiz",
+   "program_films": [],
+   "tmdb_id": 255890,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "StricKino"
+   ],
+   "labels": [
+    "StricKino"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "StricKino": "strickino-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-11-02",
+     "screenings": [
+      {
+       "id": "arthouse:2243588",
+       "start": "2026-11-02T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2243588",
+       "language": {
+        "raw": "Dial.",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "StricKino"
+       ],
+       "label": "StricKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Tschick (Goodbye Berlin)",
+   "venue_title": "Tschick",
+   "subtitle": null,
+   "original_title": "Tschick",
+   "english_title": "Goodbye Berlin",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/tschick",
+   "directors": [
+    "Fatih Akin"
+   ],
+   "year": 2016,
+   "runtime_min": 93,
+   "country": "Deutschland",
+   "program_films": [],
+   "tmdb_id": 384664,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [
+    "StricKino"
+   ],
+   "labels": [
+    "StricKino"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "StricKino": "strickino-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-12-08",
+     "screenings": [
+      {
+       "id": "arthouse:2243593",
+       "start": "2026-12-08T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2243593",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "StricKino"
+       ],
+       "label": "StricKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Some Like It Hot",
+   "venue_title": "Some Like It Hot",
+   "subtitle": null,
+   "original_title": "Some Like It Hot",
+   "english_title": "Some Like It Hot",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/some-like-it-hot",
+   "directors": [
+    "Billy Wilder"
+   ],
+   "year": 1959,
+   "runtime_min": 121,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 239,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [
+    "StricKino"
+   ],
+   "labels": [
+    "StricKino"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "StricKino": "strickino-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2027-01-04",
+     "screenings": [
+      {
+       "id": "arthouse:2250099",
+       "start": "2027-01-04T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2250099",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "StricKino"
+       ],
+       "label": "StricKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "date": "2027-06-19",
+ "venues": [
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Leave No Trace",
+     "venue_title": "Leave No Trace",
+     "subtitle": null,
+     "original_title": "Leave No Trace",
+     "english_title": "Leave No Trace",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/leave-no-trace",
+     "directors": [
+      "Debra Granik"
+     ],
+     "year": 2018,
+     "runtime_min": 108,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 443463,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [
+      "Cinépassion"
+     ],
+     "labels": [
+      "Cinépassion"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2240906",
+       "start": "2027-06-19T10:30+02:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2240906",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinépassion"
+       ],
+       "label": "Cinépassion",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Cinépassion": "cinepassion-arthouse"
+     }
+    }
+   ]
+  }
+ ]
+}
