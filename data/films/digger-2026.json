@@ -2770,36 +2770,6 @@
      "date": "2026-11-01",
      "screenings": [
       {
-       "id": "kinokoni:50-9790",
-       "start": "2026-11-01T12:30+01:00",
-       "time": "12:30",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9790/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
        "id": "kinokoni:50-9824",
        "start": "2026-11-01T20:20+01:00",
        "time": "20:20",

@@ -6347,36 +6347,6 @@
      "date": "2026-11-01",
      "screenings": [
       {
-       "id": "kinokoni:50-9789",
-       "start": "2026-11-01T12:50+01:00",
-       "time": "12:50",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9789/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
        "id": "kinokoni:50-9817",
        "start": "2026-11-01T15:20+01:00",
        "time": "15:20",
