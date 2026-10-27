@@ -2,7 +2,7 @@
  "date": "2026-12-17",
  "venues": [
   {
-   "name": "Abaton",
+   "name": "blue Abaton",
    "operator": "blue Cinema",
    "address": null,
    "listings": [
@@ -472,7 +472,7 @@
    ]
   },
   {
-   "name": "Corso",
+   "name": "blue Corso",
    "operator": "blue Cinema",
    "address": null,
    "listings": [
@@ -594,6 +594,104 @@
       }
      ],
      "film_slug": "dune-part-three-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "blue Metropol",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Avengers: Doomsday",
+     "venue_title": "Avengers: Doomsday",
+     "subtitle": null,
+     "original_title": "Avengers: Doomsday",
+     "english_title": "Avengers: Doomsday",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3051782?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+     ],
+     "year": 2026,
+     "runtime_min": 165,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1003596,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334865",
+       "start": "2026-12-17T16:15+01:00",
+       "time": "16:15",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334865/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334868",
+       "start": "2026-12-17T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334868/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "avengers-doomsday-2026",
      "series_slugs": {}
     }
    ]
@@ -722,104 +820,6 @@
       }
      ],
      "film_slug": "dune-part-three-2026",
-     "series_slugs": {}
-    }
-   ]
-  },
-  {
-   "name": "Metropol",
-   "operator": "blue Cinema",
-   "address": null,
-   "listings": [
-    {
-     "title": "Avengers: Doomsday",
-     "venue_title": "Avengers: Doomsday",
-     "subtitle": null,
-     "original_title": "Avengers: Doomsday",
-     "english_title": "Avengers: Doomsday",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3051782?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
-     "directors": [
-      "Anthony Russo",
-      "Joe Russo"
-     ],
-     "year": 2026,
-     "runtime_min": 165,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1003596,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334865",
-       "start": "2026-12-17T16:15+01:00",
-       "time": "16:15",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334865/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334868",
-       "start": "2026-12-17T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334868/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "avengers-doomsday-2026",
      "series_slugs": {}
     }
    ]

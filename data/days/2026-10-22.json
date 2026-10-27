@@ -2,1651 +2,6 @@
  "date": "2026-10-22",
  "venues": [
   {
-   "name": "Abaton",
-   "operator": "blue Cinema",
-   "address": null,
-   "listings": [
-    {
-     "title": "Forgotten Island",
-     "venue_title": "Forgotten Island",
-     "subtitle": null,
-     "original_title": "Forgotten Island",
-     "english_title": "Forgotten Island",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3142308?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Januel Mercado",
-      "Joel Crawford"
-     ],
-     "year": 2026,
-     "runtime_min": 109,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1465063,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334504",
-       "start": "2026-10-22T14:00+02:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Abaton 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334504/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx",
-         "3d"
-        ],
-        "assumed": true,
-        "raw": "4DX 3D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "forgotten-island-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Der perfekte Urlaub (The Perfect Holiday)",
-     "venue_title": "Der perfekte Urlaub",
-     "subtitle": null,
-     "original_title": "Der perfekte Urlaub",
-     "english_title": "The Perfect Holiday",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3160856?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Bora Dagtekin"
-     ],
-     "year": 2026,
-     "runtime_min": 126,
-     "country": "Deutschland",
-     "program_films": [],
-     "tmdb_id": 1525072,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334604",
-       "start": "2026-10-22T14:00+02:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334604/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334611",
-       "start": "2026-10-22T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334611/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334552",
-       "start": "2026-10-22T17:30+02:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Abaton B"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334552/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334602",
-       "start": "2026-10-22T20:45+02:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334602/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-     "venue_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-     "subtitle": null,
-     "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-     "english_title": "Shaun the Sheep: The Beast of Mossy Bottom",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3142309?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Steve Cox",
-      "Matthew Walker"
-     ],
-     "year": 2026,
-     "runtime_min": 81,
-     "country": "Großbritannien",
-     "program_films": [],
-     "tmdb_id": 1477104,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334634",
-       "start": "2026-10-22T14:00+02:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Abaton 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334634/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334618",
-       "start": "2026-10-22T15:00+02:00",
-       "time": "15:00",
-       "auditoriums": [
-        "Abaton B"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334618/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334633",
-       "start": "2026-10-22T16:30+02:00",
-       "time": "16:30",
-       "auditoriums": [
-        "Abaton 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334633/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Clayface",
-     "venue_title": "Clayface",
-     "subtitle": null,
-     "original_title": "Clayface",
-     "english_title": "Clayface",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "James Watkins"
-     ],
-     "year": 2026,
-     "runtime_min": 109,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1400940,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334404",
-       "start": "2026-10-22T14:15+02:00",
-       "time": "14:15",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334404/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334432",
-       "start": "2026-10-22T17:30+02:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334432/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334411",
-       "start": "2026-10-22T20:00+02:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334411/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334430",
-       "start": "2026-10-22T20:30+02:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334430/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334396",
-       "start": "2026-10-22T21:00+02:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Abaton 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334396/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "clayface-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "subtitle": null,
-     "original_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "english_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3151586?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Gregor Schnitzler"
-     ],
-     "year": 2026,
-     "runtime_min": 90,
-     "country": "Deutschland",
-     "program_films": [],
-     "tmdb_id": 1492574,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334399",
-       "start": "2026-10-22T14:30+02:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Abaton 10"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334399/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Emil und die Detektive (Emil and the Detectives)",
-     "venue_title": "Emil und die Detektive",
-     "subtitle": null,
-     "original_title": "Emil und die Detektive",
-     "english_title": "Emil and the Detectives",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3151587?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "David Dietl"
-     ],
-     "year": 2026,
-     "runtime_min": 100,
-     "country": "Deutschland",
-     "program_films": [],
-     "tmdb_id": 1426805,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334642",
-       "start": "2026-10-22T14:30+02:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Abaton 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334642/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Sacrifice",
-     "venue_title": "Sacrifice",
-     "subtitle": null,
-     "original_title": "Sacrifice",
-     "english_title": "Sacrifice",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3311482?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Romain Gavras"
-     ],
-     "year": 2025,
-     "runtime_min": 103,
-     "country": "Großbritannien",
-     "program_films": [],
-     "tmdb_id": 1284186,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334444",
-       "start": "2026-10-22T14:45+02:00",
-       "time": "14:45",
-       "auditoriums": [
-        "Abaton 8"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334444/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "sacrifice-2025",
-     "series_slugs": {}
-    },
-    {
-     "title": "Minions & Monsters",
-     "venue_title": "Minions & Monsters",
-     "subtitle": null,
-     "original_title": "Minions & Monsters",
-     "english_title": "Minions & Monsters",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3050332?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Pierre Coffin"
-     ],
-     "year": 2026,
-     "runtime_min": 90,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1315772,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334498",
-       "start": "2026-10-22T14:45+02:00",
-       "time": "14:45",
-       "auditoriums": [
-        "Abaton 7"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334498/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334532",
-       "start": "2026-10-22T16:30+02:00",
-       "time": "16:30",
-       "auditoriums": [
-        "Abaton 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334532/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx",
-         "3d"
-        ],
-        "assumed": true,
-        "raw": "4DX 3D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "minions-monsters-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Frank & Louis",
-     "venue_title": "Frank & Louis",
-     "subtitle": null,
-     "original_title": "Frank & Louis",
-     "english_title": "Frank & Louis",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3311472?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Petra Volpe"
-     ],
-     "year": 2026,
-     "runtime_min": 96,
-     "country": "Schweiz",
-     "program_films": [],
-     "tmdb_id": 1596287,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334585",
-       "start": "2026-10-22T15:00+02:00",
-       "time": "15:00",
-       "auditoriums": [
-        "Abaton 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334585/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334571",
-       "start": "2026-10-22T18:00+02:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334571/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334570",
-       "start": "2026-10-22T20:45+02:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334570/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "frank-louis-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "PAW Patrol: The Dino Movie",
-     "venue_title": "Paw Patrol: The Dino Movie",
-     "subtitle": null,
-     "original_title": "PAW Patrol: The Dino Movie",
-     "english_title": "PAW Patrol: The Dino Movie",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3141015?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Callan Brunker"
-     ],
-     "year": 2026,
-     "runtime_min": 89,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1185806,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334490",
-       "start": "2026-10-22T15:30+02:00",
-       "time": "15:30",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334490/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "paw-patrol-the-dino-movie-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "The Odyssey",
-     "venue_title": "The Odyssey",
-     "subtitle": null,
-     "original_title": "The Odyssey",
-     "english_title": "The Odyssey",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3014975?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Christopher Nolan"
-     ],
-     "year": 2026,
-     "runtime_min": 172,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1368337,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334450",
-       "start": "2026-10-22T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334450/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334433",
-       "start": "2026-10-22T19:00+02:00",
-       "time": "19:00",
-       "auditoriums": [
-        "Abaton 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334433/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "the-odyssey-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Spider-Man: Brand New Day",
-     "venue_title": "Spider-Man: Brand New Day",
-     "subtitle": null,
-     "original_title": "Spider-Man: Brand New Day",
-     "english_title": "Spider-Man: Brand New Day",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3093825?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Destin Daniel Cretton"
-     ],
-     "year": 2026,
-     "runtime_min": 144,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 969681,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334655",
-       "start": "2026-10-22T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Abaton 10"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334655/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334647",
-       "start": "2026-10-22T20:30+02:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334647/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "spider-man-brand-new-day-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Verity",
-     "venue_title": "Verity",
-     "subtitle": null,
-     "original_title": "Verity",
-     "english_title": "Verity",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3161226?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Michael Showalter"
-     ],
-     "year": 2026,
-     "runtime_min": 117,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1283515,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334457",
-       "start": "2026-10-22T17:15+02:00",
-       "time": "17:15",
-       "auditoriums": [
-        "Abaton 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334457/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334473",
-       "start": "2026-10-22T17:30+02:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Abaton 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334473/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334456",
-       "start": "2026-10-22T20:15+02:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Abaton 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334456/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334467",
-       "start": "2026-10-22T20:30+02:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton B"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334467/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "verity-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Whalefall",
-     "venue_title": "Whalefall",
-     "subtitle": null,
-     "original_title": "Whalefall",
-     "english_title": "Whalefall",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3162748?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Brian Duffield"
-     ],
-     "year": 2026,
-     "runtime_min": 106,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1255833,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334516",
-       "start": "2026-10-22T17:30+02:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Abaton 7"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334516/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "whalefall-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Street Fighter",
-     "venue_title": "Street Fighter",
-     "subtitle": null,
-     "original_title": "Street Fighter",
-     "english_title": "Street Fighter",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3162577?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Kitao Sakurai"
-     ],
-     "year": 2026,
-     "runtime_min": 120,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1153576,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334607",
-       "start": "2026-10-22T17:30+02:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Abaton 8"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334607/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334592",
-       "start": "2026-10-22T20:30+02:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 10"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334592/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "street-fighter-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Resident Evil",
-     "venue_title": "Resident Evil",
-     "subtitle": null,
-     "original_title": "Resident Evil",
-     "english_title": "Resident Evil",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3150526?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Zack Cregger"
-     ],
-     "year": 2026,
-     "runtime_min": 90,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1423191,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334495",
-       "start": "2026-10-22T18:45+02:00",
-       "time": "18:45",
-       "auditoriums": [
-        "Abaton 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334495/seating",
-       "language": {
-        "raw": "EN/DE",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "resident-evil-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Sense and Sensibility",
-     "venue_title": "Sense and Sensibility",
-     "subtitle": null,
-     "original_title": "Sense and Sensibility",
-     "english_title": "Sense and Sensibility",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3151471?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Georgia Oakley"
-     ],
-     "year": 2026,
-     "runtime_min": 132,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1503762,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334491",
-       "start": "2026-10-22T20:15+02:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Abaton 7"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334491/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "sense-and-sensibility-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Heart of the Beast",
-     "venue_title": "Heart of the Beast",
-     "subtitle": null,
-     "original_title": "Heart of the Beast",
-     "english_title": "Heart of the Beast",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3286640?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "David Ayer"
-     ],
-     "year": 2026,
-     "runtime_min": 101,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1263337,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334544",
-       "start": "2026-10-22T20:30+02:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 8"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334544/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "heart-of-the-beast-2026",
-     "series_slugs": {}
-    }
-   ]
-  },
-  {
    "name": "Arena Sihlcity",
    "operator": "Arena Cinemas",
    "address": null,
@@ -4908,7 +3263,1652 @@
    ]
   },
   {
-   "name": "Capitol",
+   "name": "blue Abaton",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Forgotten Island",
+     "venue_title": "Forgotten Island",
+     "subtitle": null,
+     "original_title": "Forgotten Island",
+     "english_title": "Forgotten Island",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3142308?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Januel Mercado",
+      "Joel Crawford"
+     ],
+     "year": 2026,
+     "runtime_min": 109,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1465063,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334504",
+       "start": "2026-10-22T14:00+02:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334504/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx",
+         "3d"
+        ],
+        "assumed": true,
+        "raw": "4DX 3D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "forgotten-island-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Der perfekte Urlaub (The Perfect Holiday)",
+     "venue_title": "Der perfekte Urlaub",
+     "subtitle": null,
+     "original_title": "Der perfekte Urlaub",
+     "english_title": "The Perfect Holiday",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3160856?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Bora Dagtekin"
+     ],
+     "year": 2026,
+     "runtime_min": 126,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1525072,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334604",
+       "start": "2026-10-22T14:00+02:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334604/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334611",
+       "start": "2026-10-22T17:00+02:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334611/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334552",
+       "start": "2026-10-22T17:30+02:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Abaton B"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334552/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334602",
+       "start": "2026-10-22T20:45+02:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334602/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "venue_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "subtitle": null,
+     "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "english_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3142309?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Steve Cox",
+      "Matthew Walker"
+     ],
+     "year": 2026,
+     "runtime_min": 81,
+     "country": "Großbritannien",
+     "program_films": [],
+     "tmdb_id": 1477104,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334634",
+       "start": "2026-10-22T14:00+02:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334634/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334618",
+       "start": "2026-10-22T15:00+02:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Abaton B"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334618/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334633",
+       "start": "2026-10-22T16:30+02:00",
+       "time": "16:30",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334633/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Clayface",
+     "venue_title": "Clayface",
+     "subtitle": null,
+     "original_title": "Clayface",
+     "english_title": "Clayface",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "James Watkins"
+     ],
+     "year": 2026,
+     "runtime_min": 109,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1400940,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334404",
+       "start": "2026-10-22T14:15+02:00",
+       "time": "14:15",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334404/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334432",
+       "start": "2026-10-22T17:30+02:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334432/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334411",
+       "start": "2026-10-22T20:00+02:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Abaton 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334411/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334430",
+       "start": "2026-10-22T20:30+02:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334430/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334396",
+       "start": "2026-10-22T21:00+02:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334396/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "clayface-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "subtitle": null,
+     "original_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "english_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3151586?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Gregor Schnitzler"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1492574,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334399",
+       "start": "2026-10-22T14:30+02:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Abaton 10"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334399/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Emil und die Detektive (Emil and the Detectives)",
+     "venue_title": "Emil und die Detektive",
+     "subtitle": null,
+     "original_title": "Emil und die Detektive",
+     "english_title": "Emil and the Detectives",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3151587?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "David Dietl"
+     ],
+     "year": 2026,
+     "runtime_min": 100,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1426805,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334642",
+       "start": "2026-10-22T14:30+02:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Abaton 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334642/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Sacrifice",
+     "venue_title": "Sacrifice",
+     "subtitle": null,
+     "original_title": "Sacrifice",
+     "english_title": "Sacrifice",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3311482?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Romain Gavras"
+     ],
+     "year": 2025,
+     "runtime_min": 103,
+     "country": "Großbritannien",
+     "program_films": [],
+     "tmdb_id": 1284186,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334444",
+       "start": "2026-10-22T14:45+02:00",
+       "time": "14:45",
+       "auditoriums": [
+        "Abaton 8"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334444/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "sacrifice-2025",
+     "series_slugs": {}
+    },
+    {
+     "title": "Minions & Monsters",
+     "venue_title": "Minions & Monsters",
+     "subtitle": null,
+     "original_title": "Minions & Monsters",
+     "english_title": "Minions & Monsters",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3050332?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Pierre Coffin"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1315772,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334498",
+       "start": "2026-10-22T14:45+02:00",
+       "time": "14:45",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334498/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334532",
+       "start": "2026-10-22T16:30+02:00",
+       "time": "16:30",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334532/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx",
+         "3d"
+        ],
+        "assumed": true,
+        "raw": "4DX 3D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "minions-monsters-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Frank & Louis",
+     "venue_title": "Frank & Louis",
+     "subtitle": null,
+     "original_title": "Frank & Louis",
+     "english_title": "Frank & Louis",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3311472?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Petra Volpe"
+     ],
+     "year": 2026,
+     "runtime_min": 96,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1596287,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334585",
+       "start": "2026-10-22T15:00+02:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334585/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334571",
+       "start": "2026-10-22T18:00+02:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334571/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334570",
+       "start": "2026-10-22T20:45+02:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334570/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "frank-louis-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "PAW Patrol: The Dino Movie",
+     "venue_title": "Paw Patrol: The Dino Movie",
+     "subtitle": null,
+     "original_title": "PAW Patrol: The Dino Movie",
+     "english_title": "PAW Patrol: The Dino Movie",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3141015?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Callan Brunker"
+     ],
+     "year": 2026,
+     "runtime_min": 89,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1185806,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334490",
+       "start": "2026-10-22T15:30+02:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334490/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "paw-patrol-the-dino-movie-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "The Odyssey",
+     "venue_title": "The Odyssey",
+     "subtitle": null,
+     "original_title": "The Odyssey",
+     "english_title": "The Odyssey",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3014975?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Christopher Nolan"
+     ],
+     "year": 2026,
+     "runtime_min": 172,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1368337,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334450",
+       "start": "2026-10-22T17:00+02:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Abaton A"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334450/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "imax"
+        ],
+        "assumed": true,
+        "raw": "IMAX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334433",
+       "start": "2026-10-22T19:00+02:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334433/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "the-odyssey-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Spider-Man: Brand New Day",
+     "venue_title": "Spider-Man: Brand New Day",
+     "subtitle": null,
+     "original_title": "Spider-Man: Brand New Day",
+     "english_title": "Spider-Man: Brand New Day",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3093825?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Destin Daniel Cretton"
+     ],
+     "year": 2026,
+     "runtime_min": 144,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 969681,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334655",
+       "start": "2026-10-22T17:00+02:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Abaton 10"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334655/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334647",
+       "start": "2026-10-22T20:30+02:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334647/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "spider-man-brand-new-day-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Verity",
+     "venue_title": "Verity",
+     "subtitle": null,
+     "original_title": "Verity",
+     "english_title": "Verity",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3161226?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Michael Showalter"
+     ],
+     "year": 2026,
+     "runtime_min": 117,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1283515,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334457",
+       "start": "2026-10-22T17:15+02:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Abaton 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334457/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334473",
+       "start": "2026-10-22T17:30+02:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Abaton 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334473/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334456",
+       "start": "2026-10-22T20:15+02:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Abaton 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334456/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334467",
+       "start": "2026-10-22T20:30+02:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton B"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334467/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "verity-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Whalefall",
+     "venue_title": "Whalefall",
+     "subtitle": null,
+     "original_title": "Whalefall",
+     "english_title": "Whalefall",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3162748?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Brian Duffield"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1255833,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334516",
+       "start": "2026-10-22T17:30+02:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334516/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "whalefall-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Street Fighter",
+     "venue_title": "Street Fighter",
+     "subtitle": null,
+     "original_title": "Street Fighter",
+     "english_title": "Street Fighter",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3162577?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Kitao Sakurai"
+     ],
+     "year": 2026,
+     "runtime_min": 120,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1153576,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334607",
+       "start": "2026-10-22T17:30+02:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Abaton 8"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334607/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334592",
+       "start": "2026-10-22T20:30+02:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 10"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334592/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "street-fighter-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Resident Evil",
+     "venue_title": "Resident Evil",
+     "subtitle": null,
+     "original_title": "Resident Evil",
+     "english_title": "Resident Evil",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3150526?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Zack Cregger"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1423191,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334495",
+       "start": "2026-10-22T18:45+02:00",
+       "time": "18:45",
+       "auditoriums": [
+        "Abaton 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334495/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX 2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "resident-evil-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense and Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3151471?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334491",
+       "start": "2026-10-22T20:15+02:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334491/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Heart of the Beast",
+     "venue_title": "Heart of the Beast",
+     "subtitle": null,
+     "original_title": "Heart of the Beast",
+     "english_title": "Heart of the Beast",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3286640?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "David Ayer"
+     ],
+     "year": 2026,
+     "runtime_min": 101,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1263337,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334544",
+       "start": "2026-10-22T20:30+02:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 8"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334544/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "heart-of-the-beast-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "blue Capitol",
    "operator": "blue Cinema",
    "address": null,
    "listings": [
@@ -6117,7 +6117,7 @@
    ]
   },
   {
-   "name": "Corso",
+   "name": "blue Corso",
    "operator": "blue Cinema",
    "address": null,
    "listings": [
@@ -6691,6 +6691,253 @@
       }
      ],
      "film_slug": "digger-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "blue Metropol",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Clayface",
+     "venue_title": "Clayface",
+     "subtitle": null,
+     "original_title": "Clayface",
+     "english_title": "Clayface",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "James Watkins"
+     ],
+     "year": 2026,
+     "runtime_min": 109,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1400940,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3332942",
+       "start": "2026-10-22T14:15+02:00",
+       "time": "14:15",
+       "auditoriums": [
+        "Metropol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332942/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3332902",
+       "start": "2026-10-22T17:30+02:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332902/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3332899",
+       "start": "2026-10-22T20:15+02:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332899/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "clayface-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Street Fighter",
+     "venue_title": "Street Fighter",
+     "subtitle": null,
+     "original_title": "Street Fighter",
+     "english_title": "Street Fighter",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3162577?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "Kitao Sakurai"
+     ],
+     "year": 2026,
+     "runtime_min": 120,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1153576,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334039",
+       "start": "2026-10-22T14:30+02:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334039/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334139",
+       "start": "2026-10-22T17:00+02:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Metropol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334139/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334134",
+       "start": "2026-10-22T20:00+02:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Metropol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334134/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "street-fighter-2026",
      "series_slugs": {}
     }
    ]
@@ -8367,253 +8614,6 @@
       }
      ],
      "film_slug": "verity-2026",
-     "series_slugs": {}
-    }
-   ]
-  },
-  {
-   "name": "Metropol",
-   "operator": "blue Cinema",
-   "address": null,
-   "listings": [
-    {
-     "title": "Clayface",
-     "venue_title": "Clayface",
-     "subtitle": null,
-     "original_title": "Clayface",
-     "english_title": "Clayface",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
-     "directors": [
-      "James Watkins"
-     ],
-     "year": 2026,
-     "runtime_min": 109,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1400940,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3332942",
-       "start": "2026-10-22T14:15+02:00",
-       "time": "14:15",
-       "auditoriums": [
-        "Metropol 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332942/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3332902",
-       "start": "2026-10-22T17:30+02:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332902/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3332899",
-       "start": "2026-10-22T20:15+02:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332899/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "clayface-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Street Fighter",
-     "venue_title": "Street Fighter",
-     "subtitle": null,
-     "original_title": "Street Fighter",
-     "english_title": "Street Fighter",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3162577?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
-     "directors": [
-      "Kitao Sakurai"
-     ],
-     "year": 2026,
-     "runtime_min": 120,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1153576,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334039",
-       "start": "2026-10-22T14:30+02:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334039/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334139",
-       "start": "2026-10-22T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Metropol 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334139/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334134",
-       "start": "2026-10-22T20:00+02:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Metropol 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334134/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "street-fighter-2026",
      "series_slugs": {}
     }
    ]

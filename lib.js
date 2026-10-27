@@ -39,6 +39,35 @@ export function el(tag, attrs = {}, ...kids) {
   return n;
 }
 
+// ---------- External links ----------
+
+// Every link to another site opens in a new tab (user, 2026-10-27), and says so
+// to screen readers with a visually hidden "(opens in a new tab)". One place
+// for all pages: it marks the links already in the page and, through an
+// observer, every link a render or a day swap adds later.
+const NEW_TAB = "opens in a new tab";
+
+export function markExternal(a) {
+  if (a.dataset.external || !/^https?:$/.test(a.protocol) || a.origin === location.origin) return;
+  a.dataset.external = "";
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+  const label = a.getAttribute("aria-label");
+  if (label) a.setAttribute("aria-label", `${label} (${NEW_TAB})`);
+  else a.append(el("span", { class: "visually-hidden" }, ` (${NEW_TAB})`));
+}
+
+function markExternalIn(root) {
+  if (root.nodeType !== 1) return;
+  if (root.matches("a[href]")) markExternal(root);
+  for (const a of root.querySelectorAll("a[href]")) markExternal(a);
+}
+
+markExternalIn(document.documentElement);
+new MutationObserver((records) => {
+  for (const r of records) for (const n of r.addedNodes) markExternalIn(n);
+}).observe(document.documentElement, { childList: true, subtree: true });
+
 // ---------- Dates ----------
 
 export const asDate = (iso) => new Date(`${iso}T12:00:00Z`);

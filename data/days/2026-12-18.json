@@ -2,7 +2,82 @@
  "date": "2026-12-18",
  "venues": [
   {
-   "name": "Abaton",
+   "name": "Arthouse Movie",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "2001: A Space Odyssey",
+     "venue_title": "2001: A Space Odyssey",
+     "subtitle": null,
+     "original_title": "2001: A Space Odyssey",
+     "english_title": "2001: A Space Odyssey",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/2001-a-space-odyssey",
+     "directors": [
+      "Stanley Kubrick"
+     ],
+     "year": 1968,
+     "runtime_min": 149,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 62,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [
+      "Arthouse Kult"
+     ],
+     "labels": [
+      "Arthouse Kult"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2156218",
+       "start": "2026-12-18T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2156218",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Arthouse Kult"
+       ],
+       "label": "Arthouse Kult",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Arthouse Kult": "arthouse-kult-arthouse"
+     }
+    }
+   ]
+  },
+  {
+   "name": "blue Abaton",
    "operator": "blue Cinema",
    "address": null,
    "listings": [
@@ -504,82 +579,7 @@
    ]
   },
   {
-   "name": "Arthouse Movie",
-   "operator": "Arthouse",
-   "address": null,
-   "listings": [
-    {
-     "title": "2001: A Space Odyssey",
-     "venue_title": "2001: A Space Odyssey",
-     "subtitle": null,
-     "original_title": "2001: A Space Odyssey",
-     "english_title": "2001: A Space Odyssey",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/2001-a-space-odyssey",
-     "directors": [
-      "Stanley Kubrick"
-     ],
-     "year": 1968,
-     "runtime_min": 149,
-     "country": "USA",
-     "program_films": [],
-     "tmdb_id": 62,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arthouse",
-     "series": [
-      "Arthouse Kult"
-     ],
-     "labels": [
-      "Arthouse Kult"
-     ],
-     "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "rep",
-      "special"
-     ],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2156218",
-       "start": "2026-12-18T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2156218",
-       "language": {
-        "raw": "",
-        "description": "Language not stated",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Arthouse Kult"
-       ],
-       "label": "Arthouse Kult",
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ],
-     "series_slugs": {
-      "Arthouse Kult": "arthouse-kult-arthouse"
-     }
-    }
-   ]
-  },
-  {
-   "name": "Corso",
+   "name": "blue Corso",
    "operator": "blue Cinema",
    "address": null,
    "listings": [
@@ -701,6 +701,104 @@
       }
      ],
      "film_slug": "dune-part-three-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "blue Metropol",
+   "operator": "blue Cinema",
+   "address": null,
+   "listings": [
+    {
+     "title": "Avengers: Doomsday",
+     "venue_title": "Avengers: Doomsday",
+     "subtitle": null,
+     "original_title": "Avengers: Doomsday",
+     "english_title": "Avengers: Doomsday",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3051782?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+     "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+     ],
+     "year": 2026,
+     "runtime_min": 165,
+     "country": "Vereinigte Staaten von Amerika",
+     "program_films": [],
+     "tmdb_id": 1003596,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3334864",
+       "start": "2026-12-18T16:15+01:00",
+       "time": "16:15",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334864/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3334863",
+       "start": "2026-12-18T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3334863/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "avengers-doomsday-2026",
      "series_slugs": {}
     }
    ]
@@ -829,104 +927,6 @@
       }
      ],
      "film_slug": "dune-part-three-2026",
-     "series_slugs": {}
-    }
-   ]
-  },
-  {
-   "name": "Metropol",
-   "operator": "blue Cinema",
-   "address": null,
-   "listings": [
-    {
-     "title": "Avengers: Doomsday",
-     "venue_title": "Avengers: Doomsday",
-     "subtitle": null,
-     "original_title": "Avengers: Doomsday",
-     "english_title": "Avengers: Doomsday",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3051782?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
-     "directors": [
-      "Anthony Russo",
-      "Joe Russo"
-     ],
-     "year": 2026,
-     "runtime_min": 165,
-     "country": "Vereinigte Staaten von Amerika",
-     "program_films": [],
-     "tmdb_id": 1003596,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3334864",
-       "start": "2026-12-18T16:15+01:00",
-       "time": "16:15",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334864/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334863",
-       "start": "2026-12-18T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334863/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "avengers-doomsday-2026",
      "series_slugs": {}
     }
    ]
