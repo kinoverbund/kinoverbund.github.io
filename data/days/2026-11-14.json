@@ -69,6 +69,81 @@
    ]
   },
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "LA BOLA NEGRA",
+     "venue_title": "La bola negra",
+     "subtitle": null,
+     "original_title": "La bola negra",
+     "english_title": "LA BOLA NEGRA",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/la-bola-negra",
+     "directors": [
+      "Javier Calvo, Javier Ambrossi"
+     ],
+     "year": 2026,
+     "runtime_min": 160,
+     "country": "Spanien",
+     "program_films": [],
+     "tmdb_id": 1422041,
+     "tmdb_kind": "movie",
+     "original_language": "es",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2309788",
+       "start": "2026-11-14T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2309788",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "la-bola-negra-2026",
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "Arthouse Piccadilly",
    "operator": "Arthouse",
    "address": null,
