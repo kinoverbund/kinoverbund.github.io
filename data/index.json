@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T12:01:59+01:00",
+ "generated_at": "2026-10-27T13:01:18+01:00",
  "today": "2026-10-27",
  "days": [
   {
@@ -53,8 +53,8 @@
   },
   {
    "date": "2026-10-27",
-   "screenings": 202,
-   "english": 87,
+   "screenings": 200,
+   "english": 86,
    "curated": 20,
    "film": 1
   },
@@ -179,16 +179,16 @@
   },
   {
    "date": "2026-11-14",
-   "screenings": 11,
+   "screenings": 12,
    "english": 5,
-   "curated": 8,
+   "curated": 9,
    "film": 0
   },
   {
    "date": "2026-11-15",
-   "screenings": 10,
+   "screenings": 11,
    "english": 4,
-   "curated": 7,
+   "curated": 8,
    "film": 0
   },
   {
@@ -503,31 +503,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-27T10:53:15+00:00"
+   "run_at": "2026-10-27T11:53:15+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-10-27T10:54:18+00:00"
+   "run_at": "2026-10-27T11:54:12+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-27T10:56:00+00:00"
+   "run_at": "2026-10-27T11:55:46+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-27T11:00:31+00:00"
+   "run_at": "2026-10-27T11:59:57+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-27T11:00:34+00:00"
+   "run_at": "2026-10-27T12:00:00+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-27T11:00:38+00:00"
+   "run_at": "2026-10-27T12:00:01+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-27T11:01:54+00:00"
+   "run_at": "2026-10-27T12:01:13+00:00"
   }
  },
  "venues": [
@@ -737,7 +737,7 @@
     "2026-10-24": 6,
     "2026-10-25": 6,
     "2026-10-26": 6,
-    "2026-10-27": 9,
+    "2026-10-27": 7,
     "2026-10-28": 9,
     "2026-10-29": 9,
     "2026-10-30": 9,
@@ -923,6 +923,8 @@
     "2026-11-03",
     "2026-11-04",
     "2026-11-07",
+    "2026-11-14",
+    "2026-11-15",
     "2026-11-17",
     "2026-12-15",
     "2026-12-16",
@@ -952,6 +954,8 @@
     "2026-11-03": 22,
     "2026-11-04": 35,
     "2026-11-07": 1,
+    "2026-11-14": 1,
+    "2026-11-15": 1,
     "2026-11-17": 2,
     "2026-12-15": 3,
     "2026-12-16": 17,
@@ -998,6 +1002,12 @@
      "slug": "horror-night-blue-cinema",
      "first": "2026-10-29",
      "last": "2026-10-29"
+    },
+    {
+     "name": "Hello Family",
+     "slug": "hello-family-blue-cinema",
+     "first": "2026-11-14",
+     "last": "2026-11-15"
     },
     {
      "name": "Movie Night",
@@ -1811,6 +1821,7 @@
   "Iconic Night": "iconic-night-blue-cinema",
   "Hunger Games": "hunger-games-kinokoni",
   "Horror Night": "horror-night-blue-cinema",
+  "Hello Family": "hello-family-blue-cinema",
   "HALLOWEEN im Arthouse Movie": "halloween-im-arthouse-movie-arthouse",
   "Halloweek Family": "halloweek-family-blue-cinema",
   "Halloweek": "halloweek-blue-cinema",
@@ -1844,6 +1855,7 @@
    "halloweek-blue-cinema",
    "halloweek-family-blue-cinema",
    "halloween-im-arthouse-movie-arthouse",
+   "hello-family-blue-cinema",
    "horror-night-blue-cinema",
    "hunger-games-kinokoni",
    "iconic-night-blue-cinema",

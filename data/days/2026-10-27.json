@@ -2342,156 +2342,6 @@
    "address": null,
    "listings": [
     {
-     "title": "Wenn die Erinnerung verblasst",
-     "venue_title": "Wenn die Erinnerung verblasst",
-     "subtitle": null,
-     "original_title": "Wenn die Erinnerung verblasst",
-     "english_title": "Wenn die Erinnerung verblasst",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
-     "directors": [
-      "Marianne Pletscher, Martina Rieder"
-     ],
-     "year": 2026,
-     "runtime_min": 80,
-     "country": "Schweiz",
-     "program_films": [],
-     "tmdb_id": 1796579,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2302857",
-       "start": "2026-10-27T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302857",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2302858",
-       "start": "2026-10-27T18:40+01:00",
-       "time": "18:40",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302858",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "wenn-die-erinnerung-verblasst-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Digger",
-     "venue_title": "Digger",
-     "subtitle": null,
-     "original_title": "Digger",
-     "english_title": "Digger",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/digger",
-     "directors": [
-      "Alejandro Gonzáles Inarritu"
-     ],
-     "year": 2026,
-     "runtime_min": 129,
-     "country": "USA",
-     "program_films": [],
-     "tmdb_id": 1248832,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2302853",
-       "start": "2026-10-27T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302853",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "digger-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "NAZA",
      "venue_title": "NAZA",
      "subtitle": null,
@@ -2701,6 +2551,66 @@
       }
      ],
      "film_slug": "cinque-secondi-five-seconds-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Wenn die Erinnerung verblasst",
+     "venue_title": "Wenn die Erinnerung verblasst",
+     "subtitle": null,
+     "original_title": "Wenn die Erinnerung verblasst",
+     "english_title": "Wenn die Erinnerung verblasst",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
+     "directors": [
+      "Marianne Pletscher, Martina Rieder"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1796579,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302858",
+       "start": "2026-10-27T18:40+01:00",
+       "time": "18:40",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302858",
+       "language": {
+        "raw": "Ov/d",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "wenn-die-erinnerung-verblasst-2026",
      "series_slugs": {}
     },
     {
