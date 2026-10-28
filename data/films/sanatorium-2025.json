@@ -1,0 +1,74 @@
+{
+ "name": "Sanatorium",
+ "venues": [
+  {
+   "title": "Sanatorium",
+   "venue_title": "Architecture FestivaI: Sanatorium",
+   "subtitle": null,
+   "original_title": "Sanatorium",
+   "english_title": "Sanatorium",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/architecture-festivai-sanatorium",
+   "directors": [
+    "Gar O'Rourke"
+   ],
+   "year": 2025,
+   "runtime_min": 90,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1415669,
+   "tmdb_kind": "movie",
+   "original_language": "uk",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [
+    "Special Event"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9765",
+       "start": "2026-11-06T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9765/seats",
+       "language": {
+        "raw": "Englisch Untertitel; Français/Französisch",
+        "description": "French; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special Event",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

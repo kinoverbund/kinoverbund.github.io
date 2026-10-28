@@ -151,6 +151,69 @@
    "address": null,
    "listings": [
     {
+     "title": "Frauen am Bauen",
+     "venue_title": "Frauen am Bauen",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/frauen-am-bauen.html",
+     "directors": [
+      "Ginger Hobi-Ragaz"
+     ],
+     "year": 2026,
+     "runtime_min": 53,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Special"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2309836",
+       "start": "2026-11-29T11:00+01:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frauen-am-bauen.html?city=zurich&show=2309836#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    },
+    {
      "title": "You Can See Everything",
      "venue_title": "You Can See Everything",
      "subtitle": null,

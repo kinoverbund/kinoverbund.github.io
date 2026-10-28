@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T00:03:22+01:00",
+ "generated_at": "2026-10-28T01:01:50+01:00",
  "today": "2026-10-28",
  "days": [
   {
@@ -109,30 +109,30 @@
   },
   {
    "date": "2026-11-05",
-   "screenings": 3,
-   "english": 3,
-   "curated": 3,
+   "screenings": 5,
+   "english": 5,
+   "curated": 5,
    "film": 0
   },
   {
    "date": "2026-11-06",
-   "screenings": 7,
-   "english": 5,
-   "curated": 6,
+   "screenings": 8,
+   "english": 6,
+   "curated": 7,
    "film": 0
   },
   {
    "date": "2026-11-07",
-   "screenings": 6,
-   "english": 4,
-   "curated": 4,
+   "screenings": 7,
+   "english": 5,
+   "curated": 5,
    "film": 0
   },
   {
    "date": "2026-11-08",
-   "screenings": 8,
-   "english": 6,
-   "curated": 8,
+   "screenings": 10,
+   "english": 8,
+   "curated": 10,
    "film": 0
   },
   {
@@ -277,9 +277,9 @@
   },
   {
    "date": "2026-11-29",
-   "screenings": 8,
+   "screenings": 9,
    "english": 5,
-   "curated": 7,
+   "curated": 8,
    "film": 0
   },
   {
@@ -503,31 +503,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-27T22:53:18+00:00"
+   "run_at": "2026-10-27T23:53:18+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-10-27T22:54:26+00:00"
+   "run_at": "2026-10-27T23:54:18+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-27T22:56:13+00:00"
+   "run_at": "2026-10-27T23:55:56+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-27T23:01:19+00:00"
+   "run_at": "2026-10-28T00:00:20+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-27T23:01:22+00:00"
+   "run_at": "2026-10-28T00:00:22+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-27T23:01:24+00:00"
+   "run_at": "2026-10-28T00:00:26+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-27T23:02:47+00:00"
+   "run_at": "2026-10-28T00:01:45+00:00"
   }
  },
  "venues": [
@@ -1359,6 +1359,7 @@
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
+    "2026-11-05",
     "2026-11-06",
     "2026-11-07",
     "2026-11-08",
@@ -1396,9 +1397,10 @@
     "2026-11-02": 12,
     "2026-11-03": 12,
     "2026-11-04": 13,
-    "2026-11-06": 1,
-    "2026-11-07": 2,
-    "2026-11-08": 1,
+    "2026-11-05": 2,
+    "2026-11-06": 2,
+    "2026-11-07": 3,
+    "2026-11-08": 3,
     "2026-11-10": 1,
     "2026-11-14": 3,
     "2026-11-15": 2,
@@ -1543,7 +1545,7 @@
     "2026-11-26": 1,
     "2026-11-27": 1,
     "2026-11-28": 1,
-    "2026-11-29": 2,
+    "2026-11-29": 3,
     "2026-11-30": 1,
     "2026-12-01": 1,
     "2026-12-02": 1,
@@ -1868,6 +1870,7 @@
    "anders-anders-was-uns-verbindet-differently-different-what-connects-us-2026",
    "angel-s-egg-1985",
    "antarktis-2021",
+   "architecture-festivai-stardust",
    "arzela-from-amed-2025",
    "avengers-doomsday-2026",
    "barbara-forever-2026",
@@ -1908,6 +1911,7 @@
    "fire-song-2015",
    "forgotten-island-2026",
    "frank-louis-2026",
+   "frauen-am-bauen-2026",
    "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
    "funny-games-1997",
    "gabin-2026",
@@ -1960,6 +1964,7 @@
    "night-of-the-living-dead-2026",
    "no-other-land-2024",
    "normal-people-2020",
+   "o-primeiro-siza-the-first-siza-2025",
    "obsession-2025",
    "ojczyzna-fatherland-2026",
    "only-lovers-left-alive-2013",
@@ -1972,6 +1977,7 @@
    "paw-patrol-the-dino-movie-2026",
    "poltergeist-1982",
    "practical-magic-2-2026",
+   "practicle-dance",
    "pressure-2026",
    "queen-at-sea-2026",
    "ramayana-rise-of-a-legend-2026",
@@ -1982,6 +1988,7 @@
    "riffraff-roulette",
    "sacrifice-2025",
    "samurai-cop-1991",
+   "sanatorium-2025",
    "saturday-night-fever-1977",
    "se7en-1995",
    "seeds-2024",
@@ -2001,6 +2008,7 @@
    "the-debut-2026",
    "the-exorcist-1973",
    "the-giant-buddhas-2005",
+   "the-history-of-concrete-2026",
    "the-history-of-sound-2025",
    "the-hunger-games-2012",
    "the-hunger-games-catching-fire-2013",
@@ -2028,6 +2036,7 @@
    "tschick-goodbye-berlin-2016",
    "una-mujer-fantastica-a-fantastic-woman-2017",
    "v-e-i-n-s",
+   "verejne-prospesne-prace-urban-disobedience-toolkit-2025",
    "verity-2026",
    "vier-minus-drei-four-minus-three-2026",
    "war-photographer-2001",
