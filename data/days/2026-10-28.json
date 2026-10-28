@@ -3193,8 +3193,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -3225,7 +3227,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -3380,8 +3382,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -3412,7 +3416,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "a-bicyclette-ride-away-2025",
@@ -4001,7 +4005,6 @@
        "curated": false
       }
      ],
-     "film_slug": "sacrifice-2025",
      "series_slugs": {}
     },
     {
@@ -5044,7 +5047,6 @@
        "curated": true
       }
      ],
-     "film_slug": "the-exorcist-1973",
      "series_slugs": {
       "Halloweek": "halloweek-blue-cinema"
      }
@@ -5685,7 +5687,6 @@
        "curated": false
       }
      ],
-     "film_slug": "sacrifice-2025",
      "series_slugs": {}
     },
     {
@@ -6321,7 +6322,6 @@
        "curated": true
       }
      ],
-     "film_slug": "candyman-1992",
      "series_slugs": {
       "Halloweek": "halloweek-blue-cinema"
      }
@@ -10098,7 +10098,6 @@
        "curated": true
       }
      ],
-     "film_slug": "blade-runner-1982",
      "series_slugs": {
       "The Ones We Love": "the-ones-we-love-neugass-kino"
      }
@@ -10174,7 +10173,6 @@
        "curated": true
       }
      ],
-     "film_slug": "candyman-1992",
      "series_slugs": {
       "Schöner wohnen! – Geschichten der Gentrifizierung": "schoner-wohnen-geschichten-der-gentrifizierung-xenix"
      }

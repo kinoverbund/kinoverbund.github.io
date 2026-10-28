@@ -3541,8 +3541,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -3573,7 +3575,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -3968,8 +3970,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -3997,10 +4001,10 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "series_slugs": {}
@@ -5886,7 +5890,6 @@
        "curated": false
       }
      ],
-     "film_slug": "sacrifice-2025",
      "series_slugs": {}
     },
     {
@@ -6525,7 +6528,6 @@
        "curated": false
       }
      ],
-     "film_slug": "sacrifice-2025",
      "series_slugs": {}
     },
     {

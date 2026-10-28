@@ -1270,7 +1270,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23392",
@@ -2222,8 +2222,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -2254,7 +2256,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "arthouse:2307777",
@@ -2284,7 +2286,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -4775,7 +4777,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3336849",
@@ -5781,7 +5783,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3337232",
@@ -6844,7 +6846,7 @@
      "curated_reasons": [
       "one venue"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2307116",
@@ -7025,7 +7027,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2307113",

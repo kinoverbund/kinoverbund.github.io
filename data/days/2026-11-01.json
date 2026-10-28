@@ -787,7 +787,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23627",
@@ -2272,7 +2272,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23575",
@@ -3524,8 +3524,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -3556,7 +3558,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "arthouse:2307753",
@@ -3586,7 +3588,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -5395,7 +5397,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3336520",
@@ -7182,7 +7184,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3336853",
@@ -8248,7 +8250,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3337236",
@@ -8898,7 +8900,7 @@
      "curated_reasons": [
       "one venue"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2307016",
@@ -9079,7 +9081,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2307013",

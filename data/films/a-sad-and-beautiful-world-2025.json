@@ -32,41 +32,6 @@
    "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-10-21",
-     "screenings": [
-      {
-       "id": "arthouse:2296895",
-       "start": "2026-10-21T20:30+02:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2296895",
-       "language": {
-        "raw": "Arab/d,f",
-        "description": "Arabic; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-10-22",
      "screenings": [
       {

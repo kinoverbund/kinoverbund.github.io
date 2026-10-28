@@ -1270,7 +1270,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23209",
@@ -2222,8 +2222,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -2254,7 +2256,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "arthouse:2306529",
@@ -2284,7 +2286,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -2739,8 +2741,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": true,
      "screenings": [
       {
@@ -2771,7 +2775,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "a-bicyclette-ride-away-2025",
@@ -3537,7 +3541,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3336752",
@@ -5282,7 +5286,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3336856",
@@ -6539,7 +6543,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3337240",
@@ -7369,7 +7373,7 @@
      "curated_reasons": [
       "one venue"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2306916",
@@ -7550,7 +7554,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2306913",
