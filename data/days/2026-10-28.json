@@ -3385,36 +3385,6 @@
        "curated": false
       },
       {
-       "id": "arthouse:2302957",
-       "start": "2026-10-28T18:10+01:00",
-       "time": "18:10",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302957",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
        "id": "arthouse:2302956",
        "start": "2026-10-28T20:20+01:00",
        "time": "20:20",
@@ -3656,66 +3626,6 @@
       }
      ],
      "film_slug": "111-echoes-from-halifax-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Ojczyzna (Fatherland)",
-     "venue_title": "Vaterland",
-     "subtitle": null,
-     "original_title": "Ojczyzna",
-     "english_title": "Fatherland",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/vaterland",
-     "directors": [
-      "Pawel Pawlikowski"
-     ],
-     "year": 2026,
-     "runtime_min": 82,
-     "country": "Deutschland",
-     "program_films": [],
-     "tmdb_id": 1437696,
-     "tmdb_kind": "movie",
-     "original_language": "pl",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2303008",
-       "start": "2026-10-28T18:20+01:00",
-       "time": "18:20",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2303008",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "ojczyzna-fatherland-2026",
      "series_slugs": {}
     }
    ]

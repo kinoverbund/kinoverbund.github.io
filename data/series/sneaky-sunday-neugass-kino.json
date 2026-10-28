@@ -507,6 +507,81 @@
    ]
   },
   {
+   "title": "Du fioul dans les artères (Flesh & Fuel)",
+   "venue_title": "Flesh & Fuel",
+   "subtitle": null,
+   "original_title": "Du fioul dans les artères",
+   "english_title": "Flesh & Fuel",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/flesh-fuel.html",
+   "directors": [
+    "Pierre le Gall"
+   ],
+   "year": 2026,
+   "runtime_min": 91,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1084814,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-13",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2309984",
+       "start": "2026-12-13T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/flesh-fuel.html?city=zurich&show=2309984#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
    "title": "The Debut",
    "venue_title": "The Debut",
    "subtitle": null,
