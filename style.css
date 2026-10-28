@@ -872,6 +872,10 @@ button { font: inherit; color: inherit; }
   letter-spacing: -0.035em;
   line-height: 0.95;
 }
+/* Inline, not the inline-block of other venue names: an inline-block's baseline is its last
+   line, and Safari sizes the baseline-aligned row for the first, so a two-line name ran
+   into the next row. The padding still widens the tap target. */
+.venue-list .venue-name a { display: inline; margin-block: 0; }
 .venue-row-place { grid-column: 1 / -1; margin-top: 8px; color: var(--ink-2); overflow-wrap: anywhere; }
 .venue-row-operator { display: block; }
 .venue-row-figure { grid-column: 2; grid-row: 1; display: grid; justify-items: end; text-align: right; }

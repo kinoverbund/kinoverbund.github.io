@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T01:01:50+01:00",
+ "generated_at": "2026-10-28T02:01:41+01:00",
  "today": "2026-10-28",
  "days": [
   {
@@ -503,31 +503,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-27T23:53:18+00:00"
+   "run_at": "2026-10-28T00:53:17+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-10-27T23:54:18+00:00"
+   "run_at": "2026-10-28T00:54:16+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-27T23:55:56+00:00"
+   "run_at": "2026-10-28T00:55:54+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-28T00:00:20+00:00"
+   "run_at": "2026-10-28T01:00:15+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-28T00:00:22+00:00"
+   "run_at": "2026-10-28T01:00:19+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-28T00:00:26+00:00"
+   "run_at": "2026-10-28T01:00:20+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-28T00:01:45+00:00"
+   "run_at": "2026-10-28T01:01:36+00:00"
   }
  },
  "venues": [
@@ -589,7 +589,7 @@
    "slug": "arthouse-le-paris",
    "name": "Arthouse Le Paris",
    "operator": "Arthouse",
-   "address": null,
+   "address": "Gottfried-Keller-Strasse 7, 8001 Zürich",
    "website": "https://arthouse.ch",
    "formats": [
     "dcp"
@@ -677,8 +677,8 @@
    "sources": [
     "arthouse"
    ],
-   "instagram": null,
-   "since": null,
+   "instagram": "https://www.instagram.com/arthousekinos",
+   "since": 1963,
    "series": [
     {
      "name": "LunchKino",
@@ -698,7 +698,7 @@
    "slug": "arthouse-movie",
    "name": "Arthouse Movie",
    "operator": "Arthouse",
-   "address": null,
+   "address": "Nägelihof 4, 8001 Zürich",
    "website": "https://arthouse.ch",
    "formats": [
     "dcp"
@@ -752,8 +752,8 @@
    "sources": [
     "arthouse"
    ],
-   "instagram": null,
-   "since": null,
+   "instagram": "https://www.instagram.com/arthousekinos",
+   "since": 1977,
    "series": [
     {
      "name": "Arthouse Kult",
@@ -791,7 +791,7 @@
    "slug": "arthouse-piccadilly",
    "name": "Arthouse Piccadilly",
    "operator": "Arthouse",
-   "address": null,
+   "address": "Mühlebachstrasse 2, 8008 Zürich",
    "website": "https://arthouse.ch",
    "formats": [
     "dcp"
@@ -863,8 +863,8 @@
    "sources": [
     "arthouse"
    ],
-   "instagram": null,
-   "since": null,
+   "instagram": "https://www.instagram.com/arthousekinos",
+   "since": 1929,
    "series": [
     {
      "name": "Cinépassion",
