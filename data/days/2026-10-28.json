@@ -2960,158 +2960,6 @@
    "address": null,
    "listings": [
     {
-     "title": "Wenn die Erinnerung verblasst",
-     "venue_title": "Wenn die Erinnerung verblasst",
-     "subtitle": null,
-     "original_title": "Wenn die Erinnerung verblasst",
-     "english_title": "Wenn die Erinnerung verblasst",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
-     "directors": [
-      "Marianne Pletscher, Martina Rieder"
-     ],
-     "year": 2026,
-     "runtime_min": 80,
-     "country": "Schweiz",
-     "program_films": [],
-     "tmdb_id": 1796579,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2302869",
-       "start": "2026-10-28T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302869",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2302870",
-       "start": "2026-10-28T18:40+01:00",
-       "time": "18:40",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302870",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "wenn-die-erinnerung-verblasst-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "نجوم الأمل و الألم (A Sad and Beautiful World)",
-     "venue_title": "A Sad and Beautiful World",
-     "subtitle": null,
-     "original_title": "نجوم الأمل و الألم",
-     "english_title": "A Sad and Beautiful World",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/a-sad-and-beautiful-world",
-     "directors": [
-      "Cyril Aris"
-     ],
-     "year": 2025,
-     "runtime_min": 110,
-     "country": "Libanon",
-     "program_films": [],
-     "tmdb_id": 1376838,
-     "tmdb_kind": "movie",
-     "original_language": "ar",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2302871",
-       "start": "2026-10-28T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302871",
-       "language": {
-        "raw": "Arab/d,f",
-        "description": "Arabic; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ],
-     "film_slug": "a-sad-and-beautiful-world-2025",
-     "series_slugs": {}
-    },
-    {
      "title": "NAZA",
      "venue_title": "NAZA",
      "subtitle": null,
@@ -3351,6 +3199,66 @@
       }
      ],
      "film_slug": "cinque-secondi-five-seconds-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Wenn die Erinnerung verblasst",
+     "venue_title": "Wenn die Erinnerung verblasst",
+     "subtitle": null,
+     "original_title": "Wenn die Erinnerung verblasst",
+     "english_title": "Wenn die Erinnerung verblasst",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
+     "directors": [
+      "Marianne Pletscher, Martina Rieder"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1796579,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2302870",
+       "start": "2026-10-28T18:40+01:00",
+       "time": "18:40",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302870",
+       "language": {
+        "raw": "Ov/d",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "wenn-die-erinnerung-verblasst-2026",
      "series_slugs": {}
     },
     {

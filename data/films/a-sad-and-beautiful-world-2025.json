@@ -28,7 +28,6 @@
     "one venue"
    ],
    "new": true,
-   "film_slug": "a-sad-and-beautiful-world-2025",
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
@@ -78,41 +77,6 @@
         "Movie 2"
        ],
        "ticket_url": "https://arthouse.ch/tickets/2302751",
-       "language": {
-        "raw": "Arab/d,f",
-        "description": "Arabic; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "arthouse:2302871",
-       "start": "2026-10-28T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302871",
        "language": {
         "raw": "Arab/d,f",
         "description": "Arabic; subtitles: German, French",
