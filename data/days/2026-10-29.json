@@ -2070,160 +2070,6 @@
    "address": null,
    "listings": [
     {
-     "title": "Cinque secondi (Five Seconds)",
-     "venue_title": "Cinque secondi",
-     "subtitle": null,
-     "original_title": "Cinque secondi",
-     "english_title": "Five Seconds",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/cinque-secondi",
-     "directors": [
-      "Paolo Virzi"
-     ],
-     "year": 2026,
-     "runtime_min": 106,
-     "country": "Italien",
-     "program_films": [],
-     "tmdb_id": 1368519,
-     "tmdb_kind": "movie",
-     "original_language": "it",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2306568",
-       "start": "2026-10-29T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306568",
-       "language": {
-        "raw": "I/d,f",
-        "description": "Italian; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ],
-     "film_slug": "cinque-secondi-five-seconds-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Wenn die Erinnerung verblasst",
-     "venue_title": "Wenn die Erinnerung verblasst",
-     "subtitle": null,
-     "original_title": "Wenn die Erinnerung verblasst",
-     "english_title": "Wenn die Erinnerung verblasst",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
-     "directors": [
-      "Marianne Pletscher, Martina Rieder"
-     ],
-     "year": 2026,
-     "runtime_min": 80,
-     "country": "Schweiz",
-     "program_films": [],
-     "tmdb_id": 1796579,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2306536",
-       "start": "2026-10-29T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306536",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
-       "id": "arthouse:2306529",
-       "start": "2026-10-29T17:00+01:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306529",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ],
-     "film_slug": "wenn-die-erinnerung-verblasst-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "NAZA",
      "venue_title": "NAZA",
      "subtitle": null,
@@ -2371,6 +2217,68 @@
       }
      ],
      "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Wenn die Erinnerung verblasst",
+     "venue_title": "Wenn die Erinnerung verblasst",
+     "subtitle": null,
+     "original_title": "Wenn die Erinnerung verblasst",
+     "english_title": "Wenn die Erinnerung verblasst",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
+     "directors": [
+      "Marianne Pletscher, Martina Rieder"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1796579,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2306529",
+       "start": "2026-10-29T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2306529",
+       "language": {
+        "raw": "Ov/d",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "wenn-die-erinnerung-verblasst-2026",
      "series_slugs": {}
     },
     {
@@ -2531,188 +2439,6 @@
    "address": null,
    "listings": [
     {
-     "title": "Queen at Sea",
-     "venue_title": "Queen at Sea",
-     "subtitle": null,
-     "original_title": "Queen at Sea",
-     "english_title": "Queen at Sea",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/queen-at-sea",
-     "directors": [
-      "Lance Hammer"
-     ],
-     "year": 2026,
-     "runtime_min": 121,
-     "country": "Grossbritannien",
-     "program_films": [],
-     "tmdb_id": 1021848,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2306512",
-       "start": "2026-10-29T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306512",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2306499",
-       "start": "2026-10-29T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306499",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2306497",
-       "start": "2026-10-29T20:20+01:00",
-       "time": "20:20",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306497",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "queen-at-sea-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "À bicyclette ! (Ride Away)",
-     "venue_title": "À bicyclette !",
-     "subtitle": null,
-     "original_title": "À bicyclette !",
-     "english_title": "Ride Away",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/a-bicyclette",
-     "directors": [
-      "Mathias Mlekuz"
-     ],
-     "year": 2025,
-     "runtime_min": 88,
-     "country": "Frankreich",
-     "program_films": [],
-     "tmdb_id": 1321412,
-     "tmdb_kind": "movie",
-     "original_language": "fr",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2306520",
-       "start": "2026-10-29T13:20+01:00",
-       "time": "13:20",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306520",
-       "language": {
-        "raw": "F/d",
-        "description": "French; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ],
-     "film_slug": "a-bicyclette-ride-away-2025",
-     "series_slugs": {}
-    },
-    {
      "title": "Alte Liebe (Love, After All)",
      "venue_title": "Alte Liebe",
      "subtitle": null,
@@ -2860,6 +2586,96 @@
       }
      ],
      "film_slug": "ojczyzna-fatherland-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Queen at Sea",
+     "venue_title": "Queen at Sea",
+     "subtitle": null,
+     "original_title": "Queen at Sea",
+     "english_title": "Queen at Sea",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/queen-at-sea",
+     "directors": [
+      "Lance Hammer"
+     ],
+     "year": 2026,
+     "runtime_min": 121,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1021848,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2306499",
+       "start": "2026-10-29T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2306499",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2306497",
+       "start": "2026-10-29T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2306497",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "queen-at-sea-2026",
      "series_slugs": {}
     },
     {

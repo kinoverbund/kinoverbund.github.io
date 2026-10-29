@@ -341,36 +341,6 @@
      "date": "2026-10-29",
      "screenings": [
       {
-       "id": "arthouse:2306536",
-       "start": "2026-10-29T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306536",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
        "id": "arthouse:2306529",
        "start": "2026-10-29T17:00+01:00",
        "time": "17:00",
