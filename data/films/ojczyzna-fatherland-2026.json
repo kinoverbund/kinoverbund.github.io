@@ -25,100 +25,11 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "ojczyzna-fatherland-2026",
    "series_slugs": {},
    "venue": "Arthouse Le Paris",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "arthouse:2302667",
-       "start": "2026-10-22T14:45+02:00",
-       "time": "14:45",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2302667",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2302669",
-       "start": "2026-10-22T16:45+02:00",
-       "time": "16:45",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2302669",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2302671",
-       "start": "2026-10-22T18:45+02:00",
-       "time": "18:45",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2302671",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-23",
      "screenings": [
@@ -628,131 +539,6 @@
    "series_slugs": {},
    "venue": "Houdini",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2303143",
-       "start": "2026-10-22T15:00+02:00",
-       "time": "15:00",
-       "auditoriums": [
-        "Houdini 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2303143#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2303144",
-       "start": "2026-10-22T17:00+02:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Houdini 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2303144#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2303145",
-       "start": "2026-10-22T19:00+02:00",
-       "time": "19:00",
-       "auditoriums": [
-        "Houdini 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2303145#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2303142",
-       "start": "2026-10-22T21:10+02:00",
-       "time": "21:10",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2303142#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-23",
      "screenings": [
@@ -2320,41 +2106,6 @@
    "venue": "KINOKONI Zürich",
    "dates": [
     {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9672",
-       "start": "2026-10-22T17:50+02:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9672/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-23",
      "screenings": [
       {
@@ -2795,7 +2546,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "ojczyzna-fatherland-2026",
    "series_slugs": {},
    "venue": "Arthouse Piccadilly",
@@ -3071,7 +2822,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "ojczyzna-fatherland-2026",
    "series_slugs": {},
    "venue": "Arthouse Movie",

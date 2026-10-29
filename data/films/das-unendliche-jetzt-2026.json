@@ -31,41 +31,6 @@
    "venue": "Riffraff",
    "dates": [
     {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2302093",
-       "start": "2026-10-22T14:30+02:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Riffraff 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/das-unendliche-jetzt.html?city=zurich&show=2302093#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-23",
      "screenings": [
       {
@@ -550,7 +515,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "das-unendliche-jetzt-2026",
    "series_slugs": {
     "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"

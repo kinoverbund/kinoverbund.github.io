@@ -8,6 +8,72 @@
    "original_title": "Digger",
    "english_title": "Digger",
    "kind": "film",
+   "film_url": "https://arthouse.ch/movies/digger",
+   "directors": [
+    "Alejandro Gonzáles Inarritu"
+   ],
+   "year": 2026,
+   "runtime_min": 129,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 1248832,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "digger-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-10-23",
+     "screenings": [
+      {
+       "id": "arthouse:2302805",
+       "start": "2026-10-23T13:10+02:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2302805",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digger",
+   "venue_title": "Digger",
+   "subtitle": null,
+   "original_title": "Digger",
+   "english_title": "Digger",
+   "kind": "film",
    "film_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html",
    "directors": [
     "Alejandro G. Iñárritu"
@@ -30,71 +96,6 @@
    "series_slugs": {},
    "venue": "Riffraff",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2302095",
-       "start": "2026-10-22T15:50+02:00",
-       "time": "15:50",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2302095#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2302094",
-       "start": "2026-10-22T20:40+02:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2302094#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-23",
      "screenings": [
@@ -942,41 +943,6 @@
    "venue": "Arena Sihlcity",
    "dates": [
     {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "arena:22707",
-       "start": "2026-10-22T17:50+02:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Saal 1"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22707&fid=1021883",
-       "language": {
-        "raw": "EN/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-23",
      "screenings": [
       {
@@ -1217,41 +1183,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9678",
-       "start": "2026-10-22T20:10+02:00",
-       "time": "20:10",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9678/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-23",
      "screenings": [
@@ -1698,41 +1629,6 @@
    "series_slugs": {},
    "venue": "blue Corso",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "bluecinema:3333603",
-       "start": "2026-10-22T20:15+02:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333603/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-23",
      "screenings": [
@@ -2197,72 +2093,6 @@
    "original_title": "Digger",
    "english_title": "Digger",
    "kind": "film",
-   "film_url": "https://arthouse.ch/movies/digger",
-   "directors": [
-    "Alejandro Gonzáles Inarritu"
-   ],
-   "year": 2026,
-   "runtime_min": 129,
-   "country": "USA",
-   "program_films": [],
-   "tmdb_id": 1248832,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": true,
-   "film_slug": "digger-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Movie",
-   "dates": [
-    {
-     "date": "2026-10-23",
-     "screenings": [
-      {
-       "id": "arthouse:2302805",
-       "start": "2026-10-23T13:10+02:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302805",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Digger",
-   "venue_title": "Digger",
-   "subtitle": null,
-   "original_title": "Digger",
-   "english_title": "Digger",
-   "kind": "film",
    "film_url": "https://www.bluecinema.ch/de/movies/3142307?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
    "directors": [
     "Alejandro González Iñárritu"
@@ -2381,7 +2211,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "digger-2026",
    "series_slugs": {},
    "venue": "Arthouse Piccadilly",

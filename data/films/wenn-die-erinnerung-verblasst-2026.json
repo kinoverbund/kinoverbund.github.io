@@ -27,76 +27,11 @@
    "curated_reasons": [
     "one venue"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "wenn-die-erinnerung-verblasst-2026",
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "arthouse:2302741",
-       "start": "2026-10-22T13:00+02:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302741",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
-       "id": "arthouse:2302744",
-       "start": "2026-10-22T18:40+02:00",
-       "time": "18:40",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302744",
-       "language": {
-        "raw": "Ov/d",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
     {
      "date": "2026-10-23",
      "screenings": [

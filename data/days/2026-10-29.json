@@ -1972,7 +1972,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306487",
@@ -2039,7 +2039,7 @@
      "curated_reasons": [
       "one venue"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306529",
@@ -2099,7 +2099,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306528",
@@ -2159,7 +2159,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306525",
@@ -2226,7 +2226,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306517",
@@ -2286,7 +2286,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306504",
@@ -2346,7 +2346,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306499",
@@ -2406,7 +2406,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2306513",
@@ -3889,7 +3889,6 @@
        "curated": true
       }
      ],
-     "film_slug": "poltergeist-1982",
      "series_slugs": {
       "Halloweek": "halloweek-blue-cinema"
      }
@@ -8628,7 +8627,6 @@
        "curated": true
       }
      ],
-     "film_slug": "imagine-peace-2025",
      "series_slugs": {}
     },
     {
@@ -8694,7 +8692,6 @@
        "curated": true
       }
      ],
-     "film_slug": "yugo-ide-u-ameriku-yugo-goes-to-america-2026",
      "series_slugs": {}
     }
    ]

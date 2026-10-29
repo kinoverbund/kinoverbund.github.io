@@ -27,45 +27,10 @@
    "curated_reasons": [
     "one venue"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "arthouse:2302751",
-       "start": "2026-10-22T13:10+02:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302751",
-       "language": {
-        "raw": "Arab/d,f",
-        "description": "Arabic; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
     {
      "date": "2026-11-01",
      "screenings": [
@@ -94,7 +59,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": true

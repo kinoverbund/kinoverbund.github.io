@@ -27,46 +27,11 @@
    "curated_reasons": [
     "one venue"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "cinque-secondi-five-seconds-2026",
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-10-22",
-     "screenings": [
-      {
-       "id": "arthouse:2302729",
-       "start": "2026-10-22T16:40+02:00",
-       "time": "16:40",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302729",
-       "language": {
-        "raw": "I/d,f",
-        "description": "Italian; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
     {
      "date": "2026-10-23",
      "screenings": [
