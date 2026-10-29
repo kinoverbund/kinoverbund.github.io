@@ -2070,156 +2070,6 @@
    "address": null,
    "listings": [
     {
-     "title": "NAZA",
-     "venue_title": "NAZA",
-     "subtitle": null,
-     "original_title": "NAZA",
-     "english_title": "NAZA",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/naza",
-     "directors": [
-      "Rachel Szor, Yuval Abraham"
-     ],
-     "year": 2026,
-     "runtime_min": 80,
-     "country": "Grossbritannien",
-     "program_films": [],
-     "tmdb_id": 1755291,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2306532",
-       "start": "2026-10-29T15:10+01:00",
-       "time": "15:10",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306532",
-       "language": {
-        "raw": "Ov/d/e",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2306528",
-       "start": "2026-10-29T18:50+01:00",
-       "time": "18:50",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306528",
-       "language": {
-        "raw": "Ov/d/e",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "naza-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Sense and Sensibility",
-     "venue_title": "Sense and Sensibility",
-     "subtitle": null,
-     "original_title": "Sense and Sensibility",
-     "english_title": "Sense and Sensibility",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
-     "directors": [
-      "Georgia Oakley"
-     ],
-     "year": 2026,
-     "runtime_min": 132,
-     "country": "USA",
-     "program_films": [],
-     "tmdb_id": 1503762,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "arthouse:2306555",
-       "start": "2026-10-29T15:20+01:00",
-       "time": "15:20",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2306555",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "sense-and-sensibility-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "Wenn die Erinnerung verblasst",
      "venue_title": "Wenn die Erinnerung verblasst",
      "subtitle": null,
@@ -2369,6 +2219,66 @@
       }
      ],
      "film_slug": "ojczyzna-fatherland-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "NAZA",
+     "venue_title": "NAZA",
+     "subtitle": null,
+     "original_title": "NAZA",
+     "english_title": "NAZA",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/naza",
+     "directors": [
+      "Rachel Szor, Yuval Abraham"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1755291,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2306528",
+       "start": "2026-10-29T18:50+01:00",
+       "time": "18:50",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2306528",
+       "language": {
+        "raw": "Ov/d/e",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "naza-2026",
      "series_slugs": {}
     },
     {

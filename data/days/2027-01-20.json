@@ -1,0 +1,82 @@
+{
+ "date": "2027-01-20",
+ "venues": [
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Club Kid",
+     "venue_title": "Club Kid",
+     "subtitle": null,
+     "original_title": "Club Kid",
+     "english_title": "Club Kid",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/club-kid.html",
+     "directors": [
+      "Jordan Firstman"
+     ],
+     "year": 2026,
+     "runtime_min": 126,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1585239,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [
+      "Queer Things"
+     ],
+     "labels": [
+      "Queer Things"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310088",
+       "start": "2027-01-20T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/club-kid.html?city=zurich&show=2310088#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Queer Things"
+       ],
+       "label": "Queer Things",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "club-kid-2026",
+     "series_slugs": {
+      "Queer Things": "queer-things-neugass-kino"
+     }
+    }
+   ]
+  }
+ ]
+}

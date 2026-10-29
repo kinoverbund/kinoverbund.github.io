@@ -947,6 +947,83 @@
      "series_slugs": {}
     }
    ]
+  },
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Carol",
+     "venue_title": "Carol",
+     "subtitle": null,
+     "original_title": "Carol",
+     "english_title": "Carol",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/carol.html",
+     "directors": [
+      "Todd Haynes"
+     ],
+     "year": 2015,
+     "runtime_min": 118,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 258480,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [
+      "Queer Things"
+     ],
+     "labels": [
+      "Queer Things"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310100",
+       "start": "2026-12-16T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/carol.html?city=zurich&show=2310100#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Queer Things"
+       ],
+       "label": "Queer Things",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Queer Things": "queer-things-neugass-kino"
+     }
+    }
+   ]
   }
  ]
 }
