@@ -206,6 +206,75 @@
      ],
      "film_slug": "you-can-see-everything-2026",
      "series_slugs": {}
+    },
+    {
+     "title": "Minotaure (Minotaur)",
+     "venue_title": "Minotaur",
+     "subtitle": null,
+     "original_title": "Minotaure",
+     "english_title": "Minotaur",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/minotaur.html",
+     "directors": [
+      "Andrey Zvyagintsev"
+     ],
+     "year": 2026,
+     "runtime_min": 135,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 848700,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "riffraff_houdini",
+     "series": [
+      "Sneaky Sunday"
+     ],
+     "labels": [
+      "Sneaky Sunday"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310299",
+       "start": "2026-12-06T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/minotaur.html?city=zurich&show=2310299#tickets",
+       "language": {
+        "raw": "ru/de,fr",
+        "description": "Russian; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+     }
     }
    ]
   }

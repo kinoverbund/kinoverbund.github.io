@@ -507,6 +507,81 @@
    ]
   },
   {
+   "title": "Minotaure (Minotaur)",
+   "venue_title": "Minotaur",
+   "subtitle": null,
+   "original_title": "Minotaure",
+   "english_title": "Minotaur",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/minotaur.html",
+   "directors": [
+    "Andrey Zvyagintsev"
+   ],
+   "year": 2026,
+   "runtime_min": 135,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 848700,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-06",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310299",
+       "start": "2026-12-06T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/minotaur.html?city=zurich&show=2310299#tickets",
+       "language": {
+        "raw": "ru/de,fr",
+        "description": "Russian; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
    "title": "Du fioul dans les artères (Flesh & Fuel)",
    "venue_title": "Flesh & Fuel",
    "subtitle": null,
@@ -553,6 +628,156 @@
         "Riffraff 1"
        ],
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/flesh-fuel.html?city=zurich&show=2309984#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Coward",
+   "venue_title": "Coward",
+   "subtitle": null,
+   "original_title": "Coward",
+   "english_title": "Coward",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/coward.html",
+   "directors": [
+    "Lukas Dhont"
+   ],
+   "year": 2026,
+   "runtime_min": 127,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1437981,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-20",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310256",
+       "start": "2026-12-20T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/coward.html?city=zurich&show=2310256#tickets",
+       "language": {
+        "raw": "fr/de",
+        "description": "French; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Fjord",
+   "venue_title": "Fjord",
+   "subtitle": null,
+   "original_title": "Fjord",
+   "english_title": "Fjord",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/fjord.html",
+   "directors": [
+    "Cristian Mungiu"
+   ],
+   "year": 2026,
+   "runtime_min": 146,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1401459,
+   "tmdb_kind": "movie",
+   "original_language": "ro",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-27",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310287",
+       "start": "2026-12-27T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/fjord.html?city=zurich&show=2310287#tickets",
        "language": {
         "raw": "ov/de,fr",
         "description": "Original version; subtitles: German, French",
