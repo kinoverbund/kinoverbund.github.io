@@ -4401,11 +4401,15 @@
      "tmdb_kind": "movie",
      "original_language": "en",
      "source": "bluecinema",
-     "series": [],
+     "series": [
+      "Halloweek Family"
+     ],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
      "new": false,
      "screenings": [
       {
@@ -4431,12 +4435,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336892",
@@ -4461,12 +4467,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336871",
@@ -4491,12 +4499,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336866",
@@ -4521,12 +4531,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336870",
@@ -4551,16 +4563,20 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "shaun-the-sheep-the-beast-of-mossy-bottom-2026",
-     "series_slugs": {}
+     "series_slugs": {
+      "Halloweek Family": "halloweek-family-blue-cinema"
+     }
     },
     {
      "title": "Emil und die Detektive (Emil and the Detectives)",
@@ -4671,11 +4687,15 @@
      "tmdb_kind": "movie",
      "original_language": "de",
      "source": "bluecinema",
-     "series": [],
+     "series": [
+      "Halloweek Family"
+     ],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
      "new": false,
      "screenings": [
       {
@@ -4701,12 +4721,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3335848",
@@ -4731,16 +4753,20 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
-     "series_slugs": {}
+     "series_slugs": {
+      "Halloweek Family": "halloweek-family-blue-cinema"
+     }
     },
     {
      "title": "Resident Evil",
@@ -4979,11 +5005,15 @@
      "tmdb_kind": "movie",
      "original_language": "en",
      "source": "bluecinema",
-     "series": [],
+     "series": [
+      "Halloweek Family"
+     ],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
      "new": false,
      "screenings": [
       {
@@ -5012,12 +5042,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336363",
@@ -5045,12 +5077,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336389",
@@ -5075,12 +5109,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336482",
@@ -5105,16 +5141,20 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "minions-monsters-2026",
-     "series_slugs": {}
+     "series_slugs": {
+      "Halloweek Family": "halloweek-family-blue-cinema"
+     }
     },
     {
      "title": "Der perfekte Urlaub (The Perfect Holiday)",
@@ -5678,11 +5718,15 @@
      "tmdb_kind": "movie",
      "original_language": "en",
      "source": "bluecinema",
-     "series": [],
+     "series": [
+      "Halloweek Family"
+     ],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
      "new": false,
      "screenings": [
       {
@@ -5708,12 +5752,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336368",
@@ -5738,12 +5784,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3336262",
@@ -5771,16 +5819,20 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "forgotten-island-2026",
-     "series_slugs": {}
+     "series_slugs": {
+      "Halloweek Family": "halloweek-family-blue-cinema"
+     }
     },
     {
      "title": "Practical Magic 2",

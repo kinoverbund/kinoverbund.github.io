@@ -1603,14 +1603,18 @@
    "tmdb_kind": "movie",
    "original_language": "de",
    "source": "bluecinema",
-   "series": [],
+   "series": [
+    "Halloweek Family"
+   ],
    "labels": [],
    "english": false,
    "curated": false,
    "curated_reasons": [],
    "new": false,
    "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
-   "series_slugs": {},
+   "series_slugs": {
+    "Halloweek Family": "halloweek-family-blue-cinema"
+   },
    "venue": "blue Abaton",
    "dates": [
     {
@@ -2009,12 +2013,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       },
       {
        "id": "bluecinema:3335848",
@@ -2039,12 +2045,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Halloweek Family"
+       ],
        "label": null,
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ]
     },
