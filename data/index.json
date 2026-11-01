@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-10-31T04:40:57+01:00",
- "today": "2026-10-31",
+ "generated_at": "2026-11-01T04:40:45+01:00",
+ "today": "2026-11-01",
  "days": [
-  {
-   "date": "2026-10-24",
-   "screenings": 253,
-   "english": 94,
-   "curated": 24,
-   "film": 0
-  },
   {
    "date": "2026-10-25",
    "screenings": 246,
@@ -340,9 +333,9 @@
   },
   {
    "date": "2026-12-15",
-   "screenings": 7,
+   "screenings": 8,
    "english": 7,
-   "curated": 6,
+   "curated": 7,
    "film": 0
   },
   {
@@ -361,16 +354,16 @@
   },
   {
    "date": "2026-12-18",
-   "screenings": 22,
-   "english": 15,
-   "curated": 1,
+   "screenings": 23,
+   "english": 16,
+   "curated": 2,
    "film": 0
   },
   {
    "date": "2026-12-19",
-   "screenings": 22,
-   "english": 16,
-   "curated": 0,
+   "screenings": 23,
+   "english": 17,
+   "curated": 1,
    "film": 0
   },
   {
@@ -503,31 +496,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-10-31T03:32:08+00:00"
+   "run_at": "2026-11-01T03:32:05+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-10-31T03:33:07+00:00"
+   "run_at": "2026-11-01T03:33:01+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-10-31T03:34:51+00:00"
+   "run_at": "2026-11-01T03:34:36+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-10-31T03:39:26+00:00"
+   "run_at": "2026-11-01T03:38:52+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-10-31T03:39:29+00:00"
+   "run_at": "2026-11-01T03:38:55+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-10-31T03:39:33+00:00"
+   "run_at": "2026-11-01T03:38:59+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-10-31T03:40:52+00:00"
+   "run_at": "2026-11-01T03:40:14+00:00"
   }
  },
  "venues": [
@@ -543,7 +536,6 @@
     "onyx"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -558,7 +550,6 @@
     "2026-11-14"
    ],
    "screenings": {
-    "2026-10-24": 76,
     "2026-10-25": 76,
     "2026-10-26": 50,
     "2026-10-27": 50,
@@ -589,7 +580,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -626,7 +616,6 @@
     "2026-12-09"
    ],
    "screenings": {
-    "2026-10-24": 4,
     "2026-10-25": 4,
     "2026-10-26": 4,
     "2026-10-27": 4,
@@ -692,7 +681,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -712,7 +700,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-10-24": 6,
     "2026-10-25": 6,
     "2026-10-26": 6,
     "2026-10-27": 6,
@@ -779,7 +766,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -808,7 +794,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-10-24": 7,
     "2026-10-25": 5,
     "2026-10-26": 5,
     "2026-10-27": 5,
@@ -843,16 +828,16 @@
    "since": 1929,
    "series": [
     {
-     "name": "Cinépassion",
-     "slug": "cinepassion-arthouse",
-     "first": "2026-10-24",
-     "last": "2027-06-19"
-    },
-    {
      "name": "Special Screening mit Cast & Crew",
      "slug": "special-screening-mit-cast-crew-arthouse",
      "first": "2026-11-01",
      "last": "2026-11-25"
+    },
+    {
+     "name": "Cinépassion",
+     "slug": "cinepassion-arthouse",
+     "first": "2026-11-14",
+     "last": "2027-06-19"
     },
     {
      "name": "Kunsthaus: Maria Lassnig & Edvard Munch",
@@ -876,7 +861,6 @@
     "infinity-vision"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -903,7 +887,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-24": 53,
     "2026-10-25": 45,
     "2026-10-26": 33,
     "2026-10-27": 35,
@@ -983,7 +966,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -997,7 +979,6 @@
     "2026-11-04"
    ],
    "screenings": {
-    "2026-10-24": 23,
     "2026-10-25": 23,
     "2026-10-26": 23,
     "2026-10-27": 23,
@@ -1040,7 +1021,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -1064,7 +1044,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-24": 12,
     "2026-10-25": 12,
     "2026-10-26": 12,
     "2026-10-27": 11,
@@ -1104,7 +1083,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -1128,7 +1106,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-24": 6,
     "2026-10-25": 6,
     "2026-10-26": 6,
     "2026-10-27": 6,
@@ -1217,7 +1194,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -1239,7 +1215,6 @@
     "2026-12-15"
    ],
    "screenings": {
-    "2026-10-24": 25,
     "2026-10-25": 24,
     "2026-10-26": 25,
     "2026-10-27": 25,
@@ -1269,7 +1244,7 @@
     {
      "name": "The Ones We Love",
      "slug": "the-ones-we-love-neugass-kino",
-     "first": "2026-10-24",
+     "first": "2026-10-25",
      "last": "2026-12-02"
     }
    ]
@@ -1284,7 +1259,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -1318,7 +1292,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-24": 18,
     "2026-10-25": 20,
     "2026-10-26": 12,
     "2026-10-27": 11,
@@ -1399,7 +1372,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -1436,7 +1408,10 @@
     "2026-12-08",
     "2026-12-09",
     "2026-12-13",
+    "2026-12-15",
     "2026-12-16",
+    "2026-12-18",
+    "2026-12-19",
     "2026-12-20",
     "2026-12-27",
     "2027-01-17",
@@ -1445,7 +1420,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-10-24": 20,
     "2026-10-25": 21,
     "2026-10-26": 16,
     "2026-10-27": 17,
@@ -1482,7 +1456,10 @@
     "2026-12-08": 2,
     "2026-12-09": 3,
     "2026-12-13": 1,
+    "2026-12-15": 1,
     "2026-12-16": 1,
+    "2026-12-18": 1,
+    "2026-12-19": 1,
     "2026-12-20": 1,
     "2026-12-27": 1,
     "2027-01-17": 1,
@@ -1528,7 +1505,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-10-24",
     "2026-10-25",
     "2026-10-26",
     "2026-10-27",
@@ -1570,7 +1546,6 @@
     "2026-12-02"
    ],
    "screenings": {
-    "2026-10-24": 3,
     "2026-10-25": 4,
     "2026-10-26": 2,
     "2026-10-27": 2,
@@ -1618,18 +1593,6 @@
    "since": 1980,
    "series": [
     {
-     "name": "Gastveranstaltungen",
-     "slug": "gastveranstaltungen-xenix",
-     "first": "2026-10-24",
-     "last": "2026-10-24"
-    },
-    {
-     "name": "Schöner wohnen! – Geschichten der Gentrifizierung",
-     "slug": "schoner-wohnen-geschichten-der-gentrifizierung-xenix",
-     "first": "2026-10-24",
-     "last": "2026-10-28"
-    },
-    {
      "name": "Dokfilm am Sonntag",
      "slug": "dokfilm-am-sonntag-xenix",
      "first": "2026-10-25",
@@ -1646,6 +1609,12 @@
      "slug": "robert-kramer-xenix",
      "first": "2026-10-25",
      "last": "2026-10-25"
+    },
+    {
+     "name": "Schöner wohnen! – Geschichten der Gentrifizierung",
+     "slug": "schoner-wohnen-geschichten-der-gentrifizierung-xenix",
+     "first": "2026-10-25",
+     "last": "2026-10-28"
     },
     {
      "name": "Paul Mescal",
@@ -1719,7 +1688,6 @@
   "HALLOWEEN im Arthouse Movie": "halloween-im-arthouse-movie-arthouse",
   "Halloweek Family": "halloweek-family-blue-cinema",
   "Halloweek": "halloweek-blue-cinema",
-  "Gastveranstaltungen": "gastveranstaltungen-xenix",
   "Gastveranstaltung": "gastveranstaltung-xenix",
   "Double Feature «Halloween»": "double-feature-halloween-xenix",
   "Double Feature «Blood & Sand»": "double-feature-blood-sand-xenix",
@@ -1745,7 +1713,6 @@
    "double-feature-blood-sand-xenix",
    "double-feature-halloween-xenix",
    "gastveranstaltung-xenix",
-   "gastveranstaltungen-xenix",
    "halloweek-blue-cinema",
    "halloweek-family-blue-cinema",
    "halloween-im-arthouse-movie-arthouse",
@@ -1777,7 +1744,6 @@
    "111-echoes-from-halifax-2026",
    "2001-a-space-odyssey-1968",
    "a-bicyclette-ride-away-2025",
-   "a-nightmare-on-elm-street-1984",
    "a-sad-and-beautiful-world-2025",
    "a-talent-for-murder-2026",
    "aftersun-2022",
@@ -1803,7 +1769,6 @@
    "carol-2015",
    "cinque-secondi-five-seconds-2026",
    "clayface-2026",
-   "clearcut-1991",
    "club-kid-2026",
    "cocorico-2-2026",
    "corpus-delicti-2026",
@@ -1841,7 +1806,6 @@
    "gladiator-2000",
    "gladiator-ii-2024",
    "god-s-creatures-2022",
-   "halloween-1978",
    "hamnet-2025",
    "happy-feet-2006",
    "heart-of-the-beast-2026",
@@ -1855,7 +1819,6 @@
    "ingeborg-bachmann-jemand-der-einmal-ich-war-ingeborg-bachmann-someone-who-was-once-me-2026",
    "insidious-out-of-the-further-2026",
    "jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1976",
-   "jim-queen-jim-queen-and-the-quest-for-chloroqueer-2026",
    "kuessipan-2019",
    "kurzfilmprogramm-wo-wir-herkommen",
    "kuzma-extremely-happy-2026",
@@ -1867,6 +1830,7 @@
    "lieblingsmenschen-die-auergewohnliche-freundschaft-von-agnes-amir-agnes-amir-2026",
    "little-bird-2023",
    "lola-rennt-run-lola-run-1998",
+   "look-back-2024",
    "marsupilami-2026",
    "meeting-the-buddha-2026",
    "midnight-cowboy-1969",
@@ -1878,11 +1842,9 @@
    "moscas-flies-2026",
    "mr-nobody-mod-putin-mr-nobody-against-putin-2026",
    "munch-2023",
-   "mutiny-2026",
    "nachbarn-neighbours-2021",
    "nattvardsgasterna-winter-light-1963",
    "naza-2026",
-   "night-of-the-living-dead-2026",
    "no-other-land-2024",
    "normal-people-2020",
    "o-primeiro-siza-the-first-siza-2025",
@@ -1896,7 +1858,6 @@
    "palliativstation-palliative-care-unit-2025",
    "paradies-paradies-paradise-paradise-2016",
    "paw-patrol-the-dino-movie-2026",
-   "practical-magic-2-2026",
    "practicle-dance",
    "pressure-2026",
    "queen-at-sea-2026",
@@ -1921,6 +1882,7 @@
    "strike-1925",
    "strm-nordwarts-zur-freiheit",
    "the-debut-2026",
+   "the-evil-dead-1981",
    "the-history-of-concrete-2026",
    "the-history-of-sound-2025",
    "the-hunger-games-2012",
@@ -1930,11 +1892,9 @@
    "the-hunger-games-sunrise-on-the-reaping-2026",
    "the-hunger-games-the-ballad-of-songbirds-snakes-2023",
    "the-invite-2026",
-   "the-lighthouse-2019",
    "the-loneliest-man-in-town-2026",
    "the-lord-of-the-rings-trilogy-extended-2001",
    "the-lost-daughter-2021",
-   "the-nightmare-before-christmas-1993",
    "the-odyssey-2026",
    "the-rocky-horror-picture-show-1975",
    "the-social-reckoning-2026",
@@ -1943,7 +1903,6 @@
    "tiddler-2024",
    "toy-story-5-2026",
    "train-to-busan-2016",
-   "trick-r-treat-2007",
    "tristan-forever-2026",
    "tschick-goodbye-berlin-2016",
    "una-mujer-fantastica-a-fantastic-woman-2017",
@@ -1966,7 +1925,6 @@
   "Cecelia Ahern am 11. November live in Zürich: Ein Abend voller Liebe und Dublin-Flair": "Cecelia Ahern am 11. November live in Zürich: Ein Abend voller Liebe und Dublin-Flair (Cecelia Ahern live in Zurich on November 11: An evening full of love and Dublin charm)",
   "Dokfilm am Sonntag": "Dokfilm am Sonntag (Documentary on Sunday)",
   "Gastveranstaltung": "Gastveranstaltung (Special Event)",
-  "Gastveranstaltungen": "Gastveranstaltungen (Special Events)",
   "HALLOWEEN im Arthouse Movie": "HALLOWEEN im Arthouse Movie (HALLOWEEN at Arthouse Movie)",
   "Kinderkino": "Kinderkino (Kids' cinema)",
   "Kurdisches Filmfestival Zürich": "Kurdisches Filmfestival Zürich (Kurdish Film Festival Zurich)",

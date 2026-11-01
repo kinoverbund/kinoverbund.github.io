@@ -1,24 +1,24 @@
 {
- "name": "The Lighthouse",
+ "name": "ルックバック (Look Back)",
  "venues": [
   {
-   "title": "The Lighthouse",
-   "venue_title": "The Lighthouse",
+   "title": "ルックバック (Look Back)",
+   "venue_title": "Look Back",
    "subtitle": null,
-   "original_title": "The Lighthouse",
-   "english_title": "The Lighthouse",
+   "original_title": "ルックバック",
+   "english_title": "Look Back",
    "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lighthouse.html",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/look-back.html",
    "directors": [
-    "Robert Eggers"
+    "Kiyotaka Oshiyama"
    ],
-   "year": 2019,
-   "runtime_min": 109,
+   "year": 2024,
+   "runtime_min": 77,
    "country": null,
    "program_films": [],
-   "tmdb_id": 503919,
+   "tmdb_id": 1244492,
    "tmdb_kind": "movie",
-   "original_language": "en",
+   "original_language": "ja",
    "source": "riffraff_houdini",
    "series": [
     "The Ones We Love"
@@ -26,36 +26,35 @@
    "labels": [
     "The Ones We Love"
    ],
-   "english": true,
+   "english": false,
    "curated": true,
    "curated_reasons": [
-    "one venue",
     "rep",
     "special"
    ],
-   "new": false,
+   "new": true,
    "series_slugs": {
     "The Ones We Love": "the-ones-we-love-neugass-kino"
    },
    "venue": "Riffraff",
    "dates": [
     {
-     "date": "2026-10-31",
+     "date": "2026-12-15",
      "screenings": [
       {
-       "id": "riffraff_houdini:2299061",
-       "start": "2026-10-31T23:10+01:00",
-       "time": "23:10",
+       "id": "riffraff_houdini:2310459",
+       "start": "2026-12-15T21:00+01:00",
+       "time": "21:00",
        "auditoriums": [
-        "Riffraff 1"
+        "Riffraff 3"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-lighthouse.html?city=zurich&show=2299061#tickets",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/look-back.html?city=zurich&show=2310459#tickets",
        "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
+        "raw": "ja/de",
+        "description": "Japanese; subtitles: German",
+        "english_audio": false,
         "english_subtitles": false,
-        "english_friendly": true
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -71,7 +70,7 @@
        "label": "The Ones We Love",
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": true
       }
      ]

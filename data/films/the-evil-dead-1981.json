@@ -1,0 +1,119 @@
+{
+ "name": "The Evil Dead",
+ "venues": [
+  {
+   "title": "The Evil Dead",
+   "venue_title": "The Evil Dead",
+   "subtitle": null,
+   "original_title": "The Evil Dead",
+   "english_title": "The Evil Dead",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/the-evil-dead.html",
+   "directors": [
+    "Sam Raimi"
+   ],
+   "year": 1981,
+   "runtime_min": 85,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 764,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "film_slug": "the-evil-dead-1981",
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-18",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310444",
+       "start": "2026-12-18T23:00+01:00",
+       "time": "23:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-evil-dead.html?city=zurich&show=2310444#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-19",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310451",
+       "start": "2026-12-19T23:00+01:00",
+       "time": "23:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-evil-dead.html?city=zurich&show=2310451#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

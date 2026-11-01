@@ -416,6 +416,83 @@
      "series_slugs": {}
     }
    ]
+  },
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "ルックバック (Look Back)",
+     "venue_title": "Look Back",
+     "subtitle": null,
+     "original_title": "ルックバック",
+     "english_title": "Look Back",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/look-back.html",
+     "directors": [
+      "Kiyotaka Oshiyama"
+     ],
+     "year": 2024,
+     "runtime_min": 77,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1244492,
+     "tmdb_kind": "movie",
+     "original_language": "ja",
+     "source": "riffraff_houdini",
+     "series": [
+      "The Ones We Love"
+     ],
+     "labels": [
+      "The Ones We Love"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310459",
+       "start": "2026-12-15T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/look-back.html?city=zurich&show=2310459#tickets",
+       "language": {
+        "raw": "ja/de",
+        "description": "Japanese; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "The Ones We Love": "the-ones-we-love-neugass-kino"
+     }
+    }
+   ]
   }
  ]
 }
