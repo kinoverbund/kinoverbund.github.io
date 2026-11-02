@@ -8,6 +8,957 @@
    "original_title": "Der perfekte Urlaub",
    "english_title": "The Perfect Holiday",
    "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3160856?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
+   "directors": [
+    "Bora Dagtekin"
+   ],
+   "year": 2026,
+   "runtime_min": 126,
+   "country": "Deutschland",
+   "program_films": [],
+   "tmdb_id": 1525072,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
+   "series_slugs": {},
+   "venue": "blue Corso",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3333741",
+       "start": "2026-10-26T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333741/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3333738",
+       "start": "2026-10-26T17:10+01:00",
+       "time": "17:10",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333738/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3333736",
+       "start": "2026-10-26T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333736/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "screenings": [
+      {
+       "id": "bluecinema:3333735",
+       "start": "2026-10-27T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333735/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3333734",
+       "start": "2026-10-27T17:10+01:00",
+       "time": "17:10",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333734/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3333731",
+       "start": "2026-10-28T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333731/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3333730",
+       "start": "2026-10-28T17:10+01:00",
+       "time": "17:10",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333730/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3333728",
+       "start": "2026-10-28T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3333728/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3337554",
+       "start": "2026-10-29T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337554/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337553",
+       "start": "2026-10-29T16:55+01:00",
+       "time": "16:55",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337553/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337540",
+       "start": "2026-10-29T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337540/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3337552",
+       "start": "2026-10-30T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337552/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337551",
+       "start": "2026-10-30T16:55+01:00",
+       "time": "16:55",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337551/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337539",
+       "start": "2026-10-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337539/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3337550",
+       "start": "2026-10-31T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337550/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337549",
+       "start": "2026-10-31T16:55+01:00",
+       "time": "16:55",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337549/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337538",
+       "start": "2026-10-31T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337538/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3337548",
+       "start": "2026-11-01T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337548/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337547",
+       "start": "2026-11-01T16:55+01:00",
+       "time": "16:55",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337547/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337537",
+       "start": "2026-11-01T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337537/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "screenings": [
+      {
+       "id": "bluecinema:3337546",
+       "start": "2026-11-02T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337546/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337545",
+       "start": "2026-11-02T16:55+01:00",
+       "time": "16:55",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337545/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337536",
+       "start": "2026-11-02T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337536/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "screenings": [
+      {
+       "id": "bluecinema:3337544",
+       "start": "2026-11-03T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337544/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337543",
+       "start": "2026-11-03T16:55+01:00",
+       "time": "16:55",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337543/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337535",
+       "start": "2026-11-03T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337535/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "bluecinema:3337542",
+       "start": "2026-11-04T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337542/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337541",
+       "start": "2026-11-04T16:55+01:00",
+       "time": "16:55",
+       "auditoriums": [
+        "Corso 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337541/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3337534",
+       "start": "2026-11-04T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Corso 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3337534/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Der perfekte Urlaub (The Perfect Holiday)",
+   "venue_title": "Der perfekte Urlaub",
+   "subtitle": null,
+   "original_title": "Der perfekte Urlaub",
+   "english_title": "The Perfect Holiday",
+   "kind": "film",
    "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022061",
    "directors": [
     "Bora Dagtekin"
@@ -30,131 +981,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "arena:23151",
-       "start": "2026-10-25T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23151&fid=1022061",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:22895",
-       "start": "2026-10-25T14:30+01:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Saal 3"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22895&fid=1022061",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:22900",
-       "start": "2026-10-25T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Saal 4"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22900&fid=1022061",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "Mega"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:22901",
-       "start": "2026-10-25T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal 4"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22901&fid=1022061",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "Mega"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-26",
      "screenings": [
@@ -1197,167 +2023,6 @@
    "venue": "blue Abaton",
    "dates": [
     {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "bluecinema:3334591",
-       "start": "2026-10-25T11:00+01:00",
-       "time": "11:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334591/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334588",
-       "start": "2026-10-25T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334588/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334610",
-       "start": "2026-10-25T17:00+01:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334610/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334553",
-       "start": "2026-10-25T17:15+01:00",
-       "time": "17:15",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334553/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334584",
-       "start": "2026-10-25T20:45+01:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334584/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-26",
      "screenings": [
       {
@@ -2342,1052 +3007,6 @@
    "original_title": "Der perfekte Urlaub",
    "english_title": "The Perfect Holiday",
    "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3160856?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
-   "directors": [
-    "Bora Dagtekin"
-   ],
-   "year": 2026,
-   "runtime_min": 126,
-   "country": "Deutschland",
-   "program_films": [],
-   "tmdb_id": 1525072,
-   "tmdb_kind": "movie",
-   "original_language": "de",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
-   "series_slugs": {},
-   "venue": "blue Corso",
-   "dates": [
-    {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "bluecinema:3333749",
-       "start": "2026-10-25T14:15+01:00",
-       "time": "14:15",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333749/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333746",
-       "start": "2026-10-25T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333746/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333742",
-       "start": "2026-10-25T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333742/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "screenings": [
-      {
-       "id": "bluecinema:3333741",
-       "start": "2026-10-26T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333741/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333738",
-       "start": "2026-10-26T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333738/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333736",
-       "start": "2026-10-26T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333736/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "bluecinema:3333735",
-       "start": "2026-10-27T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333735/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333734",
-       "start": "2026-10-27T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333734/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "bluecinema:3333731",
-       "start": "2026-10-28T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333731/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333730",
-       "start": "2026-10-28T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333730/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333728",
-       "start": "2026-10-28T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333728/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "screenings": [
-      {
-       "id": "bluecinema:3337554",
-       "start": "2026-10-29T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337554/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337553",
-       "start": "2026-10-29T16:55+01:00",
-       "time": "16:55",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337553/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337540",
-       "start": "2026-10-29T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Corso 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337540/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "screenings": [
-      {
-       "id": "bluecinema:3337552",
-       "start": "2026-10-30T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337552/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337551",
-       "start": "2026-10-30T16:55+01:00",
-       "time": "16:55",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337551/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337539",
-       "start": "2026-10-30T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Corso 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337539/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "screenings": [
-      {
-       "id": "bluecinema:3337550",
-       "start": "2026-10-31T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337550/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337549",
-       "start": "2026-10-31T16:55+01:00",
-       "time": "16:55",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337549/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337538",
-       "start": "2026-10-31T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Corso 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337538/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "screenings": [
-      {
-       "id": "bluecinema:3337548",
-       "start": "2026-11-01T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337548/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337547",
-       "start": "2026-11-01T16:55+01:00",
-       "time": "16:55",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337547/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337537",
-       "start": "2026-11-01T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Corso 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337537/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "screenings": [
-      {
-       "id": "bluecinema:3337546",
-       "start": "2026-11-02T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337546/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337545",
-       "start": "2026-11-02T16:55+01:00",
-       "time": "16:55",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337545/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337536",
-       "start": "2026-11-02T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Corso 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337536/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "screenings": [
-      {
-       "id": "bluecinema:3337544",
-       "start": "2026-11-03T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337544/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337543",
-       "start": "2026-11-03T16:55+01:00",
-       "time": "16:55",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337543/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337535",
-       "start": "2026-11-03T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Corso 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337535/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "bluecinema:3337542",
-       "start": "2026-11-04T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337542/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337541",
-       "start": "2026-11-04T16:55+01:00",
-       "time": "16:55",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337541/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337534",
-       "start": "2026-11-04T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Corso 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337534/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Der perfekte Urlaub (The Perfect Holiday)",
-   "venue_title": "Der perfekte Urlaub",
-   "subtitle": null,
-   "original_title": "Der perfekte Urlaub",
-   "english_title": "The Perfect Holiday",
-   "kind": "film",
    "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/der-perfekte-urlaub",
    "directors": [
     "Bora Dağtekin"
@@ -3410,101 +3029,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9658",
-       "start": "2026-10-25T14:40+01:00",
-       "time": "14:40",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9658/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-9650",
-       "start": "2026-10-25T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Saal1"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9650/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-9664",
-       "start": "2026-10-25T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9664/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-26",
      "screenings": [
@@ -4289,7 +3813,7 @@
     "Bora Dagtekin"
    ],
    "year": 2026,
-   "runtime_min": 117,
+   "runtime_min": 126,
    "country": "Deutschland",
    "program_films": [],
    "tmdb_id": 1525072,
@@ -4306,41 +3830,6 @@
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "arthouse:2302824",
-       "start": "2026-10-25T20:50+01:00",
-       "time": "20:50",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302824",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-26",
      "screenings": [

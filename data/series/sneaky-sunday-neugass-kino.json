@@ -15,84 +15,6 @@
  },
  "films": [
   {
-   "title": "Die Zukunft ist Vergangenheit",
-   "venue_title": "Die Zukunft ist Vergangenheit",
-   "subtitle": null,
-   "original_title": "Die Zukunft ist Vergangenheit",
-   "english_title": "Die Zukunft ist Vergangenheit",
-   "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html",
-   "directors": [
-    "Stephan Schulz",
-    "Julian Kirchner"
-   ],
-   "year": 2026,
-   "runtime_min": 99,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1767401,
-   "tmdb_kind": "movie",
-   "original_language": "de",
-   "source": "riffraff_houdini",
-   "series": [
-    "Sneaky Sunday"
-   ],
-   "labels": [
-    "Sneaky Sunday"
-   ],
-   "english": false,
-   "curated": true,
-   "curated_reasons": [
-    "one venue",
-    "special"
-   ],
-   "new": false,
-   "film_slug": "die-zukunft-ist-vergangenheit-2026",
-   "series_slugs": {
-    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
-   },
-   "venue": "Riffraff",
-   "dates": [
-    {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2287628",
-       "start": "2026-10-25T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Riffraff 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2287628#tickets",
-       "language": {
-        "raw": "ch",
-        "description": "Swiss German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Sneaky Sunday"
-       ],
-       "label": "Sneaky Sunday",
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    }
-   ]
-  },
-  {
    "title": "Wild Horse Nine",
    "venue_title": "Wild Horse Nine",
    "subtitle": null,
@@ -535,7 +457,7 @@
    "curated_reasons": [
     "special"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "Sneaky Sunday": "sneaky-sunday-neugass-kino"
    },
@@ -685,7 +607,7 @@
    "curated_reasons": [
     "special"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "Sneaky Sunday": "sneaky-sunday-neugass-kino"
    },
@@ -760,7 +682,7 @@
    "curated_reasons": [
     "special"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "Sneaky Sunday": "sneaky-sunday-neugass-kino"
    },

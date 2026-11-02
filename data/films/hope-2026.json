@@ -31,41 +31,6 @@
    "venue": "KINOKONI Zürich",
    "dates": [
     {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9653",
-       "start": "2026-10-25T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9653/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 한국어 / Koreanisch",
-        "description": "Korean; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-26",
      "screenings": [
       {
@@ -201,41 +166,6 @@
    "series_slugs": {},
    "venue": "Houdini",
    "dates": [
-    {
-     "date": "2026-10-25",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2303279",
-       "start": "2026-10-25T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Houdini 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/hope.html?city=zurich&show=2303279#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-26",
      "screenings": [
