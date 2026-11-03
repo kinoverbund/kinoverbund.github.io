@@ -1,0 +1,78 @@
+{
+ "name": "Wholetrain",
+ "venues": [
+  {
+   "title": "Wholetrain",
+   "venue_title": "Wholetrain",
+   "subtitle": null,
+   "original_title": "Wholetrain",
+   "english_title": "Wholetrain",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/dezember-2026/wie-neu/wholetrain",
+   "directors": [
+    "Florian Gaag"
+   ],
+   "year": 2006,
+   "runtime_min": 82,
+   "country": "D",
+   "program_films": [],
+   "tmdb_id": 14231,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "xenix",
+   "series": [
+    "Wie neu"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Wie neu": "wie-neu-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-12-04",
+     "screenings": [
+      {
+       "id": "xenix:wholetrain@2026-12-04T20:00:00",
+       "start": "2026-12-04T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "Followed by a talk with Florian Gaag",
+       "note_lang": null,
+       "series": [
+        "Wie neu"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

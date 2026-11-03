@@ -133,6 +133,216 @@
      "series_slugs": {}
     }
    ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "The Birdcage",
+     "venue_title": "The Birdcage",
+     "subtitle": null,
+     "original_title": "The Birdcage",
+     "english_title": "The Birdcage",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/the-birdcage",
+     "directors": [
+      "Mike Nichols"
+     ],
+     "year": 1996,
+     "runtime_min": 119,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 11000,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-birdcage@2026-12-04T17:30:00",
+       "start": "2026-12-04T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-birdcage-1996",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    },
+    {
+     "title": "Wholetrain",
+     "venue_title": "Wholetrain",
+     "subtitle": null,
+     "original_title": "Wholetrain",
+     "english_title": "Wholetrain",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/wie-neu/wholetrain",
+     "directors": [
+      "Florian Gaag"
+     ],
+     "year": 2006,
+     "runtime_min": 82,
+     "country": "D",
+     "program_films": [],
+     "tmdb_id": 14231,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "xenix",
+     "series": [
+      "Wie neu"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:wholetrain@2026-12-04T20:00:00",
+       "start": "2026-12-04T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": "Followed by a talk with Florian Gaag",
+       "note_lang": null,
+       "series": [
+        "Wie neu"
+       ],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Wie neu": "wie-neu-xenix"
+     }
+    },
+    {
+     "title": "One Hour Photo",
+     "venue_title": "One Hour Photo",
+     "subtitle": null,
+     "original_title": "One Hour Photo",
+     "english_title": "One Hour Photo",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/one-hour-photo",
+     "directors": [
+      "Mark Romanek"
+     ],
+     "year": 2002,
+     "runtime_min": 96,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 9357,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:one-hour-photo@2026-12-04T22:30:00",
+       "start": "2026-12-04T22:30+01:00",
+       "time": "22:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "digital",
+        "presentation": [],
+        "assumed": false,
+        "raw": "Digital HD, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "one-hour-photo-2002",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    }
+   ]
   }
  ]
 }

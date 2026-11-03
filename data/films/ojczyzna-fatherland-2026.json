@@ -31,95 +31,6 @@
    "venue": "Arthouse Le Paris",
    "dates": [
     {
-     "date": "2026-10-26",
-     "screenings": [
-      {
-       "id": "arthouse:2302776",
-       "start": "2026-10-26T14:45+01:00",
-       "time": "14:45",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2302776",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2302777",
-       "start": "2026-10-26T16:45+01:00",
-       "time": "16:45",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2302777",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2302778",
-       "start": "2026-10-26T18:45+01:00",
-       "time": "18:45",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2302778",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-27",
      "screenings": [
       {
@@ -300,131 +211,6 @@
    "series_slugs": {},
    "venue": "Houdini",
    "dates": [
-    {
-     "date": "2026-10-26",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2302354",
-       "start": "2026-10-26T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2302354#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2302353",
-       "start": "2026-10-26T17:00+01:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2302353#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2302352",
-       "start": "2026-10-26T19:00+01:00",
-       "time": "19:00",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2302352#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2302364",
-       "start": "2026-10-26T21:10+01:00",
-       "time": "21:10",
-       "auditoriums": [
-        "Houdini 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2302364#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-27",
      "screenings": [
@@ -1519,6 +1305,461 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-05",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2312912",
+       "start": "2026-11-05T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2312912#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2312913",
+       "start": "2026-11-05T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2312913#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2309887",
+       "start": "2026-11-06T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2309887#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2309886",
+       "start": "2026-11-06T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2309886#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2312962",
+       "start": "2026-11-07T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2312962#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2312963",
+       "start": "2026-11-07T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2312963#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2313012",
+       "start": "2026-11-08T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313012#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2313013",
+       "start": "2026-11-08T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313013#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2313062",
+       "start": "2026-11-09T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313062#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2313063",
+       "start": "2026-11-09T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313063#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2313112",
+       "start": "2026-11-10T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313112#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2313113",
+       "start": "2026-11-10T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313113#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2313161",
+       "start": "2026-11-11T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313161#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2313162",
+       "start": "2026-11-11T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2313162#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -1551,41 +1792,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-10-26",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9695",
-       "start": "2026-10-26T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9695/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-27",
      "screenings": [
@@ -1807,6 +2013,41 @@
         "Saal3"
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9875/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9949",
+       "start": "2026-11-07T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9949/seats",
        "language": {
         "raw": "Deutsch",
         "description": "German",

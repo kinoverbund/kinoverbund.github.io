@@ -208,6 +208,217 @@
      "series_slugs": {}
     }
    ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "Eternal Sunshine of the Spotless Mind",
+     "venue_title": "Eternal Sunshine of the Spotless Mind",
+     "subtitle": null,
+     "original_title": "Eternal Sunshine of the Spotless Mind",
+     "english_title": "Eternal Sunshine of the Spotless Mind",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/eternal-sunshine-of-the-spotless-mind",
+     "directors": [
+      "Michel Gondry"
+     ],
+     "year": 2004,
+     "runtime_min": 108,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 38,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:eternal-sunshine-of-the-spotless-mind@2026-12-05T17:45:00",
+       "start": "2026-12-05T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "eternal-sunshine-of-the-spotless-mind-2004",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    },
+    {
+     "title": "The Devils",
+     "venue_title": "The Devils",
+     "subtitle": "Director’s Cut",
+     "original_title": "The Devils",
+     "english_title": "The Devils",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/wie-neu/the-devils",
+     "directors": [
+      "Ken Russell"
+     ],
+     "year": 1971,
+     "runtime_min": 114,
+     "country": "GB",
+     "program_films": [],
+     "tmdb_id": 31767,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Wie neu"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-devils@2026-12-05T20:00:00",
+       "start": "2026-12-05T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Wie neu"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-devils-1971",
+     "series_slugs": {
+      "Wie neu": "wie-neu-xenix"
+     }
+    },
+    {
+     "title": "The Cable Guy",
+     "venue_title": "The Cable Guy",
+     "subtitle": null,
+     "original_title": "The Cable Guy",
+     "english_title": "The Cable Guy",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/the-cable-guy",
+     "directors": [
+      "Ben Stiller"
+     ],
+     "year": 1996,
+     "runtime_min": 96,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 9894,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-cable-guy@2026-12-05T22:15:00",
+       "start": "2026-12-05T22:15+01:00",
+       "time": "22:15",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "digital",
+        "presentation": [],
+        "assumed": false,
+        "raw": "Digital HD, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-cable-guy-1996",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    }
+   ]
   }
  ]
 }

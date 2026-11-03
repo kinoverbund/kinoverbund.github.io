@@ -29,7 +29,6 @@
    "english": true,
    "curated": true,
    "curated_reasons": [
-    "one venue",
     "special"
    ],
    "new": false,
@@ -172,10 +171,916 @@
         "LunchKino"
        ],
        "label": "LunchKino",
-       "last": true,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
+   "venue_title": "From Inside Out - Die Architektur von Peter Zumthor",
+   "subtitle": null,
+   "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
+   "english_title": "From Inside Out: The Architecture of Peter Zumthor",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html",
+   "directors": [
+    "Wim Wenders"
+   ],
+   "year": 2026,
+   "runtime_min": 114,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1355885,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
+   "series_slugs": {},
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-05",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310341",
+       "start": "2026-11-05T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310341#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310340",
+       "start": "2026-11-05T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310340#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310342",
+       "start": "2026-11-05T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310342#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310339",
+       "start": "2026-11-05T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310339#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2305730",
+       "start": "2026-11-06T14:10+01:00",
+       "time": "14:10",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2305730#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2305744",
+       "start": "2026-11-06T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2305744#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2305768",
+       "start": "2026-11-06T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2305768#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2305654",
+       "start": "2026-11-06T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2305654#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310892",
+       "start": "2026-11-07T14:10+01:00",
+       "time": "14:10",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310892#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310893",
+       "start": "2026-11-07T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310893#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310891",
+       "start": "2026-11-07T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310891#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310894",
+       "start": "2026-11-07T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310894#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310974",
+       "start": "2026-11-08T11:00+01:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310974#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310975",
+       "start": "2026-11-08T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310975#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310973",
+       "start": "2026-11-08T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310973#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2310976",
+       "start": "2026-11-08T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2310976#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2311022",
+       "start": "2026-11-09T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311022#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311023",
+       "start": "2026-11-09T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311023#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311021",
+       "start": "2026-11-09T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311021#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311024",
+       "start": "2026-11-09T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311024#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2311082",
+       "start": "2026-11-10T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311082#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311085",
+       "start": "2026-11-10T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311085#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311083",
+       "start": "2026-11-10T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311083#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311084",
+       "start": "2026-11-10T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311084#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2311099",
+       "start": "2026-11-11T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311099#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311102",
+       "start": "2026-11-11T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311102#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311100",
+       "start": "2026-11-11T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311100#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2311101",
+       "start": "2026-11-11T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2311101#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": false
       }
      ]
     }

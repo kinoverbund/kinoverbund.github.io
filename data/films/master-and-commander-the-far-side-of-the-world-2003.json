@@ -1,0 +1,149 @@
+{
+ "name": "Master and Commander: The Far Side of the World",
+ "venues": [
+  {
+   "title": "Master and Commander: The Far Side of the World",
+   "venue_title": "Master and Commander: The Far Side of the World",
+   "subtitle": null,
+   "original_title": "Master and Commander: The Far Side of the World",
+   "english_title": "Master and Commander: The Far Side of the World",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/dezember-2026/wie-neu/master-and-commander-the-far-side-of-the-world",
+   "directors": [
+    "Peter Weir"
+   ],
+   "year": 2003,
+   "runtime_min": 138,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 8619,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Wie neu"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "film_slug": "master-and-commander-the-far-side-of-the-world-2003",
+   "series_slugs": {
+    "Wie neu": "wie-neu-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-12-20",
+     "screenings": [
+      {
+       "id": "xenix:master-and-commander-the-far-side-of-the-world@2026-12-20T20:00:00",
+       "start": "2026-12-20T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Wie neu"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-29",
+     "screenings": [
+      {
+       "id": "xenix:master-and-commander-the-far-side-of-the-world@2026-12-29T17:30:00",
+       "start": "2026-12-29T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Wie neu"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2027-01-01",
+     "screenings": [
+      {
+       "id": "xenix:master-and-commander-the-far-side-of-the-world@2027-01-01T20:15:00",
+       "start": "2027-01-01T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Wie neu"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

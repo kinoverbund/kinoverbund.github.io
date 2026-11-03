@@ -1,0 +1,108 @@
+{
+ "name": "उड़ता तीर (Udta Teer)",
+ "venues": [
+  {
+   "title": "उड़ता तीर (Udta Teer)",
+   "venue_title": "Udta Teer",
+   "subtitle": null,
+   "original_title": "उड़ता तीर",
+   "english_title": "Udta Teer",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/udta-teer.html",
+   "directors": [
+    "Aakash Kaushik"
+   ],
+   "year": 2026,
+   "runtime_min": 135,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1375156,
+   "tmdb_kind": "movie",
+   "original_language": "hi",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "one venue"
+   ],
+   "new": true,
+   "film_slug": "udta-teer-2026",
+   "series_slugs": {},
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310621",
+       "start": "2026-11-06T22:50+01:00",
+       "time": "22:50",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/udta-teer.html?city=zurich&show=2310621#tickets",
+       "language": {
+        "raw": "hi/en",
+        "description": "Hindi; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310890",
+       "start": "2026-11-07T22:50+01:00",
+       "time": "22:50",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/udta-teer.html?city=zurich&show=2310890#tickets",
+       "language": {
+        "raw": "hi/en",
+        "description": "Hindi; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

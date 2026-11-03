@@ -963,6 +963,218 @@
      }
     }
    ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "황해 (The Yellow Sea)",
+     "venue_title": "The Yellow Sea",
+     "subtitle": "Hwanghae",
+     "original_title": "황해",
+     "english_title": "The Yellow Sea",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/na-hong-jin/the-yellow-sea",
+     "directors": [
+      "Na Hong-jin"
+     ],
+     "year": 2010,
+     "runtime_min": 157,
+     "country": "KR",
+     "program_films": [],
+     "tmdb_id": 57361,
+     "tmdb_kind": "movie",
+     "original_language": "ko",
+     "source": "xenix",
+     "series": [
+      "Na Hong-jin"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-yellow-sea@2026-12-19T16:30:00",
+       "start": "2026-12-19T16:30+01:00",
+       "time": "16:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "OV/df",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Na Hong-jin"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-yellow-sea-2010",
+     "series_slugs": {
+      "Na Hong-jin": "na-hong-jin-xenix"
+     }
+    },
+    {
+     "title": "Dead Poets Society",
+     "venue_title": "Dead Poets Society",
+     "subtitle": null,
+     "original_title": "Dead Poets Society",
+     "english_title": "Dead Poets Society",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/dead-poets-society",
+     "directors": [
+      "Peter Weir"
+     ],
+     "year": 1989,
+     "runtime_min": 129,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 207,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:dead-poets-society@2026-12-19T19:45:00",
+       "start": "2026-12-19T19:45+01:00",
+       "time": "19:45",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "dead-poets-society-1989",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    },
+    {
+     "title": "The Mask",
+     "venue_title": "The Mask",
+     "subtitle": null,
+     "original_title": "The Mask",
+     "english_title": "The Mask",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/the-mask",
+     "directors": [
+      "Chuck Russell"
+     ],
+     "year": 1994,
+     "runtime_min": 101,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 854,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "on film",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-mask@2026-12-19T22:15:00",
+       "start": "2026-12-19T22:15+01:00",
+       "time": "22:15",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/df",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "35mm",
+        "presentation": [],
+        "assumed": false,
+        "raw": "35 mm, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-mask-1994",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    }
+   ]
   }
  ]
 }

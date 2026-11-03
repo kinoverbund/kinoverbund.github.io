@@ -1,0 +1,150 @@
+{
+ "name": "Aladdin",
+ "venues": [
+  {
+   "title": "Aladdin",
+   "venue_title": "Aladdin",
+   "subtitle": null,
+   "original_title": "Aladdin",
+   "english_title": "Aladdin",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/aladdin",
+   "directors": [
+    "John Musker",
+    "Ron Clements"
+   ],
+   "year": 1992,
+   "runtime_min": 91,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 812,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Jim Carrey & Robin Williams"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "film_slug": "aladdin-1992",
+   "series_slugs": {
+    "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-12-23",
+     "screenings": [
+      {
+       "id": "xenix:aladdin@2026-12-23T16:45:00",
+       "start": "2026-12-23T16:45+01:00",
+       "time": "16:45",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-27",
+     "screenings": [
+      {
+       "id": "xenix:aladdin@2026-12-27T16:30:00",
+       "start": "2026-12-27T16:30+01:00",
+       "time": "16:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2027-01-02",
+     "screenings": [
+      {
+       "id": "xenix:aladdin@2027-01-02T15:30:00",
+       "start": "2027-01-02T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

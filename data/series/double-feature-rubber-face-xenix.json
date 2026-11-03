@@ -1,0 +1,179 @@
+{
+ "name": "Double Feature «Rubber Face»",
+ "venues": [
+  "Xenix"
+ ],
+ "links": {
+  "Xenix": "https://www.xenix.ch/programm/dezember-2026/double-feature-rubber-face"
+ },
+ "about": {
+  "text": "Thanks to their breakneck pace of improvisation and incredible facial expressions, Jim Carrey and Robin Williams became Hollywood’s biggest comedy stars in the early 1990s. With boundless energy, they carried their comedies single-handedly—and that was probably also the reason why these two exceptional talents were never seen together on screen: a single film can only handle the presence of one of these two legends. Instead, in the double feature “Rubber Face,” we’re showing you Williams and Carrey back-to-back in two cult classics where they give it their all and no mask can hold them back. First, Robin Williams shines as the perfect nanny, Mrs. Doubtfire, and then Jim Carrey takes the stage as an uninhibited antihero with a green face. Enjoy two of Hollywood’s greatest masters of transformation!",
+  "lang": "en",
+  "venue": "Xenix",
+  "url": "https://www.xenix.ch/programm/dezember-2026/double-feature-rubber-face",
+  "translated": true
+ },
+ "films": [
+  {
+   "title": "Mrs. Doubtfire",
+   "venue_title": "Mrs. Doubtfire",
+   "subtitle": null,
+   "original_title": "Mrs. Doubtfire",
+   "english_title": "Mrs. Doubtfire",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/mrsdoubtfire",
+   "directors": [
+    "Chris Columbus"
+   ],
+   "year": 1993,
+   "runtime_min": 125,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 788,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Jim Carrey & Robin Williams",
+    "Double Feature «Rubber Face»"
+   ],
+   "labels": [
+    "DOUBLE FEATURE"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "film_slug": "mrs-doubtfire-1993",
+   "series_slugs": {
+    "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix",
+    "Double Feature «Rubber Face»": "double-feature-rubber-face-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-12-12",
+     "screenings": [
+      {
+       "id": "xenix:mrsdoubtfire@2026-12-12T19:30:00",
+       "start": "2026-12-12T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": "Special offer for everyone with an Xenix card",
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams",
+        "Double Feature «Rubber Face»"
+       ],
+       "label": "DOUBLE FEATURE",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Mask",
+   "venue_title": "The Mask",
+   "subtitle": null,
+   "original_title": "The Mask",
+   "english_title": "The Mask",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/the-mask",
+   "directors": [
+    "Chuck Russell"
+   ],
+   "year": 1994,
+   "runtime_min": 101,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 854,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Jim Carrey & Robin Williams",
+    "Double Feature «Rubber Face»"
+   ],
+   "labels": [
+    "DOUBLE FEATURE"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "on film",
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "film_slug": "the-mask-1994",
+   "series_slugs": {
+    "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix",
+    "Double Feature «Rubber Face»": "double-feature-rubber-face-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-12-12",
+     "screenings": [
+      {
+       "id": "xenix:the-mask@2026-12-12T22:15:00",
+       "start": "2026-12-12T22:15+01:00",
+       "time": "22:15",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/df",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "35mm",
+        "presentation": [],
+        "assumed": false,
+        "raw": "35 mm, Farbe"
+       },
+       "note": "Special offer for everyone with an Xenix card",
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams",
+        "Double Feature «Rubber Face»"
+       ],
+       "label": "DOUBLE FEATURE",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true,
+       "note_translated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

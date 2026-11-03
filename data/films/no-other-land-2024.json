@@ -37,41 +37,6 @@
    "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-10-26",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2301610",
-       "start": "2026-10-26T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/no-other-land.html?city=zurich&show=2301610#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-10-27",
      "screenings": [
       {
@@ -379,7 +344,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": false,
+       "last": true,
        "guest": false,
        "english": false,
        "curated": true

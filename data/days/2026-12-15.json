@@ -493,6 +493,149 @@
      }
     }
    ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "The Birdcage",
+     "venue_title": "The Birdcage",
+     "subtitle": null,
+     "original_title": "The Birdcage",
+     "english_title": "The Birdcage",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/the-birdcage",
+     "directors": [
+      "Mike Nichols"
+     ],
+     "year": 1996,
+     "runtime_min": 119,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 11000,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-birdcage@2026-12-15T17:45:00",
+       "start": "2026-12-15T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-birdcage-1996",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    },
+    {
+     "title": "황해 (The Yellow Sea)",
+     "venue_title": "The Yellow Sea",
+     "subtitle": "Hwanghae",
+     "original_title": "황해",
+     "english_title": "The Yellow Sea",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/na-hong-jin/the-yellow-sea",
+     "directors": [
+      "Na Hong-jin"
+     ],
+     "year": 2010,
+     "runtime_min": 157,
+     "country": "KR",
+     "program_films": [],
+     "tmdb_id": 57361,
+     "tmdb_kind": "movie",
+     "original_language": "ko",
+     "source": "xenix",
+     "series": [
+      "Na Hong-jin"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-yellow-sea@2026-12-15T20:15:00",
+       "start": "2026-12-15T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "OV/df",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Na Hong-jin"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-yellow-sea-2010",
+     "series_slugs": {
+      "Na Hong-jin": "na-hong-jin-xenix"
+     }
+    }
+   ]
   }
  ]
 }

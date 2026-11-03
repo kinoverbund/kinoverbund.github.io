@@ -76,6 +76,354 @@
      }
     }
    ]
+  },
+  {
+   "name": "Xenix",
+   "operator": "Xenix",
+   "address": null,
+   "listings": [
+    {
+     "title": "Útóipe Cheilteach (Celtic Utopia)",
+     "venue_title": "Celtic Utopia",
+     "subtitle": null,
+     "original_title": "Útóipe Cheilteach",
+     "english_title": "Celtic Utopia",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/dokfilm-am-sonntag/celtic-utopia",
+     "directors": [
+      "Dennis Harvey",
+      "Lars Lovén"
+     ],
+     "year": 2025,
+     "runtime_min": 90,
+     "country": "IE/SE",
+     "program_films": [],
+     "tmdb_id": 1510435,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Dokfilm am Sonntag"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:celtic-utopia@2026-12-27T12:00:00",
+       "start": "2026-12-27T12:00+01:00",
+       "time": "12:00",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E•OV/e",
+        "description": "English, Original version; subtitles: English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Dokfilm am Sonntag"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "utoipe-cheilteach-celtic-utopia-2025",
+     "series_slugs": {
+      "Dokfilm am Sonntag": "dokfilm-am-sonntag-xenix"
+     }
+    },
+    {
+     "title": "Sing",
+     "venue_title": "Sing",
+     "subtitle": null,
+     "original_title": "Sing",
+     "english_title": "Sing",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/kinderkino/sing",
+     "directors": [
+      "Garth Jennings",
+      "Christophe Lourdelet"
+     ],
+     "year": 2016,
+     "runtime_min": 108,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 335797,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Kinderkino"
+     ],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:sing@2026-12-27T14:15:00",
+       "start": "2026-12-27T14:15+01:00",
+       "time": "14:15",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "digital",
+        "presentation": [],
+        "assumed": false,
+        "raw": "Digital HD, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kinderkino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "sing-2016",
+     "series_slugs": {
+      "Kinderkino": "kinderkino-xenix"
+     }
+    },
+    {
+     "title": "Aladdin",
+     "venue_title": "Aladdin",
+     "subtitle": null,
+     "original_title": "Aladdin",
+     "english_title": "Aladdin",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/aladdin",
+     "directors": [
+      "John Musker",
+      "Ron Clements"
+     ],
+     "year": 1992,
+     "runtime_min": 91,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 812,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:aladdin@2026-12-27T16:30:00",
+       "start": "2026-12-27T16:30+01:00",
+       "time": "16:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "aladdin-1992",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    },
+    {
+     "title": "The Truman Show",
+     "venue_title": "The Truman Show",
+     "subtitle": null,
+     "original_title": "The Truman Show",
+     "english_title": "The Truman Show",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/the-truman-show",
+     "directors": [
+      "Peter Weir"
+     ],
+     "year": 1998,
+     "runtime_min": 103,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 37165,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:the-truman-show@2026-12-27T18:30:00",
+       "start": "2026-12-27T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "the-truman-show-1998",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    },
+    {
+     "title": "Eternal Sunshine of the Spotless Mind",
+     "venue_title": "Eternal Sunshine of the Spotless Mind",
+     "subtitle": null,
+     "original_title": "Eternal Sunshine of the Spotless Mind",
+     "english_title": "Eternal Sunshine of the Spotless Mind",
+     "kind": "film",
+     "film_url": "https://www.xenix.ch/programm/dezember-2026/jim-carrey--robin-williams/eternal-sunshine-of-the-spotless-mind",
+     "directors": [
+      "Michel Gondry"
+     ],
+     "year": 2004,
+     "runtime_min": 108,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 38,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "xenix",
+     "series": [
+      "Jim Carrey & Robin Williams"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "xenix:eternal-sunshine-of-the-spotless-mind@2026-12-27T20:45:00",
+       "start": "2026-12-27T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [],
+       "ticket_url": null,
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Jim Carrey & Robin Williams"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "eternal-sunshine-of-the-spotless-mind-2004",
+     "series_slugs": {
+      "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
+     }
+    }
+   ]
   }
  ]
 }

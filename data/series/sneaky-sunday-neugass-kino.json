@@ -118,6 +118,7 @@
    "english": true,
    "curated": true,
    "curated_reasons": [
+    "one venue",
     "special"
    ],
    "new": false,
@@ -134,7 +135,7 @@
        "start": "2026-11-08T21:00+01:00",
        "time": "21:00",
        "auditoriums": [
-        "Riffraff 1"
+        "Riffraff 3"
        ],
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2291809#tickets",
        "language": {
@@ -156,7 +157,7 @@
         "Sneaky Sunday"
        ],
        "label": "Sneaky Sunday",
-       "last": false,
+       "last": true,
        "guest": false,
        "english": true,
        "curated": true
@@ -814,7 +815,7 @@
     "Jordan Firstman"
    ],
    "year": 2026,
-   "runtime_min": 126,
+   "runtime_min": 122,
    "country": null,
    "program_films": [],
    "tmdb_id": 1585239,
