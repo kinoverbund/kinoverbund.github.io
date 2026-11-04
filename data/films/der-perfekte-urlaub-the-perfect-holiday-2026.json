@@ -31,105 +31,6 @@
    "venue": "blue Abaton",
    "dates": [
     {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "bluecinema:3334579",
-       "start": "2026-10-27T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334579/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334578",
-       "start": "2026-10-27T17:00+01:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334578/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334546",
-       "start": "2026-10-27T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton B"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334546/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-28",
      "screenings": [
       {
@@ -1668,71 +1569,6 @@
    "venue": "blue Corso",
    "dates": [
     {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "bluecinema:3333735",
-       "start": "2026-10-27T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333735/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3333734",
-       "start": "2026-10-27T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Corso 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3333734/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-28",
      "screenings": [
       {
@@ -3188,101 +3024,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "arena:23014",
-       "start": "2026-10-27T14:30+01:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Saal 2"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23014&fid=1022061",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23022",
-       "start": "2026-10-27T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Saal 4"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23022&fid=1022061",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "Mega"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23023",
-       "start": "2026-10-27T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal 4"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23023&fid=1022061",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "Mega"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-28",
      "screenings": [
@@ -4860,71 +4601,6 @@
    "venue": "KINOKONI Zürich",
    "dates": [
     {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9707",
-       "start": "2026-10-27T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [
-        "Saal1"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9707/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-9716",
-       "start": "2026-10-27T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9716/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-28",
      "screenings": [
       {
@@ -5700,16 +5376,16 @@
      ]
     },
     {
-     "date": "2026-11-09",
+     "date": "2026-11-10",
      "screenings": [
       {
-       "id": "kinokoni:50-10017",
-       "start": "2026-11-09T17:50+01:00",
-       "time": "17:50",
+       "id": "kinokoni:50-10051",
+       "start": "2026-11-10T17:30+01:00",
+       "time": "17:30",
        "auditoriums": [
         "Saal1"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10017/seats",
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10051/seats",
        "language": {
         "raw": "Deutsch",
         "description": "German",
@@ -5733,13 +5409,13 @@
        "curated": false
       },
       {
-       "id": "kinokoni:50-10009",
-       "start": "2026-11-09T20:00+01:00",
-       "time": "20:00",
+       "id": "kinokoni:50-10052",
+       "start": "2026-11-10T20:20+01:00",
+       "time": "20:20",
        "auditoriums": [
-        "FilmLounge 4"
+        "Saal1"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10009/seats",
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10052/seats",
        "language": {
         "raw": "Deutsch",
         "description": "German",
@@ -5890,41 +5566,6 @@
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "arthouse:2302848",
-       "start": "2026-10-27T20:50+01:00",
-       "time": "20:50",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302848",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-01",
      "screenings": [

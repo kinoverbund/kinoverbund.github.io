@@ -31,71 +31,6 @@
    "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2303342",
-       "start": "2026-10-27T13:50+01:00",
-       "time": "13:50",
-       "auditoriums": [
-        "Houdini 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/alte-liebe.html?city=zurich&show=2303342#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2303341",
-       "start": "2026-10-27T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Houdini 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/alte-liebe.html?city=zurich&show=2303341#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-28",
      "screenings": [
       {
@@ -643,7 +578,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
@@ -681,71 +616,6 @@
    "series_slugs": {},
    "venue": "Arthouse Piccadilly",
    "dates": [
-    {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "arthouse:2302939",
-       "start": "2026-10-27T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302939",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2302940",
-       "start": "2026-10-27T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2302940",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-28",
      "screenings": [
@@ -1200,6 +1070,282 @@
        "series": [],
        "label": null,
        "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Alte Liebe (Love, After All)",
+   "venue_title": "Alte Liebe",
+   "subtitle": null,
+   "original_title": "Alte Liebe",
+   "english_title": "Love, After All",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/alte-liebe",
+   "directors": [
+    "Andreas Dresen"
+   ],
+   "year": 2026,
+   "runtime_min": 112,
+   "country": "Deutschland",
+   "program_films": [],
+   "tmdb_id": 1477576,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "alte-liebe-love-after-all-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-11-05",
+     "screenings": [
+      {
+       "id": "arthouse:2311305",
+       "start": "2026-11-05T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311305",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "arthouse:2311563",
+       "start": "2026-11-06T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311563",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "arthouse:2311573",
+       "start": "2026-11-07T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311573",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "arthouse:2311583",
+       "start": "2026-11-08T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311583",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "arthouse:2311593",
+       "start": "2026-11-09T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311593",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "arthouse:2311603",
+       "start": "2026-11-10T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311603",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "arthouse:2311613",
+       "start": "2026-11-11T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311613",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
        "guest": false,
        "english": false,
        "curated": false

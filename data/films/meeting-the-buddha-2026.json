@@ -20,14 +20,22 @@
    "tmdb_kind": "movie",
    "original_language": "en",
    "source": "arthouse",
-   "series": [],
-   "labels": [],
+   "series": [
+    "Special Screening mit Cast & Crew"
+   ],
+   "labels": [
+    "Special Screening mit Cast & Crew"
+   ],
    "english": false,
-   "curated": false,
-   "curated_reasons": [],
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
    "new": false,
    "film_slug": "meeting-the-buddha-2026",
-   "series_slugs": {},
+   "series_slugs": {
+    "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
+   },
    "venue": "Arthouse Piccadilly",
    "dates": [
     {
@@ -56,12 +64,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
-       "label": null,
+       "series": [
+        "Special Screening mit Cast & Crew"
+       ],
+       "label": "Special Screening mit Cast & Crew",
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ]
     },
@@ -89,12 +99,14 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
-       "label": null,
+       "series": [
+        "Special Screening mit Cast & Crew"
+       ],
+       "label": "Special Screening mit Cast & Crew",
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ]
     }

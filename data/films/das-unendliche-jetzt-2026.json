@@ -31,41 +31,6 @@
    "venue": "Riffraff",
    "dates": [
     {
-     "date": "2026-10-27",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2301784",
-       "start": "2026-10-27T14:30+01:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Riffraff 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/das-unendliche-jetzt.html?city=zurich&show=2301784#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-28",
      "screenings": [
       {
@@ -373,7 +338,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
@@ -453,6 +418,72 @@
        "guest": false,
        "english": false,
        "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Das unendliche Jetzt",
+   "venue_title": "Das unendliche Jetzt",
+   "subtitle": null,
+   "original_title": "Das unendliche Jetzt",
+   "english_title": "Das unendliche Jetzt",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/das-unendliche-jetzt",
+   "directors": [
+    "Kaspar Kasics"
+   ],
+   "year": 2026,
+   "runtime_min": 98,
+   "country": "Schweiz",
+   "program_films": [],
+   "tmdb_id": 1770967,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "das-unendliche-jetzt-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "arthouse:2311591",
+       "start": "2026-11-08T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311591",
+       "language": {
+        "raw": "Dial.",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": false
       }
      ]
     }

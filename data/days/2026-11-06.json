@@ -2013,6 +2013,150 @@
      "series_slugs": {
       "LunchKino": "lunchkino-arthouse"
      }
+    },
+    {
+     "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
+     "venue_title": "From Inside Out - Die Architektur von Peter Zumtho",
+     "subtitle": null,
+     "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
+     "english_title": "From Inside Out: The Architecture of Peter Zumthor",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/from-inside-out-die-architektur-von-peter-zumtho",
+     "directors": [
+      "Wim Wenders"
+     ],
+     "year": 2026,
+     "runtime_min": 114,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1355885,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311382",
+       "start": "2026-11-06T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311382",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311381",
+       "start": "2026-11-06T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311381",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "A Talent for Murder",
+     "venue_title": "A Talent for Murder",
+     "subtitle": null,
+     "original_title": "A Talent for Murder",
+     "english_title": "A Talent for Murder",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/a-talent-for-murder",
+     "directors": [
+      "Anton Corbijn"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1084409,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311380",
+       "start": "2026-11-06T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311380",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "a-talent-for-murder-2026",
+     "series_slugs": {}
     }
    ]
   },
@@ -2021,6 +2165,368 @@
    "operator": "Arthouse",
    "address": null,
    "listings": [
+    {
+     "title": "Ojczyzna (Fatherland)",
+     "venue_title": "Vaterland",
+     "subtitle": null,
+     "original_title": "Ojczyzna",
+     "english_title": "Fatherland",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/vaterland",
+     "directors": [
+      "Pawel Pawlikowski"
+     ],
+     "year": 2026,
+     "runtime_min": 82,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1437696,
+     "tmdb_kind": "movie",
+     "original_language": "pl",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311567",
+       "start": "2026-11-06T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311567",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311564",
+       "start": "2026-11-06T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311564",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "ojczyzna-fatherland-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Wenn die Erinnerung verblasst",
+     "venue_title": "Wenn die Erinnerung verblasst",
+     "subtitle": null,
+     "original_title": "Wenn die Erinnerung verblasst",
+     "english_title": "Wenn die Erinnerung verblasst",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
+     "directors": [
+      "Marianne Pletscher, Martina Rieder"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1796579,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311572",
+       "start": "2026-11-06T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311572",
+       "language": {
+        "raw": "Ov/d",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "wenn-die-erinnerung-verblasst-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Geister (Ghost Song)",
+     "venue_title": "Geister",
+     "subtitle": null,
+     "original_title": "Geister",
+     "english_title": "Ghost Song",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/geister",
+     "directors": [
+      "Fatih Akin"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1447206,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311566",
+       "start": "2026-11-06T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311566",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311565",
+       "start": "2026-11-06T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311565",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "geister-ghost-song-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Alte Liebe (Love, After All)",
+     "venue_title": "Alte Liebe",
+     "subtitle": null,
+     "original_title": "Alte Liebe",
+     "english_title": "Love, After All",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/alte-liebe",
+     "directors": [
+      "Andreas Dresen"
+     ],
+     "year": 2026,
+     "runtime_min": 112,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1477576,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311563",
+       "start": "2026-11-06T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311563",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "alte-liebe-love-after-all-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense and Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311569",
+       "start": "2026-11-06T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311569",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    },
     {
      "title": "Samurai Cop",
      "venue_title": "Samurai Cop",
@@ -2091,6 +2597,433 @@
      "series_slugs": {
       "KMG Worst Nights": "kmg-worst-nights-arthouse"
      }
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense and Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311526",
+       "start": "2026-11-06T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311526",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Frank & Louis",
+     "venue_title": "Frank & Louis",
+     "subtitle": null,
+     "original_title": "Frank & Louis",
+     "english_title": "Frank & Louis",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/frank-louis",
+     "directors": [
+      "Petra Volpe"
+     ],
+     "year": 2026,
+     "runtime_min": 96,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1596287,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311462",
+       "start": "2026-11-06T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311462",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311463",
+       "start": "2026-11-06T18:10+01:00",
+       "time": "18:10",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311463",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311637",
+       "start": "2026-11-06T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311637",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "frank-louis-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "A Talent for Murder",
+     "venue_title": "A Talent for Murder",
+     "subtitle": null,
+     "original_title": "A Talent for Murder",
+     "english_title": "A Talent for Murder",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/a-talent-for-murder",
+     "directors": [
+      "Anton Corbijn"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1084409,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311461",
+       "start": "2026-11-06T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311461",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "a-talent-for-murder-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "NAZA",
+     "venue_title": "NAZA",
+     "subtitle": null,
+     "original_title": "NAZA",
+     "english_title": "NAZA",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/naza",
+     "directors": [
+      "Rachel Szor, Yuval Abraham"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1755291,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311468",
+       "start": "2026-11-06T16:10+01:00",
+       "time": "16:10",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311468",
+       "language": {
+        "raw": "Ov/d/e",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "naza-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Queen at Sea",
+     "venue_title": "Queen at Sea",
+     "subtitle": null,
+     "original_title": "Queen at Sea",
+     "english_title": "Queen at Sea",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/queen-at-sea",
+     "directors": [
+      "Lance Hammer"
+     ],
+     "year": 2026,
+     "runtime_min": 121,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1021848,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311466",
+       "start": "2026-11-06T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311466",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "queen-at-sea-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
+     "venue_title": "From Inside Out (3D) - Die Architektur von Peter Z",
+     "subtitle": null,
+     "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
+     "english_title": "From Inside Out: The Architecture of Peter Zumthor",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/from-inside-out-3d-die-architektur-von-peter-z",
+     "directors": [
+      "Wim Wenders"
+     ],
+     "year": 2026,
+     "runtime_min": 114,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1355885,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311470",
+       "start": "2026-11-06T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311470",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
+     "series_slugs": {}
     }
    ]
   },

@@ -2013,6 +2013,976 @@
      "series_slugs": {
       "LunchKino": "lunchkino-arthouse"
      }
+    },
+    {
+     "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
+     "venue_title": "From Inside Out - Die Architektur von Peter Zumtho",
+     "subtitle": null,
+     "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
+     "english_title": "From Inside Out: The Architecture of Peter Zumthor",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/from-inside-out-die-architektur-von-peter-zumtho",
+     "directors": [
+      "Wim Wenders"
+     ],
+     "year": 2026,
+     "runtime_min": 114,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1355885,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311394",
+       "start": "2026-11-09T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311394",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311393",
+       "start": "2026-11-09T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311393",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "A Talent for Murder",
+     "venue_title": "A Talent for Murder",
+     "subtitle": null,
+     "original_title": "A Talent for Murder",
+     "english_title": "A Talent for Murder",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/a-talent-for-murder",
+     "directors": [
+      "Anton Corbijn"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1084409,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311392",
+       "start": "2026-11-09T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311392",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "a-talent-for-murder-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Movie",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Ojczyzna (Fatherland)",
+     "venue_title": "Vaterland",
+     "subtitle": null,
+     "original_title": "Ojczyzna",
+     "english_title": "Fatherland",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/vaterland",
+     "directors": [
+      "Pawel Pawlikowski"
+     ],
+     "year": 2026,
+     "runtime_min": 82,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1437696,
+     "tmdb_kind": "movie",
+     "original_language": "pl",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311597",
+       "start": "2026-11-09T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311597",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311594",
+       "start": "2026-11-09T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311594",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "ojczyzna-fatherland-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Wenn die Erinnerung verblasst",
+     "venue_title": "Wenn die Erinnerung verblasst",
+     "subtitle": null,
+     "original_title": "Wenn die Erinnerung verblasst",
+     "english_title": "Wenn die Erinnerung verblasst",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/wenn-die-erinnerung-verblasst",
+     "directors": [
+      "Marianne Pletscher, Martina Rieder"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1796579,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311602",
+       "start": "2026-11-09T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311602",
+       "language": {
+        "raw": "Ov/d",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "wenn-die-erinnerung-verblasst-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Geister (Ghost Song)",
+     "venue_title": "Geister",
+     "subtitle": null,
+     "original_title": "Geister",
+     "english_title": "Ghost Song",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/geister",
+     "directors": [
+      "Fatih Akin"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1447206,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311596",
+       "start": "2026-11-09T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311596",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311595",
+       "start": "2026-11-09T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311595",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "geister-ghost-song-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Alte Liebe (Love, After All)",
+     "venue_title": "Alte Liebe",
+     "subtitle": null,
+     "original_title": "Alte Liebe",
+     "english_title": "Love, After All",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/alte-liebe",
+     "directors": [
+      "Andreas Dresen"
+     ],
+     "year": 2026,
+     "runtime_min": 112,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1477576,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311593",
+       "start": "2026-11-09T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311593",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "alte-liebe-love-after-all-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Sense and Sensibility",
+     "venue_title": "Sense and Sensibility",
+     "subtitle": null,
+     "original_title": "Sense and Sensibility",
+     "english_title": "Sense and Sensibility",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
+     "directors": [
+      "Georgia Oakley"
+     ],
+     "year": 2026,
+     "runtime_min": 132,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1503762,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311599",
+       "start": "2026-11-09T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311599",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "sense-and-sensibility-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "NAZA",
+     "venue_title": "NAZA",
+     "subtitle": null,
+     "original_title": "NAZA",
+     "english_title": "NAZA",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/naza",
+     "directors": [
+      "Rachel Szor, Yuval Abraham"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1755291,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2312499",
+       "start": "2026-11-09T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2312499",
+       "language": {
+        "raw": "Ov/d/e",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "naza-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
+   "name": "Arthouse Piccadilly",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Queen at Sea",
+     "venue_title": "Queen at Sea",
+     "subtitle": null,
+     "original_title": "Queen at Sea",
+     "english_title": "Queen at Sea",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/queen-at-sea",
+     "directors": [
+      "Lance Hammer"
+     ],
+     "year": 2026,
+     "runtime_min": 121,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1021848,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311495",
+       "start": "2026-11-09T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311495",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311496",
+       "start": "2026-11-09T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311496",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "queen-at-sea-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Frank & Louis",
+     "venue_title": "Frank & Louis",
+     "subtitle": null,
+     "original_title": "Frank & Louis",
+     "english_title": "Frank & Louis",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/frank-louis",
+     "directors": [
+      "Petra Volpe"
+     ],
+     "year": 2026,
+     "runtime_min": 96,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1596287,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arthouse:2311492",
+       "start": "2026-11-09T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311492",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311493",
+       "start": "2026-11-09T18:10+01:00",
+       "time": "18:10",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311493",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2312482",
+       "start": "2026-11-09T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2312482",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "frank-louis-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "A Talent for Murder",
+     "venue_title": "A Talent for Murder",
+     "subtitle": null,
+     "original_title": "A Talent for Murder",
+     "english_title": "A Talent for Murder",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/a-talent-for-murder",
+     "directors": [
+      "Anton Corbijn"
+     ],
+     "year": 2026,
+     "runtime_min": 106,
+     "country": "USA",
+     "program_films": [],
+     "tmdb_id": 1084409,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311491",
+       "start": "2026-11-09T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311491",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "a-talent-for-murder-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "NAZA",
+     "venue_title": "NAZA",
+     "subtitle": null,
+     "original_title": "NAZA",
+     "english_title": "NAZA",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/naza",
+     "directors": [
+      "Rachel Szor, Yuval Abraham"
+     ],
+     "year": 2026,
+     "runtime_min": 80,
+     "country": "Grossbritannien",
+     "program_films": [],
+     "tmdb_id": 1755291,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311498",
+       "start": "2026-11-09T16:10+01:00",
+       "time": "16:10",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311498",
+       "language": {
+        "raw": "Ov/d/e",
+        "description": "Original version; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "naza-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
+     "venue_title": "From Inside Out (3D) - Die Architektur von Peter Z",
+     "subtitle": null,
+     "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
+     "english_title": "From Inside Out: The Architecture of Peter Zumthor",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/from-inside-out-3d-die-architektur-von-peter-z",
+     "directors": [
+      "Wim Wenders"
+     ],
+     "year": 2026,
+     "runtime_min": 114,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1355885,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "arthouse",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2311500",
+       "start": "2026-11-09T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311500",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
+     "series_slugs": {}
     }
    ]
   },
@@ -7154,96 +8124,6 @@
      "series_slugs": {}
     },
     {
-     "title": "Der perfekte Urlaub (The Perfect Holiday)",
-     "venue_title": "Der perfekte Urlaub",
-     "subtitle": null,
-     "original_title": "Der perfekte Urlaub",
-     "english_title": "The Perfect Holiday",
-     "kind": "film",
-     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/der-perfekte-urlaub",
-     "directors": [
-      "Bora Dağtekin"
-     ],
-     "year": 2026,
-     "runtime_min": 117,
-     "country": null,
-     "program_films": [],
-     "tmdb_id": 1525072,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "kinokoni",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "kinokoni:50-10017",
-       "start": "2026-11-09T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Saal1"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10017/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-10009",
-       "start": "2026-11-09T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "FilmLounge 4"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10009/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "Frank & Louis",
      "venue_title": "Frank & Louis",
      "subtitle": null,
@@ -7544,7 +8424,7 @@
        "start": "2026-11-09T20:40+01:00",
        "time": "20:40",
        "auditoriums": [
-        "Saal1"
+        "FilmLounge 4"
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10011/seats",
        "language": {

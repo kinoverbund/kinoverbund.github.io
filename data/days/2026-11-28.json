@@ -2,6 +2,81 @@
  "date": "2026-11-28",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Histoires parallèles (Parallel Tales)",
+     "venue_title": "Histoires parallèles",
+     "subtitle": null,
+     "original_title": "Histoires parallèles",
+     "english_title": "Parallel Tales",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/histoires-paralleles",
+     "directors": [
+      "Asghar Farhadi"
+     ],
+     "year": 2026,
+     "runtime_min": 139,
+     "country": "Frankreich",
+     "program_films": [],
+     "tmdb_id": 1157869,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2314098",
+       "start": "2026-11-28T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2314098",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "histoires-paralleles-parallel-tales-2026",
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "blue Metropol",
    "operator": "blue Cinema",
    "address": null,

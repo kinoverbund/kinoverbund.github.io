@@ -2398,7 +2398,6 @@
        "curated": false
       }
      ],
-     "film_slug": "spa-weekend-2026",
      "series_slugs": {}
     },
     {
@@ -2518,7 +2517,6 @@
        "curated": false
       }
      ],
-     "film_slug": "kuzma-extremely-happy-2026",
      "series_slugs": {}
     },
     {
@@ -3048,68 +3046,6 @@
    "address": null,
    "listings": [
     {
-     "title": "Cinque secondi (Five Seconds)",
-     "venue_title": "Cinque secondi",
-     "subtitle": null,
-     "original_title": "Cinque secondi",
-     "english_title": "Five Seconds",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/cinque-secondi",
-     "directors": [
-      "Paolo Virzi"
-     ],
-     "year": 2026,
-     "runtime_min": 106,
-     "country": "Italien",
-     "program_films": [],
-     "tmdb_id": 1368519,
-     "tmdb_kind": "movie",
-     "original_language": "it",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
-     "new": false,
-     "screenings": [
-      {
-       "id": "arthouse:2307787",
-       "start": "2026-11-04T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307787",
-       "language": {
-        "raw": "I/d,f",
-        "description": "Italian; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": true,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ],
-     "film_slug": "cinque-secondi-five-seconds-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "Wenn die Erinnerung verblasst",
      "venue_title": "Wenn die Erinnerung verblasst",
      "subtitle": null,
@@ -3192,7 +3128,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": true
@@ -3292,126 +3228,6 @@
      "series_slugs": {}
     },
     {
-     "title": "Sense and Sensibility",
-     "venue_title": "Sense and Sensibility",
-     "subtitle": null,
-     "original_title": "Sense and Sensibility",
-     "english_title": "Sense and Sensibility",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
-     "directors": [
-      "Georgia Oakley"
-     ],
-     "year": 2026,
-     "runtime_min": 132,
-     "country": "USA",
-     "program_films": [],
-     "tmdb_id": 1503762,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "arthouse:2307780",
-       "start": "2026-11-04T15:20+01:00",
-       "time": "15:20",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307780",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "sense-and-sensibility-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "Ojczyzna (Fatherland)",
-     "venue_title": "Vaterland",
-     "subtitle": null,
-     "original_title": "Ojczyzna",
-     "english_title": "Fatherland",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/vaterland",
-     "directors": [
-      "Pawel Pawlikowski"
-     ],
-     "year": 2026,
-     "runtime_min": 82,
-     "country": "Deutschland",
-     "program_films": [],
-     "tmdb_id": 1437696,
-     "tmdb_kind": "movie",
-     "original_language": "pl",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "arthouse:2307782",
-       "start": "2026-11-04T18:10+01:00",
-       "time": "18:10",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307782",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "ojczyzna-fatherland-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "バンパイアハンターD (Vampire Hunter D: Bloodlust)",
      "venue_title": "Vampire Hunter D: Bloodlust",
      "subtitle": null,
@@ -3481,66 +3297,6 @@
      "series_slugs": {
       "Animittwoch": "animittwoch-arthouse"
      }
-    },
-    {
-     "title": "The Invite",
-     "venue_title": "The Invite",
-     "subtitle": null,
-     "original_title": "The Invite",
-     "english_title": "The Invite",
-     "kind": "film",
-     "film_url": "https://arthouse.ch/movies/the-invite",
-     "directors": [
-      "Olivia Wilde"
-     ],
-     "year": 2026,
-     "runtime_min": 107,
-     "country": "USA",
-     "program_films": [],
-     "tmdb_id": 950028,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "arthouse",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "arthouse:2307791",
-       "start": "2026-11-04T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307791",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "the-invite-2026",
-     "series_slugs": {}
     }
    ]
   },
@@ -8119,7 +7875,6 @@
        "curated": true
       }
      ],
-     "film_slug": "no-other-land-2024",
      "series_slugs": {}
     },
     {
@@ -9088,10 +8843,10 @@
       },
       {
        "id": "kinokoni:50-9893",
-       "start": "2026-11-04T17:00+01:00",
-       "time": "17:00",
+       "start": "2026-11-04T17:20+01:00",
+       "time": "17:20",
        "auditoriums": [
-        "Saal3"
+        "Saal1"
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9893/seats",
        "language": {
@@ -9364,7 +9119,7 @@
        "start": "2026-11-04T18:30+01:00",
        "time": "18:30",
        "auditoriums": [
-        "Saal1"
+        "Saal3"
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9761/seats",
        "language": {
