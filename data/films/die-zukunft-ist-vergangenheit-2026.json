@@ -23,7 +23,7 @@
    "source": "riffraff_houdini",
    "series": [],
    "labels": [],
-   "english": false,
+   "english": true,
    "curated": true,
    "curated_reasons": [
     "one venue"
@@ -33,101 +33,6 @@
    "series_slugs": {},
    "venue": "Riffraff",
    "dates": [
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2301873",
-       "start": "2026-10-28T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Riffraff 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2301873#tickets",
-       "language": {
-        "raw": "ch",
-        "description": "Swiss German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
-       "id": "riffraff_houdini:2291854",
-       "start": "2026-10-28T18:10+01:00",
-       "time": "18:10",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2291854#tickets",
-       "language": {
-        "raw": "ch",
-        "description": "Swiss German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
-       "id": "riffraff_houdini:2287664",
-       "start": "2026-10-28T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-zukunft-ist-vergangenheit.html?city=zurich&show=2287664#tickets",
-       "language": {
-        "raw": "ch",
-        "description": "Swiss German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
     {
      "date": "2026-10-29",
      "screenings": [

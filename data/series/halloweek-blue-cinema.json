@@ -17,293 +17,6 @@
  },
  "films": [
   {
-   "title": "The Exorcist",
-   "venue_title": "The Exorcist",
-   "subtitle": null,
-   "original_title": "The Exorcist",
-   "english_title": "The Exorcist",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3332338?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-   "directors": [
-    "William Friedkin"
-   ],
-   "year": 1973,
-   "runtime_min": 132,
-   "country": "Vereinigte Staaten von Amerika",
-   "program_films": [],
-   "tmdb_id": 9552,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [
-    "Halloweek"
-   ],
-   "labels": [],
-   "english": true,
-   "curated": true,
-   "curated_reasons": [
-    "rep"
-   ],
-   "new": false,
-   "series_slugs": {
-    "Halloweek": "halloweek-blue-cinema"
-   },
-   "venue": "blue Abaton",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "bluecinema:3332404",
-       "start": "2026-10-28T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Abaton 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332404/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Halloweek"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
-       "id": "bluecinema:3332402",
-       "start": "2026-10-28T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332402/seating",
-       "language": {
-        "raw": "EN",
-        "description": "English",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Halloweek"
-       ],
-       "label": null,
-       "last": true,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Candyman",
-   "venue_title": "Candyman",
-   "subtitle": null,
-   "original_title": "Candyman",
-   "english_title": "Candyman",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3334775?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
-   "directors": [
-    "Bernard Rose"
-   ],
-   "year": 1992,
-   "runtime_min": 109,
-   "country": "Vereinigte Staaten von Amerika",
-   "program_films": [],
-   "tmdb_id": 9529,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [
-    "Halloweek"
-   ],
-   "labels": [],
-   "english": true,
-   "curated": true,
-   "curated_reasons": [
-    "rep"
-   ],
-   "new": false,
-   "series_slugs": {
-    "Halloweek": "halloweek-blue-cinema"
-   },
-   "venue": "blue Capitol",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "bluecinema:3334784",
-       "start": "2026-10-28T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334784/seating",
-       "language": {
-        "raw": "EN",
-        "description": "English",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Halloweek"
-       ],
-       "label": null,
-       "last": true,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Clayface",
-   "venue_title": "Clayface",
-   "subtitle": null,
-   "original_title": "Clayface",
-   "english_title": "Clayface",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-   "directors": [
-    "James Watkins"
-   ],
-   "year": 2026,
-   "runtime_min": 109,
-   "country": "Vereinigte Staaten von Amerika",
-   "program_films": [],
-   "tmdb_id": 1400940,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [
-    "Halloweek"
-   ],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "clayface-2026",
-   "series_slugs": {
-    "Halloweek": "halloweek-blue-cinema"
-   },
-   "venue": "blue Abaton",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "bluecinema:3332527",
-       "start": "2026-10-28T20:45+01:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332527/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Halloweek"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "screenings": [
-      {
-       "id": "bluecinema:3332526",
-       "start": "2026-10-31T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3332526/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Halloweek"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
    "title": "Other Mommy",
    "venue_title": "Other Mommy",
    "subtitle": null,
@@ -1017,6 +730,78 @@
        "guest": false,
        "english": false,
        "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Clayface",
+   "venue_title": "Clayface",
+   "subtitle": null,
+   "original_title": "Clayface",
+   "english_title": "Clayface",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3162578?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "James Watkins"
+   ],
+   "year": 2026,
+   "runtime_min": 109,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1400940,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Halloweek"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "clayface-2026",
+   "series_slugs": {
+    "Halloweek": "halloweek-blue-cinema"
+   },
+   "venue": "blue Abaton",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "bluecinema:3332526",
+       "start": "2026-10-31T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3332526/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Halloweek"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
       }
      ]
     }

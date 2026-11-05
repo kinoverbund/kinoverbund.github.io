@@ -31,41 +31,6 @@
    "venue": "blue Capitol",
    "dates": [
     {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "bluecinema:3334332",
-       "start": "2026-10-28T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Capitol 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334332/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-29",
      "screenings": [
       {
@@ -984,7 +949,7 @@
    "original_title": "Emil und die Detektive",
    "english_title": "Emil and the Detectives",
    "kind": "film",
-   "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023868",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html",
    "directors": [
     "David Dietl"
    ],
@@ -995,7 +960,7 @@
    "tmdb_id": 1426805,
    "tmdb_kind": "movie",
    "original_language": "de",
-   "source": "arena",
+   "source": "riffraff_houdini",
    "series": [],
    "labels": [],
    "english": false,
@@ -1004,21 +969,21 @@
    "new": false,
    "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
    "series_slugs": {},
-   "venue": "Arena Sihlcity",
+   "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-10-28",
+     "date": "2026-10-29",
      "screenings": [
       {
-       "id": "arena:22847",
-       "start": "2026-10-28T13:30+01:00",
+       "id": "riffraff_houdini:2306919",
+       "start": "2026-10-29T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Saal 7"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22847&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2306919#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1038,17 +1003,22 @@
        "guest": false,
        "english": false,
        "curated": false
-      },
+      }
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "screenings": [
       {
-       "id": "arena:22848",
-       "start": "2026-10-28T16:00+01:00",
-       "time": "16:00",
+       "id": "riffraff_houdini:2301387",
+       "start": "2026-10-30T13:30+01:00",
+       "time": "13:30",
        "auditoriums": [
-        "Saal 7"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=22848&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2301387#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1075,75 +1045,15 @@
      "date": "2026-10-31",
      "screenings": [
       {
-       "id": "arena:23619",
-       "start": "2026-10-31T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23619&fid=1023868",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23439",
+       "id": "riffraff_houdini:2306969",
        "start": "2026-10-31T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Saal 6"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23439&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2306969#tickets",
        "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23440",
-       "start": "2026-10-31T16:00+01:00",
-       "time": "16:00",
-       "auditoriums": [
-        "Saal 6"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23440&fid=1023868",
-       "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1167,48 +1077,18 @@
      ]
     },
     {
-     "date": "2026-11-01",
+     "date": "2026-11-02",
      "screenings": [
       {
-       "id": "arena:23620",
-       "start": "2026-11-01T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23620&fid=1023868",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23561",
-       "start": "2026-11-01T13:30+01:00",
+       "id": "riffraff_houdini:2307069",
+       "start": "2026-11-02T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Saal 6"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23561&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2307069#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1228,17 +1108,22 @@
        "guest": false,
        "english": false,
        "curated": false
-      },
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "screenings": [
       {
-       "id": "arena:23562",
-       "start": "2026-11-01T16:00+01:00",
-       "time": "16:00",
+       "id": "riffraff_houdini:2307119",
+       "start": "2026-11-03T13:30+01:00",
+       "time": "13:30",
        "auditoriums": [
-        "Saal 6"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23562&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2307119#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1265,15 +1150,15 @@
      "date": "2026-11-04",
      "screenings": [
       {
-       "id": "arena:23500",
+       "id": "riffraff_houdini:2307169",
        "start": "2026-11-04T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Saal 6"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23500&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2307169#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1293,17 +1178,57 @@
        "guest": false,
        "english": false,
        "curated": false
-      },
+      }
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "screenings": [
       {
-       "id": "arena:23501",
-       "start": "2026-11-04T16:00+01:00",
-       "time": "16:00",
+       "id": "riffraff_houdini:2312914",
+       "start": "2026-11-05T13:30+01:00",
+       "time": "13:30",
        "auditoriums": [
-        "Saal 6"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23501&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2312914#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2309884",
+       "start": "2026-11-06T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2309884#tickets",
+       "language": {
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1330,75 +1255,15 @@
      "date": "2026-11-07",
      "screenings": [
       {
-       "id": "arena:24043",
-       "start": "2026-11-07T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 14"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24043&fid=1023868",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24044",
+       "id": "riffraff_houdini:2312964",
        "start": "2026-11-07T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Saal 14"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24044&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2312964#tickets",
        "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24045",
-       "start": "2026-11-07T16:00+01:00",
-       "time": "16:00",
-       "auditoriums": [
-        "Saal 14"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24045&fid=1023868",
-       "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1425,45 +1290,15 @@
      "date": "2026-11-08",
      "screenings": [
       {
-       "id": "arena:24046",
-       "start": "2026-11-08T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 14"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24046&fid=1023868",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24047",
+       "id": "riffraff_houdini:2313014",
        "start": "2026-11-08T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Saal 14"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24047&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313014#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1483,17 +1318,57 @@
        "guest": false,
        "english": false,
        "curated": false
-      },
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
       {
-       "id": "arena:24048",
-       "start": "2026-11-08T16:00+01:00",
-       "time": "16:00",
+       "id": "riffraff_houdini:2313064",
+       "start": "2026-11-09T13:30+01:00",
+       "time": "13:30",
        "auditoriums": [
-        "Saal 14"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24048&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313064#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2313114",
+       "start": "2026-11-10T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Houdini 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313114#tickets",
+       "language": {
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1520,15 +1395,15 @@
      "date": "2026-11-11",
      "screenings": [
       {
-       "id": "arena:24049",
+       "id": "riffraff_houdini:2313163",
        "start": "2026-11-11T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Saal 14"
+        "Houdini 3"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24049&fid=1023868",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313163#tickets",
        "language": {
-        "raw": "DE",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -1539,207 +1414,6 @@
         "presentation": [],
         "assumed": true,
         "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24050",
-       "start": "2026-11-11T16:00+01:00",
-       "time": "16:00",
-       "auditoriums": [
-        "Saal 14"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24050&fid=1023868",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": true,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Emil und die Detektive (Emil and the Detectives)",
-   "venue_title": "Emil und die Detektive",
-   "subtitle": null,
-   "original_title": "Emil und die Detektive",
-   "english_title": "Emil and the Detectives",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/emil-und-die-detektive",
-   "directors": [
-    "David Dietl"
-   ],
-   "year": 2026,
-   "runtime_min": 100,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1426805,
-   "tmdb_kind": "movie",
-   "original_language": "de",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9720",
-       "start": "2026-10-28T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9720/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9773",
-       "start": "2026-10-31T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9773/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9818",
-       "start": "2026-11-01T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9818/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9882",
-       "start": "2026-11-04T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9882/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
        },
        "note": null,
        "note_lang": null,
@@ -1783,41 +1457,6 @@
    "series_slugs": {},
    "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "bluecinema:3334638",
-       "start": "2026-10-28T15:15+01:00",
-       "time": "15:15",
-       "auditoriums": [
-        "Abaton 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334638/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-29",
      "screenings": [
@@ -2432,7 +2071,7 @@
    "original_title": "Emil und die Detektive",
    "english_title": "Emil and the Detectives",
    "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html",
+   "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1023868",
    "directors": [
     "David Dietl"
    ],
@@ -2443,7 +2082,7 @@
    "tmdb_id": 1426805,
    "tmdb_kind": "movie",
    "original_language": "de",
-   "source": "riffraff_houdini",
+   "source": "arena",
    "series": [],
    "labels": [],
    "english": false,
@@ -2452,126 +2091,81 @@
    "new": false,
    "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
    "series_slugs": {},
-   "venue": "Houdini",
+   "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-10-28",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2303380",
-       "start": "2026-10-28T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Houdini 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2303380#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2306919",
-       "start": "2026-10-29T13:30+01:00",
-       "time": "13:30",
-       "auditoriums": [
-        "Houdini 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2306919#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2301387",
-       "start": "2026-10-30T13:30+01:00",
-       "time": "13:30",
-       "auditoriums": [
-        "Houdini 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2301387#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-10-31",
      "screenings": [
       {
-       "id": "riffraff_houdini:2306969",
+       "id": "arena:23619",
+       "start": "2026-10-31T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23619&fid=1023868",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23439",
        "start": "2026-10-31T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 6"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2306969#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23439&fid=1023868",
        "language": {
-        "raw": "de",
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23440",
+       "start": "2026-10-31T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 6"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23440&fid=1023868",
+       "language": {
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2595,18 +2189,18 @@
      ]
     },
     {
-     "date": "2026-11-02",
+     "date": "2026-11-01",
      "screenings": [
       {
-       "id": "riffraff_houdini:2307069",
-       "start": "2026-11-02T13:30+01:00",
-       "time": "13:30",
+       "id": "arena:23620",
+       "start": "2026-11-01T10:50+01:00",
+       "time": "10:50",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 12"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2307069#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23620&fid=1023868",
        "language": {
-        "raw": "de",
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2626,22 +2220,47 @@
        "guest": false,
        "english": false,
        "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "screenings": [
+      },
       {
-       "id": "riffraff_houdini:2307119",
-       "start": "2026-11-03T13:30+01:00",
+       "id": "arena:23561",
+       "start": "2026-11-01T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 6"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2307119#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23561&fid=1023868",
        "language": {
-        "raw": "de",
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23562",
+       "start": "2026-11-01T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 6"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23562&fid=1023868",
+       "language": {
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2668,15 +2287,15 @@
      "date": "2026-11-04",
      "screenings": [
       {
-       "id": "riffraff_houdini:2307169",
+       "id": "arena:23500",
        "start": "2026-11-04T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 6"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2307169#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23500&fid=1023868",
        "language": {
-        "raw": "de",
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2696,57 +2315,17 @@
        "guest": false,
        "english": false,
        "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "screenings": [
+      },
       {
-       "id": "riffraff_houdini:2312914",
-       "start": "2026-11-05T13:30+01:00",
-       "time": "13:30",
+       "id": "arena:23501",
+       "start": "2026-11-04T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 6"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2312914#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23501&fid=1023868",
        "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2309884",
-       "start": "2026-11-06T13:30+01:00",
-       "time": "13:30",
-       "auditoriums": [
-        "Houdini 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2309884#tickets",
-       "language": {
-        "raw": "de",
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2773,15 +2352,75 @@
      "date": "2026-11-07",
      "screenings": [
       {
-       "id": "riffraff_houdini:2312964",
+       "id": "arena:24043",
+       "start": "2026-11-07T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24043&fid=1023868",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24044",
        "start": "2026-11-07T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 14"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2312964#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24044&fid=1023868",
        "language": {
-        "raw": "de",
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24045",
+       "start": "2026-11-07T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24045&fid=1023868",
+       "language": {
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2808,15 +2447,45 @@
      "date": "2026-11-08",
      "screenings": [
       {
-       "id": "riffraff_houdini:2313014",
+       "id": "arena:24046",
+       "start": "2026-11-08T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24046&fid=1023868",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24047",
        "start": "2026-11-08T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 14"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313014#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24047&fid=1023868",
        "language": {
-        "raw": "de",
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2836,57 +2505,17 @@
        "guest": false,
        "english": false,
        "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "screenings": [
+      },
       {
-       "id": "riffraff_houdini:2313064",
-       "start": "2026-11-09T13:30+01:00",
-       "time": "13:30",
+       "id": "arena:24048",
+       "start": "2026-11-08T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 14"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313064#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24048&fid=1023868",
        "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2313114",
-       "start": "2026-11-10T13:30+01:00",
-       "time": "13:30",
-       "auditoriums": [
-        "Houdini 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313114#tickets",
-       "language": {
-        "raw": "de",
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2913,15 +2542,15 @@
      "date": "2026-11-11",
      "screenings": [
       {
-       "id": "riffraff_houdini:2313163",
+       "id": "arena:24049",
        "start": "2026-11-11T13:30+01:00",
        "time": "13:30",
        "auditoriums": [
-        "Houdini 3"
+        "Saal 14"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/emil-und-die-detektive.html?city=zurich&show=2313163#tickets",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24049&fid=1023868",
        "language": {
-        "raw": "de",
+        "raw": "DE",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -2932,6 +2561,172 @@
         "presentation": [],
         "assumed": true,
         "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24050",
+       "start": "2026-11-11T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Saal 14"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24050&fid=1023868",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Emil und die Detektive (Emil and the Detectives)",
+   "venue_title": "Emil und die Detektive",
+   "subtitle": null,
+   "original_title": "Emil und die Detektive",
+   "english_title": "Emil and the Detectives",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/emil-und-die-detektive",
+   "directors": [
+    "David Dietl"
+   ],
+   "year": 2026,
+   "runtime_min": 100,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1426805,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "emil-und-die-detektive-emil-and-the-detectives-2026",
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9773",
+       "start": "2026-10-31T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9773/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9818",
+       "start": "2026-11-01T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9818/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9882",
+       "start": "2026-11-04T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9882/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
        },
        "note": null,
        "note_lang": null,

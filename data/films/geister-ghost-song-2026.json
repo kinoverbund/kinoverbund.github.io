@@ -1710,11 +1710,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10022/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -1728,7 +1728,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -1805,11 +1805,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9987/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -1823,7 +1823,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       }
      ]
@@ -1840,11 +1840,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10025/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -1858,23 +1858,23 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
        "id": "kinokoni:50-9956",
-       "start": "2026-11-07T19:40+01:00",
-       "time": "19:40",
+       "start": "2026-11-07T20:40+01:00",
+       "time": "20:40",
        "auditoriums": [
         "Saal2"
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9956/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -1888,7 +1888,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       }
      ]
@@ -1905,11 +1905,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10044/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -1923,7 +1923,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -1935,11 +1935,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10036/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -1953,7 +1953,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -1965,11 +1965,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9970/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -1983,7 +1983,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       }
      ]
@@ -2000,11 +2000,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10032/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -2018,7 +2018,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -2030,11 +2030,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10013/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -2048,7 +2048,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       }
      ]
@@ -2065,11 +2065,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10033/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -2083,7 +2083,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -2095,11 +2095,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10006/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -2113,7 +2113,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       }
      ]
@@ -2130,11 +2130,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10027/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -2148,7 +2148,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -2160,11 +2160,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9946/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -2178,7 +2178,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       }
      ]

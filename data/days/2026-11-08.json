@@ -9938,7 +9938,7 @@
      "source": "kinokoni",
      "series": [],
      "labels": [],
-     "english": true,
+     "english": false,
      "curated": false,
      "curated_reasons": [],
      "new": true,
@@ -9952,11 +9952,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10044/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -9970,7 +9970,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -9982,11 +9982,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10036/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -10000,7 +10000,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       },
       {
@@ -10012,11 +10012,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9970/seats",
        "language": {
-        "raw": "Deutsch; Englisch Untertitel",
-        "description": "German; subtitles: English",
+        "raw": "Deutsch",
+        "description": "German",
         "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
+        "english_subtitles": false,
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -10030,7 +10030,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": false
       }
      ],
@@ -10564,7 +10564,7 @@
       "Christoph Rahm"
      ],
      "year": null,
-     "runtime_min": 79,
+     "runtime_min": 97,
      "country": null,
      "program_films": [],
      "tmdb_id": 1788437,
@@ -10573,7 +10573,7 @@
      "source": "kinokoni",
      "series": [],
      "labels": [],
-     "english": false,
+     "english": true,
      "curated": true,
      "curated_reasons": [
       "one venue"
@@ -10589,11 +10589,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10019/seats",
        "language": {
-        "raw": "Deutsch",
-        "description": "German",
+        "raw": "Deutsch; Englisch Untertitel",
+        "description": "German; subtitles: English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -10607,7 +10607,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": true
       }
      ],
