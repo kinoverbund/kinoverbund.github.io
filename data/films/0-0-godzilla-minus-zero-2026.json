@@ -25,7 +25,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "0-0-godzilla-minus-zero-2026",
    "series_slugs": {},
    "venue": "Arena Sihlcity",
@@ -1453,7 +1453,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "0-0-godzilla-minus-zero-2026",
    "series_slugs": {},
    "venue": "blue Metropol",
@@ -1729,7 +1729,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "0-0-godzilla-minus-zero-2026",
    "series_slugs": {},
    "venue": "blue Abaton",
@@ -2421,7 +2421,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "0-0-godzilla-minus-zero-2026",
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
@@ -2473,11 +2473,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9994/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -2491,7 +2491,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ]
@@ -2508,11 +2508,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10038/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -2526,7 +2526,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ]
@@ -2543,11 +2543,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9972/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -2561,7 +2561,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ]
@@ -2578,11 +2578,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10014/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -2596,7 +2596,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ]
@@ -2613,11 +2613,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9999/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -2631,7 +2631,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ]
@@ -2648,11 +2648,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10026/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -2666,7 +2666,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ]

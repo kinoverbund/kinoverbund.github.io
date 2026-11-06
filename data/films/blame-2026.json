@@ -8,7 +8,7 @@
    "original_title": "Blame",
    "english_title": "Blame",
    "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/blame-tribute-sessions",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/blame-mit-qa-tribute-sessions",
    "directors": [
     "Christian Frei"
    ],
@@ -23,8 +23,10 @@
    "series": [],
    "labels": [],
    "english": true,
-   "curated": false,
-   "curated_reasons": [],
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
    "new": false,
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
@@ -53,14 +55,14 @@
         "assumed": true,
         "raw": "2D"
        },
-       "note": null,
+       "note": "With Q&A",
        "note_lang": null,
        "series": [],
        "label": null,
        "last": false,
-       "guest": false,
+       "guest": true,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ]
     }

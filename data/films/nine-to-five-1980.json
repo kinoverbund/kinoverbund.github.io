@@ -33,7 +33,7 @@
     "rep",
     "special"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "nine-to-five-1980",
    "series_slugs": {
     "Weihnachtsprogramm am 24. Dezember": "weihnachtsprogramm-am-24-dezember-xenix"
@@ -44,11 +44,11 @@
      "date": "2026-12-18",
      "screenings": [
       {
-       "id": "xenix:9-to-5@2026-12-18T20:00:00",
+       "id": "xenix:702852",
        "start": "2026-12-18T20:00+01:00",
        "time": "20:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/702852",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -67,7 +67,7 @@
        "series": [
         "Weihnachtsprogramm am 24. Dezember"
        ],
-       "label": "INDOOR",
+       "label": null,
        "last": false,
        "guest": false,
        "english": true,
@@ -79,11 +79,11 @@
      "date": "2026-12-24",
      "screenings": [
       {
-       "id": "xenix:9-to-5@2026-12-24T21:00:00",
+       "id": "xenix:668574",
        "start": "2026-12-24T21:00+01:00",
        "time": "21:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/668574",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -114,11 +114,11 @@
      "date": "2027-01-01",
      "screenings": [
       {
-       "id": "xenix:9-to-5@2027-01-01T18:00:00",
+       "id": "xenix:153460",
        "start": "2027-01-01T18:00+01:00",
        "time": "18:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/153460",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -137,7 +137,7 @@
        "series": [
         "Weihnachtsprogramm am 24. Dezember"
        ],
-       "label": "INDOOR",
+       "label": null,
        "last": true,
        "guest": false,
        "english": true,

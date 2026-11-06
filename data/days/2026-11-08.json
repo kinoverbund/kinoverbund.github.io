@@ -30,7 +30,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24042",
@@ -396,7 +396,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24059",
@@ -666,7 +666,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24068",
@@ -1813,7 +1813,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23920",
@@ -2091,7 +2091,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24032",
@@ -2723,7 +2723,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23955",
@@ -4345,7 +4345,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339600",
@@ -4465,7 +4465,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339617",
@@ -4770,7 +4770,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339373",
@@ -5283,7 +5283,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339670",
@@ -5496,7 +5496,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339402",
@@ -6164,7 +6164,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339647",
@@ -7015,7 +7015,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339393",
@@ -7345,7 +7345,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339304",
@@ -7435,7 +7435,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339376",
@@ -8385,7 +8385,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339269",
@@ -8535,7 +8535,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339263",
@@ -9298,7 +9298,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2313004",
@@ -9478,7 +9478,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2313008",
@@ -9941,7 +9941,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10044",
@@ -10456,7 +10456,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-9969",
@@ -10578,7 +10578,7 @@
      "curated_reasons": [
       "one venue"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10019",
@@ -10819,10 +10819,10 @@
      "source": "kinokoni",
      "series": [],
      "labels": [],
-     "english": false,
+     "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-9972",
@@ -10833,11 +10833,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9972/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -10851,7 +10851,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ],
@@ -10889,7 +10889,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2310974",

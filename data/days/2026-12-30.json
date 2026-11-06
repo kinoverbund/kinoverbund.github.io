@@ -2,6 +2,74 @@
  "date": "2026-12-30",
  "venues": [
   {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "La La Land",
+     "venue_title": "La La Land",
+     "subtitle": null,
+     "original_title": "La La Land",
+     "english_title": "La La Land",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/after-credits-la-la-land",
+     "directors": [
+      "Damien Chazelle"
+     ],
+     "year": 2016,
+     "runtime_min": 130,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 313369,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10058",
+       "start": "2026-12-30T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10058/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Xenix",
    "operator": "Xenix",
    "address": null,
@@ -36,14 +104,14 @@
       "venue",
       "rep"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:sing@2026-12-30T14:30:00",
+       "id": "xenix:282236",
        "start": "2026-12-30T14:30+01:00",
        "time": "14:30",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/282236",
        "language": {
         "raw": "D",
         "description": "German",
@@ -104,14 +172,14 @@
       "rep",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:dead-poets-society@2026-12-30T16:45:00",
+       "id": "xenix:898437",
        "start": "2026-12-30T16:45+01:00",
        "time": "16:45",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/898437",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -172,14 +240,14 @@
       "rep",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:the-yellow-sea@2026-12-30T19:30:00",
+       "id": "xenix:334060",
        "start": "2026-12-30T19:30+01:00",
        "time": "19:30",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/334060",
        "language": {
         "raw": "OV/df",
         "description": "Original version; subtitles: German, French",
@@ -240,14 +308,14 @@
       "rep",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:the-cable-guy@2026-12-30T22:30:00",
+       "id": "xenix:177246",
        "start": "2026-12-30T22:30+01:00",
        "time": "22:30",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/177246",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",

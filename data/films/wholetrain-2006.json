@@ -31,7 +31,7 @@
     "rep",
     "special"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "Wie neu": "wie-neu-xenix"
    },
@@ -41,11 +41,11 @@
      "date": "2026-12-04",
      "screenings": [
       {
-       "id": "xenix:wholetrain@2026-12-04T20:00:00",
+       "id": "xenix:221663",
        "start": "2026-12-04T20:00+01:00",
        "time": "20:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/221663",
        "language": {
         "raw": "D",
         "description": "German",

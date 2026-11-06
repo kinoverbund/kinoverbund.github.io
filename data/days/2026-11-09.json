@@ -721,7 +721,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23876",
@@ -1087,7 +1087,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23869",
@@ -1633,7 +1633,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23871",
@@ -1693,7 +1693,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:23903",
@@ -3110,7 +3110,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339610",
@@ -3411,7 +3411,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339401",
@@ -3712,7 +3712,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339628",
@@ -4048,7 +4048,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339644",
@@ -4288,7 +4288,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339382",
@@ -4468,7 +4468,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339673",
@@ -5199,7 +5199,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339390",
@@ -5529,7 +5529,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339303",
@@ -5619,7 +5619,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339411",
@@ -6535,7 +6535,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339262",
@@ -6685,7 +6685,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3339268",
@@ -7448,7 +7448,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2313054",
@@ -7628,7 +7628,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2313058",
@@ -8207,7 +8207,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10032",
@@ -8294,10 +8294,10 @@
      "source": "kinokoni",
      "series": [],
      "labels": [],
-     "english": false,
+     "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10014",
@@ -8308,11 +8308,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10014/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Französisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, French",
+        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: German, English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -8326,7 +8326,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ],
@@ -8417,7 +8417,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10011",
@@ -8484,7 +8484,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2311022",
@@ -9323,7 +9323,7 @@
         "assumed": false,
         "raw": "Digital HD, Farbe, Scope"
        },
-       "note": "With two intermissions",
+       "note": null,
        "note_lang": null,
        "series": [
         "Paul Mescal"

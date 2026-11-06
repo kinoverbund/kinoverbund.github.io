@@ -31,41 +31,6 @@
    "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-10-29",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2306910",
-       "start": "2026-10-29T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Houdini 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/hope.html?city=zurich&show=2306910#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-10-30",
      "screenings": [
       {
@@ -516,7 +481,7 @@
     "venue",
     "special"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "hope-2026",
    "series_slugs": {
     "Na Hong-jin": "na-hong-jin-xenix"
@@ -527,11 +492,11 @@
      "date": "2026-12-09",
      "screenings": [
       {
-       "id": "xenix:hope@2026-12-09T20:15:00",
+       "id": "xenix:812560",
        "start": "2026-12-09T20:15+01:00",
        "time": "20:15",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/812560",
        "language": {
         "raw": "OV/df",
         "description": "Original version; subtitles: German, French",
@@ -543,7 +508,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": false,
-        "raw": "DCP, Farbe,Scope"
+        "raw": "DCP, Farbe, Scope"
        },
        "note": null,
        "note_lang": null,
@@ -562,11 +527,11 @@
      "date": "2026-12-21",
      "screenings": [
       {
-       "id": "xenix:hope@2026-12-21T17:00:00",
+       "id": "xenix:165183",
        "start": "2026-12-21T17:00+01:00",
        "time": "17:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/165183",
        "language": {
         "raw": "OV/df",
         "description": "Original version; subtitles: German, French",
@@ -578,7 +543,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": false,
-        "raw": "DCP, Farbe,Scope"
+        "raw": "DCP, Farbe, Scope"
        },
        "note": null,
        "note_lang": null,

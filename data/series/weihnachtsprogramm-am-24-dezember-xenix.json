@@ -7,7 +7,7 @@
   "Xenix": "https://www.xenix.ch/programm/dezember-2026/weihnachtsprogramm-am-24-dezember"
  },
  "about": {
-  "text": "We’ll be celebrating Christmas Eve together again this year at our traditional neighborhood event. Equipped with wool blankets, mulled wine, punch, and chili con/sin carne, we’ll be screening the enchanting animated film *Amélie and the Metaphysics of Pipes*—which was nominated for an Oscar this year—under the open-air sky. And indoors, we’ll be celebrating Dolly Parton with the ’80s comedy 9 TO 5, in which she shines alongside Jane Fonda and Lily Tomlin.",
+  "text": "We’ll be celebrating Christmas Eve together again this year at our traditional neighborhood event. With wool blankets, mulled wine, punch, and chili con/sin carne, we’ll be screening the enchanting animated film *Amélie and the Metaphysics of Pipes*—which was nominated for an Oscar this year—under the open-air sky. And indoors, we’ll be celebrating Dolly Parton with the ’80s comedy *9 TO 5*, in which she shines alongside Jane Fonda and Lily Tomlin.",
   "lang": "en",
   "venue": "Xenix",
   "url": "https://www.xenix.ch/programm/dezember-2026/weihnachtsprogramm-am-24-dezember",
@@ -36,9 +36,7 @@
    "series": [
     "Weihnachtsprogramm am 24. Dezember"
    ],
-   "labels": [
-    "INDOOR"
-   ],
+   "labels": [],
    "english": true,
    "curated": true,
    "curated_reasons": [
@@ -46,7 +44,7 @@
     "rep",
     "special"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "nine-to-five-1980",
    "series_slugs": {
     "Weihnachtsprogramm am 24. Dezember": "weihnachtsprogramm-am-24-dezember-xenix"
@@ -57,11 +55,11 @@
      "date": "2026-12-18",
      "screenings": [
       {
-       "id": "xenix:9-to-5@2026-12-18T20:00:00",
+       "id": "xenix:702852",
        "start": "2026-12-18T20:00+01:00",
        "time": "20:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/702852",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -80,7 +78,7 @@
        "series": [
         "Weihnachtsprogramm am 24. Dezember"
        ],
-       "label": "INDOOR",
+       "label": null,
        "last": false,
        "guest": false,
        "english": true,
@@ -92,11 +90,11 @@
      "date": "2026-12-24",
      "screenings": [
       {
-       "id": "xenix:9-to-5@2026-12-24T21:00:00",
+       "id": "xenix:668574",
        "start": "2026-12-24T21:00+01:00",
        "time": "21:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/668574",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -127,11 +125,11 @@
      "date": "2027-01-01",
      "screenings": [
       {
-       "id": "xenix:9-to-5@2027-01-01T18:00:00",
+       "id": "xenix:153460",
        "start": "2027-01-01T18:00+01:00",
        "time": "18:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/153460",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -150,7 +148,7 @@
        "series": [
         "Weihnachtsprogramm am 24. Dezember"
        ],
-       "label": "INDOOR",
+       "label": null,
        "last": true,
        "guest": false,
        "english": true,
@@ -192,7 +190,7 @@
     "venue",
     "special"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "Weihnachtsprogramm am 24. Dezember": "weihnachtsprogramm-am-24-dezember-xenix"
    },
@@ -202,11 +200,11 @@
      "date": "2026-12-24",
      "screenings": [
       {
-       "id": "xenix:amelie-et-la-metaphysique-des-tubes@2026-12-24T18:00:00",
+       "id": "xenix:767061",
        "start": "2026-12-24T18:00+01:00",
        "time": "18:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/767061",
        "language": {
         "raw": "F/d",
         "description": "French; subtitles: German",

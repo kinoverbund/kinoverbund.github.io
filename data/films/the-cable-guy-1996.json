@@ -31,7 +31,7 @@
     "rep",
     "special"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "the-cable-guy-1996",
    "series_slugs": {
     "Jim Carrey & Robin Williams": "jim-carrey-robin-williams-xenix"
@@ -42,11 +42,11 @@
      "date": "2026-12-05",
      "screenings": [
       {
-       "id": "xenix:the-cable-guy@2026-12-05T22:15:00",
+       "id": "xenix:360354",
        "start": "2026-12-05T22:15+01:00",
        "time": "22:15",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/360354",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -77,11 +77,11 @@
      "date": "2026-12-30",
      "screenings": [
       {
-       "id": "xenix:the-cable-guy@2026-12-30T22:30:00",
+       "id": "xenix:177246",
        "start": "2026-12-30T22:30+01:00",
        "time": "22:30",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/177246",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",

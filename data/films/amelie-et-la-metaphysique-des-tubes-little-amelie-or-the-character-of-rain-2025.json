@@ -33,7 +33,7 @@
     "venue",
     "special"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "Weihnachtsprogramm am 24. Dezember": "weihnachtsprogramm-am-24-dezember-xenix"
    },
@@ -43,11 +43,11 @@
      "date": "2026-12-24",
      "screenings": [
       {
-       "id": "xenix:amelie-et-la-metaphysique-des-tubes@2026-12-24T18:00:00",
+       "id": "xenix:767061",
        "start": "2026-12-24T18:00+01:00",
        "time": "18:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/767061",
        "language": {
         "raw": "F/d",
         "description": "French; subtitles: German",

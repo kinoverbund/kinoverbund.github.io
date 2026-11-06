@@ -65,36 +65,6 @@
        "curated": false
       },
       {
-       "id": "bluecinema:3334922",
-       "start": "2026-12-20T13:15+01:00",
-       "time": "13:15",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334922/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
        "id": "bluecinema:3335315",
        "start": "2026-12-20T13:30+01:00",
        "time": "13:30",
@@ -124,36 +94,6 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3334926",
-       "start": "2026-12-20T16:45+01:00",
-       "time": "16:45",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3334926/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
        "curated": false
       },
       {
@@ -997,14 +937,14 @@
       "venue",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:celtic-utopia@2026-12-20T12:00:00",
+       "id": "xenix:372052",
        "start": "2026-12-20T12:00+01:00",
        "time": "12:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/372052",
        "language": {
         "raw": "E•OV/e",
         "description": "English, Original version; subtitles: English",
@@ -1065,14 +1005,14 @@
       "venue",
       "rep"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:sing@2026-12-20T14:15:00",
+       "id": "xenix:539973",
        "start": "2026-12-20T14:15+01:00",
        "time": "14:15",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/539973",
        "language": {
         "raw": "D",
         "description": "German",
@@ -1133,14 +1073,14 @@
       "rep",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:hook@2026-12-20T16:45:00",
+       "id": "xenix:713487",
        "start": "2026-12-20T16:45+01:00",
        "time": "16:45",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/713487",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -1201,14 +1141,14 @@
       "rep",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:master-and-commander-the-far-side-of-the-world@2026-12-20T20:00:00",
+       "id": "xenix:676924",
        "start": "2026-12-20T20:00+01:00",
        "time": "20:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/676924",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",

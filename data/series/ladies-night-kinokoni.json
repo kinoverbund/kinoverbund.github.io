@@ -1,0 +1,84 @@
+{
+ "name": "Ladies Night",
+ "venues": [
+  "KINOKONI Zürich"
+ ],
+ "links": {},
+ "about": null,
+ "films": [
+  {
+   "title": "Focker-in-Law",
+   "venue_title": "Focker-in-Law",
+   "subtitle": null,
+   "original_title": "Focker-in-Law",
+   "english_title": "Focker-in-Law",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/ladiesnight-focker-in-law",
+   "directors": [
+    "John Hamburg"
+   ],
+   "year": 2026,
+   "runtime_min": 105,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1400336,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "Ladies Night"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "focker-in-law-2026",
+   "series_slugs": {
+    "Ladies Night": "ladies-night-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9748",
+       "start": "2026-11-25T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9748/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Ladies Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

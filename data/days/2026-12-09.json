@@ -370,14 +370,14 @@
       "venue",
       "rep"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:sing@2026-12-09T14:30:00",
+       "id": "xenix:939082",
        "start": "2026-12-09T14:30+01:00",
        "time": "14:30",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/939082",
        "language": {
         "raw": "D",
         "description": "German",
@@ -438,14 +438,14 @@
       "rep",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:lemony-snickets-a-series-of-unfortunate-events@2026-12-09T18:00:00",
+       "id": "xenix:814855",
        "start": "2026-12-09T18:00+01:00",
        "time": "18:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/814855",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
@@ -505,14 +505,14 @@
       "venue",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:hope@2026-12-09T20:15:00",
+       "id": "xenix:812560",
        "start": "2026-12-09T20:15+01:00",
        "time": "20:15",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/812560",
        "language": {
         "raw": "OV/df",
         "description": "Original version; subtitles: German, French",
@@ -524,7 +524,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": false,
-        "raw": "DCP, Farbe,Scope"
+        "raw": "DCP, Farbe, Scope"
        },
        "note": null,
        "note_lang": null,

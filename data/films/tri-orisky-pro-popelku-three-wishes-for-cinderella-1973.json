@@ -30,7 +30,7 @@
     "venue",
     "rep"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "Kinderkino": "kinderkino-xenix"
    },
@@ -40,11 +40,11 @@
      "date": "2026-12-25",
      "screenings": [
       {
-       "id": "xenix:drei-haselnuesse-fuer-aschenbroedel@2026-12-25T15:00:00",
+       "id": "xenix:327106",
        "start": "2026-12-25T15:00+01:00",
        "time": "15:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/327106",
        "language": {
         "raw": "D",
         "description": "German",

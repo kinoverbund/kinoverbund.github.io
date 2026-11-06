@@ -8,7 +8,7 @@
    "original_title": "Genesis 2.0",
    "english_title": "Genesis 2.0",
    "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/genesis-2-0-tribute-sessions",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/genesis-2-0-mit-qa-und-apero-tribute-sessions",
    "directors": [
     "Christian Frei",
     "Maxim Arbugaev"
@@ -26,7 +26,8 @@
    "english": true,
    "curated": true,
    "curated_reasons": [
-    "rep"
+    "rep",
+    "special"
    ],
    "new": false,
    "series_slugs": {},
@@ -56,14 +57,15 @@
         "assumed": true,
         "raw": "2D"
        },
-       "note": null,
+       "note": "With a Q&A and refreshments",
        "note_lang": null,
        "series": [],
        "label": null,
        "last": false,
-       "guest": false,
+       "guest": true,
        "english": true,
-       "curated": true
+       "curated": true,
+       "note_translated": true
       }
      ]
     }

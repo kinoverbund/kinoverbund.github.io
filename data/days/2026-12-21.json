@@ -858,14 +858,14 @@
       "venue",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:hope@2026-12-21T17:00:00",
+       "id": "xenix:165183",
        "start": "2026-12-21T17:00+01:00",
        "time": "17:00",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/165183",
        "language": {
         "raw": "OV/df",
         "description": "Original version; subtitles: German, French",
@@ -877,7 +877,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": false,
-        "raw": "DCP, Farbe,Scope"
+        "raw": "DCP, Farbe, Scope"
        },
        "note": null,
        "note_lang": null,
@@ -926,14 +926,14 @@
       "rep",
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
-       "id": "xenix:hook@2026-12-21T20:15:00",
+       "id": "xenix:430991",
        "start": "2026-12-21T20:15+01:00",
        "time": "20:15",
        "auditoriums": [],
-       "ticket_url": null,
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/430991",
        "language": {
         "raw": "E/d",
         "description": "English; subtitles: German",
