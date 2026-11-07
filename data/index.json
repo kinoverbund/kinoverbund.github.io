@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-06T04:41:47+01:00",
- "today": "2026-11-06",
+ "generated_at": "2026-11-07T04:42:27+01:00",
+ "today": "2026-11-07",
  "days": [
-  {
-   "date": "2026-10-30",
-   "screenings": 200,
-   "english": 94,
-   "curated": 26,
-   "film": 0
-  },
   {
    "date": "2026-10-31",
    "screenings": 266,
@@ -165,9 +158,9 @@
   },
   {
    "date": "2026-11-22",
-   "screenings": 13,
+   "screenings": 14,
    "english": 7,
-   "curated": 13,
+   "curated": 14,
    "film": 0
   },
   {
@@ -235,57 +228,57 @@
   },
   {
    "date": "2026-12-02",
-   "screenings": 8,
-   "english": 3,
+   "screenings": 9,
+   "english": 4,
    "curated": 7,
    "film": 0
   },
   {
    "date": "2026-12-03",
-   "screenings": 6,
-   "english": 5,
+   "screenings": 7,
+   "english": 6,
    "curated": 2,
    "film": 1
   },
   {
    "date": "2026-12-04",
-   "screenings": 7,
-   "english": 5,
+   "screenings": 8,
+   "english": 6,
    "curated": 3,
    "film": 0
   },
   {
    "date": "2026-12-05",
-   "screenings": 8,
-   "english": 6,
+   "screenings": 9,
+   "english": 7,
    "curated": 4,
    "film": 0
   },
   {
    "date": "2026-12-06",
-   "screenings": 10,
-   "english": 5,
+   "screenings": 11,
+   "english": 6,
    "curated": 6,
    "film": 0
   },
   {
    "date": "2026-12-07",
-   "screenings": 6,
-   "english": 5,
+   "screenings": 7,
+   "english": 6,
    "curated": 2,
    "film": 0
   },
   {
    "date": "2026-12-08",
-   "screenings": 9,
-   "english": 6,
+   "screenings": 10,
+   "english": 7,
    "curated": 5,
    "film": 1
   },
   {
    "date": "2026-12-09",
-   "screenings": 9,
-   "english": 6,
+   "screenings": 10,
+   "english": 7,
    "curated": 5,
    "film": 0
   },
@@ -333,9 +326,9 @@
   },
   {
    "date": "2026-12-16",
-   "screenings": 28,
-   "english": 18,
-   "curated": 4,
+   "screenings": 29,
+   "english": 19,
+   "curated": 5,
    "film": 0
   },
   {
@@ -361,9 +354,9 @@
   },
   {
    "date": "2026-12-20",
-   "screenings": 25,
-   "english": 19,
-   "curated": 5,
+   "screenings": 26,
+   "english": 20,
+   "curated": 6,
    "film": 0
   },
   {
@@ -566,31 +559,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-06T03:32:11+00:00"
+   "run_at": "2026-11-07T03:32:06+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-06T03:33:12+00:00"
+   "run_at": "2026-11-07T03:33:11+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-06T03:34:49+00:00"
+   "run_at": "2026-11-07T03:34:54+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-06T03:39:35+00:00"
+   "run_at": "2026-11-07T03:40:07+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-06T03:39:38+00:00"
+   "run_at": "2026-11-07T03:40:10+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-06T03:39:39+00:00"
+   "run_at": "2026-11-07T03:40:12+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-06T03:41:08+00:00"
+   "run_at": "2026-11-07T03:41:46+00:00"
   }
  },
  "venues": [
@@ -602,11 +595,10 @@
    "website": "https://www.arena.ch",
    "formats": [
     "dcp",
-    "onyx",
-    "4dx"
+    "4dx",
+    "onyx"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -622,7 +614,6 @@
     "2026-11-14"
    ],
    "screenings": {
-    "2026-10-30": 45,
     "2026-10-31": 75,
     "2026-11-01": 76,
     "2026-11-02": 45,
@@ -654,7 +645,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -697,7 +687,6 @@
     "2026-12-09"
    ],
    "screenings": {
-    "2026-10-30": 1,
     "2026-10-31": 4,
     "2026-11-01": 4,
     "2026-11-02": 4,
@@ -769,7 +758,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -789,7 +777,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-10-30": 3,
     "2026-10-31": 10,
     "2026-11-01": 10,
     "2026-11-02": 9,
@@ -815,12 +802,6 @@
    "since": 1977,
    "series": [
     {
-     "name": "Arthouse Kult",
-     "slug": "arthouse-kult-arthouse",
-     "first": "2026-10-30",
-     "last": "2026-12-18"
-    },
-    {
      "name": "HALLOWEEN im Arthouse Movie",
      "slug": "halloween-im-arthouse-movie-arthouse",
      "first": "2026-10-31",
@@ -843,6 +824,12 @@
      "slug": "kmg-worst-nights-arthouse",
      "first": "2026-11-06",
      "last": "2026-11-06"
+    },
+    {
+     "name": "Arthouse Kult",
+     "slug": "arthouse-kult-arthouse",
+     "first": "2026-11-27",
+     "last": "2026-12-18"
     }
    ]
   },
@@ -856,7 +843,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -886,7 +872,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-10-30": 4,
     "2026-10-31": 8,
     "2026-11-01": 10,
     "2026-11-02": 8,
@@ -955,7 +940,6 @@
     "infinity-vision"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -983,7 +967,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-30": 45,
     "2026-10-31": 60,
     "2026-11-01": 45,
     "2026-11-02": 36,
@@ -1019,7 +1002,7 @@
     {
      "name": "Halloweek",
      "slug": "halloweek-blue-cinema",
-     "first": "2026-10-30",
+     "first": "2026-10-31",
      "last": "2026-10-31"
     },
     {
@@ -1058,7 +1041,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -1073,7 +1055,6 @@
     "2026-11-11"
    ],
    "screenings": {
-    "2026-10-30": 24,
     "2026-10-31": 24,
     "2026-11-01": 24,
     "2026-11-02": 24,
@@ -1096,7 +1077,7 @@
     {
      "name": "Halloweek",
      "slug": "halloweek-blue-cinema",
-     "first": "2026-10-30",
+     "first": "2026-10-31",
      "last": "2026-10-31"
     }
    ]
@@ -1111,7 +1092,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -1136,7 +1116,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-30": 12,
     "2026-10-31": 12,
     "2026-11-01": 9,
     "2026-11-02": 12,
@@ -1184,7 +1163,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -1209,7 +1187,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-30": 6,
     "2026-10-31": 6,
     "2026-11-01": 6,
     "2026-11-02": 6,
@@ -1297,7 +1274,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -1324,10 +1300,10 @@
     "2026-12-07",
     "2026-12-08",
     "2026-12-09",
-    "2026-12-15"
+    "2026-12-15",
+    "2026-12-16"
    ],
    "screenings": {
-    "2026-10-30": 25,
     "2026-10-31": 25,
     "2026-11-01": 23,
     "2026-11-02": 25,
@@ -1354,7 +1330,8 @@
     "2026-12-07": 2,
     "2026-12-08": 2,
     "2026-12-09": 2,
-    "2026-12-15": 1
+    "2026-12-15": 1,
+    "2026-12-16": 1
    },
    "sources": [
     "riffraff_houdini"
@@ -1380,7 +1357,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -1400,6 +1376,14 @@
     "2026-11-22",
     "2026-11-25",
     "2026-11-27",
+    "2026-12-02",
+    "2026-12-03",
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07",
+    "2026-12-08",
+    "2026-12-09",
     "2026-12-15",
     "2026-12-16",
     "2026-12-17",
@@ -1412,7 +1396,6 @@
     "2026-12-30"
    ],
    "screenings": {
-    "2026-10-30": 11,
     "2026-10-31": 18,
     "2026-11-01": 18,
     "2026-11-02": 12,
@@ -1432,6 +1415,14 @@
     "2026-11-22": 5,
     "2026-11-25": 1,
     "2026-11-27": 1,
+    "2026-12-02": 1,
+    "2026-12-03": 1,
+    "2026-12-04": 1,
+    "2026-12-05": 1,
+    "2026-12-06": 1,
+    "2026-12-07": 1,
+    "2026-12-08": 1,
+    "2026-12-09": 1,
     "2026-12-15": 1,
     "2026-12-16": 2,
     "2026-12-17": 2,
@@ -1497,7 +1488,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -1546,7 +1536,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-10-30": 21,
     "2026-10-31": 21,
     "2026-11-01": 21,
     "2026-11-02": 17,
@@ -1565,7 +1554,7 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 1,
-    "2026-11-22": 1,
+    "2026-11-22": 2,
     "2026-11-24": 1,
     "2026-11-25": 2,
     "2026-11-26": 1,
@@ -1587,7 +1576,7 @@
     "2026-12-16": 1,
     "2026-12-18": 1,
     "2026-12-19": 1,
-    "2026-12-20": 1,
+    "2026-12-20": 2,
     "2026-12-27": 1,
     "2027-01-17": 1,
     "2027-01-20": 1,
@@ -1632,7 +1621,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-10-30",
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
@@ -1702,7 +1690,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-10-30": 3,
     "2026-10-31": 3,
     "2026-11-01": 3,
     "2026-11-02": 2,
@@ -1778,22 +1765,22 @@
    "since": 1980,
    "series": [
     {
+     "name": "Double Feature «Halloween»",
+     "slug": "double-feature-halloween-xenix",
+     "first": "2026-10-31",
+     "last": "2026-10-31"
+    },
+    {
      "name": "Paul Mescal",
      "slug": "paul-mescal-xenix",
-     "first": "2026-10-30",
+     "first": "2026-10-31",
      "last": "2026-12-02"
     },
     {
      "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
      "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-     "first": "2026-10-30",
-     "last": "2026-11-30"
-    },
-    {
-     "name": "Double Feature «Halloween»",
-     "slug": "double-feature-halloween-xenix",
      "first": "2026-10-31",
-     "last": "2026-10-31"
+     "last": "2026-11-30"
     },
     {
      "name": "Dokfilm am Sonntag",
@@ -1977,7 +1964,6 @@
    "avengers-doomsday-2026",
    "barbara-forever-2026",
    "bashu-the-little-stranger-1986",
-   "beans-2020",
    "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
    "blade-runner-1982",
    "blame-2026",
@@ -2049,7 +2035,7 @@
    "kurzfilmprogramm-wo-wir-herkommen",
    "la-bola-negra-2026",
    "la-classe-operaia-va-in-paradiso-the-working-class-goes-to-heaven-short-staplerfahrer-klaus-der-erste-arbeitstag-forklift-driver-klaus-the-first-day-on-the-job",
-   "la-haine-1995",
+   "la-haine-2021",
    "la-la-land-2016",
    "la-ligne-the-line-2022",
    "leave-no-trace-2018",
@@ -2058,6 +2044,7 @@
    "little-bird-2023",
    "lola-rennt-run-lola-run-1998",
    "look-back-2024",
+   "mad-max-quadruple-feature-1979",
    "man-on-the-moon-1999",
    "marsupilami-2026",
    "master-and-commander-the-far-side-of-the-world-2003",
@@ -2083,7 +2070,6 @@
    "only-lovers-left-alive-2013",
    "orwell-2-2-5-2025",
    "other-mommy-2026",
-   "out-of-the-picture-2025",
    "p-s-i-love-you-2007",
    "paradies-paradies-paradise-paradise-2016",
    "paw-patrol-the-dino-movie-2026",
@@ -2097,8 +2083,6 @@
    "reya-penaber-the-path-of-the-refugee-2026",
    "riffraff-roulette",
    "rockstar-matthias",
-   "samurai-cop-1991",
-   "sanatorium-2025",
    "saturday-night-fever-1977",
    "seeds-2024",
    "sense-and-sensibility-2026",

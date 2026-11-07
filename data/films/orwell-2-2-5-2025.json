@@ -24,7 +24,6 @@
     "Sneaky Sunday"
    ],
    "labels": [
-    "Preview",
     "Sneaky Sunday"
    ],
    "english": true,
@@ -39,41 +38,6 @@
    },
    "venue": "Riffraff",
    "dates": [
-    {
-     "date": "2026-10-30",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2287916",
-       "start": "2026-10-30T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Riffraff 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2287916#tickets",
-       "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": "Preview",
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
     {
      "date": "2026-11-08",
      "screenings": [
@@ -104,7 +68,7 @@
         "Sneaky Sunday"
        ],
        "label": "Sneaky Sunday",
-       "last": true,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": true

@@ -3122,6 +3122,41 @@
        "curated": true
       }
      ]
+    },
+    {
+     "date": "2026-12-16",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316983",
+       "start": "2026-12-16T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dune-part-three.html?city=zurich&show=2316983#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
     }
    ]
   }

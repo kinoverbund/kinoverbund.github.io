@@ -954,6 +954,160 @@
    ]
   },
   {
+   "title": "Mad Max Quadruple Feature",
+   "venue_title": "Mad Max Quadruple Feature",
+   "subtitle": null,
+   "original_title": null,
+   "english_title": null,
+   "kind": "program",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/mad-max-quadruple-feature.html",
+   "directors": [],
+   "year": 1979,
+   "runtime_min": 416,
+   "country": null,
+   "program_films": [
+    {
+     "title": "Mad Max",
+     "original_title": "Mad Max",
+     "directors": [
+      "George Miller"
+     ],
+     "year": 1979,
+     "runtime_min": 91,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "14:30",
+     "notes": [],
+     "venue_title": "Mad Max",
+     "english_title": "Mad Max",
+     "tmdb_id": 9659,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    },
+    {
+     "title": "Mad Max 2",
+     "original_title": "Mad Max 2",
+     "directors": [
+      "George Miller"
+     ],
+     "year": 1981,
+     "runtime_min": 96,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "16:30",
+     "notes": [],
+     "venue_title": "Mad Max 2",
+     "english_title": "Mad Max 2",
+     "tmdb_id": 8810,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    },
+    {
+     "title": "Mad Max 3: Beyond the Thunderdome",
+     "original_title": null,
+     "directors": [
+      "George Miller"
+     ],
+     "year": null,
+     "runtime_min": null,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "18:30",
+     "notes": [],
+     "language": null,
+     "format": null
+    },
+    {
+     "title": "Mad Max: Fury Road",
+     "original_title": "Mad Max: Fury Road",
+     "directors": [
+      "George Miller"
+     ],
+     "year": 2015,
+     "runtime_min": 121,
+     "country": null,
+     "language_raw": null,
+     "format_raw": null,
+     "start": "20:40",
+     "notes": [],
+     "venue_title": "Mad Max: Fury Road",
+     "english_title": "Mad Max: Fury Road",
+     "tmdb_id": 76341,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "language": null,
+     "format": null
+    }
+   ],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-12-20",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316988",
+       "start": "2026-12-20T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/mad-max-quadruple-feature.html?city=zurich&show=2316988#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
    "title": "The Lord of the Rings Trilogy (Extended)",
    "venue_title": "The Lord of the Rings Trilogy (Extended)",
    "subtitle": null,

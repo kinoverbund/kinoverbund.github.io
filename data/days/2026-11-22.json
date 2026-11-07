@@ -485,6 +485,70 @@
    "address": null,
    "listings": [
     {
+     "title": "Das unendliche Jetzt",
+     "venue_title": "Das unendliche Jetzt",
+     "subtitle": null,
+     "original_title": "Das unendliche Jetzt",
+     "english_title": "Das unendliche Jetzt",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/das-unendliche-jetzt.html",
+     "directors": [
+      "Kaspar Kasics"
+     ],
+     "year": 2026,
+     "runtime_min": 98,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1770967,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Special"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": false,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2310248",
+       "start": "2026-11-22T11:00+01:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/das-unendliche-jetzt.html?city=zurich&show=2310248#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "das-unendliche-jetzt-2026",
+     "series_slugs": {}
+    },
+    {
      "title": "Enjoy Your Stay",
      "venue_title": "Enjoy Your Stay",
      "subtitle": null,

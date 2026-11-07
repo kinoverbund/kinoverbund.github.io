@@ -7,23 +7,23 @@
    "address": null,
    "listings": [
     {
-     "title": "ゴジラ-0.0 (Godzilla Minus Zero)",
-     "venue_title": "Godzilla Minus Zero",
+     "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
      "subtitle": null,
-     "original_title": "ゴジラ-0.0",
-     "english_title": "Godzilla Minus Zero",
+     "original_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "english_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
      "kind": "film",
-     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025116",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022702",
      "directors": [
-      "Takashi Yamazaki"
+      "Gregor Schnitzler"
      ],
      "year": 2026,
-     "runtime_min": 135,
+     "runtime_min": 90,
      "country": null,
      "program_films": [],
-     "tmdb_id": 1381071,
+     "tmdb_id": 1492574,
      "tmdb_kind": "movie",
-     "original_language": "ja",
+     "original_language": "de",
      "source": "arena",
      "series": [],
      "labels": [],
@@ -39,7 +39,7 @@
        "auditoriums": [
         "Saal 12"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24041&fid=1025116",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24041&fid=1022702",
        "language": {
         "raw": "DE",
         "description": "German",
@@ -63,169 +63,13 @@
        "curated": false
       },
       {
-       "id": "arena:23772",
-       "start": "2026-11-07T14:45+01:00",
-       "time": "14:45",
+       "id": "arena:24064",
+       "start": "2026-11-07T13:40+01:00",
+       "time": "13:40",
        "auditoriums": [
-        "Saal 8"
+        "Saal 18"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23772&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23770",
-       "start": "2026-11-07T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Saal 7"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23770&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23776",
-       "start": "2026-11-07T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23776&fid=1025116",
-       "language": {
-        "raw": "OV/de",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23779",
-       "start": "2026-11-07T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Saal 10"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23779&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23777",
-       "start": "2026-11-07T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23777&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23771",
-       "start": "2026-11-07T20:45+01:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Saal 7"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23771&fid=1025116",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24064&fid=1022702",
        "language": {
         "raw": "DE",
         "description": "German",
@@ -249,7 +93,7 @@
        "curated": false
       }
      ],
-     "film_slug": "0-0-godzilla-minus-zero-2026",
+     "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
      "series_slugs": {}
     },
     {
@@ -1670,23 +1514,23 @@
      "series_slugs": {}
     },
     {
-     "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "title": "रामायण (Ramayana: Rise of a Legend)",
+     "venue_title": "Ramayana: Rise of a Legend",
      "subtitle": null,
-     "original_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "english_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "original_title": "रामायण",
+     "english_title": "Ramayana: Rise of a Legend",
      "kind": "film",
-     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1022702",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025368",
      "directors": [
-      "Gregor Schnitzler"
+      "Nitesh Tiwari"
      ],
      "year": 2026,
-     "runtime_min": 90,
+     "runtime_min": 160,
      "country": null,
      "program_films": [],
-     "tmdb_id": 1492574,
+     "tmdb_id": 656908,
      "tmdb_kind": "movie",
-     "original_language": "de",
+     "original_language": "hi",
      "source": "arena",
      "series": [],
      "labels": [],
@@ -1696,16 +1540,46 @@
      "new": false,
      "screenings": [
       {
-       "id": "arena:24064",
-       "start": "2026-11-07T13:40+01:00",
-       "time": "13:40",
+       "id": "arena:23772",
+       "start": "2026-11-07T14:00+01:00",
+       "time": "14:00",
        "auditoriums": [
-        "Saal 18"
+        "Saal 8"
        ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24064&fid=1022702",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23772&fid=1025368",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "OV/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23799",
+       "start": "2026-11-07T19:40+01:00",
+       "time": "19:40",
+       "auditoriums": [
+        "Saal 17"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23799&fid=1025368",
+       "language": {
+        "raw": "OV/de",
+        "description": "Original version; subtitles: German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -1726,7 +1600,7 @@
        "curated": false
       }
      ],
-     "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
+     "film_slug": "ramayana-rise-of-a-legend-2026",
      "series_slugs": {}
     },
     {
@@ -2155,6 +2029,192 @@
       }
      ],
      "film_slug": "je-so-pazzo-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "ゴジラ-0.0 (Godzilla Minus Zero)",
+     "venue_title": "Godzilla Minus Zero",
+     "subtitle": null,
+     "original_title": "ゴジラ-0.0",
+     "english_title": "Godzilla Minus Zero",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025116",
+     "directors": [
+      "Takashi Yamazaki"
+     ],
+     "year": 2026,
+     "runtime_min": 135,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1381071,
+     "tmdb_kind": "movie",
+     "original_language": "ja",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "arena:23770",
+       "start": "2026-11-07T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Saal 7"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23770&fid=1025116",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23776",
+       "start": "2026-11-07T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Saal 9"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23776&fid=1025116",
+       "language": {
+        "raw": "OV/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23779",
+       "start": "2026-11-07T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Saal 10"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23779&fid=1025116",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23777",
+       "start": "2026-11-07T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Saal 9"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23777&fid=1025116",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:23771",
+       "start": "2026-11-07T20:45+01:00",
+       "time": "20:45",
+       "auditoriums": [
+        "Saal 7"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23771&fid=1025116",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "0-0-godzilla-minus-zero-2026",
      "series_slugs": {}
     },
     {
@@ -2727,66 +2787,6 @@
       }
      ],
      "film_slug": "cocorico-2-2026",
-     "series_slugs": {}
-    },
-    {
-     "title": "रामायण (Ramayana: Rise of a Legend)",
-     "venue_title": "Ramayana: Rise of a Legend",
-     "subtitle": null,
-     "original_title": "रामायण",
-     "english_title": "Ramayana: Rise of a Legend",
-     "kind": "film",
-     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025368",
-     "directors": [
-      "Nitesh Tiwari"
-     ],
-     "year": 2026,
-     "runtime_min": 160,
-     "country": null,
-     "program_films": [],
-     "tmdb_id": 656908,
-     "tmdb_kind": "movie",
-     "original_language": "hi",
-     "source": "arena",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "arena:23799",
-       "start": "2026-11-07T19:40+01:00",
-       "time": "19:40",
-       "auditoriums": [
-        "Saal 17"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23799&fid=1025368",
-       "language": {
-        "raw": "OV/de",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "ramayana-rise-of-a-legend-2026",
      "series_slugs": {}
     },
     {
@@ -3461,7 +3461,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2311576",
@@ -3551,7 +3551,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2311573",
@@ -3948,7 +3948,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2311471",
@@ -4008,7 +4008,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2311478",
@@ -4068,7 +4068,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2311480",
@@ -6503,7 +6503,6 @@
        "curated": false
       }
      ],
-     "film_slug": "mutiny-2026",
      "series_slugs": {}
     }
    ]
@@ -11536,7 +11535,6 @@
        "curated": true
       }
      ],
-     "film_slug": "teenage-sex-and-death-at-camp-miasma-2026",
      "series_slugs": {}
     },
     {
@@ -11598,7 +11596,6 @@
        "curated": true
       }
      ],
-     "film_slug": "udta-teer-2026",
      "series_slugs": {}
     },
     {
@@ -11661,7 +11658,6 @@
        "curated": true
       }
      ],
-     "film_slug": "jim-queen-jim-queen-and-the-quest-for-chloroqueer-2026",
      "series_slugs": {}
     }
    ]

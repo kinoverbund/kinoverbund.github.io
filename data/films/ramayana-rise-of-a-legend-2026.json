@@ -684,6 +684,36 @@
      "date": "2026-11-07",
      "screenings": [
       {
+       "id": "arena:23772",
+       "start": "2026-11-07T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23772&fid=1025368",
+       "language": {
+        "raw": "OV/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
        "id": "arena:23799",
        "start": "2026-11-07T19:40+01:00",
        "time": "19:40",

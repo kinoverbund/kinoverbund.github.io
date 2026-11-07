@@ -15,436 +15,6 @@
  },
  "films": [
   {
-   "title": "Aftersun",
-   "venue_title": "Aftersun",
-   "subtitle": null,
-   "original_title": "Aftersun",
-   "english_title": "Aftersun",
-   "kind": "film",
-   "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/aftersun",
-   "directors": [
-    "Charlotte Wells"
-   ],
-   "year": 2022,
-   "runtime_min": 101,
-   "country": "GB/USA",
-   "program_films": [],
-   "tmdb_id": 965150,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "xenix",
-   "series": [
-    "Paul Mescal"
-   ],
-   "labels": [],
-   "english": true,
-   "curated": true,
-   "curated_reasons": [
-    "venue",
-    "one venue",
-    "rep",
-    "special"
-   ],
-   "new": false,
-   "film_slug": "aftersun-2022",
-   "series_slugs": {
-    "Paul Mescal": "paul-mescal-xenix"
-   },
-   "venue": "Xenix",
-   "dates": [
-    {
-     "date": "2026-10-30",
-     "screenings": [
-      {
-       "id": "xenix:302109",
-       "start": "2026-10-30T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/302109",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "DCP, Farbe"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-23",
-     "screenings": [
-      {
-       "id": "xenix:568196",
-       "start": "2026-11-23T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/568196",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "DCP, Farbe"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-24",
-     "screenings": [
-      {
-       "id": "xenix:161463",
-       "start": "2026-11-24T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/161463",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "DCP, Farbe"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "screenings": [
-      {
-       "id": "xenix:551739",
-       "start": "2026-11-26T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/551739",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "DCP, Farbe"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": true,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "All of Us Strangers",
-   "venue_title": "All of Us Strangers",
-   "subtitle": null,
-   "original_title": "All of Us Strangers",
-   "english_title": "All of Us Strangers",
-   "kind": "film",
-   "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/all-of-us-strangers",
-   "directors": [
-    "Andrew Haigh"
-   ],
-   "year": 2023,
-   "runtime_min": 105,
-   "country": "GB/USA",
-   "program_films": [],
-   "tmdb_id": 994108,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "xenix",
-   "series": [
-    "Paul Mescal"
-   ],
-   "labels": [],
-   "english": true,
-   "curated": true,
-   "curated_reasons": [
-    "venue",
-    "one venue",
-    "rep",
-    "special"
-   ],
-   "new": false,
-   "film_slug": "all-of-us-strangers-2023",
-   "series_slugs": {
-    "Paul Mescal": "paul-mescal-xenix"
-   },
-   "venue": "Xenix",
-   "dates": [
-    {
-     "date": "2026-10-30",
-     "screenings": [
-      {
-       "id": "xenix:777144",
-       "start": "2026-10-30T22:00+01:00",
-       "time": "22:00",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/777144",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "4K DCP, Farbe, Scope"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "screenings": [
-      {
-       "id": "xenix:963546",
-       "start": "2026-11-12T21:15+01:00",
-       "time": "21:15",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/963546",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "4K DCP, Farbe, Scope"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "screenings": [
-      {
-       "id": "xenix:589556",
-       "start": "2026-11-13T22:15+01:00",
-       "time": "22:15",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/589556",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "4K DCP, Farbe, Scope"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "screenings": [
-      {
-       "id": "xenix:258293",
-       "start": "2026-11-14T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/258293",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "4K DCP, Farbe, Scope"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "screenings": [
-      {
-       "id": "xenix:296905",
-       "start": "2026-11-25T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/296905",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "4K DCP, Farbe, Scope"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "screenings": [
-      {
-       "id": "xenix:813477",
-       "start": "2026-11-27T22:15+01:00",
-       "time": "22:15",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/813477",
-       "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "4K DCP, Farbe, Scope"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Paul Mescal"
-       ],
-       "label": null,
-       "last": true,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    }
-   ]
-  },
-  {
    "title": "The Lost Daughter",
    "venue_title": "The Lost Daughter",
    "subtitle": null,
@@ -654,7 +224,6 @@
     "special"
    ],
    "new": false,
-   "film_slug": "hamnet-2025",
    "series_slugs": {
     "Paul Mescal": "paul-mescal-xenix"
    },
@@ -1275,6 +844,221 @@
    ]
   },
   {
+   "title": "All of Us Strangers",
+   "venue_title": "All of Us Strangers",
+   "subtitle": null,
+   "original_title": "All of Us Strangers",
+   "english_title": "All of Us Strangers",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/all-of-us-strangers",
+   "directors": [
+    "Andrew Haigh"
+   ],
+   "year": 2023,
+   "runtime_min": 105,
+   "country": "GB/USA",
+   "program_films": [],
+   "tmdb_id": 994108,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Paul Mescal"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "one venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "all-of-us-strangers-2023",
+   "series_slugs": {
+    "Paul Mescal": "paul-mescal-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-12",
+     "screenings": [
+      {
+       "id": "xenix:963546",
+       "start": "2026-11-12T21:15+01:00",
+       "time": "21:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/963546",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "screenings": [
+      {
+       "id": "xenix:589556",
+       "start": "2026-11-13T22:15+01:00",
+       "time": "22:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/589556",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "xenix:258293",
+       "start": "2026-11-14T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/258293",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "xenix:296905",
+       "start": "2026-11-25T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/296905",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "xenix:813477",
+       "start": "2026-11-27T22:15+01:00",
+       "time": "22:15",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/813477",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
    "title": "The History of Sound",
    "venue_title": "The History of Sound",
    "subtitle": null,
@@ -1586,6 +1370,150 @@
         "presentation": [],
         "assumed": false,
         "raw": "4K DCP, Farbe, Scope"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Aftersun",
+   "venue_title": "Aftersun",
+   "subtitle": null,
+   "original_title": "Aftersun",
+   "english_title": "Aftersun",
+   "kind": "film",
+   "film_url": "https://www.xenix.ch/programm/november-2026/paul-mescal/aftersun",
+   "directors": [
+    "Charlotte Wells"
+   ],
+   "year": 2022,
+   "runtime_min": 101,
+   "country": "GB/USA",
+   "program_films": [],
+   "tmdb_id": 965150,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "xenix",
+   "series": [
+    "Paul Mescal"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "venue",
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "film_slug": "aftersun-2022",
+   "series_slugs": {
+    "Paul Mescal": "paul-mescal-xenix"
+   },
+   "venue": "Xenix",
+   "dates": [
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "xenix:568196",
+       "start": "2026-11-23T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/568196",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "xenix:161463",
+       "start": "2026-11-24T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/161463",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Paul Mescal"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "xenix:551739",
+       "start": "2026-11-26T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/551739",
+       "language": {
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": false,
+        "raw": "DCP, Farbe"
        },
        "note": null,
        "note_lang": null,
