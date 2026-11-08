@@ -1510,7 +1510,6 @@
        "curated": false
       }
      ],
-     "film_slug": "paw-patrol-the-dino-movie-2026",
      "series_slugs": {}
     },
     {
@@ -1786,6 +1785,70 @@
        "guest": false,
        "english": true,
        "curated": false
+      },
+      {
+       "id": "arena:24092",
+       "start": "2026-11-08T17:35+01:00",
+       "time": "17:35",
+       "auditoriums": [
+        "Saal 9 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24092&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24093",
+       "start": "2026-11-08T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Saal 9 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24093&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
       }
      ],
      "film_slug": "spider-man-brand-new-day-2026",
@@ -1878,38 +1941,6 @@
        "curated": false
       },
       {
-       "id": "arena:23932",
-       "start": "2026-11-08T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23932&fid=1025116",
-       "language": {
-        "raw": "OV/de",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
        "id": "arena:23935",
        "start": "2026-11-08T18:00+01:00",
        "time": "18:00",
@@ -1917,38 +1948,6 @@
         "Saal 10"
        ],
        "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23935&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23933",
-       "start": "2026-11-08T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23933&fid=1025116",
        "language": {
         "raw": "DE",
         "description": "German",
@@ -2124,7 +2123,6 @@
        "curated": false
       }
      ],
-     "film_slug": "je-so-pazzo-2026",
      "series_slugs": {}
     },
     {

@@ -8,18 +8,18 @@
    "original_title": "Ojczyzna",
    "english_title": "Fatherland",
    "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
+   "film_url": "https://arthouse.ch/movies/vaterland",
    "directors": [
     "Pawel Pawlikowski"
    ],
    "year": 2026,
    "runtime_min": 82,
-   "country": null,
+   "country": "Deutschland",
    "program_films": [],
    "tmdb_id": 1437696,
    "tmdb_kind": "movie",
    "original_language": "pl",
-   "source": "riffraff_houdini",
+   "source": "arthouse",
    "series": [],
    "labels": [],
    "english": false,
@@ -28,111 +28,21 @@
    "new": false,
    "film_slug": "ojczyzna-fatherland-2026",
    "series_slugs": {},
-   "venue": "Houdini",
+   "venue": "Arthouse Piccadilly",
    "dates": [
     {
-     "date": "2026-10-31",
+     "date": "2026-11-01",
      "screenings": [
       {
-       "id": "riffraff_houdini:2306977",
-       "start": "2026-10-31T11:30+01:00",
-       "time": "11:30",
+       "id": "arthouse:2307864",
+       "start": "2026-11-01T15:40+01:00",
+       "time": "15:40",
        "auditoriums": [
-        "Houdini 3"
+        "Piccadilly 1"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306977#tickets",
+       "ticket_url": "https://arthouse.ch/tickets/2307864",
        "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2306970",
-       "start": "2026-10-31T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306970#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2306971",
-       "start": "2026-10-31T19:10+01:00",
-       "time": "19:10",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306971#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2306972",
-       "start": "2026-10-31T21:10+01:00",
-       "time": "21:10",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2306972#tickets",
-       "language": {
-        "raw": "de",
+        "raw": "D",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -155,6 +65,142 @@
       }
      ]
     },
+    {
+     "date": "2026-11-02",
+     "screenings": [
+      {
+       "id": "arthouse:2307875",
+       "start": "2026-11-02T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2307875",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "screenings": [
+      {
+       "id": "arthouse:2307886",
+       "start": "2026-11-03T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2307886",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "arthouse:2307897",
+       "start": "2026-11-04T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2307897",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ojczyzna (Fatherland)",
+   "venue_title": "Vaterland",
+   "subtitle": null,
+   "original_title": "Ojczyzna",
+   "english_title": "Fatherland",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
+   "directors": [
+    "Pawel Pawlikowski"
+   ],
+   "year": 2026,
+   "runtime_min": 82,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1437696,
+   "tmdb_kind": "movie",
+   "original_language": "pl",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "ojczyzna-fatherland-2026",
+   "series_slugs": {},
+   "venue": "Houdini",
+   "dates": [
     {
      "date": "2026-11-01",
      "screenings": [
@@ -1089,212 +1135,6 @@
    "original_title": "Ojczyzna",
    "english_title": "Fatherland",
    "kind": "film",
-   "film_url": "https://arthouse.ch/movies/vaterland",
-   "directors": [
-    "Pawel Pawlikowski"
-   ],
-   "year": 2026,
-   "runtime_min": 82,
-   "country": "Deutschland",
-   "program_films": [],
-   "tmdb_id": 1437696,
-   "tmdb_kind": "movie",
-   "original_language": "pl",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "ojczyzna-fatherland-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Piccadilly",
-   "dates": [
-    {
-     "date": "2026-10-31",
-     "screenings": [
-      {
-       "id": "arthouse:2307853",
-       "start": "2026-10-31T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307853",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "screenings": [
-      {
-       "id": "arthouse:2307864",
-       "start": "2026-11-01T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307864",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "screenings": [
-      {
-       "id": "arthouse:2307875",
-       "start": "2026-11-02T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307875",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "screenings": [
-      {
-       "id": "arthouse:2307886",
-       "start": "2026-11-03T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307886",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "arthouse:2307897",
-       "start": "2026-11-04T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307897",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Ojczyzna (Fatherland)",
-   "venue_title": "Vaterland",
-   "subtitle": null,
-   "original_title": "Ojczyzna",
-   "english_title": "Fatherland",
-   "kind": "film",
    "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/vaterland",
    "directors": [
     "Paweł Pawlikowski"
@@ -1317,41 +1157,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-10-31",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9833",
-       "start": "2026-10-31T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9833/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-01",
      "screenings": [
@@ -1523,41 +1328,6 @@
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-10-31",
-     "screenings": [
-      {
-       "id": "arthouse:2307734",
-       "start": "2026-10-31T18:10+01:00",
-       "time": "18:10",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307734",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-02",
      "screenings": [

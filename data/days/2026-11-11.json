@@ -1364,6 +1364,38 @@
        "guest": false,
        "english": true,
        "curated": false
+      },
+      {
+       "id": "arena:24095",
+       "start": "2026-11-11T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Saal 9 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24095&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": false
       }
      ],
      "film_slug": "spider-man-brand-new-day-2026",
@@ -1456,38 +1488,6 @@
        "curated": false
       },
       {
-       "id": "arena:23984",
-       "start": "2026-11-11T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23984&fid=1025116",
-       "language": {
-        "raw": "OV/de",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
        "id": "arena:23987",
        "start": "2026-11-11T18:00+01:00",
        "time": "18:00",
@@ -1495,38 +1495,6 @@
         "Saal 10"
        ],
        "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23987&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23985",
-       "start": "2026-11-11T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23985&fid=1025116",
        "language": {
         "raw": "DE",
         "description": "German",
@@ -5298,7 +5266,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": false

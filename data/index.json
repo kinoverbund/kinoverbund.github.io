@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-07T04:42:27+01:00",
- "today": "2026-11-07",
+ "generated_at": "2026-11-08T04:42:07+01:00",
+ "today": "2026-11-08",
  "days": [
-  {
-   "date": "2026-10-31",
-   "screenings": 266,
-   "english": 109,
-   "curated": 51,
-   "film": 0
-  },
   {
    "date": "2026-11-01",
    "screenings": 249,
@@ -67,21 +60,21 @@
   },
   {
    "date": "2026-11-09",
-   "screenings": 193,
+   "screenings": 192,
    "english": 91,
    "curated": 15,
    "film": 0
   },
   {
    "date": "2026-11-10",
-   "screenings": 195,
+   "screenings": 194,
    "english": 92,
    "curated": 18,
    "film": 0
   },
   {
    "date": "2026-11-11",
-   "screenings": 214,
+   "screenings": 213,
    "english": 92,
    "curated": 18,
    "film": 0
@@ -559,31 +552,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-07T03:32:06+00:00"
+   "run_at": "2026-11-08T03:32:09+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-07T03:33:11+00:00"
+   "run_at": "2026-11-08T03:33:14+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-07T03:34:54+00:00"
+   "run_at": "2026-11-08T03:34:58+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-07T03:40:07+00:00"
+   "run_at": "2026-11-08T03:40:04+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-07T03:40:10+00:00"
+   "run_at": "2026-11-08T03:40:07+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-07T03:40:12+00:00"
+   "run_at": "2026-11-08T03:40:09+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-07T03:41:46+00:00"
+   "run_at": "2026-11-08T03:41:35+00:00"
   }
  },
  "venues": [
@@ -599,7 +592,6 @@
     "onyx"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -614,7 +606,6 @@
     "2026-11-14"
    ],
    "screenings": {
-    "2026-10-31": 75,
     "2026-11-01": 76,
     "2026-11-02": 45,
     "2026-11-03": 45,
@@ -623,9 +614,9 @@
     "2026-11-06": 46,
     "2026-11-07": 72,
     "2026-11-08": 71,
-    "2026-11-09": 46,
-    "2026-11-10": 46,
-    "2026-11-11": 60,
+    "2026-11-09": 45,
+    "2026-11-10": 45,
+    "2026-11-11": 59,
     "2026-11-14": 1
    },
    "sources": [
@@ -645,7 +636,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -687,7 +677,6 @@
     "2026-12-09"
    ],
    "screenings": {
-    "2026-10-31": 4,
     "2026-11-01": 4,
     "2026-11-02": 4,
     "2026-11-03": 4,
@@ -737,7 +726,7 @@
     {
      "name": "LunchKino",
      "slug": "lunchkino-arthouse",
-     "first": "2026-10-31",
+     "first": "2026-11-01",
      "last": "2026-12-02"
     },
     {
@@ -758,7 +747,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -777,7 +765,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-10-31": 10,
     "2026-11-01": 10,
     "2026-11-02": 9,
     "2026-11-03": 9,
@@ -801,12 +788,6 @@
    "instagram": "https://www.instagram.com/arthousekinos",
    "since": 1977,
    "series": [
-    {
-     "name": "HALLOWEEN im Arthouse Movie",
-     "slug": "halloween-im-arthouse-movie-arthouse",
-     "first": "2026-10-31",
-     "last": "2026-10-31"
-    },
     {
      "name": "StricKino",
      "slug": "strickino-arthouse",
@@ -843,7 +824,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -872,7 +852,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-10-31": 8,
     "2026-11-01": 10,
     "2026-11-02": 8,
     "2026-11-03": 8,
@@ -934,13 +913,12 @@
    "website": "https://www.bluecinema.ch",
    "formats": [
     "dcp",
-    "imax",
     "4dx",
     "3d",
+    "imax",
     "infinity-vision"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -967,7 +945,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-31": 60,
     "2026-11-01": 45,
     "2026-11-02": 36,
     "2026-11-03": 22,
@@ -1000,18 +977,6 @@
    "since": null,
    "series": [
     {
-     "name": "Halloweek",
-     "slug": "halloweek-blue-cinema",
-     "first": "2026-10-31",
-     "last": "2026-10-31"
-    },
-    {
-     "name": "Halloweek Family",
-     "slug": "halloweek-family-blue-cinema",
-     "first": "2026-10-31",
-     "last": "2026-10-31"
-    },
-    {
      "name": "Hello Family",
      "slug": "hello-family-blue-cinema",
      "first": "2026-11-14",
@@ -1041,7 +1006,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -1055,7 +1019,6 @@
     "2026-11-11"
    ],
    "screenings": {
-    "2026-10-31": 24,
     "2026-11-01": 24,
     "2026-11-02": 24,
     "2026-11-03": 24,
@@ -1073,14 +1036,7 @@
    ],
    "instagram": "https://www.instagram.com/bluecinema.ch",
    "since": null,
-   "series": [
-    {
-     "name": "Halloweek",
-     "slug": "halloweek-blue-cinema",
-     "first": "2026-10-31",
-     "last": "2026-10-31"
-    }
-   ]
+   "series": []
   },
   {
    "slug": "blue-corso",
@@ -1092,7 +1048,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -1116,7 +1071,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-31": 12,
     "2026-11-01": 9,
     "2026-11-02": 12,
     "2026-11-03": 12,
@@ -1163,7 +1117,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -1187,7 +1140,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-10-31": 6,
     "2026-11-01": 6,
     "2026-11-02": 6,
     "2026-11-03": 4,
@@ -1274,7 +1226,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -1304,7 +1255,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-10-31": 25,
     "2026-11-01": 23,
     "2026-11-02": 25,
     "2026-11-03": 25,
@@ -1357,7 +1307,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -1396,7 +1345,6 @@
     "2026-12-30"
    ],
    "screenings": {
-    "2026-10-31": 18,
     "2026-11-01": 18,
     "2026-11-02": 12,
     "2026-11-03": 12,
@@ -1488,7 +1436,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -1536,7 +1483,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-10-31": 21,
     "2026-11-01": 21,
     "2026-11-02": 17,
     "2026-11-03": 17,
@@ -1590,16 +1536,16 @@
    "since": 1998,
    "series": [
     {
-     "name": "The Ones We Love",
-     "slug": "the-ones-we-love-neugass-kino",
-     "first": "2026-10-31",
-     "last": "2027-03-28"
-    },
-    {
      "name": "Sneaky Sunday",
      "slug": "sneaky-sunday-neugass-kino",
      "first": "2026-11-01",
      "last": "2027-01-24"
+    },
+    {
+     "name": "The Ones We Love",
+     "slug": "the-ones-we-love-neugass-kino",
+     "first": "2026-11-11",
+     "last": "2027-03-28"
     },
     {
      "name": "Queer Things",
@@ -1621,7 +1567,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
@@ -1690,7 +1635,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-10-31": 3,
     "2026-11-01": 3,
     "2026-11-02": 2,
     "2026-11-03": 2,
@@ -1765,34 +1709,28 @@
    "since": 1980,
    "series": [
     {
-     "name": "Double Feature «Halloween»",
-     "slug": "double-feature-halloween-xenix",
-     "first": "2026-10-31",
-     "last": "2026-10-31"
-    },
-    {
-     "name": "Paul Mescal",
-     "slug": "paul-mescal-xenix",
-     "first": "2026-10-31",
-     "last": "2026-12-02"
-    },
-    {
-     "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
-     "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-     "first": "2026-10-31",
-     "last": "2026-11-30"
-    },
-    {
      "name": "Dokfilm am Sonntag",
      "slug": "dokfilm-am-sonntag-xenix",
      "first": "2026-11-01",
      "last": "2027-01-03"
     },
     {
+     "name": "Paul Mescal",
+     "slug": "paul-mescal-xenix",
+     "first": "2026-11-01",
+     "last": "2026-12-02"
+    },
+    {
      "name": "Richtig lang",
      "slug": "richtig-lang-xenix",
      "first": "2026-11-01",
      "last": "2026-11-01"
+    },
+    {
+     "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
+     "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
+     "first": "2026-11-02",
+     "last": "2026-11-30"
     },
     {
      "name": "Kinderkino",
@@ -1883,12 +1821,8 @@
   "Iconic Night": "iconic-night-blue-cinema",
   "Hunger Games": "hunger-games-kinokoni",
   "Hello Family": "hello-family-blue-cinema",
-  "HALLOWEEN im Arthouse Movie": "halloween-im-arthouse-movie-arthouse",
-  "Halloweek Family": "halloweek-family-blue-cinema",
-  "Halloweek": "halloweek-blue-cinema",
   "Gastveranstaltung": "gastveranstaltung-xenix",
   "Double Feature «Rubber Face»": "double-feature-rubber-face-xenix",
-  "Double Feature «Halloween»": "double-feature-halloween-xenix",
   "Double Feature «Blood & Sand»": "double-feature-blood-sand-xenix",
   "Dokfilm am Sonntag": "dokfilm-am-sonntag-xenix",
   "Coop Hello Family": "coop-hello-family-kinokoni",
@@ -1910,12 +1844,8 @@
    "coop-hello-family-kinokoni",
    "dokfilm-am-sonntag-xenix",
    "double-feature-blood-sand-xenix",
-   "double-feature-halloween-xenix",
    "double-feature-rubber-face-xenix",
    "gastveranstaltung-xenix",
-   "halloweek-blue-cinema",
-   "halloweek-family-blue-cinema",
-   "halloween-im-arthouse-movie-arthouse",
    "hello-family-blue-cinema",
    "hunger-games-kinokoni",
    "iconic-night-blue-cinema",
@@ -2023,13 +1953,11 @@
    "hook-1991",
    "hope-2026",
    "how-to-train-your-dragon-2010",
-   "il-tempo-della-montagna-architetturalpina-in-dieci-storie-mountain-time-alpine-architecture-in-ten-stories-2026",
    "indian-horse-2017",
    "insidious-out-of-the-further-2026",
    "insomnia-2002",
    "je-so-pazzo-2026",
    "jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1976",
-   "jim-queen-jim-queen-and-the-quest-for-chloroqueer-2026",
    "krlle-blle-curly-burly-2026",
    "kuessipan-2019",
    "kurzfilmprogramm-wo-wir-herkommen",
@@ -2058,12 +1986,10 @@
    "mr-nobody-mod-putin-mr-nobody-against-putin-2026",
    "mrs-doubtfire-1993",
    "munch-2023",
-   "mutiny-2026",
    "nachbarn-neighbours-2021",
    "nattvardsgasterna-winter-light-1963",
    "naza-2026",
    "nine-to-five-1980",
-   "normal-people-2020",
    "obsession-2026",
    "ojczyzna-fatherland-2026",
    "one-hour-photo-2002",
@@ -2077,7 +2003,6 @@
    "pressure-2026",
    "queen-at-sea-2026",
    "ramayana-rise-of-a-legend-2026",
-   "rammstein-live-in-mexico-city-2026",
    "relatives-2026",
    "resident-evil-2026",
    "reya-penaber-the-path-of-the-refugee-2026",
@@ -2094,7 +2019,6 @@
    "spaceballs-1987",
    "spider-man-brand-new-day-2026",
    "street-fighter-2026",
-   "teenage-sex-and-death-at-camp-miasma-2026",
    "tekkonkinkreet-2006",
    "the-birdcage-1996",
    "the-cable-guy-1996",
@@ -2104,7 +2028,6 @@
    "the-evil-dead-1981",
    "the-fisher-king-1991",
    "the-giant-buddhas-2005",
-   "the-history-of-concrete-2026",
    "the-history-of-sound-2025",
    "the-hunger-games-2012",
    "the-hunger-games-catching-fire-2013",
@@ -2130,7 +2053,6 @@
    "tri-orisky-pro-popelku-three-wishes-for-cinderella-1973",
    "tristan-forever-2026",
    "tschick-goodbye-berlin-2016",
-   "udta-teer-2026",
    "una-mujer-fantastica-a-fantastic-woman-2017",
    "utoipe-cheilteach-celtic-utopia-2025",
    "verejne-prospesne-prace-urban-disobedience-toolkit-2025",
@@ -2154,7 +2076,6 @@
   "Cecelia Ahern am 11. November live in Zürich: Ein Abend voller Liebe und Dublin-Flair": "Cecelia Ahern am 11. November live in Zürich: Ein Abend voller Liebe und Dublin-Flair (Cecelia Ahern live in Zurich on November 11: An evening full of love and Dublin charm)",
   "Dokfilm am Sonntag": "Dokfilm am Sonntag (Documentary on Sunday)",
   "Gastveranstaltung": "Gastveranstaltung (Special Event)",
-  "HALLOWEEN im Arthouse Movie": "HALLOWEEN im Arthouse Movie (HALLOWEEN at Arthouse Movie)",
   "Kinderkino": "Kinderkino (Kids' cinema)",
   "Kurdisches Filmfestival Zürich": "Kurdisches Filmfestival Zürich (Kurdish Film Festival Zurich)",
   "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada (Reclaiming Youth – Young Indigenous Voices from Canada)",
