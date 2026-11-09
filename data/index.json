@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-08T04:42:07+01:00",
- "today": "2026-11-08",
+ "generated_at": "2026-11-09T04:40:57+01:00",
+ "today": "2026-11-09",
  "days": [
-  {
-   "date": "2026-11-01",
-   "screenings": 249,
-   "english": 100,
-   "curated": 29,
-   "film": 0
-  },
   {
    "date": "2026-11-02",
    "screenings": 200,
@@ -55,7 +48,7 @@
    "date": "2026-11-08",
    "screenings": 252,
    "english": 98,
-   "curated": 26,
+   "curated": 27,
    "film": 0
   },
   {
@@ -76,7 +69,7 @@
    "date": "2026-11-11",
    "screenings": 213,
    "english": 92,
-   "curated": 18,
+   "curated": 19,
    "film": 0
   },
   {
@@ -552,31 +545,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-08T03:32:09+00:00"
+   "run_at": "2026-11-09T03:32:06+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-08T03:33:14+00:00"
+   "run_at": "2026-11-09T03:33:02+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-08T03:34:58+00:00"
+   "run_at": "2026-11-09T03:34:34+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-08T03:40:04+00:00"
+   "run_at": "2026-11-09T03:39:07+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-08T03:40:07+00:00"
+   "run_at": "2026-11-09T03:39:09+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-08T03:40:09+00:00"
+   "run_at": "2026-11-09T03:39:11+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-08T03:41:35+00:00"
+   "run_at": "2026-11-09T03:40:29+00:00"
   }
  },
  "venues": [
@@ -588,11 +581,10 @@
    "website": "https://www.arena.ch",
    "formats": [
     "dcp",
-    "4dx",
-    "onyx"
+    "onyx",
+    "4dx"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -606,7 +598,6 @@
     "2026-11-14"
    ],
    "screenings": {
-    "2026-11-01": 76,
     "2026-11-02": 45,
     "2026-11-03": 45,
     "2026-11-04": 64,
@@ -636,7 +627,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -677,7 +667,6 @@
     "2026-12-09"
    ],
    "screenings": {
-    "2026-11-01": 4,
     "2026-11-02": 4,
     "2026-11-03": 4,
     "2026-11-04": 4,
@@ -726,7 +715,7 @@
     {
      "name": "LunchKino",
      "slug": "lunchkino-arthouse",
-     "first": "2026-11-01",
+     "first": "2026-11-02",
      "last": "2026-12-02"
     },
     {
@@ -747,7 +736,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -765,7 +753,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-11-01": 10,
     "2026-11-02": 9,
     "2026-11-03": 9,
     "2026-11-04": 5,
@@ -824,7 +811,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -852,7 +838,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-11-01": 10,
     "2026-11-02": 8,
     "2026-11-03": 8,
     "2026-11-04": 8,
@@ -886,16 +871,16 @@
    "since": 1929,
    "series": [
     {
-     "name": "Special Screening mit Cast & Crew",
-     "slug": "special-screening-mit-cast-crew-arthouse",
-     "first": "2026-11-01",
-     "last": "2026-11-25"
-    },
-    {
      "name": "Cinépassion",
      "slug": "cinepassion-arthouse",
      "first": "2026-11-14",
      "last": "2027-06-19"
+    },
+    {
+     "name": "Special Screening mit Cast & Crew",
+     "slug": "special-screening-mit-cast-crew-arthouse",
+     "first": "2026-11-15",
+     "last": "2026-11-25"
     },
     {
      "name": "Kunsthaus: Maria Lassnig & Edvard Munch",
@@ -913,13 +898,12 @@
    "website": "https://www.bluecinema.ch",
    "formats": [
     "dcp",
+    "imax",
     "4dx",
     "3d",
-    "imax",
     "infinity-vision"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -945,7 +929,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-01": 45,
     "2026-11-02": 36,
     "2026-11-03": 22,
     "2026-11-04": 35,
@@ -1006,7 +989,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -1019,7 +1001,6 @@
     "2026-11-11"
    ],
    "screenings": {
-    "2026-11-01": 24,
     "2026-11-02": 24,
     "2026-11-03": 24,
     "2026-11-04": 24,
@@ -1048,7 +1029,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -1071,7 +1051,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-01": 9,
     "2026-11-02": 12,
     "2026-11-03": 12,
     "2026-11-04": 12,
@@ -1117,7 +1096,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -1140,7 +1118,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-01": 6,
     "2026-11-02": 6,
     "2026-11-03": 4,
     "2026-11-04": 6,
@@ -1173,6 +1150,12 @@
      "slug": "iconic-night-blue-cinema",
      "first": "2026-11-03",
      "last": "2026-11-03"
+    },
+    {
+     "name": "Christmas",
+     "slug": "christmas-blue-cinema",
+     "first": "2026-11-11",
+     "last": "2026-11-11"
     }
    ]
   },
@@ -1226,7 +1209,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -1255,7 +1237,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-11-01": 23,
     "2026-11-02": 25,
     "2026-11-03": 25,
     "2026-11-04": 24,
@@ -1307,7 +1288,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -1345,7 +1325,6 @@
     "2026-12-30"
    ],
    "screenings": {
-    "2026-11-01": 18,
     "2026-11-02": 12,
     "2026-11-03": 12,
     "2026-11-04": 13,
@@ -1436,7 +1415,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -1483,7 +1461,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-11-01": 21,
     "2026-11-02": 17,
     "2026-11-03": 17,
     "2026-11-04": 14,
@@ -1538,7 +1515,7 @@
     {
      "name": "Sneaky Sunday",
      "slug": "sneaky-sunday-neugass-kino",
-     "first": "2026-11-01",
+     "first": "2026-11-08",
      "last": "2027-01-24"
     },
     {
@@ -1567,7 +1544,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-11-01",
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
@@ -1635,7 +1611,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-11-01": 3,
     "2026-11-02": 2,
     "2026-11-03": 2,
     "2026-11-04": 3,
@@ -1709,22 +1684,10 @@
    "since": 1980,
    "series": [
     {
-     "name": "Dokfilm am Sonntag",
-     "slug": "dokfilm-am-sonntag-xenix",
-     "first": "2026-11-01",
-     "last": "2027-01-03"
-    },
-    {
      "name": "Paul Mescal",
      "slug": "paul-mescal-xenix",
-     "first": "2026-11-01",
+     "first": "2026-11-02",
      "last": "2026-12-02"
-    },
-    {
-     "name": "Richtig lang",
-     "slug": "richtig-lang-xenix",
-     "first": "2026-11-01",
-     "last": "2026-11-01"
     },
     {
      "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
@@ -1737,6 +1700,12 @@
      "slug": "kinderkino-xenix",
      "first": "2026-11-04",
      "last": "2027-01-06"
+    },
+    {
+     "name": "Dokfilm am Sonntag",
+     "slug": "dokfilm-am-sonntag-xenix",
+     "first": "2026-11-08",
+     "last": "2027-01-03"
     },
     {
      "name": "Gastveranstaltung",
@@ -1803,7 +1772,6 @@
   "StricKino": "strickino-arthouse",
   "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse",
   "Sneaky Sunday": "sneaky-sunday-neugass-kino",
-  "Richtig lang": "richtig-lang-xenix",
   "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
   "Queer Things": "queer-things-neugass-kino",
   "Paul Mescal": "paul-mescal-xenix",
@@ -1828,6 +1796,7 @@
   "Coop Hello Family": "coop-hello-family-kinokoni",
   "Cinépassion": "cinepassion-arthouse",
   "Cinema Ciao": "cinema-ciao-kinokoni",
+  "Christmas": "christmas-blue-cinema",
   "Cecelia Ahern am 11. November live in Zürich: Ein Abend voller Liebe und Dublin-Flair": "cecelia-ahern-am-11-november-live-in-zurich-ein-abend-voller-liebe-und-dublin-flair-arthouse",
   "Arthouse Kult": "arthouse-kult-arthouse",
   "Animittwoch": "animittwoch-arthouse",
@@ -1839,6 +1808,7 @@
    "animittwoch-arthouse",
    "arthouse-kult-arthouse",
    "cecelia-ahern-am-11-november-live-in-zurich-ein-abend-voller-liebe-und-dublin-flair-arthouse",
+   "christmas-blue-cinema",
    "cinema-ciao-kinokoni",
    "cinepassion-arthouse",
    "coop-hello-family-kinokoni",
@@ -1864,7 +1834,6 @@
    "paul-mescal-xenix",
    "queer-things-neugass-kino",
    "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-   "richtig-lang-xenix",
    "sneaky-sunday-neugass-kino",
    "special-screening-mit-cast-crew-arthouse",
    "strickino-arthouse",
@@ -1877,7 +1846,6 @@
    "0-0-godzilla-minus-zero-2026",
    "111-echoes-from-halifax-2026",
    "2001-a-space-odyssey-1968",
-   "a-sad-and-beautiful-world-2025",
    "a-talent-for-murder-2026",
    "aftersun-2022",
    "air-hunger",
@@ -1900,7 +1868,6 @@
    "bootlegger-2021",
    "carmen-2022",
    "carol-2015",
-   "cinque-secondi-five-seconds-2026",
    "clayface-2026",
    "club-kid-2026",
    "cocorico-2-2026",
@@ -1956,14 +1923,12 @@
    "indian-horse-2017",
    "insidious-out-of-the-further-2026",
    "insomnia-2002",
-   "je-so-pazzo-2026",
    "jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1976",
    "krlle-blle-curly-burly-2026",
    "kuessipan-2019",
    "kurzfilmprogramm-wo-wir-herkommen",
    "la-bola-negra-2026",
    "la-classe-operaia-va-in-paradiso-the-working-class-goes-to-heaven-short-staplerfahrer-klaus-der-erste-arbeitstag-forklift-driver-klaus-the-first-day-on-the-job",
-   "la-haine-2021",
    "la-la-land-2016",
    "la-ligne-the-line-2022",
    "leave-no-trace-2018",
@@ -1994,12 +1959,9 @@
    "ojczyzna-fatherland-2026",
    "one-hour-photo-2002",
    "only-lovers-left-alive-2013",
-   "orwell-2-2-5-2025",
    "other-mommy-2026",
    "p-s-i-love-you-2007",
    "paradies-paradies-paradise-paradise-2016",
-   "paw-patrol-the-dino-movie-2026",
-   "practicle-dance",
    "pressure-2026",
    "queen-at-sea-2026",
    "ramayana-rise-of-a-legend-2026",
@@ -2055,7 +2017,6 @@
    "tschick-goodbye-berlin-2016",
    "una-mujer-fantastica-a-fantastic-woman-2017",
    "utoipe-cheilteach-celtic-utopia-2025",
-   "verejne-prospesne-prace-urban-disobedience-toolkit-2025",
    "verity-2026",
    "war-photographer-2001",
    "was-haben-wir-gelacht-2026",
@@ -2068,7 +2029,6 @@
    "woodwalkers-2-2026",
    "wrong-husband-2025",
    "you-can-see-everything-2026",
-   "yugo-ide-u-ameriku-yugo-goes-to-america-2026",
    "zurcher-filmtalk-zurich-meets-new-york"
   ]
  },
@@ -2079,7 +2039,6 @@
   "Kinderkino": "Kinderkino (Kids' cinema)",
   "Kurdisches Filmfestival Zürich": "Kurdisches Filmfestival Zürich (Kurdish Film Festival Zurich)",
   "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada (Reclaiming Youth – Young Indigenous Voices from Canada)",
-  "Richtig lang": "Richtig lang (Really long)",
   "Special Screening mit Cast & Crew": "Special Screening mit Cast & Crew (Special Screening with the Cast & Crew)",
   "Weihnachtsprogramm am 24. Dezember": "Weihnachtsprogramm am 24. Dezember (Christmas Program on December 24)"
  }

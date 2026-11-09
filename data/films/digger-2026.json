@@ -31,71 +31,6 @@
    "venue": "Riffraff",
    "dates": [
     {
-     "date": "2026-11-01",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2307328",
-       "start": "2026-11-01T15:50+01:00",
-       "time": "15:50",
-       "auditoriums": [
-        "Riffraff 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2307328#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2307320",
-       "start": "2026-11-01T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Riffraff 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2307320#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-02",
      "screenings": [
       {
@@ -664,18 +599,18 @@
    "original_title": "Digger",
    "english_title": "Digger",
    "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3142307?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/digger",
    "directors": [
-    "Alejandro González Iñárritu"
+    "Alejandro G. Iñárritu"
    ],
    "year": 2026,
    "runtime_min": 129,
-   "country": "Vereinigte Staaten von Amerika",
+   "country": null,
    "program_films": [],
    "tmdb_id": 1248832,
    "tmdb_kind": "movie",
    "original_language": "en",
-   "source": "bluecinema",
+   "source": "kinokoni",
    "series": [],
    "labels": [],
    "english": true,
@@ -684,21 +619,21 @@
    "new": false,
    "film_slug": "digger-2026",
    "series_slugs": {},
-   "venue": "blue Corso",
+   "venue": "KINOKONI Zürich",
    "dates": [
     {
-     "date": "2026-11-01",
+     "date": "2026-11-02",
      "screenings": [
       {
-       "id": "bluecinema:3337529",
-       "start": "2026-11-01T20:15+01:00",
-       "time": "20:15",
+       "id": "kinokoni:50-9862",
+       "start": "2026-11-02T20:30+01:00",
+       "time": "20:30",
        "auditoriums": [
-        "Corso 3"
+        "Saal6"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337529/seating",
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9862/seats",
        "language": {
-        "raw": "EN/DE/FR",
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -721,6 +656,247 @@
       }
      ]
     },
+    {
+     "date": "2026-11-03",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9879",
+       "start": "2026-11-03T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9879/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10021",
+       "start": "2026-11-05T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10021/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10024",
+       "start": "2026-11-07T19:50+01:00",
+       "time": "19:50",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10024/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10031",
+       "start": "2026-11-08T19:40+01:00",
+       "time": "19:40",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10031/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10010",
+       "start": "2026-11-09T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10010/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9938",
+       "start": "2026-11-11T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9938/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digger",
+   "venue_title": "Digger",
+   "subtitle": null,
+   "original_title": "Digger",
+   "english_title": "Digger",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3142307?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
+   "directors": [
+    "Alejandro González Iñárritu"
+   ],
+   "year": 2026,
+   "runtime_min": 129,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1248832,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "digger-2026",
+   "series_slugs": {},
+   "venue": "blue Corso",
+   "dates": [
     {
      "date": "2026-11-02",
      "screenings": [
@@ -1065,383 +1241,6 @@
        "series": [],
        "label": null,
        "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Digger",
-   "venue_title": "Digger",
-   "subtitle": null,
-   "original_title": "Digger",
-   "english_title": "Digger",
-   "kind": "film",
-   "film_url": "https://arthouse.ch/movies/digger",
-   "directors": [
-    "Alejandro Gonzáles Inarritu"
-   ],
-   "year": 2026,
-   "runtime_min": 129,
-   "country": "USA",
-   "program_films": [],
-   "tmdb_id": 1248832,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "digger-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Piccadilly",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "screenings": [
-      {
-       "id": "arthouse:2307865",
-       "start": "2026-11-01T20:20+01:00",
-       "time": "20:20",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307865",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Digger",
-   "venue_title": "Digger",
-   "subtitle": null,
-   "original_title": "Digger",
-   "english_title": "Digger",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/digger",
-   "directors": [
-    "Alejandro G. Iñárritu"
-   ],
-   "year": 2026,
-   "runtime_min": 129,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1248832,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "digger-2026",
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9824",
-       "start": "2026-11-01T20:20+01:00",
-       "time": "20:20",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9824/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9862",
-       "start": "2026-11-02T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9862/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9879",
-       "start": "2026-11-03T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9879/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10021",
-       "start": "2026-11-05T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10021/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10024",
-       "start": "2026-11-07T19:50+01:00",
-       "time": "19:50",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10024/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10031",
-       "start": "2026-11-08T19:40+01:00",
-       "time": "19:40",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10031/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10010",
-       "start": "2026-11-09T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10010/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9938",
-       "start": "2026-11-11T20:20+01:00",
-       "time": "20:20",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9938/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": true,
        "guest": false,
        "english": true,
        "curated": false

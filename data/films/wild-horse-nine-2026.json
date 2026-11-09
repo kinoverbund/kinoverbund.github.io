@@ -8,118 +8,6 @@
    "original_title": "Wild Horse Nine",
    "english_title": "Wild Horse Nine",
    "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/wild-horse-nine.html",
-   "directors": [
-    "Martin McDonagh"
-   ],
-   "year": 2026,
-   "runtime_min": 117,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 891621,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "riffraff_houdini",
-   "series": [
-    "Sneaky Sunday"
-   ],
-   "labels": [
-    "Sneaky Sunday",
-    "Preview"
-   ],
-   "english": true,
-   "curated": true,
-   "curated_reasons": [
-    "special"
-   ],
-   "new": false,
-   "film_slug": "wild-horse-nine-2026",
-   "series_slugs": {
-    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
-   },
-   "venue": "Riffraff",
-   "dates": [
-    {
-     "date": "2026-11-01",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2291646",
-       "start": "2026-11-01T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Riffraff 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wild-horse-nine.html?city=zurich&show=2291646#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Sneaky Sunday"
-       ],
-       "label": "Sneaky Sunday",
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2312855",
-       "start": "2026-11-10T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wild-horse-nine.html?city=zurich&show=2312855#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": "Preview",
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Wild Horse Nine",
-   "venue_title": "Wild Horse Nine",
-   "subtitle": null,
-   "original_title": "Wild Horse Nine",
-   "english_title": "Wild Horse Nine",
-   "kind": "film",
    "film_url": "https://arthouse.ch/movies/wild-horse-nine",
    "directors": [
     "Martin McDonagh"
@@ -319,6 +207,76 @@
        ],
        "label": "LunchKino",
        "last": true,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Wild Horse Nine",
+   "venue_title": "Wild Horse Nine",
+   "subtitle": null,
+   "original_title": "Wild Horse Nine",
+   "english_title": "Wild Horse Nine",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/wild-horse-nine.html",
+   "directors": [
+    "Martin McDonagh"
+   ],
+   "year": 2026,
+   "runtime_min": 117,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 891621,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [
+    "Preview"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "wild-horse-nine-2026",
+   "series_slugs": {},
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2312855",
+       "start": "2026-11-10T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wild-horse-nine.html?city=zurich&show=2312855#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Preview",
+       "last": false,
        "guest": false,
        "english": true,
        "curated": true

@@ -1,0 +1,84 @@
+{
+ "name": "Christmas",
+ "venues": [
+  "blue Metropol"
+ ],
+ "links": {},
+ "about": null,
+ "films": [
+  {
+   "title": "Street Fighter",
+   "venue_title": "Street Fighter",
+   "subtitle": null,
+   "original_title": "Street Fighter",
+   "english_title": "Street Fighter",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3162577?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+   "directors": [
+    "Kitao Sakurai"
+   ],
+   "year": 2026,
+   "runtime_min": 120,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1153576,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Christmas"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": false,
+   "film_slug": "street-fighter-2026",
+   "series_slugs": {
+    "Christmas": "christmas-blue-cinema"
+   },
+   "venue": "blue Metropol",
+   "dates": [
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "bluecinema:3339277",
+       "start": "2026-11-11T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Metropol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339277/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Christmas"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
