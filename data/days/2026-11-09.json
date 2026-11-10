@@ -1942,7 +1942,6 @@
      "english": false,
      "curated": true,
      "curated_reasons": [
-      "one venue",
       "special"
      ],
      "new": false,
@@ -1978,6 +1977,7 @@
        "curated": true
       }
      ],
+     "film_slug": "heimsuchung-eine-jahrhundertgeschichte-visitation-2026",
      "series_slugs": {
       "LunchKino": "lunchkino-arthouse"
      }
@@ -2245,10 +2245,8 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
+     "curated": false,
+     "curated_reasons": [],
      "new": false,
      "screenings": [
       {
@@ -2279,7 +2277,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -9234,7 +9232,6 @@
        "curated": true
       }
      ],
-     "film_slug": "wildhood-2021",
      "series_slugs": {
       "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
      }

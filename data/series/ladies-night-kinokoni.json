@@ -79,6 +79,80 @@
      ]
     }
    ]
+  },
+  {
+   "title": "Komplizinnen",
+   "venue_title": "Komplizinnen",
+   "subtitle": null,
+   "original_title": "Komplizinnen",
+   "english_title": "Komplizinnen",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/ladiesnight-komplizinnen",
+   "directors": [
+    "Margit Czenki"
+   ],
+   "year": 1987,
+   "runtime_min": 112,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 492580,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "kinokoni",
+   "series": [
+    "Ladies Night"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Ladies Night": "ladies-night-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2027-01-20",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10152",
+       "start": "2027-01-20T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10152/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Ladies Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
   }
  ]
 }

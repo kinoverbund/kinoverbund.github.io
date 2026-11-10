@@ -2245,10 +2245,8 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
+     "curated": false,
+     "curated_reasons": [],
      "new": false,
      "screenings": [
       {
@@ -2279,7 +2277,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -8492,8 +8490,8 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9999/seats",
        "language": {
-        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, English",
+        "raw": "Englisch Untertitel; 日本語/Japanisch",
+        "description": "Japanese; subtitles: English",
         "english_audio": false,
         "english_subtitles": true,
         "english_friendly": true
@@ -9276,7 +9274,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": true

@@ -2217,10 +2217,8 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "one venue"
-     ],
+     "curated": false,
+     "curated_reasons": [],
      "new": false,
      "screenings": [
       {
@@ -2251,7 +2249,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       },
       {
        "id": "arthouse:2307777",
@@ -2281,7 +2279,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       }
      ],
      "film_slug": "wenn-die-erinnerung-verblasst-2026",
@@ -4354,6 +4352,7 @@
        "curated": false
       }
      ],
+     "film_slug": "paw-patrol-the-dino-movie-2026",
      "series_slugs": {}
     },
     {
@@ -8391,6 +8390,7 @@
        "curated": false
       }
      ],
+     "film_slug": "das-unendliche-jetzt-2026",
      "series_slugs": {}
     },
     {

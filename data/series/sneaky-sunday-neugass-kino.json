@@ -46,6 +46,7 @@
     "special"
    ],
    "new": false,
+   "film_slug": "orwell-2-2-5-2025",
    "series_slugs": {
     "Sneaky Sunday": "sneaky-sunday-neugass-kino"
    },
@@ -135,7 +136,7 @@
        "start": "2026-11-15T21:00+01:00",
        "time": "21:00",
        "auditoriums": [
-        "Riffraff 1"
+        "Riffraff 3"
        ],
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-loneliest-man-in-town.html?city=zurich&show=2296264#tickets",
        "language": {
@@ -157,7 +158,7 @@
         "Sneaky Sunday"
        ],
        "label": "Sneaky Sunday",
-       "last": false,
+       "last": true,
        "guest": false,
        "english": true,
        "curated": true
@@ -502,10 +503,10 @@
    ]
   },
   {
-   "title": "Coward",
+   "title": "Les Braves (Coward)",
    "venue_title": "Coward",
    "subtitle": null,
-   "original_title": "Coward",
+   "original_title": "Les Braves",
    "english_title": "Coward",
    "kind": "film",
    "film_url": "https://www.riffraff-houdini.ch/de-ch/film/coward.html",

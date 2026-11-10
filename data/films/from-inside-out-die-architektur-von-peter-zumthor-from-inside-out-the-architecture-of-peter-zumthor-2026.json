@@ -39,41 +39,6 @@
    "venue": "Arthouse Le Paris",
    "dates": [
     {
-     "date": "2026-11-02",
-     "screenings": [
-      {
-       "id": "arthouse:2305387",
-       "start": "2026-11-02T12:15+01:00",
-       "time": "12:15",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2305387",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "LunchKino"
-       ],
-       "label": "LunchKino",
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-11-03",
      "screenings": [
       {
@@ -483,6 +448,433 @@
        "time": "15:00",
        "auditoriums": [],
        "ticket_url": "https://arthouse.ch/tickets/2311402",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "screenings": [
+      {
+       "id": "arthouse:2317365",
+       "start": "2026-11-12T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317365",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317371",
+       "start": "2026-11-12T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317371",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "screenings": [
+      {
+       "id": "arthouse:2317456",
+       "start": "2026-11-13T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317456",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317455",
+       "start": "2026-11-13T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317455",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "arthouse:2317460",
+       "start": "2026-11-14T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317460",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317459",
+       "start": "2026-11-14T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317459",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "arthouse:2317464",
+       "start": "2026-11-15T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317464",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317463",
+       "start": "2026-11-15T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317463",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "screenings": [
+      {
+       "id": "arthouse:2317468",
+       "start": "2026-11-16T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317468",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317467",
+       "start": "2026-11-16T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317467",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "screenings": [
+      {
+       "id": "arthouse:2317472",
+       "start": "2026-11-17T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317472",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317471",
+       "start": "2026-11-17T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317471",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "screenings": [
+      {
+       "id": "arthouse:2317476",
+       "start": "2026-11-18T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317476",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317475",
+       "start": "2026-11-18T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317475",
        "language": {
         "raw": "Ov/d/f/e",
         "description": "Original version; subtitles: German, French, English",
@@ -1406,7 +1798,882 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316285",
+       "start": "2026-11-12T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316285#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316277",
+       "start": "2026-11-12T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316277#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316283",
+       "start": "2026-11-12T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316283#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316279",
+       "start": "2026-11-12T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316279#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2314935",
+       "start": "2026-11-13T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2314935#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2314932",
+       "start": "2026-11-13T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2314932#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2314934",
+       "start": "2026-11-13T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2314934#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2314933",
+       "start": "2026-11-13T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2314933#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316314",
+       "start": "2026-11-14T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316314#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316306",
+       "start": "2026-11-14T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316306#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316312",
+       "start": "2026-11-14T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316312#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316308",
+       "start": "2026-11-14T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316308#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316350",
+       "start": "2026-11-15T11:10+01:00",
+       "time": "11:10",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316350#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316340",
+       "start": "2026-11-15T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316340#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316336",
+       "start": "2026-11-15T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316336#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316342",
+       "start": "2026-11-15T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316342#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316372",
+       "start": "2026-11-16T13:20+01:00",
+       "time": "13:20",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316372#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316364",
+       "start": "2026-11-16T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316364#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316370",
+       "start": "2026-11-16T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316370#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316588",
+       "start": "2026-11-16T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316588#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2318419",
+       "start": "2026-11-17T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2318419#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316393",
+       "start": "2026-11-17T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316393#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2318418",
+       "start": "2026-11-17T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2318418#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316395",
+       "start": "2026-11-17T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316395#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316430",
+       "start": "2026-11-18T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316430#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316423",
+       "start": "2026-11-18T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316423#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316427",
+       "start": "2026-11-18T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316427#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2316424",
+       "start": "2026-11-18T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/from-inside-out-die-architektur-von-peter-zumthor.html?city=zurich&show=2316424#tickets",
+       "language": {
+        "raw": "de/en,fr",
+        "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": false
@@ -1665,6 +2932,251 @@
         "Piccadilly 1"
        ],
        "ticket_url": "https://arthouse.ch/tickets/2311520",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "screenings": [
+      {
+       "id": "arthouse:2317397",
+       "start": "2026-11-12T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317397",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "screenings": [
+      {
+       "id": "arthouse:2317787",
+       "start": "2026-11-13T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317787",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "arthouse:2317796",
+       "start": "2026-11-14T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317796",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "arthouse:2317805",
+       "start": "2026-11-15T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317805",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "screenings": [
+      {
+       "id": "arthouse:2317814",
+       "start": "2026-11-16T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317814",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "screenings": [
+      {
+       "id": "arthouse:2317823",
+       "start": "2026-11-17T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317823",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "screenings": [
+      {
+       "id": "arthouse:2317832",
+       "start": "2026-11-18T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317832",
        "language": {
         "raw": "Ov/d/f/e",
         "description": "Original version; subtitles: German, French, English",
