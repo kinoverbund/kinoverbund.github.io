@@ -31,101 +31,6 @@
    "venue": "blue Corso",
    "dates": [
     {
-     "date": "2026-11-03",
-     "screenings": [
-      {
-       "id": "bluecinema:3337516",
-       "start": "2026-11-03T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Corso 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337516/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337509",
-       "start": "2026-11-03T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337509/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3337503",
-       "start": "2026-11-03T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337503/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-04",
      "screenings": [
       {
@@ -1469,6 +1374,243 @@
    "original_title": "Sense and Sensibility",
    "english_title": "Sense and Sensibility",
    "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/sense-and-sensibility",
+   "directors": [
+    "Georgia Oakley"
+   ],
+   "year": 2026,
+   "runtime_min": 132,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1503762,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "Cinema Ciao"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "sense-and-sensibility-2026",
+   "series_slugs": {
+    "Cinema Ciao": "cinema-ciao-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9884",
+       "start": "2026-11-04T14:50+01:00",
+       "time": "14:50",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9884/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-9893",
+       "start": "2026-11-04T17:20+01:00",
+       "time": "17:20",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9893/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-9887",
+       "start": "2026-11-04T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9887/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9968",
+       "start": "2026-11-08T14:40+01:00",
+       "time": "14:40",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9968/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9752",
+       "start": "2026-11-10T19:30+01:00",
+       "time": "19:30",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9752/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Cinema Ciao"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9924",
+       "start": "2026-11-11T14:50+01:00",
+       "time": "14:50",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9924/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sense and Sensibility",
+   "venue_title": "Sense and Sensibility",
+   "subtitle": null,
+   "original_title": "Sense and Sensibility",
+   "english_title": "Sense and Sensibility",
+   "kind": "film",
    "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
    "directors": [
     "Georgia Oakley"
@@ -1489,19 +1631,19 @@
    "new": false,
    "film_slug": "sense-and-sensibility-2026",
    "series_slugs": {},
-   "venue": "Arthouse Movie",
+   "venue": "Arthouse Piccadilly",
    "dates": [
     {
-     "date": "2026-11-03",
+     "date": "2026-11-04",
      "screenings": [
       {
-       "id": "arthouse:2307768",
-       "start": "2026-11-03T15:20+01:00",
-       "time": "15:20",
+       "id": "arthouse:2307893",
+       "start": "2026-11-04T20:30+01:00",
+       "time": "20:30",
        "auditoriums": [
-        "Movie 2"
+        "Piccadilly 2"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2307768",
+       "ticket_url": "https://arthouse.ch/tickets/2307893",
        "language": {
         "raw": "E/d,f",
         "description": "English; subtitles: German, French",
@@ -1526,6 +1668,72 @@
       }
      ]
     },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "arthouse:2311526",
+       "start": "2026-11-06T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311526",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sense and Sensibility",
+   "venue_title": "Sense and Sensibility",
+   "subtitle": null,
+   "original_title": "Sense and Sensibility",
+   "english_title": "Sense and Sensibility",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
+   "directors": [
+    "Georgia Oakley"
+   ],
+   "year": 2026,
+   "runtime_min": 132,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 1503762,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "sense-and-sensibility-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Movie",
+   "dates": [
     {
      "date": "2026-11-05",
      "screenings": [
@@ -1992,444 +2200,6 @@
         "Movie 1"
        ],
        "ticket_url": "https://arthouse.ch/tickets/2317742",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Sense and Sensibility",
-   "venue_title": "Sense and Sensibility",
-   "subtitle": null,
-   "original_title": "Sense and Sensibility",
-   "english_title": "Sense and Sensibility",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/sense-and-sensibility",
-   "directors": [
-    "Georgia Oakley"
-   ],
-   "year": 2026,
-   "runtime_min": 132,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1503762,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "kinokoni",
-   "series": [
-    "Cinema Ciao"
-   ],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "sense-and-sensibility-2026",
-   "series_slugs": {
-    "Cinema Ciao": "cinema-ciao-kinokoni"
-   },
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-11-03",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9874",
-       "start": "2026-11-03T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9874/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-9880",
-       "start": "2026-11-03T20:10+01:00",
-       "time": "20:10",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9880/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9884",
-       "start": "2026-11-04T14:50+01:00",
-       "time": "14:50",
-       "auditoriums": [
-        "FilmLounge 4"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9884/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-9893",
-       "start": "2026-11-04T17:20+01:00",
-       "time": "17:20",
-       "auditoriums": [
-        "Saal1"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9893/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-9887",
-       "start": "2026-11-04T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9887/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9968",
-       "start": "2026-11-08T14:40+01:00",
-       "time": "14:40",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9968/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9752",
-       "start": "2026-11-10T19:30+01:00",
-       "time": "19:30",
-       "auditoriums": [
-        "Saal3"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9752/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Cinema Ciao"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9924",
-       "start": "2026-11-11T14:50+01:00",
-       "time": "14:50",
-       "auditoriums": [
-        "FilmLounge 4"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9924/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Sense and Sensibility",
-   "venue_title": "Sense and Sensibility",
-   "subtitle": null,
-   "original_title": "Sense and Sensibility",
-   "english_title": "Sense and Sensibility",
-   "kind": "film",
-   "film_url": "https://arthouse.ch/movies/sense-and-sensibility",
-   "directors": [
-    "Georgia Oakley"
-   ],
-   "year": 2026,
-   "runtime_min": 132,
-   "country": "USA",
-   "program_films": [],
-   "tmdb_id": 1503762,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "sense-and-sensibility-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Piccadilly",
-   "dates": [
-    {
-     "date": "2026-11-03",
-     "screenings": [
-      {
-       "id": "arthouse:2307882",
-       "start": "2026-11-03T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307882",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "arthouse:2307893",
-       "start": "2026-11-04T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307893",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "arthouse:2311526",
-       "start": "2026-11-06T13:30+01:00",
-       "time": "13:30",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311526",
        "language": {
         "raw": "E/d,f",
         "description": "English; subtitles: German, French",

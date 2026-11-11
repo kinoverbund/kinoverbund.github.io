@@ -3224,6 +3224,36 @@
      "date": "2026-11-17",
      "screenings": [
       {
+       "id": "bluecinema:3342174",
+       "start": "2026-11-17T18:10+01:00",
+       "time": "18:10",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3342174/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
        "id": "bluecinema:3340589",
        "start": "2026-11-17T20:30+01:00",
        "time": "20:30",
@@ -3290,8 +3320,8 @@
       },
       {
        "id": "bluecinema:3340588",
-       "start": "2026-11-18T20:30+01:00",
-       "time": "20:30",
+       "start": "2026-11-18T20:45+01:00",
+       "time": "20:45",
        "auditoriums": [
         "Capitol 6"
        ],

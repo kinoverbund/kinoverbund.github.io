@@ -3,906 +3,6 @@
  "venues": [
   {
    "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
-   "venue_title": "From Inside Out - Die Architektur von Peter Zumtho",
-   "subtitle": null,
-   "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
-   "english_title": "From Inside Out: The Architecture of Peter Zumthor",
-   "kind": "film",
-   "film_url": "https://arthouse.ch/movies/from-inside-out-die-architektur-von-peter-zumtho",
-   "directors": [
-    "Wim Wenders"
-   ],
-   "year": 2026,
-   "runtime_min": 114,
-   "country": "Deutschland",
-   "program_films": [],
-   "tmdb_id": 1355885,
-   "tmdb_kind": "movie",
-   "original_language": "de",
-   "source": "arthouse",
-   "series": [
-    "LunchKino"
-   ],
-   "labels": [
-    "LunchKino"
-   ],
-   "english": true,
-   "curated": true,
-   "curated_reasons": [
-    "special"
-   ],
-   "new": false,
-   "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
-   "series_slugs": {
-    "LunchKino": "lunchkino-arthouse"
-   },
-   "venue": "Arthouse Le Paris",
-   "dates": [
-    {
-     "date": "2026-11-03",
-     "screenings": [
-      {
-       "id": "arthouse:2305388",
-       "start": "2026-11-03T12:15+01:00",
-       "time": "12:15",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2305388",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "LunchKino"
-       ],
-       "label": "LunchKino",
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "screenings": [
-      {
-       "id": "arthouse:2311173",
-       "start": "2026-11-05T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311173",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311174",
-       "start": "2026-11-05T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311174",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "arthouse:2311382",
-       "start": "2026-11-06T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311382",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311381",
-       "start": "2026-11-06T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311381",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "arthouse:2311386",
-       "start": "2026-11-07T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311386",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311385",
-       "start": "2026-11-07T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311385",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "arthouse:2311390",
-       "start": "2026-11-08T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311390",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311389",
-       "start": "2026-11-08T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311389",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "arthouse:2311394",
-       "start": "2026-11-09T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311394",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311393",
-       "start": "2026-11-09T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311393",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "arthouse:2311398",
-       "start": "2026-11-10T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311398",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311397",
-       "start": "2026-11-10T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311397",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "arthouse:2311402",
-       "start": "2026-11-11T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311402",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "screenings": [
-      {
-       "id": "arthouse:2317365",
-       "start": "2026-11-12T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317365",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317371",
-       "start": "2026-11-12T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317371",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "screenings": [
-      {
-       "id": "arthouse:2317456",
-       "start": "2026-11-13T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317456",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317455",
-       "start": "2026-11-13T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317455",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "screenings": [
-      {
-       "id": "arthouse:2317460",
-       "start": "2026-11-14T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317460",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317459",
-       "start": "2026-11-14T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317459",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "screenings": [
-      {
-       "id": "arthouse:2317464",
-       "start": "2026-11-15T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317464",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317463",
-       "start": "2026-11-15T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317463",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "arthouse:2317468",
-       "start": "2026-11-16T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317468",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317467",
-       "start": "2026-11-16T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317467",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "screenings": [
-      {
-       "id": "arthouse:2317472",
-       "start": "2026-11-17T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317472",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317471",
-       "start": "2026-11-17T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317471",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "arthouse:2317476",
-       "start": "2026-11-18T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317476",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317475",
-       "start": "2026-11-18T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2317475",
-       "language": {
-        "raw": "Ov/d/f/e",
-        "description": "Original version; subtitles: German, French, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
    "venue_title": "From Inside Out - Die Architektur von Peter Zumthor",
    "subtitle": null,
    "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
@@ -2659,6 +1759,863 @@
        "language": {
         "raw": "de/en,fr",
         "description": "German; subtitles: English, French",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
+   "venue_title": "From Inside Out - Die Architektur von Peter Zumtho",
+   "subtitle": null,
+   "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
+   "english_title": "From Inside Out: The Architecture of Peter Zumthor",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/from-inside-out-die-architektur-von-peter-zumtho",
+   "directors": [
+    "Wim Wenders"
+   ],
+   "year": 2026,
+   "runtime_min": 114,
+   "country": "Deutschland",
+   "program_films": [],
+   "tmdb_id": 1355885,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Le Paris",
+   "dates": [
+    {
+     "date": "2026-11-05",
+     "screenings": [
+      {
+       "id": "arthouse:2311173",
+       "start": "2026-11-05T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311173",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311174",
+       "start": "2026-11-05T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311174",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "arthouse:2311382",
+       "start": "2026-11-06T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311382",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311381",
+       "start": "2026-11-06T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311381",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "arthouse:2311386",
+       "start": "2026-11-07T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311386",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311385",
+       "start": "2026-11-07T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311385",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "arthouse:2311390",
+       "start": "2026-11-08T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311390",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311389",
+       "start": "2026-11-08T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311389",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "arthouse:2311394",
+       "start": "2026-11-09T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311394",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311393",
+       "start": "2026-11-09T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311393",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "arthouse:2311398",
+       "start": "2026-11-10T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311398",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311397",
+       "start": "2026-11-10T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311397",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "arthouse:2311402",
+       "start": "2026-11-11T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2311402",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "screenings": [
+      {
+       "id": "arthouse:2317365",
+       "start": "2026-11-12T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317365",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317371",
+       "start": "2026-11-12T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317371",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "screenings": [
+      {
+       "id": "arthouse:2317456",
+       "start": "2026-11-13T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317456",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317455",
+       "start": "2026-11-13T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317455",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "arthouse:2317460",
+       "start": "2026-11-14T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317460",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317459",
+       "start": "2026-11-14T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317459",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "arthouse:2317464",
+       "start": "2026-11-15T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317464",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317463",
+       "start": "2026-11-15T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317463",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "screenings": [
+      {
+       "id": "arthouse:2317468",
+       "start": "2026-11-16T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317468",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317467",
+       "start": "2026-11-16T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317467",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "screenings": [
+      {
+       "id": "arthouse:2317472",
+       "start": "2026-11-17T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317472",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317471",
+       "start": "2026-11-17T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317471",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "screenings": [
+      {
+       "id": "arthouse:2317476",
+       "start": "2026-11-18T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317476",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317475",
+       "start": "2026-11-18T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2317475",
+       "language": {
+        "raw": "Ov/d/f/e",
+        "description": "Original version; subtitles: German, French, English",
         "english_audio": false,
         "english_subtitles": true,
         "english_friendly": true

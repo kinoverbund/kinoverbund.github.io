@@ -184,11 +184,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10169/seats",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
+        "raw": "Deutsch; Deutsch Untertitel",
+        "description": "German; subtitles: German",
+        "english_audio": false,
         "english_subtitles": false,
-        "english_friendly": true
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -202,7 +202,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": true
       }
      ]
