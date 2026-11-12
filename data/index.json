@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-11T04:40:45+01:00",
- "today": "2026-11-11",
+ "generated_at": "2026-11-12T04:41:20+01:00",
+ "today": "2026-11-12",
  "days": [
-  {
-   "date": "2026-11-04",
-   "screenings": 212,
-   "english": 87,
-   "curated": 22,
-   "film": 0
-  },
   {
    "date": "2026-11-05",
    "screenings": 191,
@@ -531,31 +524,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-11T03:32:07+00:00"
+   "run_at": "2026-11-12T03:32:05+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-11T03:33:12+00:00"
+   "run_at": "2026-11-12T03:33:05+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-11T03:34:40+00:00"
+   "run_at": "2026-11-12T03:34:33+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-11T03:38:54+00:00"
+   "run_at": "2026-11-12T03:39:33+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-11T03:38:57+00:00"
+   "run_at": "2026-11-12T03:39:36+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-11T03:38:58+00:00"
+   "run_at": "2026-11-12T03:39:37+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-11T03:40:20+00:00"
+   "run_at": "2026-11-12T03:40:52+00:00"
   }
  },
  "venues": [
@@ -571,7 +564,6 @@
     "onyx"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -588,7 +580,6 @@
     "2026-11-18"
    ],
    "screenings": {
-    "2026-11-04": 64,
     "2026-11-05": 46,
     "2026-11-06": 46,
     "2026-11-07": 72,
@@ -621,7 +612,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -659,7 +649,6 @@
     "2026-12-09"
    ],
    "screenings": {
-    "2026-11-04": 4,
     "2026-11-05": 4,
     "2026-11-06": 4,
     "2026-11-07": 4,
@@ -705,7 +694,7 @@
     {
      "name": "LunchKino",
      "slug": "lunchkino-arthouse",
-     "first": "2026-11-04",
+     "first": "2026-11-05",
      "last": "2026-12-02"
     },
     {
@@ -726,7 +715,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -748,7 +736,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-11-04": 5,
     "2026-11-05": 8,
     "2026-11-06": 8,
     "2026-11-07": 8,
@@ -776,12 +763,6 @@
    "since": 1977,
    "series": [
     {
-     "name": "Animittwoch",
-     "slug": "animittwoch-arthouse",
-     "first": "2026-11-04",
-     "last": "2026-12-02"
-    },
-    {
      "name": "KMG Worst Nights",
      "slug": "kmg-worst-nights-arthouse",
      "first": "2026-11-06",
@@ -792,6 +773,12 @@
      "slug": "arthouse-kult-arthouse",
      "first": "2026-11-27",
      "last": "2026-12-18"
+    },
+    {
+     "name": "Animittwoch",
+     "slug": "animittwoch-arthouse",
+     "first": "2026-12-02",
+     "last": "2026-12-02"
     },
     {
      "name": "StricKino",
@@ -811,7 +798,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -841,7 +827,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-11-04": 8,
     "2026-11-05": 8,
     "2026-11-06": 8,
     "2026-11-07": 8,
@@ -910,7 +895,6 @@
     "infinity-vision"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -937,7 +921,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-04": 35,
     "2026-11-05": 36,
     "2026-11-06": 46,
     "2026-11-07": 55,
@@ -999,7 +982,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -1016,7 +998,6 @@
     "2026-11-18"
    ],
    "screenings": {
-    "2026-11-04": 24,
     "2026-11-05": 22,
     "2026-11-06": 24,
     "2026-11-07": 24,
@@ -1049,7 +1030,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -1076,7 +1056,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-04": 12,
     "2026-11-05": 12,
     "2026-11-06": 12,
     "2026-11-07": 12,
@@ -1126,7 +1105,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -1153,7 +1131,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-04": 6,
     "2026-11-05": 5,
     "2026-11-06": 5,
     "2026-11-07": 5,
@@ -1234,7 +1211,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -1263,7 +1239,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-11-04": 24,
     "2026-11-05": 24,
     "2026-11-06": 24,
     "2026-11-07": 24,
@@ -1302,6 +1277,12 @@
      "slug": "the-ones-we-love-neugass-kino",
      "first": "2026-11-28",
      "last": "2026-12-02"
+    },
+    {
+     "name": "Movie Fight Club",
+     "slug": "movie-fight-club-neugass-kino",
+     "first": "2026-11-29",
+     "last": "2026-11-29"
     }
    ]
   },
@@ -1315,7 +1296,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -1354,7 +1334,6 @@
     "2027-01-20"
    ],
    "screenings": {
-    "2026-11-04": 13,
     "2026-11-05": 7,
     "2026-11-06": 10,
     "2026-11-07": 15,
@@ -1423,6 +1402,12 @@
      "last": "2026-11-15"
     },
     {
+     "name": "TRIBUTE SESSIONS by KINOKONI",
+     "slug": "tribute-sessions-by-kinokoni-kinokoni",
+     "first": "2026-11-20",
+     "last": "2026-11-22"
+    },
+    {
      "name": "Hunger Games",
      "slug": "hunger-games-kinokoni",
      "first": "2026-11-21",
@@ -1446,7 +1431,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -1494,7 +1478,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-11-04": 14,
     "2026-11-05": 17,
     "2026-11-06": 20,
     "2026-11-07": 20,
@@ -1579,7 +1562,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-11-04",
     "2026-11-05",
     "2026-11-06",
     "2026-11-07",
@@ -1644,7 +1626,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-11-04": 3,
     "2026-11-05": 2,
     "2026-11-06": 3,
     "2026-11-07": 1,
@@ -1715,21 +1696,15 @@
    "since": 1980,
    "series": [
     {
-     "name": "Kinderkino",
-     "slug": "kinderkino-xenix",
-     "first": "2026-11-04",
-     "last": "2027-01-06"
-    },
-    {
      "name": "Paul Mescal",
      "slug": "paul-mescal-xenix",
-     "first": "2026-11-04",
+     "first": "2026-11-05",
      "last": "2026-12-02"
     },
     {
      "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
      "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-     "first": "2026-11-04",
+     "first": "2026-11-05",
      "last": "2026-11-30"
     },
     {
@@ -1737,6 +1712,12 @@
      "slug": "dokfilm-am-sonntag-xenix",
      "first": "2026-11-08",
      "last": "2027-01-03"
+    },
+    {
+     "name": "Kinderkino",
+     "slug": "kinderkino-xenix",
+     "first": "2026-11-08",
+     "last": "2027-01-06"
     },
     {
      "name": "Gastveranstaltung",
@@ -1799,6 +1780,7 @@
   "Work, work, work": "work-work-work-filmstelle",
   "Wie neu": "wie-neu-xenix",
   "Weihnachtsprogramm am 24. Dezember": "weihnachtsprogramm-am-24-dezember-xenix",
+  "TRIBUTE SESSIONS by KINOKONI": "tribute-sessions-by-kinokoni-kinokoni",
   "The Ones We Love": "the-ones-we-love-neugass-kino",
   "StricKino": "strickino-arthouse",
   "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse",
@@ -1808,6 +1790,7 @@
   "Paul Mescal": "paul-mescal-xenix",
   "Na Hong-jin": "na-hong-jin-xenix",
   "Movie Night": "movie-night-blue-cinema",
+  "Movie Fight Club": "movie-fight-club-neugass-kino",
   "LunchKino": "lunchkino-arthouse",
   "Ladies Night": "ladies-night-blue-cinema",
   "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix",
@@ -1856,6 +1839,7 @@
    "ladies-night-blue-cinema",
    "ladies-night-kinokoni",
    "lunchkino-arthouse",
+   "movie-fight-club-neugass-kino",
    "movie-night-blue-cinema",
    "na-hong-jin-xenix",
    "paul-mescal-xenix",
@@ -1865,6 +1849,7 @@
    "special-screening-mit-cast-crew-arthouse",
    "strickino-arthouse",
    "the-ones-we-love-neugass-kino",
+   "tribute-sessions-by-kinokoni-kinokoni",
    "weihnachtsprogramm-am-24-dezember-xenix",
    "wie-neu-xenix",
    "work-work-work-filmstelle"
@@ -1883,7 +1868,6 @@
    "all-the-mountains-give-2024",
    "alte-liebe-love-after-all-2026",
    "amelie-et-la-metaphysique-des-tubes-little-amelie-or-the-character-of-rain-2025",
-   "anders-anders-was-uns-verbindet-differently-different-what-connects-us-2026",
    "angel-s-egg-1985",
    "arzela-from-amed-2025",
    "avengers-doomsday-2026",
@@ -1899,11 +1883,8 @@
    "clayface-2026",
    "club-kid-2026",
    "cocorico-2-2026",
-   "corpus-delicti-2026",
-   "da-mumbo-jumbo-blev-kmpestor-mumbo-jumbo-2026",
    "das-erbe-der-bergler-alpine-saga-2006",
    "das-getraumte-abenteuer-the-dreamed-adventure-2026",
-   "das-gewisse-etwas-2026",
    "das-unendliche-jetzt-2026",
    "dead-poets-society-1989",
    "der-perfekte-urlaub-the-perfect-holiday-2026",
@@ -1951,7 +1932,6 @@
    "how-to-rob-a-bank-2026",
    "how-to-train-your-dragon-2010",
    "indian-horse-2017",
-   "insidious-out-of-the-further-2026",
    "insomnia-2002",
    "je-so-pazzo-2026",
    "jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1976",
@@ -1995,7 +1975,6 @@
    "only-lovers-left-alive-2013",
    "orwell-2-2-5-2025",
    "other-mommy-2026",
-   "p-s-i-love-you-2007",
    "paradies-paradies-paradise-paradise-2016",
    "paw-patrol-the-dino-movie-2026",
    "pressure-2026",
@@ -2013,9 +1992,7 @@
    "sleepless-in-new-york-2014",
    "some-like-it-hot-1959",
    "space-tourists-2009",
-   "spaceballs-1987",
    "spider-man-brand-new-day-2026",
-   "street-fighter-2026",
    "teenage-sex-and-death-at-camp-miasma-2026",
    "tekkonkinkreet-2006",
    "the-birdcage-1996",
@@ -2057,7 +2034,6 @@
    "war-photographer-2001",
    "was-haben-wir-gelacht-2026",
    "wenn-die-erinnerung-verblasst-2026",
-   "whalefall-2026",
    "wholetrain-2006",
    "wild-horse-nine-2026",
    "wildhood-2021",

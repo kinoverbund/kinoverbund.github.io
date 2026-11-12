@@ -380,7 +380,9 @@
    "tmdb_kind": "movie",
    "original_language": "en",
    "source": "riffraff_houdini",
-   "series": [],
+   "series": [
+    "Movie Fight Club"
+   ],
    "labels": [
     "Movie Fight Club"
    ],
@@ -391,7 +393,9 @@
    ],
    "new": true,
    "film_slug": "enjoy-your-stay-2026",
-   "series_slugs": {},
+   "series_slugs": {
+    "Movie Fight Club": "movie-fight-club-neugass-kino"
+   },
    "venue": "Houdini",
    "dates": [
     {
@@ -420,7 +424,9 @@
        },
        "note": null,
        "note_lang": null,
-       "series": [],
+       "series": [
+        "Movie Fight Club"
+       ],
        "label": "Movie Fight Club",
        "last": false,
        "guest": false,

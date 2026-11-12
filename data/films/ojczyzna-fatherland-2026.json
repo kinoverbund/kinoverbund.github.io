@@ -8,18 +8,18 @@
    "original_title": "Ojczyzna",
    "english_title": "Fatherland",
    "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
+   "film_url": "https://arthouse.ch/movies/vaterland",
    "directors": [
     "Pawel Pawlikowski"
    ],
    "year": 2026,
    "runtime_min": 82,
-   "country": null,
+   "country": "Deutschland",
    "program_films": [],
    "tmdb_id": 1437696,
    "tmdb_kind": "movie",
    "original_language": "pl",
-   "source": "riffraff_houdini",
+   "source": "arthouse",
    "series": [],
    "labels": [],
    "english": false,
@@ -28,21 +28,21 @@
    "new": false,
    "film_slug": "ojczyzna-fatherland-2026",
    "series_slugs": {},
-   "venue": "Houdini",
+   "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-04",
+     "date": "2026-11-05",
      "screenings": [
       {
-       "id": "riffraff_houdini:2307177",
-       "start": "2026-11-04T11:30+01:00",
-       "time": "11:30",
+       "id": "arthouse:2311332",
+       "start": "2026-11-05T13:45+01:00",
+       "time": "13:45",
        "auditoriums": [
-        "Houdini 3"
+        "Movie 1"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2307177#tickets",
+       "ticket_url": "https://arthouse.ch/tickets/2311332",
        "language": {
-        "raw": "de",
+        "raw": "D",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -64,75 +64,15 @@
        "curated": false
       },
       {
-       "id": "riffraff_houdini:2307170",
-       "start": "2026-11-04T17:10+01:00",
-       "time": "17:10",
+       "id": "arthouse:2311294",
+       "start": "2026-11-05T18:30+01:00",
+       "time": "18:30",
        "auditoriums": [
-        "Houdini 4"
+        "Movie 2"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2307170#tickets",
+       "ticket_url": "https://arthouse.ch/tickets/2311294",
        "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2307171",
-       "start": "2026-11-04T19:10+01:00",
-       "time": "19:10",
-       "auditoriums": [
-        "Houdini 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2307171#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2307172",
-       "start": "2026-11-04T21:10+01:00",
-       "time": "21:10",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2307172#tickets",
-       "language": {
-        "raw": "de",
+        "raw": "D",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -155,6 +95,427 @@
       }
      ]
     },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "arthouse:2311567",
+       "start": "2026-11-06T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311567",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311564",
+       "start": "2026-11-06T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311564",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "arthouse:2311577",
+       "start": "2026-11-07T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311577",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311574",
+       "start": "2026-11-07T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311574",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "arthouse:2311587",
+       "start": "2026-11-08T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311587",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311584",
+       "start": "2026-11-08T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311584",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "arthouse:2311597",
+       "start": "2026-11-09T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311597",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311594",
+       "start": "2026-11-09T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311594",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "arthouse:2311607",
+       "start": "2026-11-10T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311607",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311604",
+       "start": "2026-11-10T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311604",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "arthouse:2311617",
+       "start": "2026-11-11T13:45+01:00",
+       "time": "13:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311617",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2311614",
+       "start": "2026-11-11T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2311614",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ojczyzna (Fatherland)",
+   "venue_title": "Vaterland",
+   "subtitle": null,
+   "original_title": "Ojczyzna",
+   "english_title": "Fatherland",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
+   "directors": [
+    "Pawel Pawlikowski"
+   ],
+   "year": 2026,
+   "runtime_min": 82,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1437696,
+   "tmdb_kind": "movie",
+   "original_language": "pl",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "ojczyzna-fatherland-2026",
+   "series_slugs": {},
+   "venue": "Houdini",
+   "dates": [
     {
      "date": "2026-11-05",
      "screenings": [
@@ -1044,6 +1405,72 @@
    "original_title": "Ojczyzna",
    "english_title": "Fatherland",
    "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/vaterland",
+   "directors": [
+    "Paweł Pawlikowski"
+   ],
+   "year": 2026,
+   "runtime_min": 82,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1437696,
+   "tmdb_kind": "movie",
+   "original_language": "pl",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "ojczyzna-fatherland-2026",
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9949",
+       "start": "2026-11-07T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9949/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ojczyzna (Fatherland)",
+   "venue_title": "Vaterland",
+   "subtitle": null,
+   "original_title": "Ojczyzna",
+   "english_title": "Fatherland",
+   "kind": "film",
    "film_url": "https://arthouse.ch/movies/vaterland",
    "directors": [
     "Pawel Pawlikowski"
@@ -1066,41 +1493,6 @@
    "series_slugs": {},
    "venue": "Arthouse Piccadilly",
    "dates": [
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "arthouse:2307897",
-       "start": "2026-11-04T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2307897",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-12",
      "screenings": [
@@ -1334,558 +1726,6 @@
         "presentation": [],
         "assumed": true,
         "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Ojczyzna (Fatherland)",
-   "venue_title": "Vaterland",
-   "subtitle": null,
-   "original_title": "Ojczyzna",
-   "english_title": "Fatherland",
-   "kind": "film",
-   "film_url": "https://arthouse.ch/movies/vaterland",
-   "directors": [
-    "Pawel Pawlikowski"
-   ],
-   "year": 2026,
-   "runtime_min": 82,
-   "country": "Deutschland",
-   "program_films": [],
-   "tmdb_id": 1437696,
-   "tmdb_kind": "movie",
-   "original_language": "pl",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "ojczyzna-fatherland-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Movie",
-   "dates": [
-    {
-     "date": "2026-11-05",
-     "screenings": [
-      {
-       "id": "arthouse:2311332",
-       "start": "2026-11-05T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311332",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311294",
-       "start": "2026-11-05T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311294",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "arthouse:2311567",
-       "start": "2026-11-06T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311567",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311564",
-       "start": "2026-11-06T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311564",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "arthouse:2311577",
-       "start": "2026-11-07T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311577",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311574",
-       "start": "2026-11-07T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311574",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "arthouse:2311587",
-       "start": "2026-11-08T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311587",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311584",
-       "start": "2026-11-08T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311584",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "arthouse:2311597",
-       "start": "2026-11-09T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311597",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311594",
-       "start": "2026-11-09T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311594",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "arthouse:2311607",
-       "start": "2026-11-10T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311607",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311604",
-       "start": "2026-11-10T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311604",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "arthouse:2311617",
-       "start": "2026-11-11T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311617",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311614",
-       "start": "2026-11-11T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311614",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Ojczyzna (Fatherland)",
-   "venue_title": "Vaterland",
-   "subtitle": null,
-   "original_title": "Ojczyzna",
-   "english_title": "Fatherland",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/vaterland",
-   "directors": [
-    "Paweł Pawlikowski"
-   ],
-   "year": 2026,
-   "runtime_min": 82,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1437696,
-   "tmdb_kind": "movie",
-   "original_language": "pl",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "ojczyzna-fatherland-2026",
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9949",
-       "start": "2026-11-07T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9949/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
        },
        "note": null,
        "note_lang": null,

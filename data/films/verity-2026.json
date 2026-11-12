@@ -3,177 +3,6 @@
  "venues": [
   {
    "title": "Verity",
-   "venue_title": "Verity - Dunkle Geheimnisse",
-   "subtitle": null,
-   "original_title": "Verity",
-   "english_title": "Verity",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/verity-dunkle-geheimnisse",
-   "directors": [
-    "Michael Showalter"
-   ],
-   "year": 2026,
-   "runtime_min": 117,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1283515,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "verity-2026",
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9892",
-       "start": "2026-11-04T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9892/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9995",
-       "start": "2026-11-06T20:10+01:00",
-       "time": "20:10",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9995/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10008",
-       "start": "2026-11-09T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10008/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9928",
-       "start": "2026-11-11T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9928/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Verity",
    "venue_title": "Verity",
    "subtitle": null,
    "original_title": "Verity",
@@ -201,132 +30,6 @@
    "series_slugs": {},
    "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "bluecinema:3336033",
-       "start": "2026-11-04T17:15+01:00",
-       "time": "17:15",
-       "auditoriums": [
-        "Abaton B"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3336033/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3335924",
-       "start": "2026-11-04T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Abaton 6",
-        "Abaton 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3335924/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3335954",
-       "start": "2026-11-04T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3335954/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3335925",
-       "start": "2026-11-04T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3335925/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-05",
      "screenings": [
@@ -1779,71 +1482,6 @@
    "venue": "blue Capitol",
    "dates": [
     {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "bluecinema:3335960",
-       "start": "2026-11-04T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Capitol 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3335960/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3335959",
-       "start": "2026-11-04T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Capitol 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3335959/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-05",
      "screenings": [
       {
@@ -2539,101 +2177,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "arena:23532",
-       "start": "2026-11-04T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Saal 16"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23532&fid=1023783",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23520",
-       "start": "2026-11-04T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Saal 11"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23520&fid=1023783",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23503",
-       "start": "2026-11-04T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Saal 6"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23503&fid=1023783",
-       "language": {
-        "raw": "EN/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-05",
      "screenings": [
@@ -3952,6 +3495,142 @@
         "presentation": [],
         "assumed": true,
         "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Verity",
+   "venue_title": "Verity - Dunkle Geheimnisse",
+   "subtitle": null,
+   "original_title": "Verity",
+   "english_title": "Verity",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/verity-dunkle-geheimnisse",
+   "directors": [
+    "Michael Showalter"
+   ],
+   "year": 2026,
+   "runtime_min": 117,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1283515,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "verity-2026",
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9995",
+       "start": "2026-11-06T20:10+01:00",
+       "time": "20:10",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9995/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10008",
+       "start": "2026-11-09T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10008/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9928",
+       "start": "2026-11-11T17:10+01:00",
+       "time": "17:10",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9928/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
        },
        "note": null,
        "note_lang": null,

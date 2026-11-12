@@ -1,0 +1,94 @@
+{
+ "name": "Movie Fight Club",
+ "venues": [
+  "Houdini"
+ ],
+ "links": {
+  "Houdini": "https://www.riffraff-houdini.ch/de-ch/special/movie-fight-club.html"
+ },
+ "about": {
+  "text": "Once a month, the Swiss Association of Film Journalists screens a film from the current lineup, followed by a pro-and-con discussion between two representatives of the association—and, of course, the audience is also invited to join in the discussion!",
+  "lang": "en",
+  "venue": "Houdini",
+  "url": "https://www.riffraff-houdini.ch/de-ch/special/movie-fight-club.html",
+  "translated": true
+ },
+ "films": [
+  {
+   "title": "Enjoy Your Stay",
+   "venue_title": "Enjoy Your Stay",
+   "subtitle": null,
+   "original_title": "Enjoy Your Stay",
+   "english_title": "Enjoy Your Stay",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/enjoy-your-stay.html",
+   "directors": [
+    "Dominik Locher"
+   ],
+   "year": 2026,
+   "runtime_min": 100,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1616187,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "Movie Fight Club"
+   ],
+   "labels": [
+    "Movie Fight Club"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "enjoy-your-stay-2026",
+   "series_slugs": {
+    "Movie Fight Club": "movie-fight-club-neugass-kino"
+   },
+   "venue": "Houdini",
+   "dates": [
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2319436",
+       "start": "2026-11-29T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/enjoy-your-stay.html?city=zurich&show=2319436#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Movie Fight Club"
+       ],
+       "label": "Movie Fight Club",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

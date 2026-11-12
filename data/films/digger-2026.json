@@ -31,71 +31,6 @@
    "venue": "Riffraff",
    "dates": [
     {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2307406",
-       "start": "2026-11-04T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [
-        "Riffraff 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2307406#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2307398",
-       "start": "2026-11-04T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Riffraff 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2307398#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-05",
      "screenings": [
       {
@@ -804,317 +739,6 @@
    "original_title": "Digger",
    "english_title": "Digger",
    "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3142307?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
-   "directors": [
-    "Alejandro González Iñárritu"
-   ],
-   "year": 2026,
-   "runtime_min": 129,
-   "country": "Vereinigte Staaten von Amerika",
-   "program_films": [],
-   "tmdb_id": 1248832,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "digger-2026",
-   "series_slugs": {},
-   "venue": "blue Corso",
-   "dates": [
-    {
-     "date": "2026-11-04",
-     "screenings": [
-      {
-       "id": "bluecinema:3337533",
-       "start": "2026-11-04T20:45+01:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3337533/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "screenings": [
-      {
-       "id": "bluecinema:3339548",
-       "start": "2026-11-05T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339548/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "bluecinema:3339547",
-       "start": "2026-11-06T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339547/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "bluecinema:3339546",
-       "start": "2026-11-07T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339546/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "bluecinema:3339544",
-       "start": "2026-11-08T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339544/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "bluecinema:3339542",
-       "start": "2026-11-09T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339542/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "bluecinema:3339550",
-       "start": "2026-11-10T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339550/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "bluecinema:3339549",
-       "start": "2026-11-11T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339549/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Digger",
-   "venue_title": "Digger",
-   "subtitle": null,
-   "original_title": "Digger",
-   "english_title": "Digger",
-   "kind": "film",
    "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/digger",
    "directors": [
     "Alejandro G. Iñárritu"
@@ -1430,6 +1054,282 @@
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10160/seats",
        "language": {
         "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Digger",
+   "venue_title": "Digger",
+   "subtitle": null,
+   "original_title": "Digger",
+   "english_title": "Digger",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3142307?cinemas=cc9b2e82-3ec8-4681-a06b-a8fc9f1d0b9d",
+   "directors": [
+    "Alejandro González Iñárritu"
+   ],
+   "year": 2026,
+   "runtime_min": 129,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1248832,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "digger-2026",
+   "series_slugs": {},
+   "venue": "blue Corso",
+   "dates": [
+    {
+     "date": "2026-11-05",
+     "screenings": [
+      {
+       "id": "bluecinema:3339548",
+       "start": "2026-11-05T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339548/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "screenings": [
+      {
+       "id": "bluecinema:3339547",
+       "start": "2026-11-06T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339547/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "bluecinema:3339546",
+       "start": "2026-11-07T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339546/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "bluecinema:3339544",
+       "start": "2026-11-08T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339544/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "bluecinema:3339542",
+       "start": "2026-11-09T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339542/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "bluecinema:3339550",
+       "start": "2026-11-10T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339550/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "bluecinema:3339549",
+       "start": "2026-11-11T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339549/seating",
+       "language": {
+        "raw": "EN/DE/FR",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
