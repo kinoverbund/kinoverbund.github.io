@@ -31,7 +31,7 @@
    "labels": [
     "Arthouse Kult"
    ],
-   "english": false,
+   "english": true,
    "curated": true,
    "curated_reasons": [
     "rep",
@@ -50,14 +50,16 @@
        "id": "arthouse:2156214",
        "start": "2026-11-27T20:30+01:00",
        "time": "20:30",
-       "auditoriums": [],
+       "auditoriums": [
+        "Movie 2"
+       ],
        "ticket_url": "https://arthouse.ch/tickets/2156214",
        "language": {
-        "raw": "",
-        "description": "Language not stated",
-        "english_audio": false,
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
         "english_subtitles": false,
-        "english_friendly": false
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -73,7 +75,7 @@
        "label": "Arthouse Kult",
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": true
       }
      ]

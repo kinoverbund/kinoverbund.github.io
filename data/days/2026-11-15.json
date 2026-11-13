@@ -7,6 +7,154 @@
    "address": null,
    "listings": [
     {
+     "title": "Festive Fun with Peppa",
+     "venue_title": "Festive Fun with Peppa Cinema Experience",
+     "subtitle": null,
+     "original_title": "Festive Fun with Peppa",
+     "english_title": "Festive Fun with Peppa",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025403",
+     "directors": [],
+     "year": 2026,
+     "runtime_min": 60,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1778515,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arena:24508",
+       "start": "2026-11-15T10:45+01:00",
+       "time": "10:45",
+       "auditoriums": [
+        "Saal 11"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24508&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24218",
+       "start": "2026-11-15T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal 4"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24218&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "Mega"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24215",
+       "start": "2026-11-15T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24215&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24497",
+       "start": "2026-11-15T17:20+01:00",
+       "time": "17:20",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24497&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "festive-fun-with-peppa-2026",
+     "series_slugs": {}
+    },
+    {
      "title": "Der perfekte Urlaub (The Perfect Holiday)",
      "venue_title": "Der perfekte Urlaub",
      "subtitle": null,
@@ -1238,7 +1386,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24500",
@@ -1636,7 +1784,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24219",
@@ -1846,7 +1994,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24225",
@@ -2605,7 +2753,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24258",
@@ -2815,7 +2963,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:24254",
@@ -3461,7 +3609,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2317717",
@@ -3611,7 +3759,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2317718",
@@ -3959,7 +4107,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2317798",
@@ -4296,7 +4444,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341122",
@@ -4750,7 +4898,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341641",
@@ -4871,7 +5019,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341007",
@@ -5423,7 +5571,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3340362",
@@ -5815,7 +5963,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341478",
@@ -6419,7 +6567,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3340765",
@@ -6480,7 +6628,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341628",
@@ -6670,7 +6818,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3340789",
@@ -6731,7 +6879,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341044",
@@ -6849,7 +6997,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341680",
@@ -6999,7 +7147,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3340439",
@@ -7480,7 +7628,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341106",
@@ -7968,7 +8116,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341059",
@@ -8395,7 +8543,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3341509",
@@ -8697,7 +8845,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2316699",
@@ -9441,6 +9589,90 @@
      "series_slugs": {}
     },
     {
+     "title": "À la poursuite de l'Affreunard (Chasing Horrifox)",
+     "venue_title": "Die Geschichte vom Gruselfuchs (Kurzfilmprogramm)",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "program",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/die-geschichte-vom-gruselfuchs-kurzfilmprogramm.html",
+     "directors": [],
+     "year": 2024,
+     "runtime_min": 44,
+     "country": null,
+     "program_films": [
+      {
+       "title": "À la poursuite de l'Affreunard (Chasing Horrifox)",
+       "original_title": "À la poursuite de l'Affreunard",
+       "directors": [
+        "Benjamin Botella"
+       ],
+       "year": 2024,
+       "runtime_min": null,
+       "country": null,
+       "language_raw": null,
+       "format_raw": null,
+       "start": null,
+       "notes": [],
+       "venue_title": "Die Geschichte vom Gruselfuchs",
+       "english_title": "Chasing Horrifox",
+       "tmdb_id": 1271932,
+       "tmdb_kind": "movie",
+       "original_language": "fr",
+       "language": null,
+       "format": null
+      }
+     ],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "one venue",
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2316698",
+       "start": "2026-11-15T14:10+01:00",
+       "time": "14:10",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/die-geschichte-vom-gruselfuchs-kurzfilmprogramm.html?city=zurich&show=2316698#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "a-la-poursuite-de-l-affreunard-chasing-horrifox-2024",
+     "series_slugs": {}
+    },
+    {
      "title": "Queen at Sea",
      "venue_title": "Queen at Sea",
      "subtitle": null,
@@ -9893,7 +10125,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10099",
@@ -10013,7 +10245,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10130",
@@ -10110,6 +10342,126 @@
      "series_slugs": {}
     },
     {
+     "title": "Ebenezer",
+     "venue_title": "Ebenezer: A Christmas Carol",
+     "subtitle": null,
+     "original_title": "Ebenezer",
+     "english_title": "Ebenezer",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/ebenezer-a-christmas-carol",
+     "directors": [
+      "Ti West"
+     ],
+     "year": 2026,
+     "runtime_min": 115,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1567605,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10131",
+       "start": "2026-11-15T12:20+01:00",
+       "time": "12:20",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10131/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-10175",
+       "start": "2026-11-15T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10175/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-10101",
+       "start": "2026-11-15T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10101/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "ebenezer-2026",
+     "series_slugs": {}
+    },
+    {
      "title": "Der perfekte Urlaub (The Perfect Holiday)",
      "venue_title": "Der perfekte Urlaub",
      "subtitle": null,
@@ -10197,6 +10549,98 @@
       }
      ],
      "film_slug": "der-perfekte-urlaub-the-perfect-holiday-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
+     "venue_title": "From Inside Out - The Architecture of Peter Zumtho",
+     "subtitle": null,
+     "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
+     "english_title": "From Inside Out: The Architecture of Peter Zumthor",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/from-inside-out-the-architecture-of-peter-zumtho",
+     "directors": [
+      "Wim Wenders"
+     ],
+     "year": 2026,
+     "runtime_min": 114,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1355885,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10085",
+       "start": "2026-11-15T13:30+01:00",
+       "time": "13:30",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10085/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Englisch Untertitel",
+        "description": "English; subtitles: German, English",
+        "english_audio": true,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-10090",
+       "start": "2026-11-15T17:10+01:00",
+       "time": "17:10",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10090/seats",
+       "language": {
+        "raw": "Deutsch; Deutsch Untertitel; Englisch Untertitel",
+        "description": "German; subtitles: German, English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "3d"
+        ],
+        "assumed": true,
+        "raw": "3D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
      "series_slugs": {}
     },
     {
@@ -10381,7 +10825,7 @@
         "Coop Hello Family"
        ],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": true
@@ -10658,7 +11102,7 @@
      "curated_reasons": [
       "one venue"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10133",
@@ -10778,7 +11222,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10129",

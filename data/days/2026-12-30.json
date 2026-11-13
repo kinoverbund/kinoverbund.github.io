@@ -233,7 +233,7 @@
       "Na Hong-jin"
      ],
      "labels": [],
-     "english": false,
+     "english": true,
      "curated": true,
      "curated_reasons": [
       "venue",
@@ -249,17 +249,17 @@
        "auditoriums": [],
        "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/334060",
        "language": {
-        "raw": "OV/df",
-        "description": "Original version; subtitles: German, French",
+        "raw": "OV/e",
+        "description": "Original version; subtitles: English",
         "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
+        "english_subtitles": true,
+        "english_friendly": true
        },
        "format": {
-        "format": "dcp",
+        "format": "digital",
         "presentation": [],
         "assumed": false,
-        "raw": "DCP, Farbe"
+        "raw": "Digital HD, Farbe"
        },
        "note": null,
        "note_lang": null,
@@ -269,7 +269,7 @@
        "label": null,
        "last": true,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": true
       }
      ],

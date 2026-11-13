@@ -77,6 +77,75 @@
    ]
   },
   {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "STRØM – Nordwärts zur Freiheit",
+     "venue_title": "Strøm",
+     "subtitle": null,
+     "original_title": "STRØM – Nordwärts zur Freiheit",
+     "english_title": "STRØM – Nordwärts zur Freiheit",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/strom-nordwaerts-zur-freiheit-mit-qa",
+     "directors": [
+      "Nils Kauf"
+     ],
+     "year": 2026,
+     "runtime_min": 93,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1808156,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-8656",
+       "start": "2026-11-26T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8656/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": "Northward to Freedom with Q&A",
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": true,
+       "english": false,
+       "curated": true,
+       "note_translated": true
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Riffraff",
    "operator": "Neugass Kino",
    "address": null,

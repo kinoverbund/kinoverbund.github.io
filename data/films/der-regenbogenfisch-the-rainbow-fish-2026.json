@@ -87,7 +87,8 @@
    "original_language": "de",
    "source": "bluecinema",
    "series": [
-    "Hello Family"
+    "Hello Family",
+    "Kinolino"
    ],
    "labels": [],
    "english": false,
@@ -98,7 +99,8 @@
    "new": false,
    "film_slug": "der-regenbogenfisch-the-rainbow-fish-2026",
    "series_slugs": {
-    "Hello Family": "hello-family-blue-cinema"
+    "Hello Family": "hello-family-blue-cinema",
+    "Kinolino": "kinolino-blue-cinema"
    },
    "venue": "blue Abaton",
    "dates": [
@@ -167,6 +169,43 @@
        "note_lang": null,
        "series": [
         "Hello Family"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3339939",
+       "start": "2026-11-29T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339939/seating",
+       "language": {
+        "raw": "GSW",
+        "description": "Swiss German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Kinolino"
        ],
        "label": null,
        "last": false,
@@ -386,7 +425,7 @@
         "Coop Hello Family"
        ],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": true

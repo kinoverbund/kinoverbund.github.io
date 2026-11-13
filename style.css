@@ -678,7 +678,7 @@ button { font: inherit; color: inherit; }
   text-wrap: balance;
 }
 .page-facts { margin-top: 12px; display: grid; gap: 2px; color: var(--ink-2); }
-.listing--series, .listing--venues { margin-top: 32px; }
+.listing--series, .listing--venues, .listing--films { margin-top: 32px; }
 .page-facts a { color: var(--ink); text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: var(--red); text-underline-offset: 0.18em; }
 .page-facts .fact-address a { font-weight: 700; }
 .fact-links { display: flex; align-items: center; gap: 14px; }
@@ -917,6 +917,21 @@ button { font: inherit; color: inherit; }
   }
   .venue-row-place { grid-column: 2; margin-top: 0; }
   .venue-row-figure { grid-column: 3; grid-row: 1; }
+}
+
+/* The films page (#154) is the same board, compacted: there are many more films than
+   venues and their titles run longer. Names and figures at the Title L size (Headline from 900px), tighter rows, a smaller label. The link's padding
+   keeps the tap target. */
+.film-list .venue-row { padding: 10px 0 12px; }
+.film-list .venue-name,
+.film-list .venue-row-figure .figure { font-size: var(--size-title-lg); letter-spacing: -0.02em; line-height: 1.1; }
+.film-list .venue-row-place { margin-top: 4px; font-size: var(--size-body-sm); }
+.film-list .venue-row-figure .figure-label { margin-top: 3px; }
+/* A long word in a title breaks rather than widening the page at doubled text (reflow). */
+.film-list .venue-name { overflow-wrap: anywhere; min-width: 0; }
+@media (min-width: 900px) {
+  .film-list .venue-name,
+  .film-list .venue-row-figure .figure { font-size: var(--step-2); }
 }
 
 /* End-of-listing day navigation. */

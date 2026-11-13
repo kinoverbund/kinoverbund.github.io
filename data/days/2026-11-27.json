@@ -2,6 +2,74 @@
  "date": "2026-11-27",
  "venues": [
   {
+   "name": "Arena Sihlcity",
+   "operator": "Arena Cinemas",
+   "address": null,
+   "listings": [
+    {
+     "title": "You Can See Everything",
+     "venue_title": "You Can See Everything",
+     "subtitle": null,
+     "original_title": "You Can See Everything",
+     "english_title": "You Can See Everything",
+     "kind": "film",
+     "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025649",
+     "directors": [
+      "Nathan Fielder",
+      "Lance Oppenheim"
+     ],
+     "year": 2026,
+     "runtime_min": 170,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1765072,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "arena",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arena:24553",
+       "start": "2026-11-27T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal 2"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24553&fid=1025649",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "you-can-see-everything-2026",
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Arthouse Le Paris",
    "operator": "Arthouse",
    "address": null,
@@ -106,7 +174,7 @@
      "labels": [
       "Arthouse Kult"
      ],
-     "english": false,
+     "english": true,
      "curated": true,
      "curated_reasons": [
       "rep",
@@ -118,14 +186,16 @@
        "id": "arthouse:2156214",
        "start": "2026-11-27T20:30+01:00",
        "time": "20:30",
-       "auditoriums": [],
+       "auditoriums": [
+        "Movie 2"
+       ],
        "ticket_url": "https://arthouse.ch/tickets/2156214",
        "language": {
-        "raw": "",
-        "description": "Language not stated",
-        "english_audio": false,
+        "raw": "E/d",
+        "description": "English; subtitles: German",
+        "english_audio": true,
         "english_subtitles": false,
-        "english_friendly": false
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -141,7 +211,7 @@
        "label": "Arthouse Kult",
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": true
       }
      ],
