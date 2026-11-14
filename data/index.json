@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-13T04:44:01+01:00",
- "today": "2026-11-13",
+ "generated_at": "2026-11-14T04:45:07+01:00",
+ "today": "2026-11-14",
  "days": [
-  {
-   "date": "2026-11-06",
-   "screenings": 213,
-   "english": 96,
-   "curated": 21,
-   "film": 0
-  },
   {
    "date": "2026-11-07",
    "screenings": 251,
@@ -517,31 +510,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-13T03:32:10+00:00"
+   "run_at": "2026-11-14T03:32:06+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-13T03:33:21+00:00"
+   "run_at": "2026-11-14T03:33:09+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-13T03:34:56+00:00"
+   "run_at": "2026-11-14T03:34:35+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-13T03:41:43+00:00"
+   "run_at": "2026-11-14T03:40:18+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-13T03:41:46+00:00"
+   "run_at": "2026-11-14T03:40:20+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-13T03:41:47+00:00"
+   "run_at": "2026-11-14T03:40:22+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-13T03:43:22+00:00"
+   "run_at": "2026-11-14T03:41:39+00:00"
   }
  },
  "venues": [
@@ -553,11 +546,10 @@
    "website": "https://www.arena.ch",
    "formats": [
     "dcp",
-    "onyx",
-    "4dx"
+    "4dx",
+    "onyx"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -573,7 +565,6 @@
     "2026-11-27"
    ],
    "screenings": {
-    "2026-11-06": 46,
     "2026-11-07": 72,
     "2026-11-08": 71,
     "2026-11-09": 45,
@@ -605,7 +596,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -641,7 +631,6 @@
     "2026-12-09"
    ],
    "screenings": {
-    "2026-11-06": 4,
     "2026-11-07": 4,
     "2026-11-08": 4,
     "2026-11-09": 4,
@@ -685,7 +674,7 @@
     {
      "name": "LunchKino",
      "slug": "lunchkino-arthouse",
-     "first": "2026-11-06",
+     "first": "2026-11-07",
      "last": "2026-12-02"
     },
     {
@@ -706,7 +695,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -726,7 +714,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-11-06": 8,
     "2026-11-07": 8,
     "2026-11-08": 10,
     "2026-11-09": 8,
@@ -751,12 +738,6 @@
    "instagram": "https://www.instagram.com/arthousekinos",
    "since": 1977,
    "series": [
-    {
-     "name": "KMG Worst Nights",
-     "slug": "kmg-worst-nights-arthouse",
-     "first": "2026-11-06",
-     "last": "2026-11-06"
-    },
     {
      "name": "Arthouse Kult",
      "slug": "arthouse-kult-arthouse",
@@ -787,7 +768,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -815,7 +795,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-11-06": 8,
     "2026-11-07": 8,
     "2026-11-08": 10,
     "2026-11-09": 8,
@@ -882,7 +861,6 @@
     "infinity-vision"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -908,7 +886,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-06": 46,
     "2026-11-07": 55,
     "2026-11-08": 49,
     "2026-11-09": 35,
@@ -975,7 +952,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -990,7 +966,6 @@
     "2026-11-18"
    ],
    "screenings": {
-    "2026-11-06": 24,
     "2026-11-07": 24,
     "2026-11-08": 24,
     "2026-11-09": 24,
@@ -1021,7 +996,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -1046,7 +1020,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-06": 12,
     "2026-11-07": 12,
     "2026-11-08": 12,
     "2026-11-09": 12,
@@ -1094,7 +1067,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -1120,7 +1092,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-06": 5,
     "2026-11-07": 5,
     "2026-11-08": 5,
     "2026-11-09": 5,
@@ -1207,7 +1178,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -1234,7 +1204,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-11-06": 25,
     "2026-11-07": 25,
     "2026-11-08": 25,
     "2026-11-09": 25,
@@ -1291,7 +1260,6 @@
     "3d"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -1330,7 +1298,6 @@
     "2027-01-20"
    ],
    "screenings": {
-    "2026-11-06": 12,
     "2026-11-07": 17,
     "2026-11-08": 22,
     "2026-11-09": 10,
@@ -1428,7 +1395,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -1474,7 +1440,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-11-06": 20,
     "2026-11-07": 20,
     "2026-11-08": 20,
     "2026-11-09": 17,
@@ -1552,12 +1517,11 @@
    "address": "Kanzleistrasse 52, 8004 Zürich",
    "website": "https://www.xenix.ch",
    "formats": [
-    "dcp",
     "digital",
+    "dcp",
     "35mm"
    ],
    "dates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -1620,7 +1584,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-11-06": 3,
     "2026-11-07": 1,
     "2026-11-08": 4,
     "2026-11-09": 2,
@@ -1691,14 +1654,8 @@
     {
      "name": "Paul Mescal",
      "slug": "paul-mescal-xenix",
-     "first": "2026-11-06",
+     "first": "2026-11-07",
      "last": "2026-12-02"
-    },
-    {
-     "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
-     "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-     "first": "2026-11-06",
-     "last": "2026-11-30"
     },
     {
      "name": "Dokfilm am Sonntag",
@@ -1711,6 +1668,12 @@
      "slug": "kinderkino-xenix",
      "first": "2026-11-08",
      "last": "2027-01-06"
+    },
+    {
+     "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
+     "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
+     "first": "2026-11-08",
+     "last": "2026-11-30"
     },
     {
      "name": "Gastveranstaltung",
@@ -1788,7 +1751,6 @@
   "Ladies Night": "ladies-night-blue-cinema",
   "Kurdisches Filmfestival Zürich": "kurdisches-filmfestival-zurich-xenix",
   "Kunsthaus: Maria Lassnig & Edvard Munch": "kunsthaus-maria-lassnig-edvard-munch-arthouse",
-  "KMG Worst Nights": "kmg-worst-nights-arthouse",
   "Kinolino": "kinolino-blue-cinema",
   "Kinderkino": "kinderkino-xenix",
   "KiddoKino": "kiddokino-kinokoni",
@@ -1830,7 +1792,6 @@
    "kiddokino-kinokoni",
    "kinderkino-xenix",
    "kinolino-blue-cinema",
-   "kmg-worst-nights-arthouse",
    "kunsthaus-maria-lassnig-edvard-munch-arthouse",
    "kurdisches-filmfestival-zurich-xenix",
    "ladies-night-blue-cinema",
@@ -1930,7 +1891,6 @@
    "hope-2026",
    "how-to-rob-a-bank-2026",
    "how-to-train-your-dragon-2010",
-   "indian-horse-2017",
    "inglourious-basterds-2009",
    "insomnia-2002",
    "je-so-pazzo-2026",
@@ -2038,7 +1998,6 @@
    "wenn-die-erinnerung-verblasst-2026",
    "wholetrain-2006",
    "wild-horse-nine-2026",
-   "wildhood-2021",
    "wildwood-2026",
    "woodwalkers-2-2026",
    "wrong-husband-2025",

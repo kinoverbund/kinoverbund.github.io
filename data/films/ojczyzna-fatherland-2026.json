@@ -31,71 +31,6 @@
    "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "arthouse:2311567",
-       "start": "2026-11-06T13:45+01:00",
-       "time": "13:45",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311567",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2311564",
-       "start": "2026-11-06T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311564",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-07",
      "screenings": [
       {
@@ -429,6 +364,72 @@
    "original_title": "Ojczyzna",
    "english_title": "Fatherland",
    "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/vaterland",
+   "directors": [
+    "Paweł Pawlikowski"
+   ],
+   "year": 2026,
+   "runtime_min": 82,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1437696,
+   "tmdb_kind": "movie",
+   "original_language": "pl",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "ojczyzna-fatherland-2026",
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9949",
+       "start": "2026-11-07T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9949/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ojczyzna (Fatherland)",
+   "venue_title": "Vaterland",
+   "subtitle": null,
+   "original_title": "Ojczyzna",
+   "english_title": "Fatherland",
+   "kind": "film",
    "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
    "directors": [
     "Pawel Pawlikowski"
@@ -451,71 +452,6 @@
    "series_slugs": {},
    "venue": "Houdini",
    "dates": [
-    {
-     "date": "2026-11-06",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2309887",
-       "start": "2026-11-06T17:00+01:00",
-       "time": "17:00",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2309887#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2309886",
-       "start": "2026-11-06T19:00+01:00",
-       "time": "19:00",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2309886#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-07",
      "screenings": [
@@ -1254,72 +1190,6 @@
         "presentation": [],
         "assumed": true,
         "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Ojczyzna (Fatherland)",
-   "venue_title": "Vaterland",
-   "subtitle": null,
-   "original_title": "Ojczyzna",
-   "english_title": "Fatherland",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/vaterland",
-   "directors": [
-    "Paweł Pawlikowski"
-   ],
-   "year": 2026,
-   "runtime_min": 82,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1437696,
-   "tmdb_kind": "movie",
-   "original_language": "pl",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "ojczyzna-fatherland-2026",
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "kinokoni:50-9949",
-       "start": "2026-11-07T15:00+01:00",
-       "time": "15:00",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9949/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
        },
        "note": null,
        "note_lang": null,
