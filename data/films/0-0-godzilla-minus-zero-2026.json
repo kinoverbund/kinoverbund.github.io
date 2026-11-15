@@ -31,135 +31,6 @@
    "venue": "blue Abaton",
    "dates": [
     {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "bluecinema:3339597",
-       "start": "2026-11-07T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339597/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3339625",
-       "start": "2026-11-07T16:15+01:00",
-       "time": "16:15",
-       "auditoriums": [
-        "Abaton 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339625/seating",
-       "language": {
-        "raw": "JA/DE",
-        "description": "Language not stated",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3339592",
-       "start": "2026-11-07T18:10+01:00",
-       "time": "18:10",
-       "auditoriums": [
-        "Abaton 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339592/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3339634",
-       "start": "2026-11-07T23:00+01:00",
-       "time": "23:00",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339634/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-08",
      "screenings": [
       {
@@ -971,212 +842,6 @@
    "original_title": "ゴジラ-0.0",
    "english_title": "Godzilla Minus Zero",
    "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3325107?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
-   "directors": [
-    "Takashi Yamazaki"
-   ],
-   "year": 2026,
-   "runtime_min": 135,
-   "country": "Japan",
-   "program_films": [],
-   "tmdb_id": 1381071,
-   "tmdb_kind": "movie",
-   "original_language": "ja",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "0-0-godzilla-minus-zero-2026",
-   "series_slugs": {},
-   "venue": "blue Metropol",
-   "dates": [
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "bluecinema:3339264",
-       "start": "2026-11-07T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339264/seating",
-       "language": {
-        "raw": "JA/DE",
-        "description": "Language not stated",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "bluecinema:3339263",
-       "start": "2026-11-08T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339263/seating",
-       "language": {
-        "raw": "JA/DE",
-        "description": "Language not stated",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "bluecinema:3339262",
-       "start": "2026-11-09T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339262/seating",
-       "language": {
-        "raw": "JA/DE",
-        "description": "Language not stated",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "bluecinema:3339261",
-       "start": "2026-11-10T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339261/seating",
-       "language": {
-        "raw": "JA/DE",
-        "description": "Language not stated",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "bluecinema:3339260",
-       "start": "2026-11-11T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [
-        "Metropol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339260/seating",
-       "language": {
-        "raw": "JA/DE",
-        "description": "Language not stated",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "ゴジラ-0.0 (Godzilla Minus Zero)",
-   "venue_title": "Godzilla Minus Zero",
-   "subtitle": null,
-   "original_title": "ゴジラ-0.0",
-   "english_title": "Godzilla Minus Zero",
-   "kind": "film",
    "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025116",
    "directors": [
     "Takashi Yamazaki"
@@ -1199,167 +864,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "arena:23770",
-       "start": "2026-11-07T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Saal 7"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23770&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23776",
-       "start": "2026-11-07T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23776&fid=1025116",
-       "language": {
-        "raw": "OV/de",
-        "description": "Original version; subtitles: German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23779",
-       "start": "2026-11-07T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Saal 10"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23779&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23777",
-       "start": "2026-11-07T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal 9"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23777&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:23771",
-       "start": "2026-11-07T20:45+01:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Saal 7"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23771&fid=1025116",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-08",
      "screenings": [
@@ -2255,41 +1759,6 @@
    "venue": "KINOKONI Zürich",
    "dates": [
     {
-     "date": "2026-11-07",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10038",
-       "start": "2026-11-07T20:20+01:00",
-       "time": "20:20",
-       "auditoriums": [
-        "Saal1"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10038/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; Englisch Untertitel; 日本語/Japanisch",
-        "description": "Japanese; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-08",
      "screenings": [
       {
@@ -2478,6 +1947,177 @@
        "language": {
         "raw": "Deutsch Untertitel; 日本語/Japanisch",
         "description": "Japanese; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "ゴジラ-0.0 (Godzilla Minus Zero)",
+   "venue_title": "Godzilla Minus Zero",
+   "subtitle": null,
+   "original_title": "ゴジラ-0.0",
+   "english_title": "Godzilla Minus Zero",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3325107?cinemas=afa91289-6085-432a-9fbe-4b40d3f12d04",
+   "directors": [
+    "Takashi Yamazaki"
+   ],
+   "year": 2026,
+   "runtime_min": 135,
+   "country": "Japan",
+   "program_films": [],
+   "tmdb_id": 1381071,
+   "tmdb_kind": "movie",
+   "original_language": "ja",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "0-0-godzilla-minus-zero-2026",
+   "series_slugs": {},
+   "venue": "blue Metropol",
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "screenings": [
+      {
+       "id": "bluecinema:3339263",
+       "start": "2026-11-08T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339263/seating",
+       "language": {
+        "raw": "JA/DE",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "screenings": [
+      {
+       "id": "bluecinema:3339262",
+       "start": "2026-11-09T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339262/seating",
+       "language": {
+        "raw": "JA/DE",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "bluecinema:3339261",
+       "start": "2026-11-10T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339261/seating",
+       "language": {
+        "raw": "JA/DE",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "bluecinema:3339260",
+       "start": "2026-11-11T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Metropol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3339260/seating",
+       "language": {
+        "raw": "JA/DE",
+        "description": "Language not stated",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
