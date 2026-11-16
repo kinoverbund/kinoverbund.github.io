@@ -26,168 +26,15 @@
     "Special"
    ],
    "english": true,
-   "curated": false,
-   "curated_reasons": [],
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
    "new": false,
    "film_slug": "naza-2026",
    "series_slugs": {},
    "venue": "Riffraff",
    "dates": [
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2310981",
-       "start": "2026-11-08T13:40+01:00",
-       "time": "13:40",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2310981#tickets",
-       "language": {
-        "raw": "ov/de,en",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2310983",
-       "start": "2026-11-08T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2310983#tickets",
-       "language": {
-        "raw": "ov/de,en",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2310982",
-       "start": "2026-11-08T17:20+01:00",
-       "time": "17:20",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2310982#tickets",
-       "language": {
-        "raw": "ov/de,en",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2310985",
-       "start": "2026-11-08T19:10+01:00",
-       "time": "19:10",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2310985#tickets",
-       "language": {
-        "raw": "ov/de,en",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2310984",
-       "start": "2026-11-08T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Riffraff 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/naza.html?city=zurich&show=2310984#tickets",
-       "language": {
-        "raw": "ov/de,en",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-09",
      "screenings": [
@@ -1710,41 +1557,6 @@
    "venue": "Arthouse Piccadilly",
    "dates": [
     {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "arthouse:2311488",
-       "start": "2026-11-08T16:10+01:00",
-       "time": "16:10",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311488",
-       "language": {
-        "raw": "Ov/d/e",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-09",
      "screenings": [
       {
@@ -1880,41 +1692,6 @@
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-11-08",
-     "screenings": [
-      {
-       "id": "arthouse:2312496",
-       "start": "2026-11-08T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2312496",
-       "language": {
-        "raw": "Ov/d/e",
-        "description": "Original version; subtitles: German, English",
-        "english_audio": false,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-09",
      "screenings": [
