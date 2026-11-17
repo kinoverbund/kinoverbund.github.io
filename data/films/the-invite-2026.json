@@ -31,71 +31,6 @@
    "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2313075",
-       "start": "2026-11-09T14:30+01:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2313075#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2313076",
-       "start": "2026-11-09T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2313076#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-10",
      "screenings": [
       {
@@ -399,51 +334,20 @@
        "curated": false
       }
      ]
-    }
-   ]
-  },
-  {
-   "title": "The Invite",
-   "venue_title": "The Invite",
-   "subtitle": null,
-   "original_title": "The Invite",
-   "english_title": "The Invite",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-invite",
-   "directors": [
-    "Olivia Wilde"
-   ],
-   "year": 2026,
-   "runtime_min": 107,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 950028,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "the-invite-2026",
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
+    },
     {
-     "date": "2026-11-09",
+     "date": "2026-11-19",
      "screenings": [
       {
-       "id": "kinokoni:50-10015",
-       "start": "2026-11-09T17:30+01:00",
-       "time": "17:30",
+       "id": "riffraff_houdini:2322262",
+       "start": "2026-11-19T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "FilmLounge 4"
+        "Houdini 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10015/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2322262#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -453,7 +357,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -467,18 +371,18 @@
      ]
     },
     {
-     "date": "2026-11-10",
+     "date": "2026-11-20",
      "screenings": [
       {
-       "id": "kinokoni:50-10004",
-       "start": "2026-11-10T18:00+01:00",
-       "time": "18:00",
+       "id": "riffraff_houdini:2322312",
+       "start": "2026-11-20T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "FilmLounge 4"
+        "Houdini 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10004/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2322312#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -488,7 +392,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -502,18 +406,18 @@
      ]
     },
     {
-     "date": "2026-11-11",
+     "date": "2026-11-21",
      "screenings": [
       {
-       "id": "kinokoni:50-9933",
-       "start": "2026-11-11T17:40+01:00",
-       "time": "17:40",
+       "id": "riffraff_houdini:2322362",
+       "start": "2026-11-21T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "Saal6"
+        "Houdini 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9933/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2322362#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -523,7 +427,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -537,18 +441,18 @@
      ]
     },
     {
-     "date": "2026-11-12",
+     "date": "2026-11-22",
      "screenings": [
       {
-       "id": "kinokoni:50-10111",
-       "start": "2026-11-12T18:00+01:00",
-       "time": "18:00",
+       "id": "riffraff_houdini:2322412",
+       "start": "2026-11-22T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "FilmLounge 5"
+        "Houdini 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10111/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2322412#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -558,7 +462,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -572,18 +476,18 @@
      ]
     },
     {
-     "date": "2026-11-13",
+     "date": "2026-11-23",
      "screenings": [
       {
-       "id": "kinokoni:50-10118",
-       "start": "2026-11-13T17:40+01:00",
-       "time": "17:40",
+       "id": "riffraff_houdini:2320083",
+       "start": "2026-11-23T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "Saal6"
+        "Houdini 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10118/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2320083#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -593,7 +497,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -607,18 +511,18 @@
      ]
     },
     {
-     "date": "2026-11-14",
+     "date": "2026-11-24",
      "screenings": [
       {
-       "id": "kinokoni:50-10076",
-       "start": "2026-11-14T18:00+01:00",
-       "time": "18:00",
+       "id": "riffraff_houdini:2322462",
+       "start": "2026-11-24T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "FilmLounge 4"
+        "Houdini 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10076/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2322462#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -628,7 +532,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -642,18 +546,18 @@
      ]
     },
     {
-     "date": "2026-11-15",
+     "date": "2026-11-25",
      "screenings": [
       {
-       "id": "kinokoni:50-10094",
-       "start": "2026-11-15T17:30+01:00",
-       "time": "17:30",
+       "id": "riffraff_houdini:2322511",
+       "start": "2026-11-25T16:00+01:00",
+       "time": "16:00",
        "auditoriums": [
-        "Saal6"
+        "Houdini 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10094/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/the-invite.html?city=zurich&show=2322511#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -663,48 +567,13 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10161",
-       "start": "2026-11-16T17:40+01:00",
-       "time": "17:40",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10161/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
+       "last": true,
        "guest": false,
        "english": true,
        "curated": false
@@ -742,41 +611,6 @@
    "series_slugs": {},
    "venue": "blue Capitol",
    "dates": [
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "bluecinema:3339556",
-       "start": "2026-11-09T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Capitol 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339556/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-10",
      "screenings": [
@@ -1101,6 +935,352 @@
    "original_title": "The Invite",
    "english_title": "The Invite",
    "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/the-invite",
+   "directors": [
+    "Olivia Wilde"
+   ],
+   "year": 2026,
+   "runtime_min": 107,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 950028,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "the-invite-2026",
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-10",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10004",
+       "start": "2026-11-10T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10004/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "screenings": [
+      {
+       "id": "kinokoni:50-9933",
+       "start": "2026-11-11T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9933/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10111",
+       "start": "2026-11-12T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10111/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10118",
+       "start": "2026-11-13T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10118/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10076",
+       "start": "2026-11-14T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10076/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10094",
+       "start": "2026-11-15T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10094/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10161",
+       "start": "2026-11-16T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10161/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10241",
+       "start": "2026-11-19T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10241/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10246",
+       "start": "2026-11-20T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10246/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Invite",
+   "venue_title": "The Invite",
+   "subtitle": null,
+   "original_title": "The Invite",
+   "english_title": "The Invite",
+   "kind": "film",
    "film_url": "https://arthouse.ch/movies/the-invite",
    "directors": [
     "Olivia Wilde"
@@ -1134,6 +1314,72 @@
         "Piccadilly 2"
        ],
        "ticket_url": "https://arthouse.ch/tickets/2317802",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "The Invite",
+   "venue_title": "The Invite",
+   "subtitle": null,
+   "original_title": "The Invite",
+   "english_title": "The Invite",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/the-invite",
+   "directors": [
+    "Olivia Wilde"
+   ],
+   "year": 2026,
+   "runtime_min": 107,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 950028,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "the-invite-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "arthouse:2321324",
+       "start": "2026-11-22T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2321324",
        "language": {
         "raw": "E/d,f",
         "description": "English; subtitles: German, French",

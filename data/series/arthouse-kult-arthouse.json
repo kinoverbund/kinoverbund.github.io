@@ -34,6 +34,7 @@
    "english": true,
    "curated": true,
    "curated_reasons": [
+    "one venue",
     "rep",
     "special"
    ],
@@ -114,6 +115,7 @@
     "special"
    ],
    "new": false,
+   "film_slug": "2001-a-space-odyssey-1968",
    "series_slugs": {
     "Arthouse Kult": "arthouse-kult-arthouse"
    },
@@ -122,6 +124,36 @@
     {
      "date": "2026-12-18",
      "screenings": [
+      {
+       "id": "arthouse:2322574",
+       "start": "2026-12-18T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2322574",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Arthouse Kult"
+       ],
+       "label": "Arthouse Kult",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
       {
        "id": "arthouse:2156218",
        "start": "2026-12-18T20:30+01:00",

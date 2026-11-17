@@ -31,71 +31,6 @@
    "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2313054",
-       "start": "2026-11-09T14:20+01:00",
-       "time": "14:20",
-       "auditoriums": [
-        "Houdini 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2313054#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2313055",
-       "start": "2026-11-09T18:20+01:00",
-       "time": "18:20",
-       "auditoriums": [
-        "Houdini 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2313055#tickets",
-       "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-10",
      "screenings": [
       {
@@ -649,6 +584,431 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-19",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322276",
+       "start": "2026-11-19T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322276#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2322275",
+       "start": "2026-11-19T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322275#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322326",
+       "start": "2026-11-20T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322326#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2322325",
+       "start": "2026-11-20T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322325#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322376",
+       "start": "2026-11-21T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322376#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2322375",
+       "start": "2026-11-21T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322375#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322426",
+       "start": "2026-11-22T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322426#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2322425",
+       "start": "2026-11-22T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322425#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320099",
+       "start": "2026-11-23T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2320099#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2320106",
+       "start": "2026-11-23T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2320106#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322476",
+       "start": "2026-11-24T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322476#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2322475",
+       "start": "2026-11-24T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322475#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322525",
+       "start": "2026-11-25T18:20+01:00",
+       "time": "18:20",
+       "auditoriums": [
+        "Houdini 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/wildwood.html?city=zurich&show=2322525#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -681,41 +1041,6 @@
    "series_slugs": {},
    "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "bluecinema:3339401",
-       "start": "2026-11-09T14:30+01:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Abaton 7"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339401/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-10",
      "screenings": [
@@ -817,75 +1142,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "arena:23869",
-       "start": "2026-11-09T17:10+01:00",
-       "time": "17:10",
-       "auditoriums": [
-        "Saal 5"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23869&fid=1024478",
-       "language": {
-        "raw": "EN/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "onyx"
-        ],
-        "assumed": true,
-        "raw": "Onyx"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arena:23870",
-       "start": "2026-11-09T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Saal 5"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=23870&fid=1024478",
-       "language": {
-        "raw": "EN/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "onyx"
-        ],
-        "assumed": true,
-        "raw": "Onyx"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-10",
      "screenings": [
@@ -1972,6 +2228,681 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-19",
+     "screenings": [
+      {
+       "id": "arena:24639",
+       "start": "2026-11-19T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24639&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24721",
+       "start": "2026-11-19T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24721&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24838",
+       "start": "2026-11-19T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24838&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "screenings": [
+      {
+       "id": "arena:24640",
+       "start": "2026-11-20T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24640&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24722",
+       "start": "2026-11-20T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24722&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24839",
+       "start": "2026-11-20T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24839&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "arena:24641",
+       "start": "2026-11-21T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24641&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24723",
+       "start": "2026-11-21T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24723&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24840",
+       "start": "2026-11-21T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24840&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "arena:24642",
+       "start": "2026-11-22T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24642&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24724",
+       "start": "2026-11-22T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24724&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24841",
+       "start": "2026-11-22T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24841&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "arena:24636",
+       "start": "2026-11-23T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24636&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24718",
+       "start": "2026-11-23T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24718&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24836",
+       "start": "2026-11-23T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24836&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "arena:24637",
+       "start": "2026-11-24T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24637&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24719",
+       "start": "2026-11-24T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24719&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24837",
+       "start": "2026-11-24T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24837&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "arena:24638",
+       "start": "2026-11-25T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24638&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:24720",
+       "start": "2026-11-25T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal 5"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24720&fid=1024478",
+       "language": {
+        "raw": "EN/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "onyx"
+        ],
+        "assumed": true,
+        "raw": "Onyx"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -2004,41 +2935,6 @@
    "series_slugs": {},
    "venue": "blue Capitol",
    "dates": [
-    {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "bluecinema:3339411",
-       "start": "2026-11-09T18:15+01:00",
-       "time": "18:15",
-       "auditoriums": [
-        "Capitol 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339411/seating",
-       "language": {
-        "raw": "EN/DE",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-10",
      "screenings": [
@@ -2533,6 +3429,461 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-19",
+     "screenings": [
+      {
+       "id": "bluecinema:3343415",
+       "start": "2026-11-19T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343415/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3343414",
+       "start": "2026-11-19T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343414/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "screenings": [
+      {
+       "id": "bluecinema:3343413",
+       "start": "2026-11-20T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343413/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3343412",
+       "start": "2026-11-20T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343412/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "bluecinema:3343411",
+       "start": "2026-11-21T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343411/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3343410",
+       "start": "2026-11-21T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343410/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "bluecinema:3343409",
+       "start": "2026-11-22T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343409/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3343408",
+       "start": "2026-11-22T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343408/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "bluecinema:3343407",
+       "start": "2026-11-23T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343407/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3343406",
+       "start": "2026-11-23T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343406/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "bluecinema:3343405",
+       "start": "2026-11-24T17:00+01:00",
+       "time": "17:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343405/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3343404",
+       "start": "2026-11-24T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343404/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "bluecinema:3343403",
+       "start": "2026-11-25T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343403/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3343402",
+       "start": "2026-11-25T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343402/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -2754,6 +4105,111 @@
        "language": {
         "raw": "Deutsch Untertitel; English/Englisch",
         "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10286",
+       "start": "2026-11-21T14:50+01:00",
+       "time": "14:50",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10286/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10304",
+       "start": "2026-11-23T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10304/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10305",
+       "start": "2026-11-24T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10305/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
         "english_friendly": true

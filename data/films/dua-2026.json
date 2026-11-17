@@ -33,71 +33,6 @@
    "venue": "Riffraff",
    "dates": [
     {
-     "date": "2026-11-09",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2311014",
-       "start": "2026-11-09T15:50+01:00",
-       "time": "15:50",
-       "auditoriums": [
-        "Riffraff 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2311014#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
-       "id": "riffraff_houdini:2311013",
-       "start": "2026-11-09T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Riffraff 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2311013#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-11-10",
      "screenings": [
       {
@@ -433,7 +368,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ]
     },
@@ -468,7 +403,252 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-19",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320470",
+       "start": "2026-11-19T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2320470#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2314995",
+       "start": "2026-11-20T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2314995#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320520",
+       "start": "2026-11-21T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2320520#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320570",
+       "start": "2026-11-22T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2320570#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320620",
+       "start": "2026-11-23T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2320620#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320670",
+       "start": "2026-11-24T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2320670#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320720",
+       "start": "2026-11-25T15:30+01:00",
+       "time": "15:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/dua.html?city=zurich&show=2320720#tickets",
+       "language": {
+        "raw": "ov/de,fr",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": true
       }
      ]
     }

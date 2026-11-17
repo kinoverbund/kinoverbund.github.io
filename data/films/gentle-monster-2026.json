@@ -205,6 +205,41 @@
        "curated": true
       }
      ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10325",
+       "start": "2026-11-25T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10325/seats",
+       "language": {
+        "raw": "Deutsch; Deutsch Untertitel",
+        "description": "German; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
     }
    ]
   }

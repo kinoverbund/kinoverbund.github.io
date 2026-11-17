@@ -110,6 +110,117 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10193",
+       "start": "2026-11-21T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10193/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10212",
+       "start": "2026-11-22T12:10+01:00",
+       "time": "12:10",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10212/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10269",
+       "start": "2026-11-25T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10269/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": true,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
     }
    ]
   }

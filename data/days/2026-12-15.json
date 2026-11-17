@@ -2,6 +2,80 @@
  "date": "2026-12-15",
  "venues": [
   {
+   "name": "Arthouse Le Paris",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Derborence Le Temps des Animaux (Derborence The Age of Animals)",
+     "venue_title": "Derborence Le Temps des Animaux",
+     "subtitle": null,
+     "original_title": "Derborence Le Temps des Animaux",
+     "english_title": "Derborence The Age of Animals",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/derborence-le-temps-des-animaux",
+     "directors": [
+      "Vincent Chabloz"
+     ],
+     "year": 2026,
+     "runtime_min": 84,
+     "country": "Schweiz",
+     "program_films": [],
+     "tmdb_id": 1735045,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "arthouse",
+     "series": [
+      "LunchKino"
+     ],
+     "labels": [
+      "LunchKino"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2323551",
+       "start": "2026-12-15T12:15+01:00",
+       "time": "12:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2323551",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "LunchKino"
+       ],
+       "label": "LunchKino",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "LunchKino": "lunchkino-arthouse"
+     }
+    }
+   ]
+  },
+  {
    "name": "blue Abaton",
    "operator": "blue Cinema",
    "address": null,

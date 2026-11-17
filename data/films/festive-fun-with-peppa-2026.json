@@ -407,6 +407,136 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "arena:24556",
+       "start": "2026-11-21T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24556&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24585",
+       "start": "2026-11-21T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24585&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "arena:24557",
+       "start": "2026-11-22T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24557&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24586",
+       "start": "2026-11-22T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24586&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -738,6 +868,111 @@
         "Capitol 5"
        ],
        "ticket_url": "https://www.bluecinema.ch/de/screening/3341665/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "bluecinema:3344328",
+       "start": "2026-11-21T13:10+01:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344328/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "bluecinema:3344327",
+       "start": "2026-11-22T13:10+01:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344327/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "bluecinema:3344349",
+       "start": "2026-11-25T13:10+01:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344349/seating",
        "language": {
         "raw": "EN",
         "description": "English",
@@ -1115,6 +1350,171 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "bluecinema:3344389",
+       "start": "2026-11-21T13:15+01:00",
+       "time": "13:15",
+       "auditoriums": [
+        "Abaton 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344389/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3344347",
+       "start": "2026-11-21T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "Abaton B"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344347/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "bluecinema:3344388",
+       "start": "2026-11-22T11:10+01:00",
+       "time": "11:10",
+       "auditoriums": [
+        "Abaton 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344388/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3344390",
+       "start": "2026-11-22T12:30+01:00",
+       "time": "12:30",
+       "auditoriums": [
+        "Abaton 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344390/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "bluecinema:3344352",
+       "start": "2026-11-23T16:00+01:00",
+       "time": "16:00",
+       "auditoriums": [
+        "Abaton 10"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344352/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -1287,6 +1687,251 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-19",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322278",
+       "start": "2026-11-19T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2322278#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-20",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322328",
+       "start": "2026-11-20T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2322328#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322378",
+       "start": "2026-11-21T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2322378#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322428",
+       "start": "2026-11-22T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2322428#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-23",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2320101",
+       "start": "2026-11-23T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2320101#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-24",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322478",
+       "start": "2026-11-24T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2322478#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2322527",
+       "start": "2026-11-25T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Houdini 5"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2322527#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -1389,6 +2034,117 @@
        ],
        "label": null,
        "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10193",
+       "start": "2026-11-21T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10193/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10212",
+       "start": "2026-11-22T12:10+01:00",
+       "time": "12:10",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10212/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10269",
+       "start": "2026-11-25T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10269/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": true,
        "guest": false,
        "english": false,
        "curated": false
