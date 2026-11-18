@@ -8,6 +8,80 @@
    "original_title": "Les Braves",
    "english_title": "Coward",
    "kind": "film",
+   "film_url": "https://arthouse.ch/movies/coward",
+   "directors": [
+    "Lukas Dhont"
+   ],
+   "year": 2026,
+   "runtime_min": 127,
+   "country": "Belgien",
+   "program_films": [],
+   "tmdb_id": 1437981,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "arthouse",
+   "series": [
+    "Special Screening mit Cast & Crew"
+   ],
+   "labels": [
+    "Special Screening mit Cast & Crew"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "les-braves-coward-2026",
+   "series_slugs": {
+    "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
+   },
+   "venue": "Arthouse Le Paris",
+   "dates": [
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "arthouse:2319609",
+       "start": "2026-12-01T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2319609",
+       "language": {
+        "raw": "F/d",
+        "description": "French; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Special Screening mit Cast & Crew"
+       ],
+       "label": "Special Screening mit Cast & Crew",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Les Braves (Coward)",
+   "venue_title": "Coward",
+   "subtitle": null,
+   "original_title": "Les Braves",
+   "english_title": "Coward",
+   "kind": "film",
    "film_url": "https://www.riffraff-houdini.ch/de-ch/film/coward.html",
    "directors": [
     "Lukas Dhont"
@@ -32,6 +106,7 @@
     "special"
    ],
    "new": false,
+   "film_slug": "les-braves-coward-2026",
    "series_slugs": {
     "Sneaky Sunday": "sneaky-sunday-neugass-kino"
    },

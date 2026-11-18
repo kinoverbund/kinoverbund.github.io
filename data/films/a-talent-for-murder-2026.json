@@ -31,101 +31,6 @@
    "venue": "blue Capitol",
    "dates": [
     {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "bluecinema:3339387",
-       "start": "2026-11-10T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Capitol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339387/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3339386",
-       "start": "2026-11-10T18:15+01:00",
-       "time": "18:15",
-       "auditoriums": [
-        "Capitol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339386/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3339385",
-       "start": "2026-11-10T20:45+01:00",
-       "time": "20:45",
-       "auditoriums": [
-        "Capitol 1"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339385/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-11",
      "screenings": [
       {
@@ -1612,41 +1517,6 @@
    "venue": "Arthouse Piccadilly",
    "dates": [
     {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "arthouse:2311501",
-       "start": "2026-11-10T15:50+01:00",
-       "time": "15:50",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311501",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-11",
      "screenings": [
       {
@@ -1852,71 +1722,6 @@
    "series_slugs": {},
    "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "bluecinema:3339380",
-       "start": "2026-11-10T17:45+01:00",
-       "time": "17:45",
-       "auditoriums": [
-        "Abaton 10"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339380/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3339379",
-       "start": "2026-11-10T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 10"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3339379/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-11",
      "screenings": [
@@ -2301,70 +2106,6 @@
    "original_title": "A Talent for Murder",
    "english_title": "A Talent for Murder",
    "kind": "film",
-   "film_url": "https://arthouse.ch/movies/a-talent-for-murder",
-   "directors": [
-    "Anton Corbijn"
-   ],
-   "year": 2026,
-   "runtime_min": 106,
-   "country": "USA",
-   "program_films": [],
-   "tmdb_id": 1084409,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "a-talent-for-murder-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Le Paris",
-   "dates": [
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "arthouse:2311396",
-       "start": "2026-11-10T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2311396",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "A Talent for Murder",
-   "venue_title": "A Talent for Murder",
-   "subtitle": null,
-   "original_title": "A Talent for Murder",
-   "english_title": "A Talent for Murder",
-   "kind": "film",
    "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/a-talent-for-murder",
    "directors": [
     "Anton Corbijn"
@@ -2387,41 +2128,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10000",
-       "start": "2026-11-10T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10000/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-11",
      "screenings": [

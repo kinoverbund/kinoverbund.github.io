@@ -95,7 +95,7 @@
      "source": "arthouse",
      "series": [],
      "labels": [],
-     "english": false,
+     "english": true,
      "curated": false,
      "curated_reasons": [],
      "new": false,
@@ -107,11 +107,11 @@
        "auditoriums": [],
        "ticket_url": "https://arthouse.ch/tickets/2306171",
        "language": {
-        "raw": "",
-        "description": "Language not stated",
-        "english_audio": false,
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
         "english_subtitles": false,
-        "english_friendly": false
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -125,7 +125,7 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": false,
+       "english": true,
        "curated": false
       }
      ],
@@ -176,11 +176,13 @@
        "id": "arthouse:2098671",
        "start": "2026-12-02T20:30+01:00",
        "time": "20:30",
-       "auditoriums": [],
+       "auditoriums": [
+        "Movie 1"
+       ],
        "ticket_url": "https://arthouse.ch/tickets/2098671",
        "language": {
-        "raw": "",
-        "description": "Language not stated",
+        "raw": "Jap/d",
+        "description": "Japanese; subtitles: German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false

@@ -2853,41 +2853,11 @@
        "curated": false
       },
       {
-       "id": "arena:24700",
-       "start": "2026-11-19T16:40+01:00",
-       "time": "16:40",
-       "auditoriums": [
-        "Saal 7"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24700&fid=1022875",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
        "id": "arena:24707",
        "start": "2026-11-19T17:00+01:00",
        "time": "17:00",
        "auditoriums": [
-        "Saal 4"
+        "Saal 7"
        ],
        "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24707&fid=1022875",
        "language": {
@@ -2901,7 +2871,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "Mega"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -3037,36 +3007,6 @@
        "curated": false
       },
       {
-       "id": "arena:24845",
-       "start": "2026-11-19T20:25+01:00",
-       "time": "20:25",
-       "auditoriums": [
-        "Saal 4"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24845&fid=1022875",
-       "language": {
-        "raw": "EN/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "Mega"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
        "id": "arena:24856",
        "start": "2026-11-19T20:30+01:00",
        "time": "20:30",
@@ -3096,6 +3036,36 @@
        "last": false,
        "guest": false,
        "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24845",
+       "start": "2026-11-19T20:35+01:00",
+       "time": "20:35",
+       "auditoriums": [
+        "Saal 4"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24845&fid=1022875",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "Mega"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
        "curated": false
       }
      ]

@@ -52,41 +52,6 @@
    "venue": "Xenix",
    "dates": [
     {
-     "date": "2026-11-10",
-     "screenings": [
-      {
-       "id": "xenix:969915",
-       "start": "2026-11-10T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [],
-       "ticket_url": "https://www.advance-ticket.ch/omniticket/xenix/969915",
-       "language": {
-        "raw": "E•OV/e",
-        "description": "English, Original version; subtitles: English",
-        "english_audio": true,
-        "english_subtitles": true,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": false,
-        "raw": "DCP, Farbe"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "Reclaiming Youth – Junge Indigene Stimmen aus Kanada"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-11-11",
      "screenings": [
       {
@@ -372,7 +337,6 @@
     "special"
    ],
    "new": false,
-   "film_slug": "wrong-husband-2025",
    "series_slugs": {
     "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
    },

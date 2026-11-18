@@ -45,11 +45,13 @@
        "id": "arthouse:2098671",
        "start": "2026-12-02T20:30+01:00",
        "time": "20:30",
-       "auditoriums": [],
+       "auditoriums": [
+        "Movie 1"
+       ],
        "ticket_url": "https://arthouse.ch/tickets/2098671",
        "language": {
-        "raw": "",
-        "description": "Language not stated",
+        "raw": "Jap/d",
+        "description": "Japanese; subtitles: German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false

@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-17T04:43:23+01:00",
- "today": "2026-11-17",
+ "generated_at": "2026-11-18T04:41:40+01:00",
+ "today": "2026-11-18",
  "days": [
-  {
-   "date": "2026-11-10",
-   "screenings": 197,
-   "english": 94,
-   "curated": 18,
-   "film": 0
-  },
   {
    "date": "2026-11-11",
    "screenings": 217,
@@ -67,7 +60,7 @@
   },
   {
    "date": "2026-11-19",
-   "screenings": 202,
+   "screenings": 201,
    "english": 98,
    "curated": 11,
    "film": 0
@@ -151,64 +144,64 @@
   },
   {
    "date": "2026-12-01",
-   "screenings": 6,
+   "screenings": 7,
    "english": 5,
-   "curated": 6,
+   "curated": 7,
    "film": 0
   },
   {
    "date": "2026-12-02",
    "screenings": 9,
-   "english": 4,
+   "english": 5,
    "curated": 7,
    "film": 0
   },
   {
    "date": "2026-12-03",
    "screenings": 8,
-   "english": 6,
+   "english": 7,
    "curated": 3,
    "film": 1
   },
   {
    "date": "2026-12-04",
    "screenings": 9,
-   "english": 6,
+   "english": 7,
    "curated": 4,
    "film": 0
   },
   {
    "date": "2026-12-05",
-   "screenings": 10,
-   "english": 7,
-   "curated": 5,
+   "screenings": 11,
+   "english": 8,
+   "curated": 6,
    "film": 0
   },
   {
    "date": "2026-12-06",
-   "screenings": 12,
-   "english": 6,
-   "curated": 7,
+   "screenings": 13,
+   "english": 7,
+   "curated": 8,
    "film": 0
   },
   {
    "date": "2026-12-07",
    "screenings": 8,
-   "english": 6,
+   "english": 7,
    "curated": 3,
    "film": 0
   },
   {
    "date": "2026-12-08",
    "screenings": 11,
-   "english": 7,
+   "english": 8,
    "curated": 6,
    "film": 1
   },
   {
    "date": "2026-12-09",
    "screenings": 11,
-   "english": 7,
+   "english": 8,
    "curated": 6,
    "film": 0
   },
@@ -489,31 +482,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-17T03:32:08+00:00"
+   "run_at": "2026-11-18T03:32:08+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-17T03:33:23+00:00"
+   "run_at": "2026-11-18T03:33:16+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-17T03:34:59+00:00"
+   "run_at": "2026-11-18T03:34:39+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-17T03:40:25+00:00"
+   "run_at": "2026-11-18T03:39:18+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-17T03:40:28+00:00"
+   "run_at": "2026-11-18T03:39:21+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-17T03:40:30+00:00"
+   "run_at": "2026-11-18T03:39:22+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-17T03:41:58+00:00"
+   "run_at": "2026-11-18T03:40:41+00:00"
   }
  },
  "venues": [
@@ -529,7 +522,6 @@
     "onyx"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -548,7 +540,6 @@
     "2026-11-27"
    ],
    "screenings": {
-    "2026-11-10": 45,
     "2026-11-11": 59,
     "2026-11-12": 46,
     "2026-11-13": 46,
@@ -557,7 +548,7 @@
     "2026-11-16": 46,
     "2026-11-17": 45,
     "2026-11-18": 59,
-    "2026-11-19": 48,
+    "2026-11-19": 47,
     "2026-11-20": 48,
     "2026-11-21": 69,
     "2026-11-22": 69,
@@ -583,7 +574,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -622,7 +612,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-11-10": 4,
     "2026-11-11": 3,
     "2026-11-12": 4,
     "2026-11-13": 4,
@@ -643,7 +632,7 @@
     "2026-11-28": 1,
     "2026-11-29": 1,
     "2026-11-30": 1,
-    "2026-12-01": 1,
+    "2026-12-01": 2,
     "2026-12-02": 2,
     "2026-12-03": 2,
     "2026-12-04": 2,
@@ -667,16 +656,22 @@
    "since": 1963,
    "series": [
     {
-     "name": "LunchKino",
-     "slug": "lunchkino-arthouse",
-     "first": "2026-11-10",
-     "last": "2026-12-16"
-    },
-    {
      "name": "Cecelia Ahern am 11. November live in Zürich: Ein Abend voller Liebe und Dublin-Flair",
      "slug": "cecelia-ahern-am-11-november-live-in-zurich-ein-abend-voller-liebe-und-dublin-flair-arthouse",
      "first": "2026-11-11",
      "last": "2026-11-11"
+    },
+    {
+     "name": "LunchKino",
+     "slug": "lunchkino-arthouse",
+     "first": "2026-11-11",
+     "last": "2026-12-16"
+    },
+    {
+     "name": "Special Screening mit Cast & Crew",
+     "slug": "special-screening-mit-cast-crew-arthouse",
+     "first": "2026-12-01",
+     "last": "2026-12-01"
     }
    ]
   },
@@ -690,7 +685,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -713,7 +707,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-11-10": 8,
     "2026-11-11": 8,
     "2026-11-12": 8,
     "2026-11-13": 8,
@@ -771,7 +764,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -800,7 +792,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-11-10": 8,
     "2026-11-11": 8,
     "2026-11-12": 8,
     "2026-11-13": 8,
@@ -868,7 +859,6 @@
     "infinity-vision"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -885,6 +875,8 @@
     "2026-11-24",
     "2026-11-25",
     "2026-11-29",
+    "2026-12-05",
+    "2026-12-06",
     "2026-12-15",
     "2026-12-16",
     "2026-12-17",
@@ -896,7 +888,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-10": 36,
     "2026-11-11": 36,
     "2026-11-12": 38,
     "2026-11-13": 45,
@@ -913,6 +904,8 @@
     "2026-11-24": 39,
     "2026-11-25": 39,
     "2026-11-29": 1,
+    "2026-12-05": 1,
+    "2026-12-06": 1,
     "2026-12-15": 3,
     "2026-12-16": 17,
     "2026-12-17": 13,
@@ -933,7 +926,7 @@
      "name": "Hello Family",
      "slug": "hello-family-blue-cinema",
      "first": "2026-11-14",
-     "last": "2026-11-15"
+     "last": "2026-12-06"
     },
     {
      "name": "Movie Night",
@@ -965,7 +958,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -983,7 +975,6 @@
     "2026-11-25"
    ],
    "screenings": {
-    "2026-11-10": 24,
     "2026-11-11": 24,
     "2026-11-12": 24,
     "2026-11-13": 24,
@@ -1017,7 +1008,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -1044,7 +1034,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-10": 11,
     "2026-11-11": 12,
     "2026-11-12": 12,
     "2026-11-13": 12,
@@ -1094,7 +1083,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -1123,7 +1111,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-10": 5,
     "2026-11-11": 5,
     "2026-11-12": 5,
     "2026-11-13": 5,
@@ -1176,14 +1163,12 @@
     "bluray"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-17",
     "2026-12-01",
     "2026-12-08",
     "2026-12-15"
    ],
    "screenings": {
-    "2026-11-10": 1,
     "2026-11-17": 1,
     "2026-12-01": 1,
     "2026-12-08": 1,
@@ -1198,7 +1183,7 @@
     {
      "name": "Work, work, work",
      "slug": "work-work-work-filmstelle",
-     "first": "2026-11-10",
+     "first": "2026-11-17",
      "last": "2026-12-15"
     }
    ]
@@ -1213,7 +1198,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -1243,7 +1227,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-11-10": 25,
     "2026-11-11": 24,
     "2026-11-12": 23,
     "2026-11-13": 23,
@@ -1303,7 +1286,6 @@
     "3d"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -1341,7 +1323,6 @@
     "2027-01-20"
    ],
    "screenings": {
-    "2026-11-10": 11,
     "2026-11-11": 18,
     "2026-11-12": 10,
     "2026-11-13": 12,
@@ -1384,12 +1365,6 @@
    "instagram": "https://www.instagram.com/kinokoni.ch",
    "since": null,
    "series": [
-    {
-     "name": "Cinema Ciao",
-     "slug": "cinema-ciao-kinokoni",
-     "first": "2026-11-10",
-     "last": "2026-11-10"
-    },
     {
      "name": "After Credits",
      "slug": "after-credits-kinokoni",
@@ -1438,7 +1413,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -1481,7 +1455,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-11-10": 17,
     "2026-11-11": 17,
     "2026-11-12": 17,
     "2026-11-13": 21,
@@ -1561,7 +1534,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-13",
@@ -1620,7 +1592,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-11-10": 2,
     "2026-11-11": 3,
     "2026-11-12": 2,
     "2026-11-13": 3,
@@ -1685,22 +1656,22 @@
    "since": 1980,
    "series": [
     {
+     "name": "Kinderkino",
+     "slug": "kinderkino-xenix",
+     "first": "2026-11-11",
+     "last": "2027-01-06"
+    },
+    {
      "name": "Paul Mescal",
      "slug": "paul-mescal-xenix",
-     "first": "2026-11-10",
+     "first": "2026-11-11",
      "last": "2026-12-02"
     },
     {
      "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
      "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-     "first": "2026-11-10",
-     "last": "2026-11-30"
-    },
-    {
-     "name": "Kinderkino",
-     "slug": "kinderkino-xenix",
      "first": "2026-11-11",
-     "last": "2027-01-06"
+     "last": "2026-11-30"
     },
     {
      "name": "Gastveranstaltung",
@@ -1798,7 +1769,6 @@
   "Dokfilm am Sonntag": "dokfilm-am-sonntag-xenix",
   "Coop Hello Family": "coop-hello-family-kinokoni",
   "Cinépassion": "cinepassion-arthouse",
-  "Cinema Ciao": "cinema-ciao-kinokoni",
   "Cecelia Ahern am 11. November live in Zürich: Ein Abend voller Liebe und Dublin-Flair": "cecelia-ahern-am-11-november-live-in-zurich-ein-abend-voller-liebe-und-dublin-flair-arthouse",
   "Arthouse Kult": "arthouse-kult-arthouse",
   "Animittwoch": "animittwoch-arthouse",
@@ -1810,7 +1780,6 @@
    "animittwoch-arthouse",
    "arthouse-kult-arthouse",
    "cecelia-ahern-am-11-november-live-in-zurich-ein-abend-voller-liebe-und-dublin-flair-arthouse",
-   "cinema-ciao-kinokoni",
    "cinepassion-arthouse",
    "coop-hello-family-kinokoni",
    "dokfilm-am-sonntag-xenix",
@@ -1860,7 +1829,6 @@
    "all-the-mountains-give-2024",
    "alte-liebe-love-after-all-2026",
    "amelie-et-la-metaphysique-des-tubes-little-amelie-or-the-character-of-rain-2025",
-   "angel-s-egg-1985",
    "arzela-from-amed-2025",
    "avengers-doomsday-2026",
    "barbara-forever-2026",
@@ -1928,7 +1896,6 @@
    "inglourious-basterds-2009",
    "insomnia-2002",
    "je-so-pazzo-2026",
-   "jeanne-dielman-23-quai-du-commerce-1080-bruxelles-1976",
    "jim-queen-jim-queen-and-the-quest-for-chloroqueer-2026",
    "julenissens-verksted-santa-s-workshop-2026",
    "juste-une-illusion-just-an-illusion-2026",
@@ -1993,6 +1960,7 @@
    "tekkonkinkreet-2006",
    "the-birdcage-1996",
    "the-cable-guy-1996",
+   "the-cat-in-the-hat-2026",
    "the-chaser-2008",
    "the-debut-2026",
    "the-devils-1971",
