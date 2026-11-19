@@ -29,7 +29,7 @@
     "TRIBUTE SESSIONS by KINOKONI"
    ],
    "labels": [],
-   "english": false,
+   "english": true,
    "curated": true,
    "curated_reasons": [
     "one venue",
@@ -54,11 +54,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9754/seats",
        "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
+        "raw": "Deutsch Untertitel; English/Englisch",
+        "description": "English; subtitles: German",
+        "english_audio": true,
         "english_subtitles": false,
-        "english_friendly": false
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -74,7 +74,7 @@
        "label": null,
        "last": false,
        "guest": true,
-       "english": false,
+       "english": true,
        "curated": true
       }
      ]

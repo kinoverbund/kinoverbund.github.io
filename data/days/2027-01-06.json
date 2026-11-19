@@ -2,6 +2,83 @@
  "date": "2027-01-06",
  "venues": [
   {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Forrest Gump",
+     "venue_title": "Forrest Gump",
+     "subtitle": null,
+     "original_title": "Forrest Gump",
+     "english_title": "Forrest Gump",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/forrest-gump.html",
+     "directors": [
+      "Robert Zemeckis"
+     ],
+     "year": 1994,
+     "runtime_min": 142,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 13,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [
+      "The Ones We Love"
+     ],
+     "labels": [
+      "The Ones We Love"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2323749",
+       "start": "2027-01-06T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/forrest-gump.html?city=zurich&show=2323749#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "The Ones We Love": "the-ones-we-love-neugass-kino"
+     }
+    }
+   ]
+  },
+  {
    "name": "Xenix",
    "operator": "Xenix",
    "address": null,

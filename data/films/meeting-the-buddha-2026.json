@@ -33,6 +33,7 @@
     "special"
    ],
    "new": false,
+   "film_slug": "meeting-the-buddha-2026",
    "series_slugs": {
     "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
    },
@@ -105,10 +106,43 @@
         "Special Screening mit Cast & Crew"
        ],
        "label": "Special Screening mit Cast & Crew",
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-13",
+     "screenings": [
+      {
+       "id": "arthouse:2323773",
+       "start": "2026-12-13T10:30+01:00",
+       "time": "10:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2323773",
+       "language": {
+        "raw": "Ov/d",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
       }
      ]
     }

@@ -19,12 +19,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T18:30+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T14:30+01:00",
@@ -117,12 +111,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:10+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -399,21 +387,12 @@
   ],
   "year": 2026,
   "venues": [
-   "Houdini",
    "Arthouse Piccadilly"
   ],
   "sources": [
-   "arthouse",
-   "riffraff_houdini"
+   "arthouse"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:00+01:00",
-     "2026-11-18T15:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -729,7 +708,6 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Capitol",
    "blue Abaton",
    "Arena Sihlcity"
   ],
@@ -738,13 +716,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:05+01:00",
-     "2026-11-18T14:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -904,12 +875,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T20:45+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -1156,31 +1121,6 @@
   ]
  },
  {
-  "slug": "chreis-12-episode-2",
-  "title": "CHREIS 12 – Episode 2",
-  "venue_title": "CHREIS 12 – Episode 2",
-  "kind": "film",
-  "original_title": null,
-  "english_title": null,
-  "original_language": null,
-  "directors": [],
-  "year": null,
-  "venues": [
-   "KINOKONI Zürich"
-  ],
-  "sources": [
-   "kinokoni"
-  ],
-  "dates": [
-   {
-    "date": "2026-12-14",
-    "starts": [
-     "2026-12-14T19:00+01:00"
-    ]
-   }
-  ]
- },
- {
   "slug": "clayface-2026",
   "title": "Clayface",
   "venue_title": "Clayface",
@@ -1193,25 +1133,14 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Abaton",
-   "blue Capitol",
-   "Arena Sihlcity"
+   "Arena Sihlcity",
+   "blue Capitol"
   ],
   "sources": [
    "arena",
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T17:30+01:00",
-     "2026-11-18T18:00+01:00",
-     "2026-11-18T18:30+01:00",
-     "2026-11-18T20:55+01:00",
-     "2026-11-18T21:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -1311,12 +1240,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T18:30+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T18:30+01:00"
@@ -1383,33 +1306,6 @@
     "date": "2027-01-24",
     "starts": [
      "2027-01-24T11:00+01:00"
-    ]
-   }
-  ]
- },
- {
-  "slug": "das-getraumte-abenteuer-the-dreamed-adventure-2026",
-  "title": "Das geträumte Abenteuer (The Dreamed Adventure)",
-  "venue_title": "Das geträumte Abenteuer",
-  "kind": "film",
-  "original_title": "Das geträumte Abenteuer",
-  "english_title": "The Dreamed Adventure",
-  "original_language": "de",
-  "directors": [
-   "Valeska Grisebach"
-  ],
-  "year": 2026,
-  "venues": [
-   "Houdini"
-  ],
-  "sources": [
-   "riffraff_houdini"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T12:10+01:00"
     ]
    }
   ]
@@ -1521,8 +1417,8 @@
   "year": 2026,
   "venues": [
    "blue Corso",
-   "blue Abaton",
    "Arena Sihlcity",
+   "blue Abaton",
    "KINOKONI Zürich",
    "blue Capitol"
   ],
@@ -1532,19 +1428,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:20+01:00",
-     "2026-11-18T14:30+01:00",
-     "2026-11-18T17:20+01:00",
-     "2026-11-18T17:30+01:00",
-     "2026-11-18T17:50+01:00",
-     "2026-11-18T20:20+01:00",
-     "2026-11-18T20:30+01:00",
-     "2026-11-18T20:35+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -1849,12 +1732,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T16:00+01:00"
-    ]
-   },
-   {
     "date": "2026-11-22",
     "starts": [
      "2026-11-22T12:20+01:00"
@@ -1875,21 +1752,12 @@
   ],
   "year": 2026,
   "venues": [
-   "Riffraff",
-   "blue Capitol"
+   "Riffraff"
   ],
   "sources": [
-   "bluecinema",
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:40+01:00",
-     "2026-11-18T20:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -1968,12 +1836,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T18:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -2227,27 +2089,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:45+01:00",
-     "2026-11-18T14:15+01:00",
-     "2026-11-18T14:20+01:00",
-     "2026-11-18T14:30+01:00",
-     "2026-11-18T15:15+01:00",
-     "2026-11-18T15:40+01:00",
-     "2026-11-18T16:35+01:00",
-     "2026-11-18T16:45+01:00",
-     "2026-11-18T17:00+01:00",
-     "2026-11-18T17:45+01:00",
-     "2026-11-18T18:00+01:00",
-     "2026-11-18T18:25+01:00",
-     "2026-11-18T20:15+01:00",
-     "2026-11-18T20:30+01:00",
-     "2026-11-18T20:35+01:00",
-     "2026-11-18T21:00+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T14:00+01:00",
@@ -2404,10 +2245,9 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Capitol",
-   "Arena Sihlcity",
    "Houdini",
-   "blue Abaton"
+   "blue Abaton",
+   "Arena Sihlcity"
   ],
   "sources": [
    "arena",
@@ -2415,16 +2255,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:30+01:00",
-     "2026-11-18T14:00+01:00",
-     "2026-11-18T14:45+01:00",
-     "2026-11-18T15:20+01:00",
-     "2026-11-18T16:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -2707,18 +2537,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:00+01:00",
-     "2026-11-18T13:30+01:00",
-     "2026-11-18T14:10+01:00",
-     "2026-11-18T14:30+01:00",
-     "2026-11-18T15:30+01:00",
-     "2026-11-18T15:40+01:00",
-     "2026-11-18T17:20+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T13:40+01:00"
@@ -2929,23 +2747,14 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Capitol",
-   "Arena Sihlcity",
-   "blue Abaton"
+   "blue Abaton",
+   "Arena Sihlcity"
   ],
   "sources": [
    "arena",
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:00+01:00",
-     "2026-11-18T14:30+01:00",
-     "2026-11-18T14:45+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -2994,6 +2803,33 @@
   ]
  },
  {
+  "slug": "forrest-gump-1994",
+  "title": "Forrest Gump",
+  "venue_title": "Forrest Gump",
+  "kind": "film",
+  "original_title": "Forrest Gump",
+  "english_title": "Forrest Gump",
+  "original_language": "en",
+  "directors": [
+   "Robert Zemeckis"
+  ],
+  "year": 1994,
+  "venues": [
+   "Riffraff"
+  ],
+  "sources": [
+   "riffraff_houdini"
+  ],
+  "dates": [
+   {
+    "date": "2027-01-06",
+    "starts": [
+     "2027-01-06T20:30+01:00"
+    ]
+   }
+  ]
+ },
+ {
   "slug": "frank-louis-2026",
   "title": "Frank & Louis",
   "venue_title": "Frank & Louis",
@@ -3007,10 +2843,9 @@
   "year": 2026,
   "venues": [
    "Houdini",
-   "Arthouse Piccadilly",
-   "KINOKONI Zürich",
    "blue Capitol",
-   "Arthouse Movie"
+   "KINOKONI Zürich",
+   "Arthouse Piccadilly"
   ],
   "sources": [
    "arthouse",
@@ -3019,18 +2854,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T11:40+01:00",
-     "2026-11-18T13:00+01:00",
-     "2026-11-18T13:20+01:00",
-     "2026-11-18T15:50+01:00",
-     "2026-11-18T18:40+01:00",
-     "2026-11-18T18:50+01:00",
-     "2026-11-18T21:10+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -3204,9 +3027,8 @@
   "year": 2026,
   "venues": [
    "Riffraff",
-   "KINOKONI Zürich",
-   "Arthouse Le Paris",
-   "Arthouse Piccadilly"
+   "Arthouse Piccadilly",
+   "KINOKONI Zürich"
   ],
   "sources": [
    "arthouse",
@@ -3214,17 +3036,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:30+01:00",
-     "2026-11-18T15:00+01:00",
-     "2026-11-18T15:40+01:00",
-     "2026-11-18T17:50+01:00",
-     "2026-11-18T20:30+01:00",
-     "2026-11-18T20:40+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -3356,36 +3167,6 @@
   ]
  },
  {
-  "slug": "geister-ghost-song-2026",
-  "title": "Geister (Ghost Song)",
-  "venue_title": "Geister",
-  "kind": "film",
-  "original_title": "Geister",
-  "english_title": "Ghost Song",
-  "original_language": "de",
-  "directors": [
-   "Fatih Akin"
-  ],
-  "year": 2026,
-  "venues": [
-   "Houdini",
-   "blue Abaton"
-  ],
-  "sources": [
-   "bluecinema",
-   "riffraff_houdini"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:45+01:00",
-     "2026-11-18T21:00+01:00"
-    ]
-   }
-  ]
- },
- {
   "slug": "genesis-2-0-2018",
   "title": "Genesis 2.0",
   "venue_title": "Genesis 2.0",
@@ -3455,22 +3236,13 @@
   "year": 2026,
   "venues": [
    "KINOKONI Zürich",
-   "Arena Sihlcity",
    "blue Abaton"
   ],
   "sources": [
-   "arena",
    "bluecinema",
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T17:00+01:00",
-     "2026-11-18T18:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -3618,23 +3390,12 @@
   ],
   "year": 2026,
   "venues": [
-   "Arena Sihlcity",
-   "blue Abaton",
-   "blue Capitol"
+   "blue Abaton"
   ],
   "sources": [
-   "arena",
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T17:20+01:00",
-     "2026-11-18T20:30+01:00",
-     "2026-11-18T21:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -3786,7 +3547,6 @@
   "year": 2026,
   "venues": [
    "Arena Sihlcity",
-   "blue Abaton",
    "blue Capitol"
   ],
   "sources": [
@@ -3794,18 +3554,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:30+01:00",
-     "2026-11-18T16:00+01:00",
-     "2026-11-18T18:00+01:00",
-     "2026-11-18T18:10+01:00",
-     "2026-11-18T18:20+01:00",
-     "2026-11-18T18:30+01:00",
-     "2026-11-18T20:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -3887,14 +3635,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T15:10+01:00",
-     "2026-11-18T17:50+01:00",
-     "2026-11-18T20:15+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -4057,12 +3797,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T20:15+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T21:00+01:00"
@@ -4169,7 +3903,6 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Metropol",
    "Arena Sihlcity",
    "blue Abaton",
    "KINOKONI Zürich",
@@ -4181,21 +3914,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:30+01:00",
-     "2026-11-18T14:45+01:00",
-     "2026-11-18T17:15+01:00",
-     "2026-11-18T17:30+01:00",
-     "2026-11-18T17:40+01:00",
-     "2026-11-18T17:50+01:00",
-     "2026-11-18T20:30+01:00",
-     "2026-11-18T20:35+01:00",
-     "2026-11-18T20:40+01:00",
-     "2026-11-18T20:45+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -4442,13 +4160,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T20:15+01:00",
-     "2026-11-18T20:20+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -4730,24 +4441,16 @@
   ],
   "year": 2026,
   "venues": [
-   "Houdini",
    "KINOKONI Zürich",
-   "blue Capitol",
+   "Houdini",
    "Arthouse Movie"
   ],
   "sources": [
    "arthouse",
-   "bluecinema",
    "kinokoni",
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T20:35+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -4814,12 +4517,6 @@
    "arena"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T18:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -4915,14 +4612,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:00+01:00",
-     "2026-11-18T14:00+01:00",
-     "2026-11-18T16:05+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -5076,20 +4765,12 @@
   ],
   "year": 2026,
   "venues": [
-   "Arena Sihlcity",
-   "blue Abaton"
+   "Arena Sihlcity"
   ],
   "sources": [
-   "arena",
-   "bluecinema"
+   "arena"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T16:25+01:00"
-    ]
-   },
    {
     "date": "2026-11-21",
     "starts": [
@@ -5177,13 +4858,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T20:00+01:00",
-     "2026-11-18T20:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -5425,12 +5099,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T12:15+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T14:15+01:00",
@@ -5482,6 +5150,7 @@
      "2026-11-22T17:15+01:00",
      "2026-11-22T17:30+01:00",
      "2026-11-22T17:40+01:00",
+     "2026-11-22T19:40+01:00",
      "2026-11-22T20:40+01:00",
      "2026-11-22T20:45+01:00"
     ]
@@ -5838,12 +5507,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T16:00+01:00"
-    ]
-   },
-   {
     "date": "2026-11-21",
     "starts": [
      "2026-11-21T16:00+01:00"
@@ -5965,6 +5628,12 @@
     "starts": [
      "2026-11-22T10:30+01:00"
     ]
+   },
+   {
+    "date": "2026-12-13",
+    "starts": [
+     "2026-12-13T10:30+01:00"
+    ]
    }
   ]
  },
@@ -6008,22 +5677,14 @@
   ],
   "year": 2026,
   "venues": [
-   "Arena Sihlcity",
-   "blue Abaton"
+   "blue Abaton",
+   "Arena Sihlcity"
   ],
   "sources": [
    "arena",
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:20+01:00",
-     "2026-11-18T14:10+01:00",
-     "2026-11-18T14:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -6153,12 +5814,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:30+01:00"
-    ]
-   },
-   {
     "date": "2026-11-22",
     "starts": [
      "2026-11-22T14:15+01:00"
@@ -6203,12 +5858,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-22",
     "starts": [
@@ -6393,16 +6042,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:40+01:00",
-     "2026-11-18T16:00+01:00",
-     "2026-11-18T18:10+01:00",
-     "2026-11-18T20:50+01:00",
-     "2026-11-18T21:00+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T13:20+01:00",
@@ -6526,12 +6165,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T20:55+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T20:30+01:00"
@@ -6598,14 +6231,6 @@
    "xenix"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T16:00+01:00",
-     "2026-11-18T17:10+01:00",
-     "2026-11-18T19:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -6693,23 +6318,14 @@
   ],
   "year": 2026,
   "venues": [
-   "Arthouse Movie",
    "Houdini",
-   "Arthouse Piccadilly"
+   "Arthouse Movie"
   ],
   "sources": [
    "arthouse",
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T16:30+01:00",
-     "2026-11-18T18:15+01:00",
-     "2026-11-18T18:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -6971,12 +6587,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T16:20+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T14:40+01:00",
@@ -7039,8 +6649,8 @@
   ],
   "year": 2026,
   "venues": [
-   "Arena Sihlcity",
    "blue Abaton",
+   "Arena Sihlcity",
    "blue Capitol"
   ],
   "sources": [
@@ -7048,12 +6658,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T21:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -7198,12 +6802,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T17:55+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T15:00+01:00",
@@ -7252,36 +6850,6 @@
   ]
  },
  {
-  "slug": "queen-at-sea-2026",
-  "title": "Queen at Sea",
-  "venue_title": "Queen at Sea",
-  "kind": "film",
-  "original_title": "Queen at Sea",
-  "english_title": "Queen at Sea",
-  "original_language": "en",
-  "directors": [
-   "Lance Hammer"
-  ],
-  "year": 2026,
-  "venues": [
-   "Houdini",
-   "Arthouse Piccadilly"
-  ],
-  "sources": [
-   "arthouse",
-   "riffraff_houdini"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:20+01:00",
-     "2026-11-18T15:40+01:00"
-    ]
-   }
-  ]
- },
- {
   "slug": "ramayana-rise-of-a-legend-2026",
   "title": "रामायण (Ramayana: Rise of a Legend)",
   "venue_title": "Ramayana: Rise of a Legend",
@@ -7294,7 +6862,6 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Abaton",
    "blue Metropol",
    "Arena Sihlcity"
   ],
@@ -7303,15 +6870,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T15:00+01:00",
-     "2026-11-18T19:15+01:00",
-     "2026-11-18T19:45+01:00",
-     "2026-11-18T19:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -7431,13 +6989,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T18:35+01:00",
-     "2026-11-18T20:40+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -7631,24 +7182,12 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Corso",
-   "Arthouse Movie",
    "blue Capitol"
   ],
   "sources": [
-   "arthouse",
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:00+01:00",
-     "2026-11-18T13:30+01:00",
-     "2026-11-18T16:30+01:00",
-     "2026-11-18T20:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -7714,11 +7253,10 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Capitol",
    "Arena Sihlcity",
    "blue Abaton",
-   "blue Corso",
    "Houdini",
+   "blue Corso",
    "KINOKONI Zürich",
    "blue Metropol"
   ],
@@ -7729,18 +7267,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:30+01:00",
-     "2026-11-18T14:00+01:00",
-     "2026-11-18T14:45+01:00",
-     "2026-11-18T15:40+01:00",
-     "2026-11-18T15:55+01:00",
-     "2026-11-18T16:30+01:00",
-     "2026-11-18T17:25+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -7974,12 +7500,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T12:50+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T12:20+01:00"
@@ -8097,14 +7617,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:20+01:00",
-     "2026-11-18T17:25+01:00",
-     "2026-11-18T17:30+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T17:45+01:00"
@@ -8192,24 +7704,14 @@
   "year": 2026,
   "venues": [
    "blue Capitol",
-   "Arthouse Piccadilly",
    "blue Abaton",
-   "Arthouse Movie"
+   "Arthouse Piccadilly"
   ],
   "sources": [
    "arthouse",
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T15:25+01:00",
-     "2026-11-18T16:20+01:00",
-     "2026-11-18T20:30+01:00",
-     "2026-11-18T21:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -8346,31 +7848,6 @@
   ]
  },
  {
-  "slug": "tiddler-2024",
-  "title": "Tiddler",
-  "venue_title": "Flunkerfisch (Kurzfilme)",
-  "kind": "program",
-  "original_title": null,
-  "english_title": null,
-  "original_language": null,
-  "directors": [],
-  "year": 2024,
-  "venues": [
-   "Houdini"
-  ],
-  "sources": [
-   "riffraff_houdini"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T11:30+01:00"
-    ]
-   }
-  ]
- },
- {
   "slug": "toy-story-5-2026",
   "title": "Toy Story 5",
   "venue_title": "Toy Story 5",
@@ -8390,13 +7867,6 @@
    "arena"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:30+01:00",
-     "2026-11-18T16:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-21",
     "starts": [
@@ -8476,33 +7946,6 @@
     "date": "2026-12-25",
     "starts": [
      "2026-12-25T15:00+01:00"
-    ]
-   }
-  ]
- },
- {
-  "slug": "tristan-forever-2026",
-  "title": "Tristan Forever",
-  "venue_title": "Tristan Forever",
-  "kind": "film",
-  "original_title": "Tristan Forever",
-  "english_title": "Tristan Forever",
-  "original_language": "fr",
-  "directors": [
-   "Tobias Nölle"
-  ],
-  "year": 2026,
-  "venues": [
-   "Houdini"
-  ],
-  "sources": [
-   "riffraff_houdini"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T11:50+01:00"
     ]
    }
   ]
@@ -8701,8 +8144,8 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Abaton",
    "blue Capitol",
+   "blue Abaton",
    "Arena Sihlcity"
   ],
   "sources": [
@@ -8710,15 +8153,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T15:30+01:00",
-     "2026-11-18T17:45+01:00",
-     "2026-11-18T20:40+01:00",
-     "2026-11-18T20:45+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -8868,12 +8302,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T18:30+01:00"
-    ]
-   },
-   {
     "date": "2026-11-19",
     "starts": [
      "2026-11-19T13:20+01:00"
@@ -8930,19 +8358,12 @@
   ],
   "year": 2026,
   "venues": [
-   "Arthouse Movie",
-   "Arthouse Piccadilly"
+   "Arthouse Movie"
   ],
   "sources": [
    "arthouse"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:10+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -9027,7 +8448,6 @@
   ],
   "year": 2026,
   "venues": [
-   "Arthouse Le Paris",
    "Houdini",
    "blue Abaton",
    "Arena Sihlcity",
@@ -9043,25 +8463,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T11:30+01:00",
-     "2026-11-18T14:00+01:00",
-     "2026-11-18T14:30+01:00",
-     "2026-11-18T15:00+01:00",
-     "2026-11-18T15:30+01:00",
-     "2026-11-18T15:50+01:00",
-     "2026-11-18T17:40+01:00",
-     "2026-11-18T17:45+01:00",
-     "2026-11-18T18:00+01:00",
-     "2026-11-18T18:30+01:00",
-     "2026-11-18T20:30+01:00",
-     "2026-11-18T20:40+01:00",
-     "2026-11-18T20:45+01:00",
-     "2026-11-18T21:10+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -9195,8 +8596,8 @@
   "venues": [
    "Arena Sihlcity",
    "KINOKONI Zürich",
-   "Houdini",
-   "blue Capitol"
+   "blue Capitol",
+   "Houdini"
   ],
   "sources": [
    "arena",
@@ -9205,19 +8606,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T14:10+01:00",
-     "2026-11-18T14:30+01:00",
-     "2026-11-18T17:30+01:00",
-     "2026-11-18T18:10+01:00",
-     "2026-11-18T18:20+01:00",
-     "2026-11-18T20:20+01:00",
-     "2026-11-18T20:40+01:00",
-     "2026-11-18T20:45+01:00"
-    ]
-   },
    {
     "date": "2026-11-19",
     "starts": [
@@ -9296,7 +8684,6 @@
    {
     "date": "2026-11-25",
     "starts": [
-     "2026-11-25T14:30+01:00",
      "2026-11-25T17:30+01:00",
      "2026-11-25T17:40+01:00",
      "2026-11-25T18:20+01:00",
@@ -9324,12 +8711,6 @@
    "arena"
   ],
   "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T13:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-21",
     "starts": [
@@ -9406,33 +8787,6 @@
     "date": "2026-12-13",
     "starts": [
      "2026-12-13T20:15+01:00"
-    ]
-   }
-  ]
- },
- {
-  "slug": "wrong-husband-2025",
-  "title": "ᐅᐃᒃᓴᕆᙱᑕᕋ (Wrong Husband)",
-  "venue_title": "Wrong Husband",
-  "kind": "film",
-  "original_title": "ᐅᐃᒃᓴᕆᙱᑕᕋ",
-  "english_title": "Wrong Husband",
-  "original_language": "iu",
-  "directors": [
-   "Zacharias Kunuk"
-  ],
-  "year": 2025,
-  "venues": [
-   "Xenix"
-  ],
-  "sources": [
-   "xenix"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-18",
-    "starts": [
-     "2026-11-18T18:00+01:00"
     ]
    }
   ]

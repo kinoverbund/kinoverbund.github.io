@@ -17,115 +17,6 @@
  },
  "films": [
   {
-   "title": "Spaceballs",
-   "venue_title": "Spaceballs",
-   "subtitle": null,
-   "original_title": "Spaceballs",
-   "english_title": "Spaceballs",
-   "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html",
-   "directors": [
-    "Mel Brooks"
-   ],
-   "year": 1987,
-   "runtime_min": 96,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 957,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "riffraff_houdini",
-   "series": [
-    "The Ones We Love"
-   ],
-   "labels": [
-    "The Ones We Love"
-   ],
-   "english": true,
-   "curated": true,
-   "curated_reasons": [
-    "one venue",
-    "rep",
-    "special"
-   ],
-   "new": false,
-   "series_slugs": {
-    "The Ones We Love": "the-ones-we-love-neugass-kino"
-   },
-   "venue": "Riffraff",
-   "dates": [
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2284744",
-       "start": "2026-11-11T18:50+01:00",
-       "time": "18:50",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html?city=zurich&show=2284744#tickets",
-       "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "The Ones We Love"
-       ],
-       "label": "The Ones We Love",
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      },
-      {
-       "id": "riffraff_houdini:2284742",
-       "start": "2026-11-11T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/spaceballs.html?city=zurich&show=2284742#tickets",
-       "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "The Ones We Love"
-       ],
-       "label": "The Ones We Love",
-       "last": true,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    }
-   ]
-  },
-  {
    "title": "天使のたまご (Angel's Egg)",
    "venue_title": "Angel's Egg",
    "subtitle": null,
@@ -1036,6 +927,82 @@
         "Riffraff 1"
        ],
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/mad-max-quadruple-feature.html?city=zurich&show=2316988#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Forrest Gump",
+   "venue_title": "Forrest Gump",
+   "subtitle": null,
+   "original_title": "Forrest Gump",
+   "english_title": "Forrest Gump",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/forrest-gump.html",
+   "directors": [
+    "Robert Zemeckis"
+   ],
+   "year": 1994,
+   "runtime_min": 142,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 13,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "riffraff_houdini",
+   "series": [
+    "The Ones We Love"
+   ],
+   "labels": [
+    "The Ones We Love"
+   ],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "The Ones We Love": "the-ones-we-love-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2027-01-06",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2323749",
+       "start": "2027-01-06T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/forrest-gump.html?city=zurich&show=2323749#tickets",
        "language": {
         "raw": "en/de",
         "description": "English; subtitles: German",

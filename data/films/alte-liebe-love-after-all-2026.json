@@ -31,41 +31,6 @@
    "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2313159",
-       "start": "2026-11-11T11:50+01:00",
-       "time": "11:50",
-       "auditoriums": [
-        "Houdini 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/alte-liebe.html?city=zurich&show=2313159#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-12",
      "screenings": [
       {
@@ -183,72 +148,6 @@
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/alte-liebe.html?city=zurich&show=2316763#tickets",
        "language": {
         "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Alte Liebe (Love, After All)",
-   "venue_title": "Alte Liebe",
-   "subtitle": null,
-   "original_title": "Alte Liebe",
-   "english_title": "Love, After All",
-   "kind": "film",
-   "film_url": "https://arthouse.ch/movies/alte-liebe",
-   "directors": [
-    "Andreas Dresen"
-   ],
-   "year": 2026,
-   "runtime_min": 112,
-   "country": "Deutschland",
-   "program_films": [],
-   "tmdb_id": 1477576,
-   "tmdb_kind": "movie",
-   "original_language": "de",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "alte-liebe-love-after-all-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Movie",
-   "dates": [
-    {
-     "date": "2026-11-11",
-     "screenings": [
-      {
-       "id": "arthouse:2311613",
-       "start": "2026-11-11T16:00+01:00",
-       "time": "16:00",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2311613",
-       "language": {
-        "raw": "D",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
