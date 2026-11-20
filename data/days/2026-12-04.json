@@ -36,7 +36,7 @@
      "curated_reasons": [
       "special"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2323507",
@@ -175,8 +175,8 @@
        ],
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2315911#tickets",
        "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
         "english_friendly": true
@@ -205,8 +205,8 @@
        ],
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2315922#tickets",
        "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
         "english_friendly": true
@@ -341,8 +341,8 @@
        ],
        "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2306254#tickets",
        "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
         "english_friendly": true

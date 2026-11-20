@@ -39,41 +39,6 @@
    "venue": "Arthouse Le Paris",
    "dates": [
     {
-     "date": "2026-11-12",
-     "screenings": [
-      {
-       "id": "arthouse:2314075",
-       "start": "2026-11-12T12:15+01:00",
-       "time": "12:15",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2314075",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "LunchKino"
-       ],
-       "label": "LunchKino",
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-11-13",
      "screenings": [
       {
@@ -1367,7 +1332,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "lieblingsmenschen-die-auergewohnliche-freundschaft-von-agnes-amir-agnes-amir-2026",
    "series_slugs": {},
    "venue": "blue Abaton",
@@ -2033,7 +1998,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "lieblingsmenschen-die-auergewohnliche-freundschaft-von-agnes-amir-agnes-amir-2026",
    "series_slugs": {},
    "venue": "Arthouse Movie",
@@ -2309,7 +2274,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "lieblingsmenschen-die-auergewohnliche-freundschaft-von-agnes-amir-agnes-amir-2026",
    "series_slugs": {},
    "venue": "KINOKONI Zürich",

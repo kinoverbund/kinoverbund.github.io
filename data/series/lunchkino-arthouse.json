@@ -44,41 +44,6 @@
    "venue": "Arthouse Le Paris",
    "dates": [
     {
-     "date": "2026-11-12",
-     "screenings": [
-      {
-       "id": "arthouse:2314075",
-       "start": "2026-11-12T12:15+01:00",
-       "time": "12:15",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2314075",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "LunchKino"
-       ],
-       "label": "LunchKino",
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-11-13",
      "screenings": [
       {
@@ -928,7 +893,7 @@
    "curated_reasons": [
     "special"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "frau-winkler-verlasst-das-haus-how-can-i-help-2026",
    "series_slugs": {
     "LunchKino": "lunchkino-arthouse"
@@ -1177,7 +1142,7 @@
    "curated_reasons": [
     "special"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "minotaure-minotaur-2026",
    "series_slugs": {
     "LunchKino": "lunchkino-arthouse"
@@ -1251,7 +1216,7 @@
    "curated_reasons": [
     "special"
    ],
-   "new": true,
+   "new": false,
    "film_slug": "juste-une-illusion-just-an-illusion-2026",
    "series_slugs": {
     "LunchKino": "lunchkino-arthouse"
@@ -1500,7 +1465,7 @@
    "curated_reasons": [
     "special"
    ],
-   "new": true,
+   "new": false,
    "series_slugs": {
     "LunchKino": "lunchkino-arthouse"
    },

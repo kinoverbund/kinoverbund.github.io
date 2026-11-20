@@ -31,43 +31,6 @@
    "venue": "blue Abaton",
    "dates": [
     {
-     "date": "2026-11-12",
-     "screenings": [
-      {
-       "id": "bluecinema:3340939",
-       "start": "2026-11-12T14:30+01:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Abaton A"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340939/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "imax"
-        ],
-        "assumed": true,
-        "raw": "IMAX 2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-14",
      "screenings": [
       {
