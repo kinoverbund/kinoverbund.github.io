@@ -79,6 +79,118 @@
      ]
     }
    ]
+  },
+  {
+   "title": "The Cat in the Hat",
+   "venue_title": "Der Kater mit Hut",
+   "subtitle": null,
+   "original_title": "The Cat in the Hat",
+   "english_title": "The Cat in the Hat",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/coop-hello-family-der-kater-mit-hut",
+   "directors": [
+    "Erica Rivinoja",
+    "Alessandro Carloni"
+   ],
+   "year": 2026,
+   "runtime_min": 107,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1117898,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "Coop Hello Family"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "film_slug": "the-cat-in-the-hat-2026",
+   "series_slugs": {
+    "Coop Hello Family": "coop-hello-family-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-12-05",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10327",
+       "start": "2026-12-05T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10327/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Coop Hello Family"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-06",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10328",
+       "start": "2026-12-06T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10328/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Coop Hello Family"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
   }
  ]
 }

@@ -31,71 +31,6 @@
    "venue": "blue Abaton",
    "dates": [
     {
-     "date": "2026-11-13",
-     "screenings": [
-      {
-       "id": "bluecinema:3340710",
-       "start": "2026-11-13T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Abaton 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340710/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340708",
-       "start": "2026-11-13T23:30+01:00",
-       "time": "23:30",
-       "auditoriums": [
-        "Abaton 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340708/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-14",
      "screenings": [
       {
@@ -817,41 +752,6 @@
    "venue": "blue Capitol",
    "dates": [
     {
-     "date": "2026-11-13",
-     "screenings": [
-      {
-       "id": "bluecinema:3340656",
-       "start": "2026-11-13T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Capitol 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340656/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-14",
      "screenings": [
       {
@@ -1162,41 +1062,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-11-13",
-     "screenings": [
-      {
-       "id": "arena:24171",
-       "start": "2026-11-13T21:10+01:00",
-       "time": "21:10",
-       "auditoriums": [
-        "Saal 6"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24171&fid=1022692",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-14",
      "screenings": [

@@ -8,7 +8,7 @@
    "original_title": "A Talent for Murder",
    "english_title": "A Talent for Murder",
    "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3314164?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "film_url": "https://www.bluecinema.ch/de/movies/3314164?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
    "directors": [
     "Anton Corbijn"
    ],
@@ -22,117 +22,298 @@
    "source": "bluecinema",
    "series": [],
    "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "a-talent-for-murder-2026",
+   "series_slugs": {},
+   "venue": "blue Abaton",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "screenings": [
+      {
+       "id": "bluecinema:3340579",
+       "start": "2026-11-14T11:30+01:00",
+       "time": "11:30",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340579/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3340567",
+       "start": "2026-11-14T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Abaton 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340567/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "bluecinema:3340544",
+       "start": "2026-11-15T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340544/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "screenings": [
+      {
+       "id": "bluecinema:3340543",
+       "start": "2026-11-16T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340543/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-17",
+     "screenings": [
+      {
+       "id": "bluecinema:3340617",
+       "start": "2026-11-17T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340617/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-18",
+     "screenings": [
+      {
+       "id": "bluecinema:3340580",
+       "start": "2026-11-18T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340580/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "bluecinema:3343451",
+       "start": "2026-11-22T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Abaton 8"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343451/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "A Talent for Murder",
+   "venue_title": "A Talent for Murder",
+   "subtitle": null,
+   "original_title": "A Talent for Murder",
+   "english_title": "A Talent for Murder",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/a-talent-for-murder",
+   "directors": [
+    "Anton Corbijn"
+   ],
+   "year": 2026,
+   "runtime_min": 107,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1084409,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
    "english": true,
    "curated": false,
    "curated_reasons": [],
    "new": false,
    "film_slug": "a-talent-for-murder-2026",
    "series_slugs": {},
-   "venue": "blue Capitol",
+   "venue": "KINOKONI Zürich",
    "dates": [
     {
-     "date": "2026-11-13",
+     "date": "2026-11-14",
      "screenings": [
       {
-       "id": "bluecinema:3340621",
-       "start": "2026-11-13T13:00+01:00",
-       "time": "13:00",
+       "id": "kinokoni:50-10075",
+       "start": "2026-11-14T14:40+01:00",
+       "time": "14:40",
        "auditoriums": [
-        "Capitol 5"
+        "Saal6"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340621/seating",
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10075/seats",
        "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340606",
-       "start": "2026-11-13T15:25+01:00",
-       "time": "15:25",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340606/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340615",
-       "start": "2026-11-13T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340615/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340620",
-       "start": "2026-11-13T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Capitol 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340620/seating",
-       "language": {
-        "raw": "EN/DE/FR",
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -155,6 +336,72 @@
       }
      ]
     },
+    {
+     "date": "2026-11-15",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10095",
+       "start": "2026-11-15T12:10+01:00",
+       "time": "12:10",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10095/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "A Talent for Murder",
+   "venue_title": "A Talent for Murder",
+   "subtitle": null,
+   "original_title": "A Talent for Murder",
+   "english_title": "A Talent for Murder",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3314164?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Anton Corbijn"
+   ],
+   "year": 2026,
+   "runtime_min": 105,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1084409,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "a-talent-for-murder-2026",
+   "series_slugs": {},
+   "venue": "blue Capitol",
+   "dates": [
     {
      "date": "2026-11-14",
      "screenings": [
@@ -1297,71 +1544,6 @@
    "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-13",
-     "screenings": [
-      {
-       "id": "arthouse:2317693",
-       "start": "2026-11-13T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317693",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317700",
-       "start": "2026-11-13T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317700",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-14",
      "screenings": [
       {
@@ -1712,413 +1894,6 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "A Talent for Murder",
-   "venue_title": "A Talent for Murder",
-   "subtitle": null,
-   "original_title": "A Talent for Murder",
-   "english_title": "A Talent for Murder",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3314164?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-   "directors": [
-    "Anton Corbijn"
-   ],
-   "year": 2026,
-   "runtime_min": 105,
-   "country": "Vereinigte Staaten von Amerika",
-   "program_films": [],
-   "tmdb_id": 1084409,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "a-talent-for-murder-2026",
-   "series_slugs": {},
-   "venue": "blue Abaton",
-   "dates": [
-    {
-     "date": "2026-11-13",
-     "screenings": [
-      {
-       "id": "bluecinema:3340547",
-       "start": "2026-11-13T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340547/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "screenings": [
-      {
-       "id": "bluecinema:3340579",
-       "start": "2026-11-14T11:30+01:00",
-       "time": "11:30",
-       "auditoriums": [
-        "Abaton 7"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340579/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340567",
-       "start": "2026-11-14T17:15+01:00",
-       "time": "17:15",
-       "auditoriums": [
-        "Abaton 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340567/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "screenings": [
-      {
-       "id": "bluecinema:3340544",
-       "start": "2026-11-15T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340544/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "bluecinema:3340543",
-       "start": "2026-11-16T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340543/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-17",
-     "screenings": [
-      {
-       "id": "bluecinema:3340617",
-       "start": "2026-11-17T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340617/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "bluecinema:3340580",
-       "start": "2026-11-18T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340580/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "screenings": [
-      {
-       "id": "bluecinema:3343451",
-       "start": "2026-11-22T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Abaton 8"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3343451/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "A Talent for Murder",
-   "venue_title": "A Talent for Murder",
-   "subtitle": null,
-   "original_title": "A Talent for Murder",
-   "english_title": "A Talent for Murder",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/a-talent-for-murder",
-   "directors": [
-    "Anton Corbijn"
-   ],
-   "year": 2026,
-   "runtime_min": 107,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1084409,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "a-talent-for-murder-2026",
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-11-14",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10075",
-       "start": "2026-11-14T14:40+01:00",
-       "time": "14:40",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10075/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10095",
-       "start": "2026-11-15T12:10+01:00",
-       "time": "12:10",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10095/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
        "curated": false
       }
      ]

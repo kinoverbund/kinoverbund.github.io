@@ -59,8 +59,8 @@
         "assumed": false,
         "raw": "DCP, Farbe"
        },
-       "note": "Mit Reya Morgado, Rosida Koyuncu. Gespräch ab 22.00 Uhr",
-       "note_lang": "de",
+       "note": "With Reya Morgado, Rosida Koyuncu. Discussion starting at 22:00",
+       "note_lang": null,
        "series": [
         "Kurdisches Filmfestival Zürich"
        ],
@@ -68,7 +68,8 @@
        "last": false,
        "guest": true,
        "english": true,
-       "curated": true
+       "curated": true,
+       "note_translated": true
       }
      ]
     }
