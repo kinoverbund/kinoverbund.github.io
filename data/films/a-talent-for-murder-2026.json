@@ -8,18 +8,18 @@
    "original_title": "A Talent for Murder",
    "english_title": "A Talent for Murder",
    "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3314164?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "film_url": "https://arthouse.ch/movies/a-talent-for-murder",
    "directors": [
     "Anton Corbijn"
    ],
    "year": 2026,
-   "runtime_min": 105,
-   "country": "Vereinigte Staaten von Amerika",
+   "runtime_min": 106,
+   "country": "USA",
    "program_films": [],
    "tmdb_id": 1084409,
    "tmdb_kind": "movie",
    "original_language": "en",
-   "source": "bluecinema",
+   "source": "arthouse",
    "series": [],
    "labels": [],
    "english": false,
@@ -28,22 +28,22 @@
    "new": false,
    "film_slug": "a-talent-for-murder-2026",
    "series_slugs": {},
-   "venue": "blue Abaton",
+   "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-14",
+     "date": "2026-11-15",
      "screenings": [
       {
-       "id": "bluecinema:3340579",
-       "start": "2026-11-14T11:30+01:00",
-       "time": "11:30",
+       "id": "arthouse:2317711",
+       "start": "2026-11-15T11:10+01:00",
+       "time": "11:10",
        "auditoriums": [
-        "Abaton 7"
+        "Movie 1"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340579/seating",
+       "ticket_url": "https://arthouse.ch/tickets/2317711",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -52,7 +52,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -64,16 +64,16 @@
        "curated": false
       },
       {
-       "id": "bluecinema:3340567",
-       "start": "2026-11-14T17:15+01:00",
-       "time": "17:15",
+       "id": "arthouse:2317713",
+       "start": "2026-11-15T16:20+01:00",
+       "time": "16:20",
        "auditoriums": [
-        "Abaton 5"
+        "Movie 1"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340567/seating",
+       "ticket_url": "https://arthouse.ch/tickets/2317713",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -82,7 +82,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -92,23 +92,18 @@
        "guest": false,
        "english": false,
        "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "screenings": [
+      },
       {
-       "id": "bluecinema:3340544",
+       "id": "arthouse:2317720",
        "start": "2026-11-15T20:30+01:00",
        "time": "20:30",
        "auditoriums": [
-        "Abaton 9"
+        "Movie 2"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340544/seating",
+       "ticket_url": "https://arthouse.ch/tickets/2317720",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -117,7 +112,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -134,16 +129,16 @@
      "date": "2026-11-16",
      "screenings": [
       {
-       "id": "bluecinema:3340543",
-       "start": "2026-11-16T20:30+01:00",
-       "time": "20:30",
+       "id": "arthouse:2317723",
+       "start": "2026-11-16T16:20+01:00",
+       "time": "16:20",
        "auditoriums": [
-        "Abaton 9"
+        "Movie 1"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340543/seating",
+       "ticket_url": "https://arthouse.ch/tickets/2317723",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -152,7 +147,37 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317730",
+       "start": "2026-11-16T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317730",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -169,16 +194,16 @@
      "date": "2026-11-17",
      "screenings": [
       {
-       "id": "bluecinema:3340617",
-       "start": "2026-11-17T20:30+01:00",
-       "time": "20:30",
+       "id": "arthouse:2317733",
+       "start": "2026-11-17T16:20+01:00",
+       "time": "16:20",
        "auditoriums": [
-        "Abaton 9"
+        "Movie 1"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340617/seating",
+       "ticket_url": "https://arthouse.ch/tickets/2317733",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -187,7 +212,37 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2317740",
+       "start": "2026-11-17T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Movie 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317740",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -204,16 +259,16 @@
      "date": "2026-11-18",
      "screenings": [
       {
-       "id": "bluecinema:3340580",
-       "start": "2026-11-18T20:30+01:00",
-       "time": "20:30",
+       "id": "arthouse:2317743",
+       "start": "2026-11-18T16:20+01:00",
+       "time": "16:20",
        "auditoriums": [
-        "Abaton 9"
+        "Movie 1"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340580/seating",
+       "ticket_url": "https://arthouse.ch/tickets/2317743",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -222,7 +277,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -232,23 +287,18 @@
        "guest": false,
        "english": false,
        "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "screenings": [
+      },
       {
-       "id": "bluecinema:3343451",
-       "start": "2026-11-22T13:00+01:00",
-       "time": "13:00",
+       "id": "arthouse:2317750",
+       "start": "2026-11-18T20:30+01:00",
+       "time": "20:30",
        "auditoriums": [
-        "Abaton 8"
+        "Movie 2"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3343451/seating",
+       "ticket_url": "https://arthouse.ch/tickets/2317750",
        "language": {
-        "raw": "DE",
-        "description": "German",
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -257,7 +307,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -301,41 +351,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-11-14",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10075",
-       "start": "2026-11-14T14:40+01:00",
-       "time": "14:40",
-       "auditoriums": [
-        "Saal6"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10075/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-15",
      "screenings": [
@@ -402,101 +417,6 @@
    "series_slugs": {},
    "venue": "blue Capitol",
    "dates": [
-    {
-     "date": "2026-11-14",
-     "screenings": [
-      {
-       "id": "bluecinema:3340613",
-       "start": "2026-11-14T15:25+01:00",
-       "time": "15:25",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340613/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340611",
-       "start": "2026-11-14T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340611/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340619",
-       "start": "2026-11-14T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Capitol 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340619/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-15",
      "screenings": [
@@ -1521,18 +1441,18 @@
    "original_title": "A Talent for Murder",
    "english_title": "A Talent for Murder",
    "kind": "film",
-   "film_url": "https://arthouse.ch/movies/a-talent-for-murder",
+   "film_url": "https://www.bluecinema.ch/de/movies/3314164?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
    "directors": [
     "Anton Corbijn"
    ],
    "year": 2026,
-   "runtime_min": 106,
-   "country": "USA",
+   "runtime_min": 105,
+   "country": "Vereinigte Staaten von Amerika",
    "program_films": [],
    "tmdb_id": 1084409,
    "tmdb_kind": "movie",
    "original_language": "en",
-   "source": "arthouse",
+   "source": "bluecinema",
    "series": [],
    "labels": [],
    "english": false,
@@ -1541,147 +1461,22 @@
    "new": false,
    "film_slug": "a-talent-for-murder-2026",
    "series_slugs": {},
-   "venue": "Arthouse Movie",
+   "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-11-14",
-     "screenings": [
-      {
-       "id": "arthouse:2317703",
-       "start": "2026-11-14T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317703",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317710",
-       "start": "2026-11-14T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317710",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-15",
      "screenings": [
       {
-       "id": "arthouse:2317711",
-       "start": "2026-11-15T11:10+01:00",
-       "time": "11:10",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317711",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317713",
-       "start": "2026-11-15T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317713",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317720",
+       "id": "bluecinema:3340544",
        "start": "2026-11-15T20:30+01:00",
        "time": "20:30",
        "auditoriums": [
-        "Movie 2"
+        "Abaton 9"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317720",
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340544/seating",
        "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
+        "raw": "DE",
+        "description": "German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -1690,7 +1485,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": null
+        "raw": "2D"
        },
        "note": null,
        "note_lang": null,
@@ -1707,46 +1502,16 @@
      "date": "2026-11-16",
      "screenings": [
       {
-       "id": "arthouse:2317723",
-       "start": "2026-11-16T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317723",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317730",
+       "id": "bluecinema:3340543",
        "start": "2026-11-16T20:30+01:00",
        "time": "20:30",
        "auditoriums": [
-        "Movie 2"
+        "Abaton 9"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317730",
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340543/seating",
        "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
+        "raw": "DE",
+        "description": "German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -1755,7 +1520,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": null
+        "raw": "2D"
        },
        "note": null,
        "note_lang": null,
@@ -1772,46 +1537,16 @@
      "date": "2026-11-17",
      "screenings": [
       {
-       "id": "arthouse:2317733",
-       "start": "2026-11-17T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317733",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317740",
+       "id": "bluecinema:3340617",
        "start": "2026-11-17T20:30+01:00",
        "time": "20:30",
        "auditoriums": [
-        "Movie 2"
+        "Abaton 9"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317740",
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340617/seating",
        "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
+        "raw": "DE",
+        "description": "German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -1820,7 +1555,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": null
+        "raw": "2D"
        },
        "note": null,
        "note_lang": null,
@@ -1837,16 +1572,16 @@
      "date": "2026-11-18",
      "screenings": [
       {
-       "id": "arthouse:2317743",
-       "start": "2026-11-18T16:20+01:00",
-       "time": "16:20",
+       "id": "bluecinema:3340580",
+       "start": "2026-11-18T20:30+01:00",
+       "time": "20:30",
        "auditoriums": [
-        "Movie 1"
+        "Abaton 9"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317743",
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340580/seating",
        "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
+        "raw": "DE",
+        "description": "German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -1855,7 +1590,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": null
+        "raw": "2D"
        },
        "note": null,
        "note_lang": null,
@@ -1865,18 +1600,23 @@
        "guest": false,
        "english": false,
        "curated": false
-      },
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
       {
-       "id": "arthouse:2317750",
-       "start": "2026-11-18T20:30+01:00",
-       "time": "20:30",
+       "id": "bluecinema:3343451",
+       "start": "2026-11-22T13:00+01:00",
+       "time": "13:00",
        "auditoriums": [
-        "Movie 2"
+        "Abaton 8"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317750",
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3343451/seating",
        "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
+        "raw": "DE",
+        "description": "German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -1885,7 +1625,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": null
+        "raw": "2D"
        },
        "note": null,
        "note_lang": null,
