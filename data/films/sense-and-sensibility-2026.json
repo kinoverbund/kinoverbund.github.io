@@ -31,41 +31,6 @@
    "venue": "blue Capitol",
    "dates": [
     {
-     "date": "2026-11-15",
-     "screenings": [
-      {
-       "id": "bluecinema:3340789",
-       "start": "2026-11-15T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Capitol 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340789/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-16",
      "screenings": [
       {
@@ -657,41 +622,6 @@
    "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-15",
-     "screenings": [
-      {
-       "id": "arthouse:2317712",
-       "start": "2026-11-15T13:30+01:00",
-       "time": "13:30",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317712",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-16",
      "screenings": [
       {
@@ -827,71 +757,6 @@
    "series_slugs": {},
    "venue": "blue Corso",
    "dates": [
-    {
-     "date": "2026-11-15",
-     "screenings": [
-      {
-       "id": "bluecinema:3340767",
-       "start": "2026-11-15T16:45+01:00",
-       "time": "16:45",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340767/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340763",
-       "start": "2026-11-15T20:00+01:00",
-       "time": "20:00",
-       "auditoriums": [
-        "Corso 3"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340763/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-16",
      "screenings": [
