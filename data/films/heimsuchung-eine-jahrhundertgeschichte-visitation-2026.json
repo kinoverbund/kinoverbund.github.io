@@ -31,101 +31,6 @@
    "venue": "Arthouse Piccadilly",
    "dates": [
     {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "arthouse:2317807",
-       "start": "2026-11-16T15:10+01:00",
-       "time": "15:10",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317807",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317806",
-       "start": "2026-11-16T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Piccadilly 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317806",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317838",
-       "start": "2026-11-16T20:15+01:00",
-       "time": "20:15",
-       "auditoriums": [
-        "Piccadilly 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317838",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-17",
      "screenings": [
       {
@@ -763,7 +668,432 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "arthouse:2325709",
+       "start": "2026-11-26T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325709",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325693",
+       "start": "2026-11-26T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325693",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "arthouse:2325869",
+       "start": "2026-11-27T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325869",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325867",
+       "start": "2026-11-27T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325867",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "arthouse:2325877",
+       "start": "2026-11-28T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325877",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325875",
+       "start": "2026-11-28T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325875",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arthouse:2325885",
+       "start": "2026-11-29T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325885",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "arthouse:2325893",
+       "start": "2026-11-30T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325893",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325891",
+       "start": "2026-11-30T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "Piccadilly 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325891",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "arthouse:2325901",
+       "start": "2026-12-01T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325901",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325899",
+       "start": "2026-12-01T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325899",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "arthouse:2325909",
+       "start": "2026-12-02T15:40+01:00",
+       "time": "15:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325909",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325907",
+       "start": "2026-12-02T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325907",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
@@ -801,41 +1131,6 @@
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10167",
-       "start": "2026-11-16T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "FilmLounge 4"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10167/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-22",
      "screenings": [

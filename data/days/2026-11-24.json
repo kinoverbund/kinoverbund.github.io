@@ -1602,7 +1602,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
@@ -4798,7 +4798,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
@@ -6643,7 +6643,7 @@
       "Nitesh Tiwari"
      ],
      "year": 2026,
-     "runtime_min": 168,
+     "runtime_min": 195,
      "country": "India",
      "program_films": [],
      "tmdb_id": 656908,
@@ -8275,8 +8275,8 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10305/seats",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
+        "raw": "Deutsch Untertitel; English/Englisch",
+        "description": "English; subtitles: German",
         "english_audio": true,
         "english_subtitles": false,
         "english_friendly": true

@@ -33,71 +33,6 @@
    "venue": "Riffraff",
    "dates": [
     {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2316388",
-       "start": "2026-11-16T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Riffraff 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2316388#tickets",
-       "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      },
-      {
-       "id": "riffraff_houdini:2316390",
-       "start": "2026-11-16T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Riffraff 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2316390#tickets",
-       "language": {
-        "raw": "en/de",
-        "description": "English; subtitles: German",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-11-17",
      "screenings": [
       {
@@ -615,7 +550,217 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325583",
+       "start": "2026-11-26T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2325583#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2326074",
+       "start": "2026-11-27T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2326074#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2324210",
+       "start": "2026-11-29T11:10+01:00",
+       "time": "11:10",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2324210#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325806",
+       "start": "2026-11-30T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2325806#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325747",
+       "start": "2026-12-01T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2325747#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325833",
+       "start": "2026-12-02T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/orwell-225.html?city=zurich&show=2325833#tickets",
+       "language": {
+        "raw": "en/de",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": true

@@ -31,41 +31,6 @@
    "venue": "blue Abaton",
    "dates": [
     {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "bluecinema:3340499",
-       "start": "2026-11-16T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Abaton 8"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340499/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-17",
      "screenings": [
       {
@@ -166,101 +131,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "arena:24474",
-       "start": "2026-11-16T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Saal 15"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24474&fid=1020820",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24475",
-       "start": "2026-11-16T20:35+01:00",
-       "time": "20:35",
-       "auditoriums": [
-        "Saal 15"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24475&fid=1020820",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24483",
-       "start": "2026-11-16T20:55+01:00",
-       "time": "20:55",
-       "auditoriums": [
-        "Saal 18"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24483&fid=1020820",
-       "language": {
-        "raw": "EN/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-17",
      "screenings": [
@@ -689,7 +559,7 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": false
@@ -727,41 +597,6 @@
    "series_slugs": {},
    "venue": "blue Capitol",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "bluecinema:3340402",
-       "start": "2026-11-16T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Capitol 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340402/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-18",
      "screenings": [
@@ -861,6 +696,111 @@
        "series": [],
        "label": null,
        "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3345635",
+       "start": "2026-11-26T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345635/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3345632",
+       "start": "2026-11-28T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345632/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3345636",
+       "start": "2026-12-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345636/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
        "guest": false,
        "english": true,
        "curated": false

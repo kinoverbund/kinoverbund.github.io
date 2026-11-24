@@ -50,11 +50,13 @@
        "id": "arthouse:2243593",
        "start": "2026-12-08T18:00+01:00",
        "time": "18:00",
-       "auditoriums": [],
+       "auditoriums": [
+        "Movie 2"
+       ],
        "ticket_url": "https://arthouse.ch/tickets/2243593",
        "language": {
-        "raw": "",
-        "description": "Language not stated",
+        "raw": "D",
+        "description": "German",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false

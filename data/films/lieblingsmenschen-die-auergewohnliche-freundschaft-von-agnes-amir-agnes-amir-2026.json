@@ -39,41 +39,6 @@
    "venue": "Arthouse Le Paris",
    "dates": [
     {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "arthouse:2314080",
-       "start": "2026-11-16T12:15+01:00",
-       "time": "12:15",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2314080",
-       "language": {
-        "raw": "D",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "LunchKino"
-       ],
-       "label": "LunchKino",
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      }
-     ]
-    },
-    {
      "date": "2026-11-17",
      "screenings": [
       {
@@ -546,6 +511,405 @@
        "time": "17:40",
        "auditoriums": [],
        "ticket_url": "https://arthouse.ch/tickets/2321090",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "arthouse:2325624",
+       "start": "2026-11-26T15:15+01:00",
+       "time": "15:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325624",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "arthouse:2325639",
+       "start": "2026-11-27T15:15+01:00",
+       "time": "15:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325639",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325637",
+       "start": "2026-11-27T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325637",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "arthouse:2325643",
+       "start": "2026-11-28T15:15+01:00",
+       "time": "15:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325643",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325641",
+       "start": "2026-11-28T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325641",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arthouse:2325647",
+       "start": "2026-11-29T15:15+01:00",
+       "time": "15:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325647",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325645",
+       "start": "2026-11-29T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325645",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "arthouse:2325651",
+       "start": "2026-11-30T15:15+01:00",
+       "time": "15:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325651",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325649",
+       "start": "2026-11-30T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325649",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "arthouse:2325655",
+       "start": "2026-12-01T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325655",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325653",
+       "start": "2026-12-01T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325653",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "arthouse:2325659",
+       "start": "2026-12-02T15:15+01:00",
+       "time": "15:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325659",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arthouse:2325657",
+       "start": "2026-12-02T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325657",
        "language": {
         "raw": "D",
         "description": "German",
@@ -1235,6 +1599,431 @@
        "curated": false
       }
      ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3345647",
+       "start": "2026-11-26T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345647/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345643",
+       "start": "2026-11-26T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345643/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "bluecinema:3345640",
+       "start": "2026-11-27T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345640/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345638",
+       "start": "2026-11-27T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345638/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3345634",
+       "start": "2026-11-28T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345634/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345630",
+       "start": "2026-11-28T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345630/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3345629",
+       "start": "2026-11-29T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345629/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345627",
+       "start": "2026-11-29T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345627/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3345626",
+       "start": "2026-11-30T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345626/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3345624",
+       "start": "2026-12-01T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345624/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345622",
+       "start": "2026-12-01T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345622/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "bluecinema:3345621",
+       "start": "2026-12-02T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345621/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345620",
+       "start": "2026-12-02T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Corso 3"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345620/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
     }
    ]
   },
@@ -1895,7 +2684,432 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3345676",
+       "start": "2026-11-26T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345676/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345675",
+       "start": "2026-11-26T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345675/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "bluecinema:3345674",
+       "start": "2026-11-27T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345674/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345671",
+       "start": "2026-11-27T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345671/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3345653",
+       "start": "2026-11-28T11:00+01:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345653/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345669",
+       "start": "2026-11-28T17:15+01:00",
+       "time": "17:15",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345669/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3345651",
+       "start": "2026-11-29T11:00+01:00",
+       "time": "11:00",
+       "auditoriums": [
+        "Abaton 9"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345651/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345666",
+       "start": "2026-11-29T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345666/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3345663",
+       "start": "2026-11-30T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345663/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345661",
+       "start": "2026-11-30T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345661/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3345658",
+       "start": "2026-12-01T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345658/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "bluecinema:3345657",
+       "start": "2026-12-01T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345657/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "bluecinema:3345656",
+       "start": "2026-12-02T17:45+01:00",
+       "time": "17:45",
+       "auditoriums": [
+        "Abaton 7"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345656/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
@@ -2154,6 +3368,41 @@
         "Movie 1"
        ],
        "ticket_url": "https://arthouse.ch/tickets/2321353",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "arthouse:2326043",
+       "start": "2026-11-26T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2326043",
        "language": {
         "raw": "D",
         "description": "German",
@@ -2562,6 +3811,943 @@
         "presentation": [],
         "assumed": true,
         "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10424",
+       "start": "2026-11-26T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10424/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10405",
+       "start": "2026-11-27T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10405/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10495",
+       "start": "2026-11-28T14:20+01:00",
+       "time": "14:20",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10495/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-10352",
+       "start": "2026-11-28T17:10+01:00",
+       "time": "17:10",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10352/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10449",
+       "start": "2026-11-29T12:20+01:00",
+       "time": "12:20",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10449/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-10497",
+       "start": "2026-11-29T15:00+01:00",
+       "time": "15:00",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10497/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10478",
+       "start": "2026-11-30T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10478/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10489",
+       "start": "2026-12-01T17:30+01:00",
+       "time": "17:30",
+       "auditoriums": [
+        "Saal1"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10489/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10496",
+       "start": "2026-12-02T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10496/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "kinokoni:50-10387",
+       "start": "2026-12-02T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal6"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10387/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes & Amir (Agnes & Amir)",
+   "venue_title": "Lieblingsmenschen",
+   "subtitle": null,
+   "original_title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes & Amir",
+   "english_title": "Agnes & Amir",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3286548?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Helena Hufnagel"
+   ],
+   "year": 2026,
+   "runtime_min": 108,
+   "country": "Deutschland",
+   "program_films": [],
+   "tmdb_id": 1185542,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "lieblingsmenschen-die-auergewohnliche-freundschaft-von-agnes-amir-agnes-amir-2026",
+   "series_slugs": {},
+   "venue": "blue Capitol",
+   "dates": [
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3345615",
+       "start": "2026-11-26T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345615/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "bluecinema:3345613",
+       "start": "2026-11-27T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345613/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3345610",
+       "start": "2026-11-28T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345610/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3345609",
+       "start": "2026-11-29T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345609/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3345606",
+       "start": "2026-11-30T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345606/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3345604",
+       "start": "2026-12-01T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345604/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "bluecinema:3345603",
+       "start": "2026-12-02T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "Capitol 5"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345603/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes & Amir (Agnes & Amir)",
+   "venue_title": "Lieblingsmenschen",
+   "subtitle": null,
+   "original_title": "Lieblingsmenschen - Die außergewöhnliche Freundschaft von Agnes & Amir",
+   "english_title": "Agnes & Amir",
+   "kind": "film",
+   "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1024844",
+   "directors": [
+    "Helena Hufnagel"
+   ],
+   "year": 2026,
+   "runtime_min": 108,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1185542,
+   "tmdb_kind": "movie",
+   "original_language": "de",
+   "source": "arena",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "lieblingsmenschen-die-auergewohnliche-freundschaft-von-agnes-amir-agnes-amir-2026",
+   "series_slugs": {},
+   "venue": "Arena Sihlcity",
+   "dates": [
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "arena:25053",
+       "start": "2026-11-26T14:40+01:00",
+       "time": "14:40",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25053&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:25162",
+       "start": "2026-11-26T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25162&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "arena:25054",
+       "start": "2026-11-27T14:40+01:00",
+       "time": "14:40",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25054&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:25163",
+       "start": "2026-11-27T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25163&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arena:25221",
+       "start": "2026-11-29T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25221&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "arena:25051",
+       "start": "2026-11-30T14:40+01:00",
+       "time": "14:40",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25051&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:25160",
+       "start": "2026-11-30T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25160&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "arena:25052",
+       "start": "2026-12-01T14:40+01:00",
+       "time": "14:40",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25052&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:25161",
+       "start": "2026-12-01T17:50+01:00",
+       "time": "17:50",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25161&fid=1024844",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
        },
        "note": null,
        "note_lang": null,

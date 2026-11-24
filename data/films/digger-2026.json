@@ -26,74 +26,10 @@
    "curated": false,
    "curated_reasons": [],
    "new": false,
+   "film_slug": "digger-2026",
    "series_slugs": {},
    "venue": "Riffraff",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2316387",
-       "start": "2026-11-16T13:40+01:00",
-       "time": "13:40",
-       "auditoriums": [
-        "Riffraff 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2316387#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2316377",
-       "start": "2026-11-16T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Riffraff 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2316377#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-17",
      "screenings": [
@@ -332,56 +268,26 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": false
       }
      ]
-    }
-   ]
-  },
-  {
-   "title": "Digger",
-   "venue_title": "Digger",
-   "subtitle": null,
-   "original_title": "Digger",
-   "english_title": "Digger",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/digger",
-   "directors": [
-    "Alejandro G. Iñárritu"
-   ],
-   "year": 2026,
-   "runtime_min": 129,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1248832,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "kinokoni",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
-   "dates": [
+    },
     {
-     "date": "2026-11-16",
+     "date": "2026-11-26",
      "screenings": [
       {
-       "id": "kinokoni:50-10160",
-       "start": "2026-11-16T17:50+01:00",
-       "time": "17:50",
+       "id": "riffraff_houdini:2324147",
+       "start": "2026-11-26T20:00+01:00",
+       "time": "20:00",
        "auditoriums": [
-        "FilmLounge 5"
+        "Riffraff 4"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10160/seats",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2324147#tickets",
        "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "raw": "en/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -391,13 +297,183 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
        "series": [],
        "label": null,
        "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2326070",
+       "start": "2026-11-27T15:50+01:00",
+       "time": "15:50",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2326070#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "riffraff_houdini:2326076",
+       "start": "2026-11-27T22:30+01:00",
+       "time": "22:30",
+       "auditoriums": [
+        "Riffraff 2"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2326076#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2324186",
+       "start": "2026-11-28T22:30+01:00",
+       "time": "22:30",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2324186#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325805",
+       "start": "2026-11-30T16:10+01:00",
+       "time": "16:10",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2325805#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325746",
+       "start": "2026-12-01T16:10+01:00",
+       "time": "16:10",
+       "auditoriums": [
+        "Riffraff 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/digger.html?city=zurich&show=2325746#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": true,
        "guest": false,
        "english": true,
        "curated": false
@@ -431,44 +507,10 @@
    "curated": false,
    "curated_reasons": [],
    "new": false,
+   "film_slug": "digger-2026",
    "series_slugs": {},
    "venue": "blue Capitol",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "bluecinema:3340734",
-       "start": "2026-11-16T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Capitol 2"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340734/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-18",
      "screenings": [

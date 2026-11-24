@@ -31,73 +31,6 @@
    "venue": "Arena Sihlcity",
    "dates": [
     {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "arena:24458",
-       "start": "2026-11-16T17:25+01:00",
-       "time": "17:25",
-       "auditoriums": [
-        "Saal 9 3D"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24458&fid=1021551",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [
-         "4dx"
-        ],
-        "assumed": true,
-        "raw": "4DX"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24455",
-       "start": "2026-11-16T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "Saal 8"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24455&fid=1021551",
-       "language": {
-        "raw": "EN/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-17",
      "screenings": [
       {
@@ -597,57 +530,58 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": false
       }
      ]
-    }
-   ]
-  },
-  {
-   "title": "Spider-Man: Brand New Day",
-   "venue_title": "Spider-Man: Brand New Day",
-   "subtitle": null,
-   "original_title": "Spider-Man: Brand New Day",
-   "english_title": "Spider-Man: Brand New Day",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3093825?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-   "directors": [
-    "Destin Daniel Cretton"
-   ],
-   "year": 2026,
-   "runtime_min": 144,
-   "country": "Vereinigte Staaten von Amerika",
-   "program_films": [],
-   "tmdb_id": 969681,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "spider-man-brand-new-day-2026",
-   "series_slugs": {},
-   "venue": "blue Abaton",
-   "dates": [
+    },
     {
-     "date": "2026-11-16",
+     "date": "2026-11-28",
      "screenings": [
       {
-       "id": "bluecinema:3341565",
-       "start": "2026-11-16T20:15+01:00",
-       "time": "20:15",
+       "id": "arena:25009",
+       "start": "2026-11-28T14:15+01:00",
+       "time": "14:15",
        "auditoriums": [
-        "Abaton 8"
+        "Saal 10 3D"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3341565/seating",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25009&fid=1021551",
        "language": {
-        "raw": "EN/DE/FR",
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:25144",
+       "start": "2026-11-28T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Saal 16"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25144&fid=1021551",
+       "language": {
+        "raw": "EN/de,fr",
         "description": "English; subtitles: German, French",
         "english_audio": true,
         "english_subtitles": false,
@@ -657,7 +591,7 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -666,6 +600,110 @@
        "last": false,
        "guest": false,
        "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arena:25010",
+       "start": "2026-11-29T14:15+01:00",
+       "time": "14:15",
+       "auditoriums": [
+        "Saal 10 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25010&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:25145",
+       "start": "2026-11-29T17:40+01:00",
+       "time": "17:40",
+       "auditoriums": [
+        "Saal 16"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25145&fid=1021551",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "arena:25008",
+       "start": "2026-12-02T14:15+01:00",
+       "time": "14:15",
+       "auditoriums": [
+        "Saal 10 3D"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25008&fid=1021551",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [
+         "4dx"
+        ],
+        "assumed": true,
+        "raw": "4DX"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
        "curated": false
       }
      ]

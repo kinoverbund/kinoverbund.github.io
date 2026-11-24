@@ -31,101 +31,6 @@
    "venue": "blue Capitol",
    "dates": [
     {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "bluecinema:3340605",
-       "start": "2026-11-16T15:25+01:00",
-       "time": "15:25",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340605/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340604",
-       "start": "2026-11-16T17:50+01:00",
-       "time": "17:50",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340604/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3340616",
-       "start": "2026-11-16T21:00+01:00",
-       "time": "21:00",
-       "auditoriums": [
-        "Capitol 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340616/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-17",
      "screenings": [
       {
@@ -943,7 +848,252 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "bluecinema:3345696",
+       "start": "2026-11-26T15:55+01:00",
+       "time": "15:55",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345696/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "bluecinema:3345694",
+       "start": "2026-11-27T18:25+01:00",
+       "time": "18:25",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345694/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "bluecinema:3345693",
+       "start": "2026-11-28T15:55+01:00",
+       "time": "15:55",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345693/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "bluecinema:3345690",
+       "start": "2026-11-29T18:25+01:00",
+       "time": "18:25",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345690/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "bluecinema:3345688",
+       "start": "2026-11-30T15:55+01:00",
+       "time": "15:55",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345688/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "bluecinema:3345685",
+       "start": "2026-12-01T18:25+01:00",
+       "time": "18:25",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345685/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "bluecinema:3345684",
+       "start": "2026-12-02T15:55+01:00",
+       "time": "15:55",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345684/seating",
+       "language": {
+        "raw": "EN/DE/FR",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
        "guest": false,
        "english": true,
        "curated": false
@@ -981,71 +1131,6 @@
    "series_slugs": {},
    "venue": "Arthouse Movie",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "arthouse:2317723",
-       "start": "2026-11-16T16:20+01:00",
-       "time": "16:20",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317723",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317730",
-       "start": "2026-11-16T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317730",
-       "language": {
-        "raw": "Ov/d,f",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-17",
      "screenings": [
@@ -1207,41 +1292,6 @@
    "series_slugs": {},
    "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "bluecinema:3340543",
-       "start": "2026-11-16T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "Abaton 9"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340543/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-17",
      "screenings": [
@@ -1494,6 +1544,146 @@
         "Piccadilly 2"
        ],
        "ticket_url": "https://arthouse.ch/tickets/2321130",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "arthouse:2325868",
+       "start": "2026-11-27T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325868",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "arthouse:2325876",
+       "start": "2026-11-28T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325876",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arthouse:2325884",
+       "start": "2026-11-29T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325884",
+       "language": {
+        "raw": "Ov/d,f",
+        "description": "Original version; subtitles: German, French",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "arthouse:2325892",
+       "start": "2026-11-30T20:40+01:00",
+       "time": "20:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325892",
        "language": {
         "raw": "Ov/d,f",
         "description": "Original version; subtitles: German, French",

@@ -20,7 +20,7 @@
    "source": "kinokoni",
    "series": [],
    "labels": [],
-   "english": false,
+   "english": true,
    "curated": true,
    "curated_reasons": [
     "one venue",
@@ -42,11 +42,11 @@
        ],
        "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-9102/seats",
        "language": {
-        "raw": "",
-        "description": "Language not stated",
-        "english_audio": false,
+        "raw": "English/Englisch",
+        "description": "English",
+        "english_audio": true,
         "english_subtitles": false,
-        "english_friendly": false
+        "english_friendly": true
        },
        "format": {
         "format": "dcp",
@@ -60,7 +60,7 @@
        "label": null,
        "last": false,
        "guest": true,
-       "english": false,
+       "english": true,
        "curated": true
       }
      ]

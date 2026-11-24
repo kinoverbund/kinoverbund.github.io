@@ -2716,6 +2716,102 @@
    "original_title": "Dune: Part Three",
    "english_title": "Dune: Part Three",
    "kind": "film",
+   "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1020572",
+   "directors": [
+    "Denis Villeneuve"
+   ],
+   "year": 2026,
+   "runtime_min": 150,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1170608,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arena",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "film_slug": "dune-part-three-2026",
+   "series_slugs": {},
+   "venue": "Arena Sihlcity",
+   "dates": [
+    {
+     "date": "2026-12-15",
+     "screenings": [
+      {
+       "id": "arena:20921",
+       "start": "2026-12-15T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Saal 4"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=20921&fid=1020572",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "Mega"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
+       "id": "arena:20920",
+       "start": "2026-12-15T20:10+01:00",
+       "time": "20:10",
+       "auditoriums": [
+        "Saal 3"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=20920&fid=1020572",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Dune: Part Three",
+   "venue_title": "Dune: Part Three",
+   "subtitle": null,
+   "original_title": "Dune: Part Three",
+   "english_title": "Dune: Part Three",
+   "kind": "film",
    "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/dune-part-three",
    "directors": [
     "Denis Villeneuve"

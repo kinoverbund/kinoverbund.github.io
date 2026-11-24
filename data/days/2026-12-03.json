@@ -238,6 +238,63 @@
    "address": null,
    "listings": [
     {
+     "title": "Kurak mi Q&A",
+     "venue_title": "Kurak mi Q&A",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/kurak-mi-qa",
+     "directors": [],
+     "year": null,
+     "runtime_min": 89,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10329",
+       "start": "2026-12-03T18:00+01:00",
+       "time": "18:00",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10329/seats",
+       "language": {
+        "raw": "Englisch Untertitel; Русский/Russisch",
+        "description": "Russian; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "series_slugs": {}
+    },
+    {
      "title": "You Can See Everything",
      "venue_title": "You Can See Everything",
      "subtitle": null,

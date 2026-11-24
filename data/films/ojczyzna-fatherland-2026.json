@@ -8,18 +8,18 @@
    "original_title": "Ojczyzna",
    "english_title": "Fatherland",
    "kind": "film",
-   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
+   "film_url": "https://arthouse.ch/movies/vaterland",
    "directors": [
     "Pawel Pawlikowski"
    ],
    "year": 2026,
    "runtime_min": 82,
-   "country": null,
+   "country": "Deutschland",
    "program_films": [],
    "tmdb_id": 1437696,
    "tmdb_kind": "movie",
    "original_language": "pl",
-   "source": "riffraff_houdini",
+   "source": "arthouse",
    "series": [],
    "labels": [],
    "english": false,
@@ -28,51 +28,21 @@
    "new": false,
    "film_slug": "ojczyzna-fatherland-2026",
    "series_slugs": {},
-   "venue": "Houdini",
+   "venue": "Arthouse Piccadilly",
    "dates": [
     {
-     "date": "2026-11-16",
+     "date": "2026-11-17",
      "screenings": [
       {
-       "id": "riffraff_houdini:2316713",
-       "start": "2026-11-16T16:30+01:00",
-       "time": "16:30",
+       "id": "arthouse:2317818",
+       "start": "2026-11-17T18:15+01:00",
+       "time": "18:15",
        "auditoriums": [
-        "Houdini 3"
+        "Piccadilly 2"
        ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2316713#tickets",
+       "ticket_url": "https://arthouse.ch/tickets/2317818",
        "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2316714",
-       "start": "2026-11-16T18:30+01:00",
-       "time": "18:30",
-       "auditoriums": [
-        "Houdini 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2316714#tickets",
-       "language": {
-        "raw": "de",
+        "raw": "D",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -95,6 +65,317 @@
       }
      ]
     },
+    {
+     "date": "2026-11-18",
+     "screenings": [
+      {
+       "id": "arthouse:2317827",
+       "start": "2026-11-18T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2317827",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "arthouse:2325713",
+       "start": "2026-11-26T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325713",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "arthouse:2325870",
+       "start": "2026-11-27T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325870",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "arthouse:2325878",
+       "start": "2026-11-28T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325878",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arthouse:2325886",
+       "start": "2026-11-29T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325886",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "arthouse:2325894",
+       "start": "2026-11-30T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325894",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "arthouse:2325902",
+       "start": "2026-12-01T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325902",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "arthouse:2325910",
+       "start": "2026-12-02T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Piccadilly 2"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325910",
+       "language": {
+        "raw": "D",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Ojczyzna (Fatherland)",
+   "venue_title": "Vaterland",
+   "subtitle": null,
+   "original_title": "Ojczyzna",
+   "english_title": "Fatherland",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html",
+   "directors": [
+    "Pawel Pawlikowski"
+   ],
+   "year": 2026,
+   "runtime_min": 82,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1437696,
+   "tmdb_kind": "movie",
+   "original_language": "pl",
+   "source": "riffraff_houdini",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "ojczyzna-fatherland-2026",
+   "series_slugs": {},
+   "venue": "Houdini",
+   "dates": [
     {
      "date": "2026-11-17",
      "screenings": [
@@ -643,57 +924,26 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
       }
      ]
-    }
-   ]
-  },
-  {
-   "title": "Ojczyzna (Fatherland)",
-   "venue_title": "Vaterland",
-   "subtitle": null,
-   "original_title": "Ojczyzna",
-   "english_title": "Fatherland",
-   "kind": "film",
-   "film_url": "https://arthouse.ch/movies/vaterland",
-   "directors": [
-    "Pawel Pawlikowski"
-   ],
-   "year": 2026,
-   "runtime_min": 82,
-   "country": "Deutschland",
-   "program_films": [],
-   "tmdb_id": 1437696,
-   "tmdb_kind": "movie",
-   "original_language": "pl",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "ojczyzna-fatherland-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Piccadilly",
-   "dates": [
+    },
     {
-     "date": "2026-11-16",
+     "date": "2026-11-26",
      "screenings": [
       {
-       "id": "arthouse:2317809",
-       "start": "2026-11-16T18:15+01:00",
-       "time": "18:15",
+       "id": "riffraff_houdini:2325427",
+       "start": "2026-11-26T19:00+01:00",
+       "time": "19:00",
        "auditoriums": [
-        "Piccadilly 2"
+        "Houdini 4"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317809",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2325427#tickets",
        "language": {
-        "raw": "D",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -717,18 +967,18 @@
      ]
     },
     {
-     "date": "2026-11-17",
+     "date": "2026-11-27",
      "screenings": [
       {
-       "id": "arthouse:2317818",
-       "start": "2026-11-17T18:15+01:00",
-       "time": "18:15",
+       "id": "riffraff_houdini:2325560",
+       "start": "2026-11-27T19:00+01:00",
+       "time": "19:00",
        "auditoriums": [
-        "Piccadilly 2"
+        "Houdini 4"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317818",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2325560#tickets",
        "language": {
-        "raw": "D",
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,
@@ -752,18 +1002,158 @@
      ]
     },
     {
-     "date": "2026-11-18",
+     "date": "2026-11-28",
      "screenings": [
       {
-       "id": "arthouse:2317827",
-       "start": "2026-11-18T18:15+01:00",
-       "time": "18:15",
+       "id": "riffraff_houdini:2325328",
+       "start": "2026-11-28T19:00+01:00",
+       "time": "19:00",
        "auditoriums": [
-        "Piccadilly 2"
+        "Houdini 4"
        ],
-       "ticket_url": "https://arthouse.ch/tickets/2317827",
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2325328#tickets",
        "language": {
-        "raw": "D",
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325377",
+       "start": "2026-11-29T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2325377#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2324985",
+       "start": "2026-11-30T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2324985#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325221",
+       "start": "2026-12-01T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2325221#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2325274",
+       "start": "2026-12-02T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Houdini 4"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/vaterland.html?city=zurich&show=2325274#tickets",
+       "language": {
+        "raw": "de",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,

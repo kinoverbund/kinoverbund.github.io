@@ -8,6 +8,72 @@
    "original_title": "Resident Evil",
    "english_title": "Resident Evil",
    "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3150526?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Zack Cregger"
+   ],
+   "year": 2026,
+   "runtime_min": 90,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 1423191,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "resident-evil-2026",
+   "series_slugs": {},
+   "venue": "blue Capitol",
+   "dates": [
+    {
+     "date": "2026-11-17",
+     "screenings": [
+      {
+       "id": "bluecinema:3340640",
+       "start": "2026-11-17T17:55+01:00",
+       "time": "17:55",
+       "auditoriums": [
+        "Capitol 2"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3340640/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Resident Evil",
+   "venue_title": "Resident Evil",
+   "subtitle": null,
+   "original_title": "Resident Evil",
+   "english_title": "Resident Evil",
+   "kind": "film",
    "film_url": "https://www.bluecinema.ch/de/movies/3150526?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
    "directors": [
     "Zack Cregger"
@@ -30,41 +96,6 @@
    "series_slugs": {},
    "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "bluecinema:3340795",
-       "start": "2026-11-16T18:35+01:00",
-       "time": "18:35",
-       "auditoriums": [
-        "Abaton 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340795/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-17",
      "screenings": [
@@ -236,41 +267,6 @@
    "series_slugs": {},
    "venue": "Arena Sihlcity",
    "dates": [
-    {
-     "date": "2026-11-16",
-     "screenings": [
-      {
-       "id": "arena:24487",
-       "start": "2026-11-16T20:40+01:00",
-       "time": "20:40",
-       "auditoriums": [
-        "Saal 19"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24487&fid=1023554",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-17",
      "screenings": [
@@ -579,67 +575,36 @@
        "note_lang": null,
        "series": [],
        "label": null,
-       "last": true,
+       "last": false,
        "guest": false,
        "english": false,
        "curated": false
       }
      ]
-    }
-   ]
-  },
-  {
-   "title": "Resident Evil",
-   "venue_title": "Resident Evil",
-   "subtitle": null,
-   "original_title": "Resident Evil",
-   "english_title": "Resident Evil",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3150526?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
-   "directors": [
-    "Zack Cregger"
-   ],
-   "year": 2026,
-   "runtime_min": 90,
-   "country": "Vereinigte Staaten von Amerika",
-   "program_films": [],
-   "tmdb_id": 1423191,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "resident-evil-2026",
-   "series_slugs": {},
-   "venue": "blue Capitol",
-   "dates": [
+    },
     {
-     "date": "2026-11-17",
+     "date": "2026-11-26",
      "screenings": [
       {
-       "id": "bluecinema:3340640",
-       "start": "2026-11-17T17:55+01:00",
-       "time": "17:55",
+       "id": "arena:25330",
+       "start": "2026-11-26T21:00+01:00",
+       "time": "21:00",
        "auditoriums": [
-        "Capitol 2"
+        "Saal 1"
        ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3340640/seating",
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25330&fid=1023554",
        "language": {
-        "raw": "EN/DE",
-        "description": "English; subtitles: German",
-        "english_audio": true,
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
         "english_subtitles": false,
-        "english_friendly": true
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -647,7 +612,217 @@
        "label": null,
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "arena:25331",
+       "start": "2026-11-27T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25331&fid=1023554",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "arena:25332",
+       "start": "2026-11-28T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25332&fid=1023554",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arena:25333",
+       "start": "2026-11-29T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25333&fid=1023554",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "arena:25327",
+       "start": "2026-11-30T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25327&fid=1023554",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "arena:25328",
+       "start": "2026-12-01T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25328&fid=1023554",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "arena:25329",
+       "start": "2026-12-02T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Saal 1"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25329&fid=1023554",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
        "curated": false
       }
      ]

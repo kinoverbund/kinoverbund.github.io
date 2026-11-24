@@ -87,6 +87,83 @@
      ]
     }
    ]
+  },
+  {
+   "title": "The Polar Express",
+   "venue_title": "The Polar Express",
+   "subtitle": null,
+   "original_title": "The Polar Express",
+   "english_title": "The Polar Express",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3340083?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+   "directors": [
+    "Robert Zemeckis"
+   ],
+   "year": 2004,
+   "runtime_min": 100,
+   "country": "Vereinigte Staaten von Amerika",
+   "program_films": [],
+   "tmdb_id": 5255,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Christmas Kinolino",
+    "Kinolino"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": false,
+   "series_slugs": {
+    "Christmas Kinolino": "christmas-kinolino-blue-cinema",
+    "Kinolino": "kinolino-blue-cinema"
+   },
+   "venue": "blue Abaton",
+   "dates": [
+    {
+     "date": "2026-12-20",
+     "screenings": [
+      {
+       "id": "bluecinema:3344540",
+       "start": "2026-12-20T14:30+01:00",
+       "time": "14:30",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344540/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Christmas Kinolino",
+        "Kinolino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
   }
  ]
 }
