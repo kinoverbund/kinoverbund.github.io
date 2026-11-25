@@ -4686,96 +4686,6 @@
      "series_slugs": {}
     },
     {
-     "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "subtitle": null,
-     "original_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "english_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
-     "kind": "film",
-     "film_url": "https://www.bluecinema.ch/de/movies/3151586?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
-     "directors": [
-      "Gregor Schnitzler"
-     ],
-     "year": 2026,
-     "runtime_min": 90,
-     "country": "Deutschland",
-     "program_films": [],
-     "tmdb_id": 1492574,
-     "tmdb_kind": "movie",
-     "original_language": "de",
-     "source": "bluecinema",
-     "series": [],
-     "labels": [],
-     "english": false,
-     "curated": false,
-     "curated_reasons": [],
-     "new": false,
-     "screenings": [
-      {
-       "id": "bluecinema:3345498",
-       "start": "2026-11-28T11:30+01:00",
-       "time": "11:30",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3345498/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3345491",
-       "start": "2026-11-28T14:00+01:00",
-       "time": "14:00",
-       "auditoriums": [
-        "Abaton 4"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3345491/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ],
-     "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "Forgotten Island",
      "venue_title": "Forgotten Island",
      "subtitle": null,
@@ -5562,6 +5472,66 @@
       }
      ],
      "film_slug": "the-hunger-games-sunrise-on-the-reaping-2026",
+     "series_slugs": {}
+    },
+    {
+     "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "subtitle": null,
+     "original_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "english_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
+     "kind": "film",
+     "film_url": "https://www.bluecinema.ch/de/movies/3151586?cinemas=565d43d4-136b-473b-bed8-68237088c5fb",
+     "directors": [
+      "Gregor Schnitzler"
+     ],
+     "year": 2026,
+     "runtime_min": 90,
+     "country": "Deutschland",
+     "program_films": [],
+     "tmdb_id": 1492574,
+     "tmdb_kind": "movie",
+     "original_language": "de",
+     "source": "bluecinema",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "bluecinema:3345491",
+       "start": "2026-11-28T14:00+01:00",
+       "time": "14:00",
+       "auditoriums": [
+        "Abaton 4"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3345491/seating",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
      "series_slugs": {}
     },
     {

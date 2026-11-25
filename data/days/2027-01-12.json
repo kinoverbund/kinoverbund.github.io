@@ -1,0 +1,115 @@
+{
+ "date": "2027-01-12",
+ "venues": [
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Ghost in the Shell",
+     "venue_title": "Ghost in the Shell",
+     "subtitle": null,
+     "original_title": "GHOST IN THE SHELL / 攻殻機動隊",
+     "english_title": "Ghost in the Shell",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/ghost-in-the-shell.html",
+     "directors": [
+      "Mamoru Oshii"
+     ],
+     "year": 1995,
+     "runtime_min": 85,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 9323,
+     "tmdb_kind": "movie",
+     "original_language": "ja",
+     "source": "riffraff_houdini",
+     "series": [
+      "The Ones We Love"
+     ],
+     "labels": [
+      "The Ones We Love"
+     ],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2328002",
+       "start": "2027-01-12T18:30+01:00",
+       "time": "18:30",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/ghost-in-the-shell.html?city=zurich&show=2328002#tickets",
+       "language": {
+        "raw": "ja/de",
+        "description": "Japanese; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      },
+      {
+       "id": "riffraff_houdini:2327998",
+       "start": "2027-01-12T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/ghost-in-the-shell.html?city=zurich&show=2327998#tickets",
+       "language": {
+        "raw": "ja/en",
+        "description": "Japanese; subtitles: English",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "film_slug": "ghost-in-the-shell-1995",
+     "series_slugs": {
+      "The Ones We Love": "the-ones-we-love-neugass-kino"
+     }
+    }
+   ]
+  }
+ ]
+}

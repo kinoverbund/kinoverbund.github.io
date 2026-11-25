@@ -1,0 +1,73 @@
+{
+ "date": "2027-01-29",
+ "venues": [
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "OutNow Kinoquiz V - Am Rande des Universums (OutNow Movie Quiz V – At the Edge of the Universe)",
+     "venue_title": "OutNow Kinoquiz V - Am Rande des Universums",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "program",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/outnow-kinoquiz-v-am-rande-des-universums.html",
+     "directors": [],
+     "year": 2027,
+     "runtime_min": 135,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "riffraff_houdini",
+     "series": [],
+     "labels": [
+      "Special"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2327885",
+       "start": "2027-01-29T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/outnow-kinoquiz-v-am-rande-des-universums.html?city=zurich&show=2327885#tickets",
+       "language": {
+        "raw": "de",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": "Special",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  }
+ ]
+}
