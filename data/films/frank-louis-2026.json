@@ -31,131 +31,6 @@
    "venue": "Houdini",
    "dates": [
     {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2316759",
-       "start": "2026-11-18T11:40+01:00",
-       "time": "11:40",
-       "auditoriums": [
-        "Houdini 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2316759#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2316784",
-       "start": "2026-11-18T15:50+01:00",
-       "time": "15:50",
-       "auditoriums": [
-        "Houdini 2"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2316784#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2316761",
-       "start": "2026-11-18T18:50+01:00",
-       "time": "18:50",
-       "auditoriums": [
-        "Houdini 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2316761#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2316781",
-       "start": "2026-11-18T21:10+01:00",
-       "time": "21:10",
-       "auditoriums": [
-        "Houdini 4"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/frank-louis.html?city=zurich&show=2316781#tickets",
-       "language": {
-        "raw": "en/de,fr",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-19",
      "screenings": [
       {
@@ -1307,41 +1182,6 @@
    "venue": "blue Capitol",
    "dates": [
     {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "bluecinema:3341516",
-       "start": "2026-11-18T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3341516/seating",
-       "language": {
-        "raw": "EN/DE/FR",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-19",
      "screenings": [
       {
@@ -1574,347 +1414,6 @@
         "presentation": [],
         "assumed": true,
         "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Frank & Louis",
-   "venue_title": "Frank & Louis",
-   "subtitle": null,
-   "original_title": "Frank & Louis",
-   "english_title": "Frank & Louis",
-   "kind": "film",
-   "film_url": "https://arthouse.ch/movies/frank-louis",
-   "directors": [
-    "Petra Volpe"
-   ],
-   "year": 2026,
-   "runtime_min": 96,
-   "country": "Schweiz",
-   "program_films": [],
-   "tmdb_id": 1596287,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "arthouse",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "frank-louis-2026",
-   "series_slugs": {},
-   "venue": "Arthouse Movie",
-   "dates": [
-    {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "arthouse:2317747",
-       "start": "2026-11-18T13:20+01:00",
-       "time": "13:20",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317747",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "arthouse:2317744",
-       "start": "2026-11-18T18:40+01:00",
-       "time": "18:40",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2317744",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-26",
-     "screenings": [
-      {
-       "id": "arthouse:2325923",
-       "start": "2026-11-26T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2325923",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-27",
-     "screenings": [
-      {
-       "id": "arthouse:2325963",
-       "start": "2026-11-27T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2325963",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-28",
-     "screenings": [
-      {
-       "id": "arthouse:2325972",
-       "start": "2026-11-28T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2325972",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-29",
-     "screenings": [
-      {
-       "id": "arthouse:2325981",
-       "start": "2026-11-29T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2325981",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-30",
-     "screenings": [
-      {
-       "id": "arthouse:2325990",
-       "start": "2026-11-30T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2325990",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-12-01",
-     "screenings": [
-      {
-       "id": "arthouse:2325999",
-       "start": "2026-12-01T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2325999",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-12-02",
-     "screenings": [
-      {
-       "id": "arthouse:2326008",
-       "start": "2026-12-02T15:45+01:00",
-       "time": "15:45",
-       "auditoriums": [
-        "Movie 1"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2326008",
-       "language": {
-        "raw": "E/d,f",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
        },
        "note": null,
        "note_lang": null,
@@ -2437,6 +1936,282 @@
         "presentation": [],
         "assumed": true,
         "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Frank & Louis",
+   "venue_title": "Frank & Louis",
+   "subtitle": null,
+   "original_title": "Frank & Louis",
+   "english_title": "Frank & Louis",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/frank-louis",
+   "directors": [
+    "Petra Volpe"
+   ],
+   "year": 2026,
+   "runtime_min": 96,
+   "country": "Schweiz",
+   "program_films": [],
+   "tmdb_id": 1596287,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "frank-louis-2026",
+   "series_slugs": {},
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2026-11-26",
+     "screenings": [
+      {
+       "id": "arthouse:2325923",
+       "start": "2026-11-26T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325923",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-27",
+     "screenings": [
+      {
+       "id": "arthouse:2325963",
+       "start": "2026-11-27T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325963",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "arthouse:2325972",
+       "start": "2026-11-28T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325972",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arthouse:2325981",
+       "start": "2026-11-29T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325981",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-30",
+     "screenings": [
+      {
+       "id": "arthouse:2325990",
+       "start": "2026-11-30T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325990",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-01",
+     "screenings": [
+      {
+       "id": "arthouse:2325999",
+       "start": "2026-12-01T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2325999",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-12-02",
+     "screenings": [
+      {
+       "id": "arthouse:2326008",
+       "start": "2026-12-02T15:45+01:00",
+       "time": "15:45",
+       "auditoriums": [
+        "Movie 1"
+       ],
+       "ticket_url": "https://arthouse.ch/tickets/2326008",
+       "language": {
+        "raw": "E/d,f",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
        },
        "note": null,
        "note_lang": null,

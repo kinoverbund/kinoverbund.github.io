@@ -1,82 +1,75 @@
 {
- "generated_at": "2026-11-25T04:42:34+01:00",
- "today": "2026-11-25",
+ "generated_at": "2026-11-26T04:42:00+01:00",
+ "today": "2026-11-26",
  "days": [
-  {
-   "date": "2026-11-18",
-   "screenings": 198,
-   "english": 87,
-   "curated": 16,
-   "film": 0
-  },
   {
    "date": "2026-11-19",
    "screenings": 201,
    "english": 98,
-   "curated": 11,
+   "curated": 13,
    "film": 0
   },
   {
    "date": "2026-11-20",
    "screenings": 207,
    "english": 96,
-   "curated": 15,
+   "curated": 17,
    "film": 0
   },
   {
    "date": "2026-11-21",
    "screenings": 243,
    "english": 106,
-   "curated": 23,
+   "curated": 25,
    "film": 0
   },
   {
    "date": "2026-11-22",
    "screenings": 251,
    "english": 103,
-   "curated": 24,
+   "curated": 26,
    "film": 0
   },
   {
    "date": "2026-11-23",
    "screenings": 200,
    "english": 95,
-   "curated": 11,
+   "curated": 13,
    "film": 0
   },
   {
    "date": "2026-11-24",
    "screenings": 198,
    "english": 93,
-   "curated": 10,
+   "curated": 11,
    "film": 0
   },
   {
    "date": "2026-11-25",
    "screenings": 216,
    "english": 97,
-   "curated": 17,
+   "curated": 18,
    "film": 0
   },
   {
    "date": "2026-11-26",
    "screenings": 189,
    "english": 93,
-   "curated": 12,
+   "curated": 13,
    "film": 0
   },
   {
    "date": "2026-11-27",
    "screenings": 209,
    "english": 103,
-   "curated": 18,
+   "curated": 20,
    "film": 0
   },
   {
    "date": "2026-11-28",
    "screenings": 245,
    "english": 101,
-   "curated": 16,
+   "curated": 17,
    "film": 0
   },
   {
@@ -90,14 +83,14 @@
    "date": "2026-11-30",
    "screenings": 199,
    "english": 101,
-   "curated": 13,
+   "curated": 14,
    "film": 0
   },
   {
    "date": "2026-12-01",
    "screenings": 200,
    "english": 102,
-   "curated": 15,
+   "curated": 16,
    "film": 0
   },
   {
@@ -109,29 +102,29 @@
   },
   {
    "date": "2026-12-03",
-   "screenings": 9,
-   "english": 8,
+   "screenings": 11,
+   "english": 10,
    "curated": 3,
    "film": 1
   },
   {
    "date": "2026-12-04",
-   "screenings": 9,
-   "english": 7,
+   "screenings": 10,
+   "english": 8,
    "curated": 4,
    "film": 0
   },
   {
    "date": "2026-12-05",
-   "screenings": 12,
-   "english": 8,
+   "screenings": 14,
+   "english": 10,
    "curated": 7,
    "film": 0
   },
   {
    "date": "2026-12-06",
-   "screenings": 15,
-   "english": 8,
+   "screenings": 16,
+   "english": 9,
    "curated": 10,
    "film": 0
   },
@@ -200,9 +193,9 @@
   },
   {
    "date": "2026-12-16",
-   "screenings": 30,
+   "screenings": 31,
    "english": 19,
-   "curated": 6,
+   "curated": 7,
    "film": 0
   },
   {
@@ -319,9 +312,9 @@
   },
   {
    "date": "2027-01-03",
-   "screenings": 4,
-   "english": 2,
-   "curated": 4,
+   "screenings": 5,
+   "english": 3,
+   "curated": 5,
    "film": 1
   },
   {
@@ -347,6 +340,13 @@
   },
   {
    "date": "2027-01-09",
+   "screenings": 1,
+   "english": 0,
+   "curated": 1,
+   "film": 0
+  },
+  {
+   "date": "2027-01-10",
    "screenings": 1,
    "english": 0,
    "curated": 1,
@@ -447,31 +447,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-25T03:32:13+00:00"
+   "run_at": "2026-11-26T03:32:09+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-25T03:33:30+00:00"
+   "run_at": "2026-11-26T03:33:19+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-25T03:34:59+00:00"
+   "run_at": "2026-11-26T03:34:49+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-25T03:40:30+00:00"
+   "run_at": "2026-11-26T03:39:53+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-25T03:40:33+00:00"
+   "run_at": "2026-11-26T03:39:56+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-25T03:40:35+00:00"
+   "run_at": "2026-11-26T03:39:58+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-25T03:41:58+00:00"
+   "run_at": "2026-11-26T03:41:22+00:00"
   }
  },
  "venues": [
@@ -487,7 +487,6 @@
     "onyx"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -505,7 +504,6 @@
     "2026-12-15"
    ],
    "screenings": {
-    "2026-11-18": 59,
     "2026-11-19": 47,
     "2026-11-20": 48,
     "2026-11-21": 69,
@@ -539,7 +537,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -570,7 +567,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-11-18": 4,
     "2026-11-19": 4,
     "2026-11-20": 4,
     "2026-11-21": 4,
@@ -609,7 +605,7 @@
     {
      "name": "LunchKino",
      "slug": "lunchkino-arthouse",
-     "first": "2026-11-18",
+     "first": "2026-11-19",
      "last": "2026-12-16"
     },
     {
@@ -630,7 +626,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -651,7 +646,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-11-18": 8,
     "2026-11-19": 8,
     "2026-11-20": 8,
     "2026-11-21": 8,
@@ -713,7 +707,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -741,7 +734,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-11-18": 8,
     "2026-11-19": 8,
     "2026-11-20": 8,
     "2026-11-21": 8,
@@ -802,13 +794,12 @@
    "website": "https://www.bluecinema.ch",
    "formats": [
     "dcp",
-    "4dx",
     "imax",
+    "4dx",
     "3d",
     "infinity-vision"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -837,7 +828,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-18": 37,
     "2026-11-19": 40,
     "2026-11-20": 45,
     "2026-11-21": 45,
@@ -913,7 +903,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -930,7 +919,6 @@
     "2026-12-02"
    ],
    "screenings": {
-    "2026-11-18": 23,
     "2026-11-19": 23,
     "2026-11-20": 23,
     "2026-11-21": 24,
@@ -963,7 +951,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -989,7 +976,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-18": 11,
     "2026-11-19": 13,
     "2026-11-20": 12,
     "2026-11-21": 13,
@@ -1039,7 +1025,6 @@
     "3d"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -1064,7 +1049,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-18": 5,
     "2026-11-19": 5,
     "2026-11-20": 5,
     "2026-11-21": 5,
@@ -1146,7 +1130,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -1179,7 +1162,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-18": 24,
     "2026-11-19": 25,
     "2026-11-20": 25,
     "2026-11-21": 25,
@@ -1300,7 +1282,7 @@
     "2026-12-09": 1,
     "2026-12-14": 1,
     "2026-12-15": 1,
-    "2026-12-16": 2,
+    "2026-12-16": 3,
     "2026-12-17": 2,
     "2026-12-18": 2,
     "2026-12-19": 2,
@@ -1359,7 +1341,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -1388,7 +1369,9 @@
     "2026-12-19",
     "2026-12-20",
     "2026-12-27",
+    "2027-01-03",
     "2027-01-06",
+    "2027-01-10",
     "2027-01-12",
     "2027-01-17",
     "2027-01-20",
@@ -1397,7 +1380,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-11-18": 16,
     "2026-11-19": 15,
     "2026-11-20": 19,
     "2026-11-21": 19,
@@ -1412,10 +1394,10 @@
     "2026-11-30": 14,
     "2026-12-01": 14,
     "2026-12-02": 12,
-    "2026-12-03": 1,
-    "2026-12-04": 1,
-    "2026-12-05": 1,
-    "2026-12-06": 2,
+    "2026-12-03": 3,
+    "2026-12-04": 2,
+    "2026-12-05": 3,
+    "2026-12-06": 3,
     "2026-12-07": 1,
     "2026-12-08": 2,
     "2026-12-09": 3,
@@ -1426,7 +1408,9 @@
     "2026-12-19": 1,
     "2026-12-20": 2,
     "2026-12-27": 1,
+    "2027-01-03": 1,
     "2027-01-06": 1,
+    "2027-01-10": 1,
     "2027-01-12": 2,
     "2027-01-17": 1,
     "2027-01-20": 1,
@@ -1441,12 +1425,6 @@
    "since": 1998,
    "series": [
     {
-     "name": "Queer Things",
-     "slug": "queer-things-neugass-kino",
-     "first": "2026-11-18",
-     "last": "2027-01-20"
-    },
-    {
      "name": "Sneaky Sunday",
      "slug": "sneaky-sunday-neugass-kino",
      "first": "2026-11-22",
@@ -1457,6 +1435,12 @@
      "slug": "the-ones-we-love-neugass-kino",
      "first": "2026-11-25",
      "last": "2027-03-28"
+    },
+    {
+     "name": "Queer Things",
+     "slug": "queer-things-neugass-kino",
+     "first": "2026-12-16",
+     "last": "2027-01-20"
     }
    ]
   },
@@ -1472,7 +1456,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -1523,7 +1506,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-11-18": 3,
     "2026-11-19": 2,
     "2026-11-20": 2,
     "2026-11-21": 4,
@@ -1580,21 +1562,9 @@
    "since": 1980,
    "series": [
     {
-     "name": "Kinderkino",
-     "slug": "kinderkino-xenix",
-     "first": "2026-11-18",
-     "last": "2027-01-06"
-    },
-    {
-     "name": "Paul Mescal",
-     "slug": "paul-mescal-xenix",
-     "first": "2026-11-18",
-     "last": "2026-12-02"
-    },
-    {
      "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
      "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-     "first": "2026-11-18",
+     "first": "2026-11-19",
      "last": "2026-11-30"
     },
     {
@@ -1608,6 +1578,18 @@
      "slug": "dokfilm-am-sonntag-xenix",
      "first": "2026-11-22",
      "last": "2027-01-03"
+    },
+    {
+     "name": "Kinderkino",
+     "slug": "kinderkino-xenix",
+     "first": "2026-11-22",
+     "last": "2027-01-06"
+    },
+    {
+     "name": "Paul Mescal",
+     "slug": "paul-mescal-xenix",
+     "first": "2026-11-23",
+     "last": "2026-12-02"
     },
     {
      "name": "Jim Carrey & Robin Williams",
@@ -1722,7 +1704,6 @@
   ],
   "films": [
    "0-0-godzilla-minus-zero-2026",
-   "111-echoes-from-halifax-2026",
    "2001-a-space-odyssey-1968",
    "a-la-poursuite-de-l-affreunard-chasing-horrifox-2024",
    "a-talent-for-murder-2026",
@@ -1730,7 +1711,6 @@
    "air-hunger",
    "akira-1988",
    "aladdin-1992",
-   "alien-1979",
    "all-of-us-strangers-2023",
    "alte-liebe-love-after-all-2026",
    "amelie-et-la-metaphysique-des-tubes-little-amelie-or-the-character-of-rain-2025",
@@ -1746,7 +1726,6 @@
    "chreis-7",
    "clayface-2026",
    "club-kid-2026",
-   "cocorico-2-2026",
    "congo-boy-2026",
    "das-erbe-der-bergler-alpine-saga-2006",
    "dead-poets-society-1989",
@@ -1777,8 +1756,6 @@
    "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
    "funny-games-1997",
    "gabin-2026",
-   "gentle-monster-2026",
-   "george-michael-the-faith-tour-2026",
    "ghost-in-the-shell-1995",
    "gladiator-ii-2024",
    "god-s-creatures-2022",
@@ -1808,6 +1785,7 @@
    "la-bola-negra-2026",
    "la-la-land-2016",
    "la-ligne-the-line-2022",
+   "le-corset-iron-boy-2026",
    "leave-no-trace-2018",
    "lemony-snicket-s-a-series-of-unfortunate-events-2004",
    "les-braves-coward-2026",
@@ -1863,8 +1841,8 @@
    "the-fisher-king-1991",
    "the-further-mis-adventures-of-cliff-booth-2026",
    "the-history-of-sound-2025",
+   "the-holiday-2006",
    "the-hunger-games-sunrise-on-the-reaping-2026",
-   "the-invite-2026",
    "the-loneliest-man-in-town-2026",
    "the-lord-of-the-rings-trilogy-extended-2001",
    "the-lost-daughter-2021",
@@ -1882,11 +1860,10 @@
    "train-to-busan-2016",
    "tri-orisky-pro-popelku-three-wishes-for-cinderella-1973",
    "tschick-goodbye-berlin-2016",
-   "un-weekend-artificiale-2026",
    "utoipe-cheilteach-celtic-utopia-2025",
    "verity-2026",
    "was-haben-wir-gelacht-2026",
-   "wenn-die-erinnerung-verblasst-2026",
+   "werwulf-2026",
    "wholetrain-2006",
    "wild-horse-nine-2026",
    "wildwood-2026",

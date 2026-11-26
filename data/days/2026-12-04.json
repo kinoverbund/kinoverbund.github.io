@@ -333,6 +333,36 @@
      "new": false,
      "screenings": [
       {
+       "id": "riffraff_houdini:2328350",
+       "start": "2026-12-04T16:40+01:00",
+       "time": "16:40",
+       "auditoriums": [
+        "Riffraff 3"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/you-can-see-everything.html?city=zurich&show=2328350#tickets",
+       "language": {
+        "raw": "en/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
        "id": "riffraff_houdini:2306254",
        "start": "2026-12-04T20:00+01:00",
        "time": "20:00",

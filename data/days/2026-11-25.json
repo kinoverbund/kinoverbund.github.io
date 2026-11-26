@@ -2479,7 +2479,6 @@
        "curated": false
       }
      ],
-     "film_slug": "obsession-2026",
      "series_slugs": {}
     },
     {
@@ -2790,8 +2789,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -2822,7 +2823,7 @@
        "last": true,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "series_slugs": {}
@@ -3341,7 +3342,6 @@
        "curated": false
       }
      ],
-     "film_slug": "alte-liebe-love-after-all-2026",
      "series_slugs": {}
     },
     {
@@ -3590,7 +3590,6 @@
        "curated": true
       }
      ],
-     "film_slug": "mr-nobody-mod-putin-mr-nobody-against-putin-2026",
      "series_slugs": {
       "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
      }
@@ -4452,7 +4451,6 @@
        "curated": false
       }
      ],
-     "film_slug": "george-michael-the-faith-tour-2026",
      "series_slugs": {}
     },
     {
@@ -8834,7 +8832,6 @@
        "curated": false
       }
      ],
-     "film_slug": "george-michael-the-faith-tour-2026",
      "series_slugs": {}
     },
     {
@@ -9701,7 +9698,6 @@
        "curated": true
       }
      ],
-     "film_slug": "was-haben-wir-gelacht-2026",
      "series_slugs": {}
     },
     {
@@ -10168,7 +10164,6 @@
        "curated": true
       }
      ],
-     "film_slug": "alien-1979",
      "series_slugs": {
       "The Ones We Love": "the-ones-we-love-neugass-kino"
      }
@@ -10312,7 +10307,6 @@
        "curated": true
       }
      ],
-     "film_slug": "all-of-us-strangers-2023",
      "series_slugs": {
       "Paul Mescal": "paul-mescal-xenix"
      }
@@ -10381,7 +10375,6 @@
        "curated": true
       }
      ],
-     "film_slug": "kuessipan-2019",
      "series_slugs": {
       "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
      }

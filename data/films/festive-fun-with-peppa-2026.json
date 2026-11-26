@@ -3,589 +3,6 @@
  "venues": [
   {
    "title": "Festive Fun with Peppa",
-   "venue_title": "Festtagsspass mit Peppa – Das Kinoerlebnis",
-   "subtitle": null,
-   "original_title": "Festive Fun with Peppa",
-   "english_title": "Festive Fun with Peppa",
-   "kind": "film",
-   "film_url": "https://www.bluecinema.ch/de/movies/3340106?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
-   "directors": [],
-   "year": 2026,
-   "runtime_min": 60,
-   "country": "Großbritannien",
-   "program_films": [],
-   "tmdb_id": 1778515,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "bluecinema",
-   "series": [],
-   "labels": [],
-   "english": true,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "festive-fun-with-peppa-2026",
-   "series_slugs": {},
-   "venue": "blue Capitol",
-   "dates": [
-    {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "bluecinema:3341667",
-       "start": "2026-11-18T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "Capitol 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3341667/seating",
-       "language": {
-        "raw": "EN",
-        "description": "English",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "bluecinema:3341665",
-       "start": "2026-11-18T15:30+01:00",
-       "time": "15:30",
-       "auditoriums": [
-        "Capitol 5"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3341665/seating",
-       "language": {
-        "raw": "EN",
-        "description": "English",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "screenings": [
-      {
-       "id": "bluecinema:3344328",
-       "start": "2026-11-21T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3344328/seating",
-       "language": {
-        "raw": "EN",
-        "description": "English",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "screenings": [
-      {
-       "id": "bluecinema:3344327",
-       "start": "2026-11-22T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3344327/seating",
-       "language": {
-        "raw": "EN",
-        "description": "English",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "screenings": [
-      {
-       "id": "bluecinema:3344349",
-       "start": "2026-11-25T13:10+01:00",
-       "time": "13:10",
-       "auditoriums": [
-        "Capitol 6"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3344349/seating",
-       "language": {
-        "raw": "EN",
-        "description": "English",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Festive Fun with Peppa",
-   "venue_title": "Festive Fun with Peppa Cinema Experience",
-   "subtitle": null,
-   "original_title": "Festive Fun with Peppa",
-   "english_title": "Festive Fun with Peppa",
-   "kind": "film",
-   "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025403",
-   "directors": [],
-   "year": 2026,
-   "runtime_min": 60,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1778515,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "arena",
-   "series": [],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "festive-fun-with-peppa-2026",
-   "series_slugs": {},
-   "venue": "Arena Sihlcity",
-   "dates": [
-    {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "arena:24274",
-       "start": "2026-11-18T13:30+01:00",
-       "time": "13:30",
-       "auditoriums": [
-        "Saal 4"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24274&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "Mega"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24271",
-       "start": "2026-11-18T15:40+01:00",
-       "time": "15:40",
-       "auditoriums": [
-        "Saal 3"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24271&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24498",
-       "start": "2026-11-18T17:20+01:00",
-       "time": "17:20",
-       "auditoriums": [
-        "Saal 3"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24498&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-21",
-     "screenings": [
-      {
-       "id": "arena:24556",
-       "start": "2026-11-21T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24556&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24585",
-       "start": "2026-11-21T13:40+01:00",
-       "time": "13:40",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24585&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "screenings": [
-      {
-       "id": "arena:24557",
-       "start": "2026-11-22T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24557&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24586",
-       "start": "2026-11-22T13:40+01:00",
-       "time": "13:40",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24586&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-28",
-     "screenings": [
-      {
-       "id": "arena:24950",
-       "start": "2026-11-28T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24950&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24987",
-       "start": "2026-11-28T13:35+01:00",
-       "time": "13:35",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24987&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-29",
-     "screenings": [
-      {
-       "id": "arena:24951",
-       "start": "2026-11-29T10:50+01:00",
-       "time": "10:50",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24951&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "arena:24988",
-       "start": "2026-11-29T13:35+01:00",
-       "time": "13:35",
-       "auditoriums": [
-        "Saal 12"
-       ],
-       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24988&fid=1025403",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Festive Fun with Peppa",
    "venue_title": "Festtagsspass mit Peppa",
    "subtitle": null,
    "original_title": "Festive Fun with Peppa",
@@ -614,41 +31,6 @@
    "series_slugs": {},
    "venue": "Houdini",
    "dates": [
-    {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2316805",
-       "start": "2026-11-18T14:10+01:00",
-       "time": "14:10",
-       "auditoriums": [
-        "Houdini 5"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/festtagsspass-mit-peppa.html?city=zurich&show=2316805#tickets",
-       "language": {
-        "raw": "de",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-19",
      "screenings": [
@@ -1143,6 +525,608 @@
   },
   {
    "title": "Festive Fun with Peppa",
+   "venue_title": "Festive Fun with Peppa Cinema Experience",
+   "subtitle": null,
+   "original_title": "Festive Fun with Peppa",
+   "english_title": "Festive Fun with Peppa",
+   "kind": "film",
+   "film_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/detail?fid=1025403",
+   "directors": [],
+   "year": 2026,
+   "runtime_min": 60,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1778515,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arena",
+   "series": [],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "festive-fun-with-peppa-2026",
+   "series_slugs": {},
+   "venue": "Arena Sihlcity",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "arena:24556",
+       "start": "2026-11-21T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24556&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24585",
+       "start": "2026-11-21T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24585&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "arena:24557",
+       "start": "2026-11-22T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24557&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24586",
+       "start": "2026-11-22T13:40+01:00",
+       "time": "13:40",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24586&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-28",
+     "screenings": [
+      {
+       "id": "arena:24950",
+       "start": "2026-11-28T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24950&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24987",
+       "start": "2026-11-28T13:35+01:00",
+       "time": "13:35",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24987&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "arena:24951",
+       "start": "2026-11-29T10:50+01:00",
+       "time": "10:50",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24951&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:24988",
+       "start": "2026-11-29T13:35+01:00",
+       "time": "13:35",
+       "auditoriums": [
+        "Saal 12"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=24988&fid=1025403",
+       "language": {
+        "raw": "DE",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Festive Fun with Peppa",
+   "venue_title": "Festtagsspass mit Peppa – Das Kinoerlebnis",
+   "subtitle": null,
+   "original_title": "Festive Fun with Peppa",
+   "english_title": "Festive Fun with Peppa",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/festtagsspass-mit-peppa-das-kinoerlebnis",
+   "directors": [],
+   "year": 2026,
+   "runtime_min": 60,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1778515,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "kinokoni",
+   "series": [
+    "KiddoKino"
+   ],
+   "labels": [],
+   "english": false,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "festive-fun-with-peppa-2026",
+   "series_slugs": {
+    "KiddoKino": "kiddokino-kinokoni"
+   },
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10193",
+       "start": "2026-11-21T13:00+01:00",
+       "time": "13:00",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10193/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10212",
+       "start": "2026-11-22T12:10+01:00",
+       "time": "12:10",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10212/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10269",
+       "start": "2026-11-25T15:20+01:00",
+       "time": "15:20",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10269/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "KiddoKino"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-29",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10452",
+       "start": "2026-11-29T12:00+01:00",
+       "time": "12:00",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10452/seats",
+       "language": {
+        "raw": "Deutsch",
+        "description": "German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Festive Fun with Peppa",
+   "venue_title": "Festtagsspass mit Peppa – Das Kinoerlebnis",
+   "subtitle": null,
+   "original_title": "Festive Fun with Peppa",
+   "english_title": "Festive Fun with Peppa",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3340106?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [],
+   "year": 2026,
+   "runtime_min": 60,
+   "country": "Großbritannien",
+   "program_films": [],
+   "tmdb_id": 1778515,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": false,
+   "film_slug": "festive-fun-with-peppa-2026",
+   "series_slugs": {},
+   "venue": "blue Capitol",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "screenings": [
+      {
+       "id": "bluecinema:3344328",
+       "start": "2026-11-21T13:10+01:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344328/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-22",
+     "screenings": [
+      {
+       "id": "bluecinema:3344327",
+       "start": "2026-11-22T13:10+01:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344327/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    },
+    {
+     "date": "2026-11-25",
+     "screenings": [
+      {
+       "id": "bluecinema:3344349",
+       "start": "2026-11-25T13:10+01:00",
+       "time": "13:10",
+       "auditoriums": [
+        "Capitol 6"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3344349/seating",
+       "language": {
+        "raw": "EN",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Festive Fun with Peppa",
    "venue_title": "Festtagsspass mit Peppa – Das Kinoerlebnis",
    "subtitle": null,
    "original_title": "Festive Fun with Peppa",
@@ -1168,41 +1152,6 @@
    "series_slugs": {},
    "venue": "blue Abaton",
    "dates": [
-    {
-     "date": "2026-11-18",
-     "screenings": [
-      {
-       "id": "bluecinema:3341642",
-       "start": "2026-11-18T14:30+01:00",
-       "time": "14:30",
-       "auditoriums": [
-        "Abaton B"
-       ],
-       "ticket_url": "https://www.bluecinema.ch/de/screening/3341642/seating",
-       "language": {
-        "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-21",
      "screenings": [
@@ -1621,185 +1570,6 @@
        "ticket_url": "https://www.bluecinema.ch/de/screening/3346153/seating",
        "language": {
         "raw": "DE",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "title": "Festive Fun with Peppa",
-   "venue_title": "Festtagsspass mit Peppa – Das Kinoerlebnis",
-   "subtitle": null,
-   "original_title": "Festive Fun with Peppa",
-   "english_title": "Festive Fun with Peppa",
-   "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/festtagsspass-mit-peppa-das-kinoerlebnis",
-   "directors": [],
-   "year": 2026,
-   "runtime_min": 60,
-   "country": null,
-   "program_films": [],
-   "tmdb_id": 1778515,
-   "tmdb_kind": "movie",
-   "original_language": "en",
-   "source": "kinokoni",
-   "series": [
-    "KiddoKino"
-   ],
-   "labels": [],
-   "english": false,
-   "curated": false,
-   "curated_reasons": [],
-   "new": false,
-   "film_slug": "festive-fun-with-peppa-2026",
-   "series_slugs": {
-    "KiddoKino": "kiddokino-kinokoni"
-   },
-   "venue": "KINOKONI Zürich",
-   "dates": [
-    {
-     "date": "2026-11-21",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10193",
-       "start": "2026-11-21T13:00+01:00",
-       "time": "13:00",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10193/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "KiddoKino"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-22",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10212",
-       "start": "2026-11-22T12:10+01:00",
-       "time": "12:10",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10212/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "KiddoKino"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-25",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10269",
-       "start": "2026-11-25T15:20+01:00",
-       "time": "15:20",
-       "auditoriums": [
-        "FilmLounge 4"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10269/seats",
-       "language": {
-        "raw": "Deutsch",
-        "description": "German",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [
-        "KiddoKino"
-       ],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
-     "date": "2026-11-29",
-     "screenings": [
-      {
-       "id": "kinokoni:50-10452",
-       "start": "2026-11-29T12:00+01:00",
-       "time": "12:00",
-       "auditoriums": [
-        "Saal2"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10452/seats",
-       "language": {
-        "raw": "Deutsch",
         "description": "German",
         "english_audio": false,
         "english_subtitles": false,

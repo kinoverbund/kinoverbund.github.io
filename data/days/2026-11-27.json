@@ -6811,7 +6811,7 @@
       "Lance Oppenheim"
      ],
      "year": 2026,
-     "runtime_min": 174,
+     "runtime_min": 175,
      "country": "Vereinigte Staaten von Amerika",
      "program_films": [],
      "tmdb_id": 1765072,
@@ -6882,7 +6882,7 @@
       "Rafiki Fariala"
      ],
      "year": 2026,
-     "runtime_min": 91,
+     "runtime_min": 94,
      "country": null,
      "program_films": [],
      "tmdb_id": 1666683,
@@ -9265,8 +9265,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -9297,7 +9299,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       },
       {
        "id": "riffraff_houdini:2326076",
@@ -9327,7 +9329,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "digger-2026",
@@ -9723,7 +9725,6 @@
        "curated": true
       }
      ],
-     "film_slug": "kuessipan-2019",
      "series_slugs": {
       "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
      }
@@ -9860,7 +9861,6 @@
        "curated": true
       }
      ],
-     "film_slug": "all-of-us-strangers-2023",
      "series_slugs": {
       "Paul Mescal": "paul-mescal-xenix"
      }

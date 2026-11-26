@@ -1814,7 +1814,6 @@
        "curated": false
       }
      ],
-     "film_slug": "obsession-2026",
      "series_slugs": {}
     },
     {
@@ -2335,8 +2334,10 @@
      "series": [],
      "labels": [],
      "english": false,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -2367,7 +2368,7 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": false
+       "curated": true
       }
      ],
      "series_slugs": {}
@@ -2886,7 +2887,6 @@
        "curated": false
       }
      ],
-     "film_slug": "alte-liebe-love-after-all-2026",
      "series_slugs": {}
     },
     {
@@ -3776,7 +3776,6 @@
        "curated": false
       }
      ],
-     "film_slug": "george-michael-the-faith-tour-2026",
      "series_slugs": {}
     },
     {
@@ -8913,7 +8912,6 @@
        "curated": true
       }
      ],
-     "film_slug": "was-haben-wir-gelacht-2026",
      "series_slugs": {}
     },
     {
@@ -9333,8 +9331,10 @@
      "series": [],
      "labels": [],
      "english": true,
-     "curated": false,
-     "curated_reasons": [],
+     "curated": true,
+     "curated_reasons": [
+      "one venue"
+     ],
      "new": false,
      "screenings": [
       {
@@ -9365,7 +9365,7 @@
        "last": false,
        "guest": false,
        "english": true,
-       "curated": false
+       "curated": true
       }
      ],
      "film_slug": "digger-2026",
@@ -9442,7 +9442,6 @@
        "curated": true
       }
      ],
-     "film_slug": "kuessipan-2019",
      "series_slugs": {
       "Reclaiming Youth – Junge Indigene Stimmen aus Kanada": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix"
      }

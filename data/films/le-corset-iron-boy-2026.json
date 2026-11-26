@@ -1,0 +1,80 @@
+{
+ "name": "Le Corset (Iron Boy)",
+ "venues": [
+  {
+   "title": "Le Corset (Iron Boy)",
+   "venue_title": "Le Corset",
+   "subtitle": null,
+   "original_title": "Le Corset",
+   "english_title": "Iron Boy",
+   "kind": "film",
+   "film_url": "https://www.riffraff-houdini.ch/de-ch/film/le-corset.html",
+   "directors": [
+    "Louis Clichy"
+   ],
+   "year": 2026,
+   "runtime_min": 90,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 947493,
+   "tmdb_kind": "movie",
+   "original_language": "fr",
+   "source": "riffraff_houdini",
+   "series": [
+    "Sneaky Sunday"
+   ],
+   "labels": [
+    "Sneaky Sunday"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Sneaky Sunday": "sneaky-sunday-neugass-kino"
+   },
+   "venue": "Riffraff",
+   "dates": [
+    {
+     "date": "2027-01-10",
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2328268",
+       "start": "2027-01-10T21:00+01:00",
+       "time": "21:00",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/le-corset.html?city=zurich&show=2328268#tickets",
+       "language": {
+        "raw": "fr/de",
+        "description": "French; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Sneaky Sunday"
+       ],
+       "label": "Sneaky Sunday",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
