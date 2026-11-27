@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-11-26T04:42:00+01:00",
- "today": "2026-11-26",
+ "generated_at": "2026-11-27T04:40:57+01:00",
+ "today": "2026-11-27",
  "days": [
-  {
-   "date": "2026-11-19",
-   "screenings": 201,
-   "english": 98,
-   "curated": 13,
-   "film": 0
-  },
   {
    "date": "2026-11-20",
    "screenings": 207,
@@ -60,8 +53,8 @@
   },
   {
    "date": "2026-11-27",
-   "screenings": 209,
-   "english": 103,
+   "screenings": 208,
+   "english": 102,
    "curated": 20,
    "film": 0
   },
@@ -151,29 +144,29 @@
   },
   {
    "date": "2026-12-10",
-   "screenings": 3,
-   "english": 1,
-   "curated": 3,
-   "film": 0
-  },
-  {
-   "date": "2026-12-11",
-   "screenings": 4,
-   "english": 2,
+   "screenings": 5,
+   "english": 3,
    "curated": 4,
    "film": 0
   },
   {
+   "date": "2026-12-11",
+   "screenings": 6,
+   "english": 4,
+   "curated": 5,
+   "film": 0
+  },
+  {
    "date": "2026-12-12",
-   "screenings": 4,
-   "english": 3,
+   "screenings": 7,
+   "english": 6,
    "curated": 4,
    "film": 2
   },
   {
    "date": "2026-12-13",
-   "screenings": 8,
-   "english": 3,
+   "screenings": 10,
+   "english": 5,
    "curated": 7,
    "film": 1
   },
@@ -186,42 +179,42 @@
   },
   {
    "date": "2026-12-15",
-   "screenings": 13,
-   "english": 10,
-   "curated": 10,
+   "screenings": 15,
+   "english": 11,
+   "curated": 11,
    "film": 0
   },
   {
    "date": "2026-12-16",
-   "screenings": 31,
-   "english": 19,
+   "screenings": 32,
+   "english": 20,
    "curated": 7,
    "film": 0
   },
   {
    "date": "2026-12-17",
-   "screenings": 23,
+   "screenings": 24,
    "english": 16,
    "curated": 2,
    "film": 1
   },
   {
    "date": "2026-12-18",
-   "screenings": 28,
+   "screenings": 29,
    "english": 20,
    "curated": 6,
    "film": 0
   },
   {
    "date": "2026-12-19",
-   "screenings": 27,
+   "screenings": 28,
    "english": 21,
    "curated": 4,
    "film": 1
   },
   {
    "date": "2026-12-20",
-   "screenings": 28,
+   "screenings": 29,
    "english": 21,
    "curated": 7,
    "film": 0
@@ -367,6 +360,20 @@
    "film": 0
   },
   {
+   "date": "2027-01-15",
+   "screenings": 1,
+   "english": 0,
+   "curated": 1,
+   "film": 0
+  },
+  {
+   "date": "2027-01-16",
+   "screenings": 1,
+   "english": 0,
+   "curated": 1,
+   "film": 0
+  },
+  {
    "date": "2027-01-17",
    "screenings": 1,
    "english": 1,
@@ -447,31 +454,31 @@
  "sources": {
   "arena": {
    "ok": true,
-   "run_at": "2026-11-26T03:32:09+00:00"
+   "run_at": "2026-11-27T03:32:07+00:00"
   },
   "arthouse": {
    "ok": true,
-   "run_at": "2026-11-26T03:33:19+00:00"
+   "run_at": "2026-11-27T03:33:10+00:00"
   },
   "bluecinema": {
    "ok": true,
-   "run_at": "2026-11-26T03:34:49+00:00"
+   "run_at": "2026-11-27T03:34:30+00:00"
   },
   "filmstelle": {
    "ok": true,
-   "run_at": "2026-11-26T03:39:53+00:00"
+   "run_at": "2026-11-27T03:39:01+00:00"
   },
   "kinokoni": {
    "ok": true,
-   "run_at": "2026-11-26T03:39:56+00:00"
+   "run_at": "2026-11-27T03:39:03+00:00"
   },
   "riffraff_houdini": {
    "ok": true,
-   "run_at": "2026-11-26T03:39:58+00:00"
+   "run_at": "2026-11-27T03:39:05+00:00"
   },
   "xenix": {
    "ok": true,
-   "run_at": "2026-11-26T03:41:22+00:00"
+   "run_at": "2026-11-27T03:40:16+00:00"
   }
  },
  "venues": [
@@ -487,7 +494,6 @@
     "onyx"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -504,7 +510,6 @@
     "2026-12-15"
    ],
    "screenings": {
-    "2026-11-19": 47,
     "2026-11-20": 48,
     "2026-11-21": 69,
     "2026-11-22": 69,
@@ -537,7 +542,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -567,7 +571,6 @@
     "2026-12-16"
    ],
    "screenings": {
-    "2026-11-19": 4,
     "2026-11-20": 4,
     "2026-11-21": 4,
     "2026-11-22": 4,
@@ -605,7 +608,7 @@
     {
      "name": "LunchKino",
      "slug": "lunchkino-arthouse",
-     "first": "2026-11-19",
+     "first": "2026-11-20",
      "last": "2026-12-16"
     },
     {
@@ -626,7 +629,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -646,7 +648,6 @@
     "2027-01-04"
    ],
    "screenings": {
-    "2026-11-19": 8,
     "2026-11-20": 8,
     "2026-11-21": 8,
     "2026-11-22": 10,
@@ -707,7 +708,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -734,7 +734,6 @@
     "2027-06-19"
    ],
    "screenings": {
-    "2026-11-19": 8,
     "2026-11-20": 8,
     "2026-11-21": 8,
     "2026-11-22": 9,
@@ -800,7 +799,6 @@
     "infinity-vision"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -828,7 +826,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-19": 40,
     "2026-11-20": 45,
     "2026-11-21": 45,
     "2026-11-22": 48,
@@ -903,7 +900,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -916,10 +912,10 @@
     "2026-11-29",
     "2026-11-30",
     "2026-12-01",
-    "2026-12-02"
+    "2026-12-02",
+    "2026-12-10"
    ],
    "screenings": {
-    "2026-11-19": 23,
     "2026-11-20": 23,
     "2026-11-21": 24,
     "2026-11-22": 24,
@@ -932,14 +928,22 @@
     "2026-11-29": 24,
     "2026-11-30": 24,
     "2026-12-01": 24,
-    "2026-12-02": 24
+    "2026-12-02": 24,
+    "2026-12-10": 1
    },
    "sources": [
     "bluecinema"
    ],
    "instagram": "https://www.instagram.com/bluecinema.ch",
    "since": null,
-   "series": []
+   "series": [
+    {
+     "name": "Horror Night",
+     "slug": "horror-night-blue-cinema",
+     "first": "2026-12-10",
+     "last": "2026-12-10"
+    }
+   ]
   },
   {
    "slug": "blue-corso",
@@ -951,7 +955,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -976,7 +979,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-19": 13,
     "2026-11-20": 12,
     "2026-11-21": 13,
     "2026-11-22": 13,
@@ -1025,7 +1027,6 @@
     "3d"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -1049,7 +1050,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-19": 5,
     "2026-11-20": 5,
     "2026-11-21": 5,
     "2026-11-22": 5,
@@ -1130,7 +1130,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -1162,7 +1161,6 @@
     "2026-12-23"
    ],
    "screenings": {
-    "2026-11-19": 25,
     "2026-11-20": 25,
     "2026-11-21": 25,
     "2026-11-22": 25,
@@ -1224,7 +1222,6 @@
     "3d"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -1245,6 +1242,10 @@
     "2026-12-07",
     "2026-12-08",
     "2026-12-09",
+    "2026-12-10",
+    "2026-12-11",
+    "2026-12-12",
+    "2026-12-13",
     "2026-12-14",
     "2026-12-15",
     "2026-12-16",
@@ -1259,7 +1260,6 @@
     "2027-01-20"
    ],
    "screenings": {
-    "2026-11-19": 11,
     "2026-11-20": 8,
     "2026-11-21": 19,
     "2026-11-22": 20,
@@ -1267,7 +1267,7 @@
     "2026-11-24": 10,
     "2026-11-25": 16,
     "2026-11-26": 9,
-    "2026-11-27": 12,
+    "2026-11-27": 11,
     "2026-11-28": 18,
     "2026-11-29": 21,
     "2026-11-30": 12,
@@ -1280,13 +1280,17 @@
     "2026-12-07": 1,
     "2026-12-08": 1,
     "2026-12-09": 1,
+    "2026-12-10": 1,
+    "2026-12-11": 2,
+    "2026-12-12": 3,
+    "2026-12-13": 2,
     "2026-12-14": 1,
-    "2026-12-15": 1,
-    "2026-12-16": 3,
-    "2026-12-17": 2,
-    "2026-12-18": 2,
-    "2026-12-19": 2,
-    "2026-12-20": 2,
+    "2026-12-15": 3,
+    "2026-12-16": 4,
+    "2026-12-17": 3,
+    "2026-12-18": 3,
+    "2026-12-19": 3,
+    "2026-12-20": 3,
     "2026-12-21": 2,
     "2026-12-22": 2,
     "2026-12-23": 2,
@@ -1302,7 +1306,7 @@
     {
      "name": "Hunger Games",
      "slug": "hunger-games-kinokoni",
-     "first": "2026-11-19",
+     "first": "2026-11-20",
      "last": "2026-11-23"
     },
     {
@@ -1328,6 +1332,12 @@
      "slug": "coop-hello-family-kinokoni",
      "first": "2026-12-05",
      "last": "2026-12-06"
+    },
+    {
+     "name": "Cinema Ciao",
+     "slug": "cinema-ciao-kinokoni",
+     "first": "2026-12-15",
+     "last": "2026-12-15"
     }
    ]
   },
@@ -1341,7 +1351,6 @@
     "dcp"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -1373,6 +1382,8 @@
     "2027-01-06",
     "2027-01-10",
     "2027-01-12",
+    "2027-01-15",
+    "2027-01-16",
     "2027-01-17",
     "2027-01-20",
     "2027-01-24",
@@ -1380,7 +1391,6 @@
     "2027-03-28"
    ],
    "screenings": {
-    "2026-11-19": 15,
     "2026-11-20": 19,
     "2026-11-21": 19,
     "2026-11-22": 19,
@@ -1412,6 +1422,8 @@
     "2027-01-06": 1,
     "2027-01-10": 1,
     "2027-01-12": 2,
+    "2027-01-15": 1,
+    "2027-01-16": 1,
     "2027-01-17": 1,
     "2027-01-20": 1,
     "2027-01-24": 2,
@@ -1456,7 +1468,6 @@
     "35mm"
    ],
    "dates": [
-    "2026-11-19",
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
@@ -1506,7 +1517,6 @@
     "2027-01-06"
    ],
    "screenings": {
-    "2026-11-19": 2,
     "2026-11-20": 2,
     "2026-11-21": 4,
     "2026-11-22": 5,
@@ -1562,12 +1572,6 @@
    "since": 1980,
    "series": [
     {
-     "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
-     "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
-     "first": "2026-11-19",
-     "last": "2026-11-30"
-    },
-    {
      "name": "Kurdisches Filmfestival Zürich",
      "slug": "kurdisches-filmfestival-zurich-xenix",
      "first": "2026-11-20",
@@ -1584,6 +1588,12 @@
      "slug": "kinderkino-xenix",
      "first": "2026-11-22",
      "last": "2027-01-06"
+    },
+    {
+     "name": "Reclaiming Youth – Junge Indigene Stimmen aus Kanada",
+     "slug": "reclaiming-youth-junge-indigene-stimmen-aus-kanada-xenix",
+     "first": "2026-11-22",
+     "last": "2026-11-30"
     },
     {
      "name": "Paul Mescal",
@@ -1655,11 +1665,13 @@
   "In Celluloid We trust": "in-celluloid-we-trust-xenix",
   "Iconic Night": "iconic-night-blue-cinema",
   "Hunger Games": "hunger-games-kinokoni",
+  "Horror Night": "horror-night-blue-cinema",
   "Hello Family": "hello-family-blue-cinema",
   "Double Feature «Rubber Face»": "double-feature-rubber-face-xenix",
   "Dokfilm am Sonntag": "dokfilm-am-sonntag-xenix",
   "Coop Hello Family": "coop-hello-family-kinokoni",
   "Cinépassion": "cinepassion-arthouse",
+  "Cinema Ciao": "cinema-ciao-kinokoni",
   "Christmas Kinolino": "christmas-kinolino-blue-cinema",
   "Christmas": "christmas-blue-cinema",
   "Arthouse Kult": "arthouse-kult-arthouse",
@@ -1671,11 +1683,13 @@
    "arthouse-kult-arthouse",
    "christmas-blue-cinema",
    "christmas-kinolino-blue-cinema",
+   "cinema-ciao-kinokoni",
    "cinepassion-arthouse",
    "coop-hello-family-kinokoni",
    "dokfilm-am-sonntag-xenix",
    "double-feature-rubber-face-xenix",
    "hello-family-blue-cinema",
+   "horror-night-blue-cinema",
    "hunger-games-kinokoni",
    "iconic-night-blue-cinema",
    "in-celluloid-we-trust-xenix",
@@ -1704,10 +1718,10 @@
   ],
   "films": [
    "0-0-godzilla-minus-zero-2026",
+   "1001-frames-2025",
    "2001-a-space-odyssey-1968",
    "a-la-poursuite-de-l-affreunard-chasing-horrifox-2024",
    "a-talent-for-murder-2026",
-   "aftersun-2022",
    "air-hunger",
    "akira-1988",
    "aladdin-1992",
@@ -1717,6 +1731,7 @@
    "avengers-doomsday-2026",
    "barbara-forever-2026",
    "bashu-the-little-stranger-1986",
+   "behemoth-2026",
    "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
    "blade-runner-1982",
    "blood-money-2026",
@@ -1766,6 +1781,7 @@
    "heimsuchung-eine-jahrhundertgeschichte-visitation-2026",
    "hexed-2026",
    "histoires-paralleles-parallel-tales-2026",
+   "hokum-2026",
    "home-alone-1990",
    "hook-1991",
    "hope-2026",
@@ -1773,6 +1789,7 @@
    "how-to-train-your-dragon-2010",
    "i-play-rocky-2026",
    "inglourious-basterds-2009",
+   "inside-amir-2025",
    "insomnia-2002",
    "je-so-pazzo-2026",
    "jim-queen-jim-queen-and-the-quest-for-chloroqueer-2026",
@@ -1790,15 +1807,16 @@
    "lemony-snicket-s-a-series-of-unfortunate-events-2004",
    "les-braves-coward-2026",
    "lieblingsmenschen-die-auergewohnliche-freundschaft-von-agnes-amir-agnes-amir-2026",
-   "little-bird-2023",
    "lola-rennt-run-lola-run-1998",
    "look-back-2024",
    "mad-max-quadruple-feature-1979",
    "man-on-the-moon-1999",
    "marsupilami-2026",
    "master-and-commander-the-far-side-of-the-world-2003",
+   "me-maryam-the-children-and-26-others-2024",
    "meeting-the-buddha-2026",
    "midnight-cowboy-1969",
+   "midsommar-2019",
    "minions-monsters-2026",
    "minotaure-minotaur-2026",
    "mit-einem-tiger-schlafen-sleeping-with-a-tiger-2026",
@@ -1810,6 +1828,7 @@
    "nattvardsgasterna-winter-light-1963",
    "naza-2026",
    "nine-to-five-1980",
+   "noah-s-daughter-2025",
    "obsession-2026",
    "ojczyzna-fatherland-2026",
    "one-hour-photo-2002",
@@ -1819,7 +1838,9 @@
    "outnow-kinoquiz-v-am-rande-des-universums-2027",
    "paw-patrol-the-dino-movie-2026",
    "pressure-2026",
+   "rainbow-s-tale-2025",
    "ramayana-rise-of-a-legend-2026",
+   "rehearsals-for-a-revolution-2026",
    "resident-evil-2026",
    "riffraff-roulette",
    "seeds-2024",
@@ -1829,7 +1850,7 @@
    "some-like-it-hot-1959",
    "spider-man-brand-new-day-2026",
    "strm-nordwarts-zur-freiheit-2026",
-   "strm-nordwarts-zur-freiheit-2026-2",
+   "sunshine-express-2025",
    "tekkonkinkreet-2006",
    "the-birdcage-1996",
    "the-cable-guy-1996",
@@ -1867,6 +1888,7 @@
    "wholetrain-2006",
    "wild-horse-nine-2026",
    "wildwood-2026",
+   "wolfgang-extraordinari-wolfgang-2025",
    "woodwalkers-2-2026",
    "you-can-see-everything-2026"
   ]

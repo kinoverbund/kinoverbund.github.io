@@ -26,7 +26,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "hexed-2026",
    "series_slugs": {},
    "venue": "blue Capitol",
@@ -933,7 +933,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "hexed-2026",
    "series_slugs": {},
    "venue": "blue Corso",
@@ -1420,7 +1420,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "hexed-2026",
    "series_slugs": {},
    "venue": "blue Metropol",
@@ -1629,7 +1629,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "hexed-2026",
    "series_slugs": {},
    "venue": "blue Abaton",
@@ -2683,7 +2683,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "hexed-2026",
    "series_slugs": {},
    "venue": "Arena Sihlcity",
@@ -3098,6 +3098,36 @@
        "curated": false
       },
       {
+       "id": "arena:25064",
+       "start": "2026-11-28T14:45+01:00",
+       "time": "14:45",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25064&fid=1023625",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      },
+      {
        "id": "arena:25099",
        "start": "2026-11-28T16:00+01:00",
        "time": "16:00",
@@ -3344,6 +3374,36 @@
        "last": false,
        "guest": false,
        "english": false,
+       "curated": false
+      },
+      {
+       "id": "arena:25352",
+       "start": "2026-11-29T14:45+01:00",
+       "time": "14:45",
+       "auditoriums": [
+        "Saal 8"
+       ],
+       "ticket_url": "https://www.arena.ch/de/sihlcity/programm/tickets-kaufen/tickets?oid=25352&fid=1023625",
+       "language": {
+        "raw": "EN/de,fr",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
        "curated": false
       },
       {
@@ -3910,7 +3970,7 @@
    "english": false,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "hexed-2026",
    "series_slugs": {},
    "venue": "Houdini",
@@ -4187,7 +4247,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "hexed-2026",
    "series_slugs": {},
    "venue": "KINOKONI Zürich",

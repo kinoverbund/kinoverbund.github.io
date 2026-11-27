@@ -1,53 +1,54 @@
 {
- "name": "STRØM – Nordwärts zur Freiheit",
+ "name": "STRØM - NORDWÄRTS ZUR FREIHEIT",
  "venues": [
   {
-   "title": "STRØM – Nordwärts zur Freiheit",
-   "venue_title": "Strøm",
+   "title": "STRØM - NORDWÄRTS ZUR FREIHEIT",
+   "venue_title": "STRØM - NORDWÄRTS ZUR FREIHEIT",
    "subtitle": null,
-   "original_title": "STRØM – Nordwärts zur Freiheit",
-   "english_title": "STRØM – Nordwärts zur Freiheit",
+   "original_title": null,
+   "english_title": null,
    "kind": "film",
-   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/strom-nordwaerts-zur-freiheit-mit-qa",
+   "film_url": "https://arthouse.ch/movies/strom-nordwarts-zur-freiheit",
    "directors": [
     "Nils Kauf"
    ],
    "year": 2026,
    "runtime_min": 93,
-   "country": null,
+   "country": "Schweiz",
    "program_films": [],
-   "tmdb_id": 1808156,
-   "tmdb_kind": "movie",
-   "original_language": "de",
-   "source": "kinokoni",
-   "series": [],
+   "tmdb_id": null,
+   "tmdb_kind": null,
+   "original_language": null,
+   "source": "arthouse",
+   "series": [
+    "Special Screening mit Cast & Crew"
+   ],
    "labels": [
-    "Special Event"
+    "Special Screening mit Cast & Crew"
    ],
    "english": false,
    "curated": true,
    "curated_reasons": [
-    "one venue",
     "special"
    ],
    "new": false,
-   "series_slugs": {},
-   "venue": "KINOKONI Zürich",
+   "series_slugs": {
+    "Special Screening mit Cast & Crew": "special-screening-mit-cast-crew-arthouse"
+   },
+   "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-26",
+     "date": "2026-12-22",
      "screenings": [
       {
-       "id": "kinokoni:50-8656",
-       "start": "2026-11-26T19:00+01:00",
-       "time": "19:00",
-       "auditoriums": [
-        "Saal1"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-8656/seats",
+       "id": "arthouse:2325139",
+       "start": "2026-12-22T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2325139",
        "language": {
-        "raw": "Deutsch",
-        "description": "German",
+        "raw": "",
+        "description": "Language not stated",
         "english_audio": false,
         "english_subtitles": false,
         "english_friendly": false
@@ -56,17 +57,18 @@
         "format": "dcp",
         "presentation": [],
         "assumed": true,
-        "raw": "2D"
+        "raw": null
        },
-       "note": "Northward to Freedom with Q&A",
+       "note": null,
        "note_lang": null,
-       "series": [],
-       "label": "Special Event",
+       "series": [
+        "Special Screening mit Cast & Crew"
+       ],
+       "label": "Special Screening mit Cast & Crew",
        "last": false,
-       "guest": true,
+       "guest": false,
        "english": false,
-       "curated": true,
-       "note_translated": true
+       "curated": true
       }
      ]
     }

@@ -1,0 +1,70 @@
+{
+ "name": "Wolfgang (Extraordinari) (Wolfgang)",
+ "venues": [
+  {
+   "title": "Wolfgang (Extraordinari) (Wolfgang)",
+   "venue_title": "Wolfgang",
+   "subtitle": null,
+   "original_title": "Wolfgang (Extraordinari)",
+   "english_title": "Wolfgang",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/wolfgang",
+   "directors": [
+    "Javier Ruiz Caldera"
+   ],
+   "year": 2025,
+   "runtime_min": 98,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1306284,
+   "tmdb_kind": "movie",
+   "original_language": "ca",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-12-10",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10501",
+       "start": "2026-12-10T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10501/seats",
+       "language": {
+        "raw": "English/Englisch",
+        "description": "English",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

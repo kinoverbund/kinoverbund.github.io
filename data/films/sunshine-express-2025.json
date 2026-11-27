@@ -1,0 +1,70 @@
+{
+ "name": "Sunshine Express",
+ "venues": [
+  {
+   "title": "Sunshine Express",
+   "venue_title": "Sunshine Express",
+   "subtitle": null,
+   "original_title": "Sunshine Express",
+   "english_title": "Sunshine Express",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/sunshine-express",
+   "directors": [
+    "Amirali Navaee"
+   ],
+   "year": 2025,
+   "runtime_min": 98,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1428886,
+   "tmdb_kind": "movie",
+   "original_language": "fa",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-12-13",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10507",
+       "start": "2026-12-13T16:15+01:00",
+       "time": "16:15",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10507/seats",
+       "language": {
+        "raw": "Englisch Untertitel",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

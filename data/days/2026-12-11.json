@@ -77,6 +77,133 @@
    ]
   },
   {
+   "name": "KINOKONI Zürich",
+   "operator": "KINOKONI",
+   "address": null,
+   "listings": [
+    {
+     "title": "من، مريم، بچه ها و ٢٦ نفر ديگر (Me, Maryam, the Children and 26 Others)",
+     "venue_title": "Me, Maryam, the Children and 26 Others",
+     "subtitle": null,
+     "original_title": "من، مريم، بچه ها و ٢٦ نفر ديگر",
+     "english_title": "Me, Maryam, the Children and 26 Others",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/me-maryam-the-children-and-26-others",
+     "directors": [
+      "Farshad Hashemi"
+     ],
+     "year": 2024,
+     "runtime_min": 101,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1219584,
+     "tmdb_kind": "movie",
+     "original_language": "fa",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "rep"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10502",
+       "start": "2026-12-11T18:15+01:00",
+       "time": "18:15",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10502/seats",
+       "language": {
+        "raw": "Englisch Untertitel",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {}
+    },
+    {
+     "title": "درون امیر (Inside Amir)",
+     "venue_title": "Inside Amir",
+     "subtitle": null,
+     "original_title": "درون امیر",
+     "english_title": "Inside Amir",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/inside-amir",
+     "directors": [
+      "Amir Azizi"
+     ],
+     "year": 2025,
+     "runtime_min": 98,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1518732,
+     "tmdb_kind": "movie",
+     "original_language": "fa",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10503",
+       "start": "2026-12-11T20:15+01:00",
+       "time": "20:15",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10503/seats",
+       "language": {
+        "raw": "Englisch Untertitel",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "series_slugs": {}
+    }
+   ]
+  },
+  {
    "name": "Xenix",
    "operator": "Xenix",
    "address": null,

@@ -1,0 +1,78 @@
+{
+ "name": "Hokum",
+ "venues": [
+  {
+   "title": "Hokum",
+   "venue_title": "Hokum",
+   "subtitle": null,
+   "original_title": "Hokum",
+   "english_title": "Hokum",
+   "kind": "film",
+   "film_url": "https://www.bluecinema.ch/de/movies/3304873?cinemas=8b8e41ef-4836-4d0c-90ce-72a7a4cfdb09",
+   "directors": [
+    "Damian Mc Carthy"
+   ],
+   "year": 2026,
+   "runtime_min": 107,
+   "country": "Ireland",
+   "program_films": [],
+   "tmdb_id": 1430077,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "bluecinema",
+   "series": [
+    "Horror Night"
+   ],
+   "labels": [],
+   "english": true,
+   "curated": true,
+   "curated_reasons": [
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Horror Night": "horror-night-blue-cinema"
+   },
+   "venue": "blue Capitol",
+   "dates": [
+    {
+     "date": "2026-12-10",
+     "screenings": [
+      {
+       "id": "bluecinema:3342284",
+       "start": "2026-12-10T20:00+01:00",
+       "time": "20:00",
+       "auditoriums": [
+        "Capitol 1"
+       ],
+       "ticket_url": "https://www.bluecinema.ch/de/screening/3342284/seating",
+       "language": {
+        "raw": "EN/DE",
+        "description": "English; subtitles: German",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Horror Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

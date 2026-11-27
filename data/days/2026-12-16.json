@@ -972,41 +972,37 @@
    "address": null,
    "listings": [
     {
-     "title": "The Holiday",
-     "venue_title": "The Holiday",
+     "title": "CHREIS 7",
+     "venue_title": "CHREIS 7",
      "subtitle": null,
-     "original_title": "The Holiday",
-     "english_title": "The Holiday",
+     "original_title": null,
+     "english_title": null,
      "kind": "film",
-     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/cinema-ciao-the-holiday",
-     "directors": [
-      "Nancy Meyers"
-     ],
-     "year": 2006,
-     "runtime_min": 135,
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/chreis-7",
+     "directors": [],
+     "year": null,
+     "runtime_min": 40,
      "country": null,
      "program_films": [],
-     "tmdb_id": 1581,
-     "tmdb_kind": "movie",
-     "original_language": "en",
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
      "source": "kinokoni",
      "series": [],
      "labels": [],
      "english": false,
-     "curated": true,
-     "curated_reasons": [
-      "rep"
-     ],
-     "new": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
      "screenings": [
       {
-       "id": "kinokoni:50-10500",
-       "start": "2026-12-16T19:30+01:00",
-       "time": "19:30",
+       "id": "kinokoni:50-10512",
+       "start": "2026-12-16T19:00+01:00",
+       "time": "19:00",
        "auditoriums": [
-        "Saal3"
+        "Saal2"
        ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10500/seats",
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10512/seats",
        "language": {
         "raw": "",
         "description": "Language not stated",
@@ -1027,9 +1023,10 @@
        "last": false,
        "guest": false,
        "english": false,
-       "curated": true
+       "curated": false
       }
      ],
+     "film_slug": "chreis-7",
      "series_slugs": {}
     },
     {
@@ -1152,6 +1149,73 @@
      ],
      "film_slug": "dune-part-three-2026",
      "series_slugs": {}
+    },
+    {
+     "title": "Behemoth!",
+     "venue_title": "Behemoth! Stücke eines Lebens",
+     "subtitle": null,
+     "original_title": "Behemoth!",
+     "english_title": "Behemoth!",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/ladiesnight-behemoth-stuecke-eines-lebens",
+     "directors": [
+      "Tony Gilroy"
+     ],
+     "year": 2026,
+     "runtime_min": 124,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1452168,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [
+      "Ladies Night"
+     ],
+     "labels": [],
+     "english": true,
+     "curated": true,
+     "curated_reasons": [
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10499",
+       "start": "2026-12-16T20:20+01:00",
+       "time": "20:20",
+       "auditoriums": [
+        "FilmLounge 4"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10499/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Ladies Night"
+       ],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Ladies Night": "ladies-night-kinokoni"
+     }
     }
    ]
   },

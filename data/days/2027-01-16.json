@@ -1,0 +1,83 @@
+{
+ "date": "2027-01-16",
+ "venues": [
+  {
+   "name": "Riffraff",
+   "operator": "Neugass Kino",
+   "address": null,
+   "listings": [
+    {
+     "title": "Midsommar",
+     "venue_title": "Midsommar",
+     "subtitle": null,
+     "original_title": "Midsommar",
+     "english_title": "Midsommar",
+     "kind": "film",
+     "film_url": "https://www.riffraff-houdini.ch/de-ch/film/midsommar.html",
+     "directors": [
+      "Ari Aster"
+     ],
+     "year": 2019,
+     "runtime_min": 147,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 530385,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "riffraff_houdini",
+     "series": [
+      "The Ones We Love"
+     ],
+     "labels": [
+      "The Ones We Love"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "riffraff_houdini:2328529",
+       "start": "2027-01-16T23:10+01:00",
+       "time": "23:10",
+       "auditoriums": [
+        "Riffraff 1"
+       ],
+       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/midsommar.html?city=zurich&show=2328529#tickets",
+       "language": {
+        "raw": "ov/de",
+        "description": "Original version; subtitles: German",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "The Ones We Love"
+       ],
+       "label": "The Ones We Love",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "film_slug": "midsommar-2019",
+     "series_slugs": {
+      "The Ones We Love": "the-ones-we-love-neugass-kino"
+     }
+    }
+   ]
+  }
+ ]
+}

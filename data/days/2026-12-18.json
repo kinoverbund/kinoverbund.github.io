@@ -907,6 +907,64 @@
    "address": null,
    "listings": [
     {
+     "title": "CHREIS 7",
+     "venue_title": "CHREIS 7",
+     "subtitle": null,
+     "original_title": null,
+     "english_title": null,
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/chreis-7",
+     "directors": [],
+     "year": null,
+     "runtime_min": 40,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": null,
+     "tmdb_kind": null,
+     "original_language": null,
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": false,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10514",
+       "start": "2026-12-18T19:00+01:00",
+       "time": "19:00",
+       "auditoriums": [
+        "Saal2"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10514/seats",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": false
+      }
+     ],
+     "film_slug": "chreis-7",
+     "series_slugs": {}
+    },
+    {
      "title": "Avengers: Doomsday",
      "venue_title": "Avengers: Doomsday",
      "subtitle": null,

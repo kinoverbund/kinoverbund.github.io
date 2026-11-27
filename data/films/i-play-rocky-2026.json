@@ -25,7 +25,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "i-play-rocky-2026",
    "series_slugs": {},
    "venue": "blue Corso",
@@ -721,7 +721,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "i-play-rocky-2026",
    "series_slugs": {},
    "venue": "blue Abaton",
@@ -1627,7 +1627,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "i-play-rocky-2026",
    "series_slugs": {},
    "venue": "Arena Sihlcity",
@@ -2383,7 +2383,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "i-play-rocky-2026",
    "series_slugs": {},
    "venue": "Arthouse Movie",
@@ -2659,7 +2659,7 @@
    "english": true,
    "curated": false,
    "curated_reasons": [],
-   "new": true,
+   "new": false,
    "film_slug": "i-play-rocky-2026",
    "series_slugs": {},
    "venue": "KINOKONI Zürich",
@@ -2702,36 +2702,6 @@
     {
      "date": "2026-11-27",
      "screenings": [
-      {
-       "id": "kinokoni:50-10413",
-       "start": "2026-11-27T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10413/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
       {
        "id": "kinokoni:50-10406",
        "start": "2026-11-27T20:30+01:00",

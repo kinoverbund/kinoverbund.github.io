@@ -341,7 +341,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:25020",
@@ -1063,7 +1063,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:25054",
@@ -1153,7 +1153,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arena:25058",
@@ -2554,7 +2554,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2326025",
@@ -2692,7 +2692,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "arthouse:2325873",
@@ -3513,7 +3513,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3345896",
@@ -3639,7 +3639,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3345982",
@@ -3790,7 +3790,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3346006",
@@ -4881,7 +4881,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3345613",
@@ -5183,7 +5183,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3346138",
@@ -5573,7 +5573,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3345909",
@@ -6030,7 +6030,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3345972",
@@ -6151,7 +6151,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3346027",
@@ -6610,7 +6610,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3346021",
@@ -6762,7 +6762,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "bluecinema:3345838",
@@ -6896,7 +6896,7 @@
      "curated_reasons": [
       "one venue"
      ],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2325483",
@@ -7862,7 +7862,7 @@
      "english": false,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "riffraff_houdini:2325499",
@@ -8361,96 +8361,6 @@
      "series_slugs": {}
     },
     {
-     "title": "I Play Rocky",
-     "venue_title": "I Play Rocky",
-     "subtitle": null,
-     "original_title": "I Play Rocky",
-     "english_title": "I Play Rocky",
-     "kind": "film",
-     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/i-play-rocky",
-     "directors": [
-      "Peter Farrelly"
-     ],
-     "year": 2026,
-     "runtime_min": 128,
-     "country": null,
-     "program_films": [],
-     "tmdb_id": 1286656,
-     "tmdb_kind": "movie",
-     "original_language": "en",
-     "source": "kinokoni",
-     "series": [],
-     "labels": [],
-     "english": true,
-     "curated": false,
-     "curated_reasons": [],
-     "new": true,
-     "screenings": [
-      {
-       "id": "kinokoni:50-10413",
-       "start": "2026-11-27T17:30+01:00",
-       "time": "17:30",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10413/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      },
-      {
-       "id": "kinokoni:50-10406",
-       "start": "2026-11-27T20:30+01:00",
-       "time": "20:30",
-       "auditoriums": [
-        "FilmLounge 5"
-       ],
-       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10406/seats",
-       "language": {
-        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
-        "description": "English; subtitles: German, French",
-        "english_audio": true,
-        "english_subtitles": false,
-        "english_friendly": true
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": "2D"
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": true,
-       "curated": false
-      }
-     ],
-     "film_slug": "i-play-rocky-2026",
-     "series_slugs": {}
-    },
-    {
      "title": "Hexed",
      "venue_title": "Wie verhext",
      "subtitle": null,
@@ -8475,7 +8385,7 @@
      "english": true,
      "curated": false,
      "curated_reasons": [],
-     "new": true,
+     "new": false,
      "screenings": [
       {
        "id": "kinokoni:50-10412",
@@ -8723,6 +8633,66 @@
      "series_slugs": {}
     },
     {
+     "title": "I Play Rocky",
+     "venue_title": "I Play Rocky",
+     "subtitle": null,
+     "original_title": "I Play Rocky",
+     "english_title": "I Play Rocky",
+     "kind": "film",
+     "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/i-play-rocky",
+     "directors": [
+      "Peter Farrelly"
+     ],
+     "year": 2026,
+     "runtime_min": 128,
+     "country": null,
+     "program_films": [],
+     "tmdb_id": 1286656,
+     "tmdb_kind": "movie",
+     "original_language": "en",
+     "source": "kinokoni",
+     "series": [],
+     "labels": [],
+     "english": true,
+     "curated": false,
+     "curated_reasons": [],
+     "new": false,
+     "screenings": [
+      {
+       "id": "kinokoni:50-10406",
+       "start": "2026-11-27T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [
+        "FilmLounge 5"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10406/seats",
+       "language": {
+        "raw": "Deutsch Untertitel; English/Englisch; Französisch Untertitel",
+        "description": "English; subtitles: German, French",
+        "english_audio": true,
+        "english_subtitles": false,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ],
+     "film_slug": "i-play-rocky-2026",
+     "series_slugs": {}
+    },
+    {
      "title": "Wild Horse Nine",
      "venue_title": "Wild Horse Nine",
      "subtitle": null,
@@ -8810,8 +8780,8 @@
      "screenings": [
       {
        "id": "kinokoni:50-10470",
-       "start": "2026-11-27T21:10+01:00",
-       "time": "21:10",
+       "start": "2026-11-27T22:00+01:00",
+       "time": "22:00",
        "auditoriums": [
         "Saal3"
        ],

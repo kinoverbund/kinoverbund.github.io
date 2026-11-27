@@ -1,0 +1,70 @@
+{
+ "name": "1001 Frames",
+ "venues": [
+  {
+   "title": "1001 Frames",
+   "venue_title": "1001 Frames",
+   "subtitle": null,
+   "original_title": "1001 Frames",
+   "english_title": "1001 Frames",
+   "kind": "film",
+   "film_url": "https://zurich.kinokoni.ch/programmuebersicht/movie/1001-frames",
+   "directors": [
+    "Mehrnoush Alia"
+   ],
+   "year": 2025,
+   "runtime_min": 87,
+   "country": null,
+   "program_films": [],
+   "tmdb_id": 1418518,
+   "tmdb_kind": "movie",
+   "original_language": "fa",
+   "source": "kinokoni",
+   "series": [],
+   "labels": [],
+   "english": true,
+   "curated": false,
+   "curated_reasons": [],
+   "new": true,
+   "series_slugs": {},
+   "venue": "KINOKONI Zürich",
+   "dates": [
+    {
+     "date": "2026-12-12",
+     "screenings": [
+      {
+       "id": "kinokoni:50-10504",
+       "start": "2026-12-12T16:15+01:00",
+       "time": "16:15",
+       "auditoriums": [
+        "Saal3"
+       ],
+       "ticket_url": "https://cinema.kinokoni.ch/order/showtimes/50-10504/seats",
+       "language": {
+        "raw": "Englisch Untertitel",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": true,
+        "english_friendly": true
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": "2D"
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [],
+       "label": null,
+       "last": false,
+       "guest": false,
+       "english": true,
+       "curated": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
