@@ -1,0 +1,80 @@
+{
+ "date": "2027-04-07",
+ "venues": [
+  {
+   "name": "Arthouse Movie",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "おおかみこどもの雨と雪 (Wolf Children)",
+     "venue_title": "Wolf Children",
+     "subtitle": null,
+     "original_title": "おおかみこどもの雨と雪",
+     "english_title": "Wolf Children",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/wolf-children",
+     "directors": [
+      "Mamoru Hosoda"
+     ],
+     "year": 2012,
+     "runtime_min": 117,
+     "country": "Japan",
+     "program_films": [],
+     "tmdb_id": 110420,
+     "tmdb_kind": "movie",
+     "original_language": "ja",
+     "source": "arthouse",
+     "series": [
+      "Animittwoch"
+     ],
+     "labels": [
+      "Animittwoch"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2328594",
+       "start": "2027-04-07T20:30+02:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2328594",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Animittwoch"
+       ],
+       "label": "Animittwoch",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Animittwoch": "animittwoch-arthouse"
+     }
+    }
+   ]
+  }
+ ]
+}

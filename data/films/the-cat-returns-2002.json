@@ -1,0 +1,79 @@
+{
+ "name": "猫の恩返し (The Cat Returns)",
+ "venues": [
+  {
+   "title": "猫の恩返し (The Cat Returns)",
+   "venue_title": "The Cat Returns",
+   "subtitle": null,
+   "original_title": "猫の恩返し",
+   "english_title": "The Cat Returns",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/the-cat-returns",
+   "directors": [
+    "Hiroyuki Morita"
+   ],
+   "year": 2002,
+   "runtime_min": 75,
+   "country": "Japan",
+   "program_films": [],
+   "tmdb_id": 15370,
+   "tmdb_kind": "movie",
+   "original_language": "ja",
+   "source": "arthouse",
+   "series": [
+    "Animittwoch"
+   ],
+   "labels": [
+    "Animittwoch"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Animittwoch": "animittwoch-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2027-03-03",
+     "screenings": [
+      {
+       "id": "arthouse:2328587",
+       "start": "2027-03-03T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2328587",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Animittwoch"
+       ],
+       "label": "Animittwoch",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "name": "There Will Be Blood",
+ "venues": [
+  {
+   "title": "There Will Be Blood",
+   "venue_title": "There Will Be Blood",
+   "subtitle": null,
+   "original_title": "There Will Be Blood",
+   "english_title": "There Will Be Blood",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/there-will-be-blood",
+   "directors": [
+    "Paul Thomas Anderson"
+   ],
+   "year": 2007,
+   "runtime_min": 158,
+   "country": "USA",
+   "program_films": [],
+   "tmdb_id": 7345,
+   "tmdb_kind": "movie",
+   "original_language": "en",
+   "source": "arthouse",
+   "series": [
+    "Arthouse Kult"
+   ],
+   "labels": [
+    "Arthouse Kult"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Arthouse Kult": "arthouse-kult-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2027-02-12",
+     "screenings": [
+      {
+       "id": "arthouse:2328580",
+       "start": "2027-02-12T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2328580",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Arthouse Kult"
+       ],
+       "label": "Arthouse Kult",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

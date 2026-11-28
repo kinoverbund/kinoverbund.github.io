@@ -72,12 +72,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:20+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T13:20+01:00"
@@ -105,31 +99,6 @@
     "date": "2026-12-02",
     "starts": [
      "2026-12-02T13:20+01:00"
-    ]
-   }
-  ]
- },
- {
-  "slug": "air-hunger",
-  "title": "AIR HUNGER",
-  "venue_title": "AIR HUNGER",
-  "kind": "film",
-  "original_title": null,
-  "english_title": null,
-  "original_language": null,
-  "directors": [],
-  "year": null,
-  "venues": [
-   "KINOKONI Zürich"
-  ],
-  "sources": [
-   "kinokoni"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T18:30+01:00"
     ]
    }
   ]
@@ -197,33 +166,6 @@
     "date": "2027-01-02",
     "starts": [
      "2027-01-02T15:30+01:00"
-    ]
-   }
-  ]
- },
- {
-  "slug": "all-of-us-strangers-2023",
-  "title": "All of Us Strangers",
-  "venue_title": "All of Us Strangers",
-  "kind": "film",
-  "original_title": "All of Us Strangers",
-  "english_title": "All of Us Strangers",
-  "original_language": "en",
-  "directors": [
-   "Andrew Haigh"
-  ],
-  "year": 2023,
-  "venues": [
-   "Xenix"
-  ],
-  "sources": [
-   "xenix"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T22:15+01:00"
     ]
    }
   ]
@@ -507,6 +449,33 @@
   ]
  },
  {
+  "slug": "berliner-philharmoniker-silvesterkonzert-2026-new-years-eve-concert-with-berliner-philharmoniker-2026",
+  "title": "Berliner Philharmoniker: Silvesterkonzert 2026 (New Year’s Eve Concert with Berliner Philharmoniker)",
+  "venue_title": "Silvesterkonzert Berliner Philharmoniker Live",
+  "kind": "film",
+  "original_title": "Berliner Philharmoniker: Silvesterkonzert 2026",
+  "english_title": "New Year’s Eve Concert with Berliner Philharmoniker",
+  "original_language": "de",
+  "directors": [
+   "Kirill Petrenko (Dirigent)"
+  ],
+  "year": 2026,
+  "venues": [
+   "Arthouse Le Paris"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2026-12-31",
+    "starts": [
+     "2026-12-31T17:00+01:00"
+    ]
+   }
+  ]
+ },
+ {
   "slug": "bibi-blocksberg-die-total-verhexte-zeitreise-2026",
   "title": "Bibi Blocksberg - Die total verhexte Zeitreise",
   "venue_title": "Bibi Blocksberg - Die total verhexte Zeitreise",
@@ -602,33 +571,6 @@
   ]
  },
  {
-  "slug": "blade-runner-1982",
-  "title": "Blade Runner",
-  "venue_title": "Blade Runner (Final Cut)",
-  "kind": "film",
-  "original_title": "Blade Runner",
-  "english_title": "Blade Runner",
-  "original_language": "en",
-  "directors": [
-   "Ridley Scott"
-  ],
-  "year": 1982,
-  "venues": [
-   "Arthouse Movie"
-  ],
-  "sources": [
-   "arthouse"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T20:30+01:00"
-    ]
-   }
-  ]
- },
- {
   "slug": "blood-money-2026",
   "title": "Blood Money",
   "venue_title": "Blood Money",
@@ -647,12 +589,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T23:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -827,6 +763,33 @@
     "starts": [
      "2026-12-06T14:00+01:00",
      "2026-12-06T14:30+01:00"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "the-cat-returns-2002",
+  "title": "猫の恩返し (The Cat Returns)",
+  "venue_title": "The Cat Returns",
+  "kind": "film",
+  "original_title": "猫の恩返し",
+  "english_title": "The Cat Returns",
+  "original_language": "ja",
+  "directors": [
+   "Hiroyuki Morita"
+  ],
+  "year": 2002,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-03-03",
+    "starts": [
+     "2027-03-03T20:30+01:00"
     ]
    }
   ]
@@ -1017,14 +980,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T11:30+01:00",
-     "2026-11-27T17:50+01:00",
-     "2026-11-27T20:50+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T11:30+01:00",
@@ -1172,9 +1127,9 @@
   ],
   "year": 2026,
   "venues": [
+   "Arena Sihlcity",
    "blue Capitol",
    "blue Abaton",
-   "Arena Sihlcity",
    "KINOKONI Zürich"
   ],
   "sources": [
@@ -1183,18 +1138,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T14:50+01:00",
-     "2026-11-27T17:40+01:00",
-     "2026-11-27T20:00+01:00",
-     "2026-11-27T20:30+01:00",
-     "2026-11-27T20:50+01:00",
-     "2026-11-27T23:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -1267,10 +1210,10 @@
   "year": 2026,
   "venues": [
    "blue Capitol",
-   "Houdini",
    "Arena Sihlcity",
-   "blue Abaton",
-   "KINOKONI Zürich"
+   "KINOKONI Zürich",
+   "Houdini",
+   "blue Abaton"
   ],
   "sources": [
    "arena",
@@ -1279,15 +1222,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:00+01:00",
-     "2026-11-27T13:40+01:00",
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T16:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -1442,12 +1376,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T23:30+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T23:30+01:00"
@@ -1474,13 +1402,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T15:50+01:00",
-     "2026-11-27T22:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -1547,12 +1468,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:40+01:00"
-    ]
-   },
    {
     "date": "2026-11-30",
     "starts": [
@@ -1773,8 +1688,8 @@
   "year": 2026,
   "venues": [
    "blue Abaton",
-   "Arena Sihlcity",
    "blue Capitol",
+   "Arena Sihlcity",
    "blue Metropol"
   ],
   "sources": [
@@ -1782,20 +1697,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:30+01:00",
-     "2026-11-27T15:25+01:00",
-     "2026-11-27T16:30+01:00",
-     "2026-11-27T16:45+01:00",
-     "2026-11-27T18:10+01:00",
-     "2026-11-27T18:25+01:00",
-     "2026-11-27T20:00+01:00",
-     "2026-11-27T20:35+01:00",
-     "2026-11-27T20:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -1913,9 +1814,9 @@
   ],
   "year": 2026,
   "venues": [
+   "Arena Sihlcity",
    "Houdini",
-   "blue Abaton",
-   "Arena Sihlcity"
+   "blue Abaton"
   ],
   "sources": [
    "arena",
@@ -1923,12 +1824,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T11:40+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -2018,15 +1913,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:15+01:00",
-     "2026-11-27T14:10+01:00",
-     "2026-11-27T18:20+01:00",
-     "2026-11-27T20:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -2148,21 +2034,18 @@
  {
   "slug": "festive-fun-with-peppa-2026",
   "title": "Festive Fun with Peppa",
-  "venue_title": "Festtagsspass mit Peppa",
+  "venue_title": "Festive Fun with Peppa Cinema Experience",
   "kind": "film",
   "original_title": "Festive Fun with Peppa",
   "english_title": "Festive Fun with Peppa",
   "original_language": "en",
-  "directors": [
-   "Neville Astley",
-   "Mark Baker"
-  ],
+  "directors": [],
   "year": 2026,
   "venues": [
-   "Houdini",
    "Arena Sihlcity",
    "KINOKONI Zürich",
-   "blue Abaton"
+   "blue Abaton",
+   "Houdini"
   ],
   "sources": [
    "arena",
@@ -2171,13 +2054,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:30+01:00",
-     "2026-11-27T15:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -2312,25 +2188,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T14:10+01:00",
-     "2026-11-27T14:40+01:00",
-     "2026-11-27T14:50+01:00",
-     "2026-11-27T17:00+01:00",
-     "2026-11-27T17:20+01:00",
-     "2026-11-27T17:40+01:00",
-     "2026-11-27T17:45+01:00",
-     "2026-11-27T17:50+01:00",
-     "2026-11-27T20:00+01:00",
-     "2026-11-27T20:20+01:00",
-     "2026-11-27T20:30+01:00",
-     "2026-11-27T21:15+01:00",
-     "2026-11-27T23:15+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T10:50+01:00",
@@ -2443,13 +2300,13 @@
   "english_title": "Forgotten Island",
   "original_language": "en",
   "directors": [
-   "Januel Mercado",
-   "Joel Crawford"
+   "Joel Crawford",
+   "Januel Mercado"
   ],
   "year": 2026,
   "venues": [
-   "blue Abaton",
-   "Arena Sihlcity"
+   "Arena Sihlcity",
+   "blue Abaton"
   ],
   "sources": [
    "arena",
@@ -2526,14 +2383,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T11:30+01:00",
-     "2026-11-27T15:45+01:00",
-     "2026-11-27T18:40+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -2663,7 +2512,7 @@
  {
   "slug": "from-inside-out-die-architektur-von-peter-zumthor-from-inside-out-the-architecture-of-peter-zumthor-2026",
   "title": "From Inside Out - Die Architektur von Peter Zumthor (From Inside Out: The Architecture of Peter Zumthor)",
-  "venue_title": "From Inside Out - Die Architektur von Peter Zumthor",
+  "venue_title": "From Inside Out - Die Architektur von Peter Zumtho",
   "kind": "film",
   "original_title": "From Inside Out - Die Architektur von Peter Zumthor",
   "english_title": "From Inside Out: The Architecture of Peter Zumthor",
@@ -2673,23 +2522,14 @@
   ],
   "year": 2026,
   "venues": [
-   "Riffraff",
-   "Arthouse Piccadilly"
+   "Arthouse Piccadilly",
+   "Riffraff"
   ],
   "sources": [
    "arthouse",
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T15:00+01:00",
-     "2026-11-27T15:30+01:00",
-     "2026-11-27T17:30+01:00",
-     "2026-11-27T18:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -2784,14 +2624,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T17:20+01:00",
-     "2026-11-27T20:45+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T14:00+01:00",
@@ -2852,12 +2684,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T18:20+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -3133,15 +2959,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T15:55+01:00",
-     "2026-11-27T18:20+01:00",
-     "2026-11-27T20:50+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T18:20+01:00",
@@ -3204,13 +3021,6 @@
    "arthouse"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T15:40+01:00",
-     "2026-11-27T20:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -3276,25 +3086,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:30+01:00",
-     "2026-11-27T13:45+01:00",
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T14:15+01:00",
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T15:10+01:00",
-     "2026-11-27T16:00+01:00",
-     "2026-11-27T16:50+01:00",
-     "2026-11-27T17:25+01:00",
-     "2026-11-27T17:30+01:00",
-     "2026-11-27T17:40+01:00",
-     "2026-11-27T18:30+01:00",
-     "2026-11-27T19:35+01:00",
-     "2026-11-27T20:55+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -3432,12 +3223,6 @@
    "arthouse"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T12:15+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -3630,20 +3415,12 @@
   ],
   "year": 2026,
   "venues": [
-   "Riffraff",
    "Xenix"
   ],
   "sources": [
-   "riffraff_houdini",
    "xenix"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T22:50+01:00"
-    ]
-   },
    {
     "date": "2026-12-09",
     "starts": [
@@ -3680,14 +3457,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T17:00+01:00",
-     "2026-11-27T21:00+01:00",
-     "2026-11-27T23:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -3766,9 +3535,36 @@
   ]
  },
  {
+  "slug": "howl-s-moving-castle-2004",
+  "title": "ハウルの動く城 (Howl's Moving Castle)",
+  "venue_title": "Howl's Moving Castle",
+  "kind": "film",
+  "original_title": "ハウルの動く城",
+  "english_title": "Howl's Moving Castle",
+  "original_language": "ja",
+  "directors": [
+   "Hayao Miyazaki"
+  ],
+  "year": 2004,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-02-03",
+    "starts": [
+     "2027-02-03T20:30+01:00"
+    ]
+   }
+  ]
+ },
+ {
   "slug": "the-hunger-games-sunrise-on-the-reaping-2026",
   "title": "The Hunger Games: Sunrise on the Reaping",
-  "venue_title": "The Hunger Games: Sunrise on the Reaping",
+  "venue_title": "Die Tribute von Panem: Sunrise on the Reaping",
   "kind": "film",
   "original_title": "The Hunger Games: Sunrise on the Reaping",
   "english_title": "The Hunger Games: Sunrise on the Reaping",
@@ -3778,11 +3574,11 @@
   ],
   "year": 2026,
   "venues": [
+   "KINOKONI Zürich",
    "blue Abaton",
    "blue Corso",
    "Arena Sihlcity",
-   "blue Metropol",
-   "KINOKONI Zürich"
+   "blue Metropol"
   ],
   "sources": [
    "arena",
@@ -3790,30 +3586,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T14:10+01:00",
-     "2026-11-27T15:50+01:00",
-     "2026-11-27T16:40+01:00",
-     "2026-11-27T16:45+01:00",
-     "2026-11-27T16:50+01:00",
-     "2026-11-27T17:00+01:00",
-     "2026-11-27T17:30+01:00",
-     "2026-11-27T17:45+01:00",
-     "2026-11-27T19:10+01:00",
-     "2026-11-27T19:45+01:00",
-     "2026-11-27T20:00+01:00",
-     "2026-11-27T20:10+01:00",
-     "2026-11-27T20:15+01:00",
-     "2026-11-27T20:20+01:00",
-     "2026-11-27T20:25+01:00",
-     "2026-11-27T20:30+01:00",
-     "2026-11-27T22:20+01:00",
-     "2026-11-27T22:30+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -3944,23 +3716,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:45+01:00",
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T14:40+01:00",
-     "2026-11-27T16:35+01:00",
-     "2026-11-27T17:35+01:00",
-     "2026-11-27T17:50+01:00",
-     "2026-11-27T18:00+01:00",
-     "2026-11-27T18:10+01:00",
-     "2026-11-27T20:15+01:00",
-     "2026-11-27T20:30+01:00",
-     "2026-11-27T20:40+01:00",
-     "2026-11-27T20:45+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -4211,21 +3966,15 @@
   ],
   "year": 2026,
   "venues": [
+   "Arena Sihlcity",
    "blue Capitol",
-   "blue Abaton",
-   "Arena Sihlcity"
+   "blue Abaton"
   ],
   "sources": [
    "arena",
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -4386,33 +4135,6 @@
   ]
  },
  {
-  "slug": "kuessipan-2019",
-  "title": "Kuessipan",
-  "venue_title": "Kuessipan",
-  "kind": "film",
-  "original_title": "Kuessipan",
-  "english_title": "Kuessipan",
-  "original_language": "fr",
-  "directors": [
-   "Myriam Verreault"
-  ],
-  "year": 2019,
-  "venues": [
-   "Xenix"
-  ],
-  "sources": [
-   "xenix"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T18:00+01:00"
-    ]
-   }
-  ]
- },
- {
   "slug": "kurak-mi-q-a",
   "title": "Kurak mi Q&A",
   "venue_title": "Kurak mi Q&A",
@@ -4460,17 +4182,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:45+01:00",
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T17:00+01:00",
-     "2026-11-27T17:10+01:00",
-     "2026-11-27T20:15+01:00",
-     "2026-11-27T20:20+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -4583,6 +4294,33 @@
   ]
  },
  {
+  "slug": "la-vita-e-bella-life-is-beautiful-1997",
+  "title": "La vita è bella (Life Is Beautiful)",
+  "venue_title": "La vita è bella",
+  "kind": "film",
+  "original_title": "La vita è bella",
+  "english_title": "Life Is Beautiful",
+  "original_language": "it",
+  "directors": [
+   "Roberto Benigni"
+  ],
+  "year": 1997,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-03-12",
+    "starts": [
+     "2027-03-12T20:30+01:00"
+    ]
+   }
+  ]
+ },
+ {
   "slug": "le-corset-iron-boy-2026",
   "title": "Le Corset (Iron Boy)",
   "venue_title": "Le Corset",
@@ -4605,6 +4343,33 @@
     "date": "2027-01-10",
     "starts": [
      "2027-01-10T21:00+01:00"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "le-fabuleux-destin-d-amelie-poulain-amelie-2001",
+  "title": "Le Fabuleux Destin d'Amélie Poulain (Amélie)",
+  "venue_title": "Le Fabuleux Destin d'Amélie Poulain",
+  "kind": "film",
+  "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+  "english_title": "Amélie",
+  "original_language": "fr",
+  "directors": [
+   "Jean-Pierre Jeunet"
+  ],
+  "year": 2001,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-04-16",
+    "starts": [
+     "2027-04-16T20:30+02:00"
     ]
    }
   ]
@@ -4717,9 +4482,9 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Abaton",
-   "Arthouse Le Paris",
    "blue Corso",
+   "Arthouse Le Paris",
+   "blue Abaton",
    "KINOKONI Zürich",
    "blue Capitol",
    "Arena Sihlcity"
@@ -4731,20 +4496,6 @@
    "kinokoni"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:00+01:00",
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T14:40+01:00",
-     "2026-11-27T15:15+01:00",
-     "2026-11-27T17:15+01:00",
-     "2026-11-27T17:30+01:00",
-     "2026-11-27T17:45+01:00",
-     "2026-11-27T17:50+01:00",
-     "2026-11-27T20:15+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -4861,12 +4612,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -5289,8 +5034,8 @@
   ],
   "year": 2026,
   "venues": [
-   "blue Abaton",
-   "Arena Sihlcity"
+   "Arena Sihlcity",
+   "blue Abaton"
   ],
   "sources": [
    "arena",
@@ -5584,14 +5329,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T18:30+01:00",
-     "2026-11-27T20:40+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T13:40+01:00",
@@ -5748,13 +5485,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:00+01:00",
-     "2026-11-27T17:20+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T16:00+01:00",
@@ -5837,13 +5567,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:40+01:00",
-     "2026-11-27T19:00+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T13:40+01:00",
@@ -5876,6 +5599,33 @@
     "starts": [
      "2026-12-02T13:40+01:00",
      "2026-12-02T19:00+01:00"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "oldboy-2003",
+  "title": "올드보이 (Oldboy)",
+  "venue_title": "Oldboy",
+  "kind": "film",
+  "original_title": "올드보이",
+  "english_title": "Oldboy",
+  "original_language": "ko",
+  "directors": [
+   "Park Chan-wook"
+  ],
+  "year": 2003,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-01-15",
+    "starts": [
+     "2027-01-15T20:30+01:00"
     ]
    }
   ]
@@ -5945,19 +5695,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T11:40+01:00",
-     "2026-11-27T15:30+01:00",
-     "2026-11-27T16:30+01:00",
-     "2026-11-27T17:50+01:00",
-     "2026-11-27T18:30+01:00",
-     "2026-11-27T20:45+01:00",
-     "2026-11-27T21:00+01:00",
-     "2026-11-27T22:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -6072,12 +5809,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T15:50+01:00"
-    ]
-   },
-   {
     "date": "2026-11-29",
     "starts": [
      "2026-11-29T11:10+01:00"
@@ -6124,13 +5855,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T20:30+01:00",
-     "2026-11-27T21:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -6277,12 +6001,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T16:10+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T16:10+01:00"
@@ -6361,12 +6079,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T19:50+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T19:50+01:00"
@@ -6444,12 +6156,6 @@
    "arena"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T21:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -6536,33 +6242,6 @@
   ]
  },
  {
-  "slug": "seeds-2024",
-  "title": "Seeds",
-  "venue_title": "Seeds",
-  "kind": "film",
-  "original_title": "Seeds",
-  "english_title": "Seeds",
-  "original_language": "en",
-  "directors": [
-   "Kaniehtiio Horn"
-  ],
-  "year": 2024,
-  "venues": [
-   "Xenix"
-  ],
-  "sources": [
-   "xenix"
-  ],
-  "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T20:30+01:00"
-    ]
-   }
-  ]
- },
- {
   "slug": "sense-and-sensibility-2026",
   "title": "Sense and Sensibility",
   "venue_title": "Sense and Sensibility",
@@ -6581,12 +6260,6 @@
    "bluecinema"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-30",
     "starts": [
@@ -6615,10 +6288,10 @@
   ],
   "year": 2026,
   "venues": [
+   "Arena Sihlcity",
    "blue Abaton",
    "blue Metropol",
    "Houdini",
-   "Arena Sihlcity",
    "blue Capitol"
   ],
   "sources": [
@@ -6627,15 +6300,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:35+01:00",
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T14:50+01:00",
-     "2026-11-27T17:50+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -6792,12 +6456,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T12:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -6974,13 +6632,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T18:25+01:00",
-     "2026-11-27T20:40+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T15:55+01:00",
@@ -7055,6 +6706,33 @@
   ]
  },
  {
+  "slug": "there-will-be-blood-2007",
+  "title": "There Will Be Blood",
+  "venue_title": "There Will Be Blood",
+  "kind": "film",
+  "original_title": "There Will Be Blood",
+  "english_title": "There Will Be Blood",
+  "original_language": "en",
+  "directors": [
+   "Paul Thomas Anderson"
+  ],
+  "year": 2007,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-02-12",
+    "starts": [
+     "2027-02-12T20:30+01:00"
+    ]
+   }
+  ]
+ },
+ {
   "slug": "toy-story-5-2026",
   "title": "Toy Story 5",
   "venue_title": "Toy Story 5",
@@ -7107,12 +6785,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T23:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -7296,15 +6968,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T17:35+01:00",
-     "2026-11-27T20:50+01:00",
-     "2026-11-27T21:00+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T20:50+01:00",
@@ -7440,6 +7103,33 @@
   ]
  },
  {
+  "slug": "when-marnie-was-there-2014",
+  "title": "思い出のマーニー (When Marnie Was There)",
+  "venue_title": "When Marnie Was There",
+  "kind": "film",
+  "original_title": "思い出のマーニー",
+  "english_title": "When Marnie Was There",
+  "original_language": "ja",
+  "directors": [
+   "Hiromasa Yonebayashi"
+  ],
+  "year": 2014,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-01-06",
+    "starts": [
+     "2027-01-06T20:30+01:00"
+    ]
+   }
+  ]
+ },
+ {
   "slug": "wholetrain-2006",
   "title": "Wholetrain",
   "venue_title": "Wholetrain",
@@ -7480,9 +7170,9 @@
   "year": 2026,
   "venues": [
    "Arthouse Movie",
-   "Arena Sihlcity",
    "Houdini",
    "blue Capitol",
+   "Arena Sihlcity",
    "KINOKONI Zürich"
   ],
   "sources": [
@@ -7493,20 +7183,6 @@
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T13:15+01:00",
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T15:00+01:00",
-     "2026-11-27T15:40+01:00",
-     "2026-11-27T17:45+01:00",
-     "2026-11-27T18:20+01:00",
-     "2026-11-27T20:30+01:00",
-     "2026-11-27T20:45+01:00",
-     "2026-11-27T21:00+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [
@@ -7606,17 +7282,6 @@
   ],
   "dates": [
    {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T14:30+01:00",
-     "2026-11-27T17:30+01:00",
-     "2026-11-27T17:40+01:00",
-     "2026-11-27T18:00+01:00",
-     "2026-11-27T20:20+01:00",
-     "2026-11-27T20:30+01:00"
-    ]
-   },
-   {
     "date": "2026-11-28",
     "starts": [
      "2026-11-28T14:30+01:00",
@@ -7669,6 +7334,33 @@
      "2026-12-02T18:00+01:00",
      "2026-12-02T20:20+01:00",
      "2026-12-02T20:30+01:00"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "wolf-children-2012",
+  "title": "おおかみこどもの雨と雪 (Wolf Children)",
+  "venue_title": "Wolf Children",
+  "kind": "film",
+  "original_title": "おおかみこどもの雨と雪",
+  "english_title": "Wolf Children",
+  "original_language": "ja",
+  "directors": [
+   "Mamoru Hosoda"
+  ],
+  "year": 2012,
+  "venues": [
+   "Arthouse Movie"
+  ],
+  "sources": [
+   "arthouse"
+  ],
+  "dates": [
+   {
+    "date": "2027-04-07",
+    "starts": [
+     "2027-04-07T20:30+02:00"
     ]
    }
   ]
@@ -7853,7 +7545,6 @@
   "year": 2026,
   "venues": [
    "blue Metropol",
-   "Arena Sihlcity",
    "Houdini",
    "KINOKONI Zürich",
    "Riffraff",
@@ -7861,21 +7552,12 @@
    "Arthouse Le Paris"
   ],
   "sources": [
-   "arena",
    "arthouse",
    "bluecinema",
    "kinokoni",
    "riffraff_houdini"
   ],
   "dates": [
-   {
-    "date": "2026-11-27",
-    "starts": [
-     "2026-11-27T19:30+01:00",
-     "2026-11-27T20:00+01:00",
-     "2026-11-27T20:20+01:00"
-    ]
-   },
    {
     "date": "2026-11-28",
     "starts": [

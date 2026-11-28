@@ -1,0 +1,79 @@
+{
+ "name": "La vita è bella (Life Is Beautiful)",
+ "venues": [
+  {
+   "title": "La vita è bella (Life Is Beautiful)",
+   "venue_title": "La vita è bella",
+   "subtitle": null,
+   "original_title": "La vita è bella",
+   "english_title": "Life Is Beautiful",
+   "kind": "film",
+   "film_url": "https://arthouse.ch/movies/la-vita-e-bella",
+   "directors": [
+    "Roberto Benigni"
+   ],
+   "year": 1997,
+   "runtime_min": 116,
+   "country": "Italien",
+   "program_films": [],
+   "tmdb_id": 637,
+   "tmdb_kind": "movie",
+   "original_language": "it",
+   "source": "arthouse",
+   "series": [
+    "Arthouse Kult"
+   ],
+   "labels": [
+    "Arthouse Kult"
+   ],
+   "english": false,
+   "curated": true,
+   "curated_reasons": [
+    "rep",
+    "special"
+   ],
+   "new": true,
+   "series_slugs": {
+    "Arthouse Kult": "arthouse-kult-arthouse"
+   },
+   "venue": "Arthouse Movie",
+   "dates": [
+    {
+     "date": "2027-03-12",
+     "screenings": [
+      {
+       "id": "arthouse:2328590",
+       "start": "2027-03-12T20:30+01:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2328590",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Arthouse Kult"
+       ],
+       "label": "Arthouse Kult",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

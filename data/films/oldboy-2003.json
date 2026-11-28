@@ -1,24 +1,24 @@
 {
- "name": "Blade Runner",
+ "name": "올드보이 (Oldboy)",
  "venues": [
   {
-   "title": "Blade Runner",
-   "venue_title": "Blade Runner (Final Cut)",
+   "title": "올드보이 (Oldboy)",
+   "venue_title": "Oldboy",
    "subtitle": null,
-   "original_title": "Blade Runner",
-   "english_title": "Blade Runner",
+   "original_title": "올드보이",
+   "english_title": "Oldboy",
    "kind": "film",
-   "film_url": "https://arthouse.ch/movies/blade-runner-final-cut",
+   "film_url": "https://arthouse.ch/movies/oldboy",
    "directors": [
-    "Ridley Scott"
+    "Park Chan-wook"
    ],
-   "year": 1982,
-   "runtime_min": 117,
-   "country": "USA",
+   "year": 2003,
+   "runtime_min": 120,
+   "country": "Südkorea",
    "program_films": [],
-   "tmdb_id": 78,
+   "tmdb_id": 670,
    "tmdb_kind": "movie",
-   "original_language": "en",
+   "original_language": "ko",
    "source": "arthouse",
    "series": [
     "Arthouse Kult"
@@ -26,36 +26,33 @@
    "labels": [
     "Arthouse Kult"
    ],
-   "english": true,
+   "english": false,
    "curated": true,
    "curated_reasons": [
-    "one venue",
     "rep",
     "special"
    ],
-   "new": false,
+   "new": true,
    "series_slugs": {
     "Arthouse Kult": "arthouse-kult-arthouse"
    },
    "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-27",
+     "date": "2027-01-15",
      "screenings": [
       {
-       "id": "arthouse:2156214",
-       "start": "2026-11-27T20:30+01:00",
+       "id": "arthouse:2328573",
+       "start": "2027-01-15T20:30+01:00",
        "time": "20:30",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2156214",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2328573",
        "language": {
-        "raw": "E/d",
-        "description": "English; subtitles: German",
-        "english_audio": true,
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
         "english_subtitles": false,
-        "english_friendly": true
+        "english_friendly": false
        },
        "format": {
         "format": "dcp",
@@ -71,7 +68,7 @@
        "label": "Arthouse Kult",
        "last": false,
        "guest": false,
-       "english": true,
+       "english": false,
        "curated": true
       }
      ]

@@ -1,0 +1,80 @@
+{
+ "date": "2027-04-16",
+ "venues": [
+  {
+   "name": "Arthouse Movie",
+   "operator": "Arthouse",
+   "address": null,
+   "listings": [
+    {
+     "title": "Le Fabuleux Destin d'Amélie Poulain (Amélie)",
+     "venue_title": "Le Fabuleux Destin d'Amélie Poulain",
+     "subtitle": null,
+     "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+     "english_title": "Amélie",
+     "kind": "film",
+     "film_url": "https://arthouse.ch/movies/le-fabuleux-destin-damelie-poulain",
+     "directors": [
+      "Jean-Pierre Jeunet"
+     ],
+     "year": 2001,
+     "runtime_min": 122,
+     "country": "Frankreich",
+     "program_films": [],
+     "tmdb_id": 194,
+     "tmdb_kind": "movie",
+     "original_language": "fr",
+     "source": "arthouse",
+     "series": [
+      "Arthouse Kult"
+     ],
+     "labels": [
+      "Arthouse Kult"
+     ],
+     "english": false,
+     "curated": true,
+     "curated_reasons": [
+      "rep",
+      "special"
+     ],
+     "new": true,
+     "screenings": [
+      {
+       "id": "arthouse:2328597",
+       "start": "2027-04-16T20:30+02:00",
+       "time": "20:30",
+       "auditoriums": [],
+       "ticket_url": "https://arthouse.ch/tickets/2328597",
+       "language": {
+        "raw": "",
+        "description": "Language not stated",
+        "english_audio": false,
+        "english_subtitles": false,
+        "english_friendly": false
+       },
+       "format": {
+        "format": "dcp",
+        "presentation": [],
+        "assumed": true,
+        "raw": null
+       },
+       "note": null,
+       "note_lang": null,
+       "series": [
+        "Arthouse Kult"
+       ],
+       "label": "Arthouse Kult",
+       "last": false,
+       "guest": false,
+       "english": false,
+       "curated": true
+      }
+     ],
+     "series_slugs": {
+      "Arthouse Kult": "arthouse-kult-arthouse"
+     }
+    }
+   ]
+  }
+ ]
+}

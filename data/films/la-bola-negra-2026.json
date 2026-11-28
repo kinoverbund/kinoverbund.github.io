@@ -31,41 +31,6 @@
    "venue": "Arthouse Movie",
    "dates": [
     {
-     "date": "2026-11-20",
-     "screenings": [
-      {
-       "id": "arthouse:2321303",
-       "start": "2026-11-20T14:50+01:00",
-       "time": "14:50",
-       "auditoriums": [
-        "Movie 2"
-       ],
-       "ticket_url": "https://arthouse.ch/tickets/2321303",
-       "language": {
-        "raw": "Sp/d,f",
-        "description": "Spanish; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
-    {
      "date": "2026-11-21",
      "screenings": [
       {
@@ -718,144 +683,15 @@
    "original_language": "es",
    "source": "riffraff_houdini",
    "series": [],
-   "labels": [
-    "Special"
-   ],
+   "labels": [],
    "english": false,
-   "curated": true,
-   "curated_reasons": [
-    "special"
-   ],
+   "curated": false,
+   "curated_reasons": [],
    "new": false,
    "film_slug": "la-bola-negra-2026",
    "series_slugs": {},
    "venue": "Riffraff",
    "dates": [
-    {
-     "date": "2026-11-20",
-     "screenings": [
-      {
-       "id": "riffraff_houdini:2315038",
-       "start": "2026-11-20T14:50+01:00",
-       "time": "14:50",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/la-bola-negra.html?city=zurich&show=2315038#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2315028",
-       "start": "2026-11-20T18:00+01:00",
-       "time": "18:00",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/la-bola-negra.html?city=zurich&show=2315028#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      },
-      {
-       "id": "riffraff_houdini:2315019",
-       "start": "2026-11-20T20:20+01:00",
-       "time": "20:20",
-       "auditoriums": [
-        "Riffraff 1"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/la-bola-negra.html?city=zurich&show=2315019#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": "Special",
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": true
-      },
-      {
-       "id": "riffraff_houdini:2315086",
-       "start": "2026-11-20T23:00+01:00",
-       "time": "23:00",
-       "auditoriums": [
-        "Riffraff 3"
-       ],
-       "ticket_url": "https://www.riffraff-houdini.ch/de-ch/film/la-bola-negra.html?city=zurich&show=2315086#tickets",
-       "language": {
-        "raw": "ov/de,fr",
-        "description": "Original version; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-21",
      "screenings": [
@@ -2057,39 +1893,6 @@
    "series_slugs": {},
    "venue": "Arthouse Le Paris",
    "dates": [
-    {
-     "date": "2026-11-20",
-     "screenings": [
-      {
-       "id": "arthouse:2321068",
-       "start": "2026-11-20T20:10+01:00",
-       "time": "20:10",
-       "auditoriums": [],
-       "ticket_url": "https://arthouse.ch/tickets/2321068",
-       "language": {
-        "raw": "Sp/d,f",
-        "description": "Spanish; subtitles: German, French",
-        "english_audio": false,
-        "english_subtitles": false,
-        "english_friendly": false
-       },
-       "format": {
-        "format": "dcp",
-        "presentation": [],
-        "assumed": true,
-        "raw": null
-       },
-       "note": null,
-       "note_lang": null,
-       "series": [],
-       "label": null,
-       "last": false,
-       "guest": false,
-       "english": false,
-       "curated": false
-      }
-     ]
-    },
     {
      "date": "2026-11-21",
      "screenings": [
